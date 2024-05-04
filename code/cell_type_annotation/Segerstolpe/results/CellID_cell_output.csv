@@ -1,0 +1,3515 @@
+"","pred","true_label","fold"
+"AZ_B12","alpha","alpha",1
+"AZ_B2","alpha","alpha",1
+"AZ_B4","not applicable","unclassified endocrine",1
+"AZ_C3","acinar","ductal",1
+"AZ_C6","not applicable","not applicable",1
+"AZ_D1","not applicable","not applicable",1
+"AZ_D5","delta","delta",1
+"AZ_D6","not applicable","beta",1
+"AZ_E10","not applicable","not applicable",1
+"AZ_E8","alpha","alpha",1
+"AZ_F5","not applicable","PSC",1
+"AZ_F7","not applicable","co-expression",1
+"AZ_F9","ductal","ductal",1
+"AZ_G2","not applicable","beta",1
+"AZ_H1","not applicable","delta",1
+"AZ_H2","alpha","beta",1
+"AZ_H5","alpha","gamma",1
+"AZ_H6","delta","beta",1
+"AZ_H7","not applicable","not applicable",1
+"HP1502401_A11","not applicable","not applicable",1
+"HP1502401_A18","delta","delta",1
+"HP1502401_A7","beta","beta",1
+"HP1502401_B1","alpha","beta",1
+"HP1502401_C11","not applicable","not applicable",1
+"HP1502401_C14","alpha","alpha",1
+"HP1502401_C18","alpha","beta",1
+"HP1502401_C24","not applicable","not applicable",1
+"HP1502401_D1","unclassified endocrine","not applicable",1
+"HP1502401_D12","delta","delta",1
+"HP1502401_D15","not applicable","not applicable",1
+"HP1502401_D20","alpha","alpha",1
+"HP1502401_E1","not applicable","not applicable",1
+"HP1502401_E12","not applicable","not applicable",1
+"HP1502401_E20","acinar","acinar",1
+"HP1502401_E22","alpha","co-expression",1
+"HP1502401_E23","acinar","acinar",1
+"HP1502401_E24","acinar","acinar",1
+"HP1502401_E7","gamma","gamma",1
+"HP1502401_F20","alpha","alpha",1
+"HP1502401_F23","alpha","alpha",1
+"HP1502401_F24","not applicable","beta",1
+"HP1502401_F6","not applicable","not applicable",1
+"HP1502401_F7","not applicable","not applicable",1
+"HP1502401_F9","beta","beta",1
+"HP1502401_G16","not applicable","not applicable",1
+"HP1502401_G19","not applicable","not applicable",1
+"HP1502401_G22","delta","beta",1
+"HP1502401_G7","alpha","alpha",1
+"HP1502401_G9","not applicable","not applicable",1
+"HP1502401_H10","not applicable","not applicable",1
+"HP1502401_H7","alpha","alpha",1
+"HP1502401_I19","not applicable","unclassified endocrine",1
+"HP1502401_I23","alpha","alpha",1
+"HP1502401_I4","alpha","alpha",1
+"HP1502401_I7","delta","delta",1
+"HP1502401_J1","alpha","alpha",1
+"HP1502401_J11","alpha","alpha",1
+"HP1502401_J16","MHC class II","mast",1
+"HP1502401_J17","ductal","ductal",1
+"HP1502401_J23","alpha","alpha",1
+"HP1502401_J5","not applicable","not applicable",1
+"HP1502401_K11","alpha","alpha",1
+"HP1502401_K14","gamma","gamma",1
+"HP1502401_K24","gamma","gamma",1
+"HP1502401_K3","alpha","alpha",1
+"HP1502401_K9","alpha","alpha",1
+"HP1502401_L14","gamma","gamma",1
+"HP1502401_L20","alpha","alpha",1
+"HP1502401_L21","alpha","alpha",1
+"HP1502401_L22","alpha","alpha",1
+"HP1502401_L24","not applicable","not applicable",1
+"HP1502401_L4","alpha","alpha",1
+"HP1502401_L5","acinar","ductal",1
+"HP1502401_L7","alpha","alpha",1
+"HP1502401_L9","alpha","alpha",1
+"HP1502401_M16","ductal","ductal",1
+"HP1502401_M21","alpha","alpha",1
+"HP1502401_M9","alpha","not applicable",1
+"HP1502401_N10","ductal","ductal",1
+"HP1502401_N11","gamma","gamma",1
+"HP1502401_N16","acinar","ductal",1
+"HP1502401_N18","ductal","ductal",1
+"HP1502401_N20","co-expression","alpha",1
+"HP1502401_N6","not applicable","not applicable",1
+"HP1502401_O10","ductal","ductal",1
+"HP1502401_O16","beta","beta",1
+"HP1502401_O18","delta","delta",1
+"HP1502401_O19","unclassified endocrine","not applicable",1
+"HP1502401_O22","alpha","alpha",1
+"HP1502401_O9","MHC class II","mast",1
+"HP1504101T2D_A10","acinar","acinar",1
+"HP1504101T2D_A2","unclassified endocrine","not applicable",1
+"HP1504101T2D_A7","unclassified endocrine","not applicable",1
+"HP1504101T2D_B1","unclassified endocrine","not applicable",1
+"HP1504101T2D_B2","unclassified endocrine","not applicable",1
+"HP1504101T2D_B21","alpha","alpha",1
+"HP1504101T2D_B22","gamma","gamma",1
+"HP1504101T2D_B24","gamma","gamma",1
+"HP1504101T2D_B4","gamma","gamma",1
+"HP1504101T2D_C12","gamma","gamma",1
+"HP1504101T2D_C14","alpha","alpha",1
+"HP1504101T2D_C16","beta","co-expression",1
+"HP1504101T2D_C19","unclassified endocrine","not applicable",1
+"HP1504101T2D_C6","not applicable","not applicable",1
+"HP1504101T2D_C7","not applicable","not applicable",1
+"HP1504101T2D_C8","unclassified endocrine","not applicable",1
+"HP1504101T2D_D11","gamma","gamma",1
+"HP1504101T2D_D15","gamma","gamma",1
+"HP1504101T2D_D2","alpha","alpha",1
+"HP1504101T2D_D21","gamma","gamma",1
+"HP1504101T2D_D22","unclassified endocrine","not applicable",1
+"HP1504101T2D_D4","unclassified endocrine","not applicable",1
+"HP1504101T2D_E15","beta","beta",1
+"HP1504101T2D_E6","alpha","alpha",1
+"HP1504101T2D_E8","gamma","gamma",1
+"HP1504101T2D_F11","gamma","gamma",1
+"HP1504101T2D_F6","not applicable","not applicable",1
+"HP1504101T2D_G1","alpha","alpha",1
+"HP1504101T2D_G11","unclassified endocrine","not applicable",1
+"HP1504101T2D_G12","beta","alpha",1
+"HP1504101T2D_G14","alpha","alpha",1
+"HP1504101T2D_G22","alpha","alpha",1
+"HP1504101T2D_G24","co-expression","alpha",1
+"HP1504101T2D_G5","not applicable","not applicable",1
+"HP1504101T2D_G8","gamma","gamma",1
+"HP1504101T2D_H14","gamma","gamma",1
+"HP1504101T2D_H17","beta","alpha",1
+"HP1504101T2D_H6","beta","beta",1
+"HP1504101T2D_H8","not applicable","not applicable",1
+"HP1504101T2D_I10","gamma","gamma",1
+"HP1504101T2D_I11","delta","not applicable",1
+"HP1504101T2D_I12","not applicable","not applicable",1
+"HP1504101T2D_I14","co-expression","alpha",1
+"HP1504101T2D_I2","beta","alpha",1
+"HP1504101T2D_I8","co-expression","alpha",1
+"HP1504101T2D_J15","alpha","alpha",1
+"HP1504101T2D_J18","beta","alpha",1
+"HP1504101T2D_J21","not applicable","not applicable",1
+"HP1504101T2D_J23","not applicable","not applicable",1
+"HP1504101T2D_K10","acinar","acinar",1
+"HP1504101T2D_K12","alpha","alpha",1
+"HP1504101T2D_K18","alpha","alpha",1
+"HP1504101T2D_K22","alpha","alpha",1
+"HP1504101T2D_K6","not applicable","not applicable",1
+"HP1504101T2D_L11","delta","delta",1
+"HP1504101T2D_L15","gamma","gamma",1
+"HP1504101T2D_L5","alpha","alpha",1
+"HP1504101T2D_L9","unclassified endocrine","not applicable",1
+"HP1504101T2D_M10","alpha","alpha",1
+"HP1504101T2D_M11","not applicable","not applicable",1
+"HP1504101T2D_M16","unclassified endocrine","not applicable",1
+"HP1504101T2D_M19","delta","alpha",1
+"HP1504101T2D_M2","alpha","alpha",1
+"HP1504101T2D_M3","gamma","gamma",1
+"HP1504101T2D_M5","alpha","alpha",1
+"HP1504101T2D_N10","beta","beta",1
+"HP1504101T2D_N11","not applicable","not applicable",1
+"HP1504101T2D_N12","alpha","alpha",1
+"HP1504101T2D_N17","alpha","alpha",1
+"HP1504101T2D_N2","alpha","alpha",1
+"HP1504101T2D_N23","not applicable","not applicable",1
+"HP1504101T2D_N3","unclassified endocrine","not applicable",1
+"HP1504101T2D_N9","alpha","alpha",1
+"HP1504101T2D_O22","alpha","alpha",1
+"HP1504101T2D_O6","alpha","alpha",1
+"HP1504101T2D_P1","unclassified endocrine","unclassified endocrine",1
+"HP1504101T2D_P11","alpha","alpha",1
+"HP1504101T2D_P12","gamma","gamma",1
+"HP1504101T2D_P17","alpha","alpha",1
+"HP1504901_A14","alpha","alpha",1
+"HP1504901_A15","not applicable","not applicable",1
+"HP1504901_A24","not applicable","not applicable",1
+"HP1504901_A3","alpha","beta",1
+"HP1504901_A5","gamma","gamma",1
+"HP1504901_A9","alpha","alpha",1
+"HP1504901_B17","not applicable","not applicable",1
+"HP1504901_B18","alpha","alpha",1
+"HP1504901_B21","alpha","alpha",1
+"HP1504901_B24","endothelial","PSC",1
+"HP1504901_B5","not applicable","not applicable",1
+"HP1504901_B9","delta","delta",1
+"HP1504901_C15","not applicable","not applicable",1
+"HP1504901_C21","not applicable","not applicable",1
+"HP1504901_C24","unclassified endocrine","not applicable",1
+"HP1504901_D14","alpha","alpha",1
+"HP1504901_D17","alpha","alpha",1
+"HP1504901_D19","not applicable","not applicable",1
+"HP1504901_D2","alpha","alpha",1
+"HP1504901_D9","gamma","gamma",1
+"HP1504901_E10","beta","co-expression",1
+"HP1504901_E11","not applicable","not applicable",1
+"HP1504901_E5","not applicable","not applicable",1
+"HP1504901_F12","alpha","alpha",1
+"HP1504901_F2","delta","delta",1
+"HP1504901_F23","acinar","acinar",1
+"HP1504901_F24","alpha","alpha",1
+"HP1504901_F6","alpha","not applicable",1
+"HP1504901_G12","alpha","beta",1
+"HP1504901_G15","alpha","alpha",1
+"HP1504901_G8","alpha","beta",1
+"HP1504901_H12","alpha","alpha",1
+"HP1504901_H9","not applicable","not applicable",1
+"HP1504901_I22","delta","gamma",1
+"HP1504901_I6","not applicable","not applicable",1
+"HP1504901_J18","MHC class II","PSC",1
+"HP1504901_J9","alpha","gamma",1
+"HP1504901_K16","not applicable","not applicable",1
+"HP1504901_K19","alpha","beta",1
+"HP1504901_K20","delta","delta",1
+"HP1504901_L22","alpha","beta",1
+"HP1504901_L7","not applicable","not applicable",1
+"HP1504901_M1","not applicable","not applicable",1
+"HP1504901_M14","not applicable","not applicable",1
+"HP1504901_M16","unclassified endocrine","not applicable",1
+"HP1504901_M19","endothelial","PSC",1
+"HP1504901_M24","alpha","alpha",1
+"HP1504901_M7","alpha","not applicable",1
+"HP1504901_N1","alpha","alpha",1
+"HP1504901_N11","not applicable","not applicable",1
+"HP1504901_N15","gamma","gamma",1
+"HP1504901_N17","alpha","alpha",1
+"HP1504901_N2","alpha","alpha",1
+"HP1504901_N23","alpha","gamma",1
+"HP1504901_N4","not applicable","not applicable",1
+"HP1504901_N7","alpha","alpha",1
+"HP1504901_O12","not applicable","not applicable",1
+"HP1504901_O21","gamma","gamma",1
+"HP1504901_O6","alpha","alpha",1
+"HP1504901_O7","alpha","alpha",1
+"HP1504901_O8","not applicable","beta",1
+"HP1506401_A22","not applicable","not applicable",1
+"HP1506401_A23","not applicable","not applicable",1
+"HP1506401_A3","not applicable","not applicable",1
+"HP1506401_B12","not applicable","not applicable",1
+"HP1506401_B15","not applicable","PSC",1
+"HP1506401_B17","ductal","ductal",1
+"HP1506401_B22","gamma","gamma",1
+"HP1506401_B5","acinar","acinar",1
+"HP1506401_B6","acinar","acinar",1
+"HP1506401_C1","not applicable","not applicable",1
+"HP1506401_C10","not applicable","not applicable",1
+"HP1506401_C17","ductal","ductal",1
+"HP1506401_C18","not applicable","unclassified endocrine",1
+"HP1506401_C9","beta","beta",1
+"HP1506401_D15","ductal","ductal",1
+"HP1506401_D18","acinar","not applicable",1
+"HP1506401_D19","gamma","not applicable",1
+"HP1506401_D2","ductal","ductal",1
+"HP1506401_E14","acinar","not applicable",1
+"HP1506401_E16","delta","delta",1
+"HP1506401_E23","acinar","acinar",1
+"HP1506401_E3","delta","not applicable",1
+"HP1506401_E4","not applicable","unclassified endocrine",1
+"HP1506401_E7","not applicable","not applicable",1
+"HP1506401_F1","not applicable","not applicable",1
+"HP1506401_F13","alpha","alpha",1
+"HP1506401_F14","gamma","not applicable",1
+"HP1506401_F21","ductal","ductal",1
+"HP1506401_F8","beta","beta",1
+"HP1506401_G1","alpha","alpha",1
+"HP1506401_G18","ductal","ductal",1
+"HP1506401_G19","ductal","ductal",1
+"HP1506401_G2","ductal","ductal",1
+"HP1506401_G24","beta","alpha",1
+"HP1506401_G9","co-expression","beta",1
+"HP1506401_H1","acinar","acinar",1
+"HP1506401_H14","co-expression","alpha",1
+"HP1506401_I10","acinar","acinar",1
+"HP1506401_I14","alpha","gamma",1
+"HP1506401_I18","acinar","acinar",1
+"HP1506401_I20","not applicable","not applicable",1
+"HP1506401_I5","not applicable","not applicable",1
+"HP1506401_I6","acinar","acinar",1
+"HP1506401_I7","unclassified endocrine","not applicable",1
+"HP1506401_K11","not applicable","not applicable",1
+"HP1506401_K15","acinar","acinar",1
+"HP1506401_K17","ductal","ductal",1
+"HP1506401_K18","not applicable","unclassified endocrine",1
+"HP1506401_K19","ductal","ductal",1
+"HP1506401_K2","acinar","acinar",1
+"HP1506401_K24","not applicable","not applicable",1
+"HP1506401_L10","ductal","ductal",1
+"HP1506401_L17","gamma","gamma",1
+"HP1506401_L19","acinar","acinar",1
+"HP1506401_L23","gamma","alpha",1
+"HP1506401_M13","not applicable","not applicable",1
+"HP1506401_M15","not applicable","not applicable",1
+"HP1506401_M20","not applicable","not applicable",1
+"HP1506401_M21","ductal","ductal",1
+"HP1506401_M22","not applicable","not applicable",1
+"HP1506401_M24","gamma","not applicable",1
+"HP1506401_M5","alpha","not applicable",1
+"HP1506401_M7","not applicable","not applicable",1
+"HP1506401_N11","beta","beta",1
+"HP1506401_N13","not applicable","not applicable",1
+"HP1506401_N18","not applicable","not applicable",1
+"HP1506401_N22","acinar","acinar",1
+"HP1506401_N5","acinar","acinar",1
+"HP1506401_O11","beta","beta",1
+"HP1506401_O15","not applicable","not applicable",1
+"HP1506401_O17","ductal","not applicable",1
+"HP1506401_O2","ductal","ductal",1
+"HP1506401_O20","unclassified endocrine","not applicable",1
+"HP1506401_O21","acinar","acinar",1
+"HP1506401_O24","acinar","acinar",1
+"HP1506401_O8","ductal","ductal",1
+"HP1506401_P1","acinar","ductal",1
+"HP1506401_P10","acinar","acinar",1
+"HP1506401_P14","co-expression","beta",1
+"HP1506401_P16","not applicable","not applicable",1
+"HP1506401_P18","acinar","not applicable",1
+"HP1506401_P4","ductal","ductal",1
+"HP1506401_P6","not applicable","not applicable",1
+"HP1507101_A15","not applicable","not applicable",1
+"HP1507101_A16","alpha","not applicable",1
+"HP1507101_A18","alpha","not applicable",1
+"HP1507101_A24","unclassified endocrine","not applicable",1
+"HP1507101_A3","delta","not applicable",1
+"HP1507101_A6","beta","beta",1
+"HP1507101_B11","alpha","not applicable",1
+"HP1507101_B13","alpha","alpha",1
+"HP1507101_B7","alpha","alpha",1
+"HP1507101_C14","alpha","alpha",1
+"HP1507101_C16","unclassified endocrine","not applicable",1
+"HP1507101_C23","not applicable","not applicable",1
+"HP1507101_C6","alpha","not applicable",1
+"HP1507101_C9","not applicable","not applicable",1
+"HP1507101_D12","alpha","alpha",1
+"HP1507101_D13","not applicable","not applicable",1
+"HP1507101_D18","alpha","alpha",1
+"HP1507101_D23","beta","beta",1
+"HP1507101_D7","alpha","not applicable",1
+"HP1507101_E1","not applicable","not applicable",1
+"HP1507101_E13","alpha","not applicable",1
+"HP1507101_E8","alpha","alpha",1
+"HP1507101_F12","beta","delta",1
+"HP1507101_F14","beta","beta",1
+"HP1507101_F17","gamma","not applicable",1
+"HP1507101_F19","alpha","alpha",1
+"HP1507101_F2","alpha","alpha",1
+"HP1507101_F22","alpha","alpha",1
+"HP1507101_F3","alpha","alpha",1
+"HP1507101_F5","alpha","alpha",1
+"HP1507101_F9","gamma","not applicable",1
+"HP1507101_G10","ductal","ductal",1
+"HP1507101_G15","alpha","alpha",1
+"HP1507101_G17","alpha","not applicable",1
+"HP1507101_G19","alpha","not applicable",1
+"HP1507101_G20","alpha","not applicable",1
+"HP1507101_G22","alpha","alpha",1
+"HP1507101_G3","alpha","not applicable",1
+"HP1507101_G5","unclassified endocrine","not applicable",1
+"HP1507101_G8","alpha","alpha",1
+"HP1507101_G9","alpha","not applicable",1
+"HP1507101_H10","beta","co-expression",1
+"HP1507101_H17","beta","beta",1
+"HP1507101_H18","unclassified endocrine","not applicable",1
+"HP1507101_H4","beta","beta",1
+"HP1507101_H6","alpha","alpha",1
+"HP1507101_H9","alpha","alpha",1
+"HP1507101_I10","alpha","not applicable",1
+"HP1507101_I17","alpha","alpha",1
+"HP1507101_I19","alpha","alpha",1
+"HP1507101_I23","alpha","not applicable",1
+"HP1507101_I5","alpha","alpha",1
+"HP1507101_J10","not applicable","not applicable",1
+"HP1507101_J22","alpha","alpha",1
+"HP1507101_J3","alpha","alpha",1
+"HP1507101_K10","endothelial","not applicable",1
+"HP1507101_K16","ductal","ductal",1
+"HP1507101_K20","not applicable","PSC",1
+"HP1507101_K4","alpha","alpha",1
+"HP1507101_K9","not applicable","not applicable",1
+"HP1507101_L10","alpha","not applicable",1
+"HP1507101_L13","alpha","not applicable",1
+"HP1507101_L15","alpha","not applicable",1
+"HP1507101_L17","acinar","acinar",1
+"HP1507101_L19","alpha","alpha",1
+"HP1507101_L20","not applicable","not applicable",1
+"HP1507101_L3","alpha","alpha",1
+"HP1507101_L5","alpha","alpha",1
+"HP1507101_L7","alpha","alpha",1
+"HP1507101_M10","not applicable","not applicable",1
+"HP1507101_M12","alpha","alpha",1
+"HP1507101_M23","not applicable","not applicable",1
+"HP1507101_N12","alpha","not applicable",1
+"HP1507101_N15","not applicable","not applicable",1
+"HP1507101_N22","alpha","not applicable",1
+"HP1507101_N24","alpha","not applicable",1
+"HP1507101_N5","beta","beta",1
+"HP1507101_O10","alpha","not applicable",1
+"HP1507101_O11","alpha","alpha",1
+"HP1507101_O15","not applicable","not applicable",1
+"HP1507101_O17","alpha","not applicable",1
+"HP1507101_O23","delta","delta",1
+"HP1507101_P18","alpha","not applicable",1
+"HP1507101_P19","not applicable","not applicable",1
+"HP1507101_P2","co-expression","beta",1
+"HP1507101_P22","not applicable","not applicable",1
+"HP1507101_P3","alpha","alpha",1
+"HP1507101_P4","alpha","alpha",1
+"HP1507101_P7","not applicable","not applicable",1
+"HP1508501T2D_A13","alpha","alpha",1
+"HP1508501T2D_A14","alpha","alpha",1
+"HP1508501T2D_A15","alpha","alpha",1
+"HP1508501T2D_A16","alpha","alpha",1
+"HP1508501T2D_A18","not applicable","not applicable",1
+"HP1508501T2D_A24","alpha","not applicable",1
+"HP1508501T2D_A7","ductal","ductal",1
+"HP1508501T2D_B1","not applicable","not applicable",1
+"HP1508501T2D_B11","alpha","alpha",1
+"HP1508501T2D_B12","alpha","alpha",1
+"HP1508501T2D_B2","not applicable","not applicable",1
+"HP1508501T2D_B22","alpha","not applicable",1
+"HP1508501T2D_B23","alpha","alpha",1
+"HP1508501T2D_B24","not applicable","not applicable",1
+"HP1508501T2D_B5","alpha","alpha",1
+"HP1508501T2D_C12","MHC class II","PSC",1
+"HP1508501T2D_C14","co-expression","beta",1
+"HP1508501T2D_C2","ductal","ductal",1
+"HP1508501T2D_C21","ductal","not applicable",1
+"HP1508501T2D_C22","not applicable","not applicable",1
+"HP1508501T2D_C23","alpha","alpha",1
+"HP1508501T2D_C3","not applicable","not applicable",1
+"HP1508501T2D_C9","MHC class II","MHC class II",1
+"HP1508501T2D_D13","alpha","alpha",1
+"HP1508501T2D_D17","alpha","alpha",1
+"HP1508501T2D_D4","not applicable","not applicable",1
+"HP1508501T2D_D6","alpha","alpha",1
+"HP1508501T2D_D8","alpha","alpha",1
+"HP1508501T2D_E14","alpha","alpha",1
+"HP1508501T2D_E7","acinar","ductal",1
+"HP1508501T2D_F12","ductal","ductal",1
+"HP1508501T2D_F8","ductal","ductal",1
+"HP1508501T2D_G10","alpha","alpha",1
+"HP1508501T2D_G12","acinar","acinar",1
+"HP1508501T2D_G16","not applicable","unclassified endocrine",1
+"HP1508501T2D_G18","acinar","acinar",1
+"HP1508501T2D_G19","acinar","acinar",1
+"HP1508501T2D_G23","acinar","acinar",1
+"HP1508501T2D_G4","alpha","alpha",1
+"HP1508501T2D_G9","not applicable","unclassified endocrine",1
+"HP1508501T2D_H19","acinar","not applicable",1
+"HP1508501T2D_H2","beta","co-expression",1
+"HP1508501T2D_H3","alpha","alpha",1
+"HP1508501T2D_H4","alpha","alpha",1
+"HP1508501T2D_H8","not applicable","not applicable",1
+"HP1508501T2D_H9","not applicable","not applicable",1
+"HP1508501T2D_I13","ductal","ductal",1
+"HP1508501T2D_I17","ductal","ductal",1
+"HP1508501T2D_I23","delta","delta",1
+"HP1508501T2D_J11","ductal","ductal",1
+"HP1508501T2D_J12","alpha","alpha",1
+"HP1508501T2D_J16","ductal","ductal",1
+"HP1508501T2D_J19","not applicable","not applicable",1
+"HP1508501T2D_J2","MHC class II","PSC",1
+"HP1508501T2D_J22","ductal","ductal",1
+"HP1508501T2D_J8","alpha","alpha",1
+"HP1508501T2D_J9","alpha","alpha",1
+"HP1508501T2D_K1","alpha","alpha",1
+"HP1508501T2D_K12","alpha","alpha",1
+"HP1508501T2D_K2","ductal","ductal",1
+"HP1508501T2D_K6","acinar","acinar",1
+"HP1508501T2D_K8","not applicable","not applicable",1
+"HP1508501T2D_L7","alpha","alpha",1
+"HP1508501T2D_L9","ductal","ductal",1
+"HP1508501T2D_M12","alpha","alpha",1
+"HP1508501T2D_M14","beta","beta",1
+"HP1508501T2D_M15","ductal","ductal",1
+"HP1508501T2D_M2","not applicable","not applicable",1
+"HP1508501T2D_N13","acinar","acinar",1
+"HP1508501T2D_N21","acinar","acinar",1
+"HP1508501T2D_N8","ductal","ductal",1
+"HP1508501T2D_O13","not applicable","acinar",1
+"HP1508501T2D_O14","alpha","alpha",1
+"HP1508501T2D_O15","not applicable","not applicable",1
+"HP1508501T2D_O20","not applicable","not applicable",1
+"HP1508501T2D_O3","ductal","ductal",1
+"HP1508501T2D_O4","co-expression","beta",1
+"HP1508501T2D_O5","not applicable","not applicable",1
+"HP1508501T2D_P19","not applicable","not applicable",1
+"HP1508501T2D_P23","not applicable","not applicable",1
+"HP1508501T2D_P24","not applicable","not applicable",1
+"HP1508501T2D_P4","gamma","gamma",1
+"HP1509101_A21","not applicable","not applicable",1
+"HP1509101_A23","not applicable","not applicable",1
+"HP1509101_A6","not applicable","not applicable",1
+"HP1509101_B17","not applicable","PSC",1
+"HP1509101_B2","not applicable","not applicable",1
+"HP1509101_B21","not applicable","not applicable",1
+"HP1509101_B24","ductal","not applicable",1
+"HP1509101_B7","not applicable","not applicable",1
+"HP1509101_C17","not applicable","not applicable",1
+"HP1509101_C18","not applicable","not applicable",1
+"HP1509101_C20","not applicable","not applicable",1
+"HP1509101_C3","not applicable","not applicable",1
+"HP1509101_C7","not applicable","not applicable",1
+"HP1509101_D1","not applicable","not applicable",1
+"HP1509101_D10","not applicable","not applicable",1
+"HP1509101_D2","not applicable","not applicable",1
+"HP1509101_D3","not applicable","not applicable",1
+"HP1509101_D9","acinar","not applicable",1
+"HP1509101_E2","not applicable","not applicable",1
+"HP1509101_E23","not applicable","not applicable",1
+"HP1509101_E7","not applicable","not applicable",1
+"HP1509101_F10","not applicable","not applicable",1
+"HP1509101_F14","not applicable","not applicable",1
+"HP1509101_F23","endothelial","endothelial",1
+"HP1509101_F6","not applicable","not applicable",1
+"HP1509101_G11","not applicable","not applicable",1
+"HP1509101_G12","beta","not applicable",1
+"HP1509101_G13","not applicable","not applicable",1
+"HP1509101_G17","alpha","not applicable",1
+"HP1509101_H10","not applicable","not applicable",1
+"HP1509101_H11","alpha","not applicable",1
+"HP1509101_H17","endothelial","not applicable",1
+"HP1509101_H6","not applicable","not applicable",1
+"HP1509101_I17","endothelial","endothelial",1
+"HP1509101_I18","alpha","not applicable",1
+"HP1509101_I2","not applicable","not applicable",1
+"HP1509101_I21","alpha","alpha",1
+"HP1509101_I5","alpha","alpha",1
+"HP1509101_J14","MHC class II","not applicable",1
+"HP1509101_J15","alpha","alpha",1
+"HP1509101_J16","delta","delta",1
+"HP1509101_J17","not applicable","not applicable",1
+"HP1509101_J18","delta","not applicable",1
+"HP1509101_J9","acinar","ductal",1
+"HP1509101_K11","not applicable","not applicable",1
+"HP1509101_K15","acinar","ductal",1
+"HP1509101_K21","alpha","not applicable",1
+"HP1509101_K23","alpha","not applicable",1
+"HP1509101_K5","endothelial","not applicable",1
+"HP1509101_K9","beta","beta",1
+"HP1509101_L1","not applicable","not applicable",1
+"HP1509101_L14","beta","beta",1
+"HP1509101_L19","delta","delta",1
+"HP1509101_L22","not applicable","not applicable",1
+"HP1509101_L24","alpha","not applicable",1
+"HP1509101_M10","alpha","alpha",1
+"HP1509101_M14","ductal","not applicable",1
+"HP1509101_M15","not applicable","not applicable",1
+"HP1509101_M18","ductal","not applicable",1
+"HP1509101_M19","not applicable","not applicable",1
+"HP1509101_M9","not applicable","not applicable",1
+"HP1509101_N14","not applicable","not applicable",1
+"HP1509101_N2","not applicable","not applicable",1
+"HP1509101_N23","beta","beta",1
+"HP1509101_N24","not applicable","not applicable",1
+"HP1509101_N3","not applicable","not applicable",1
+"HP1509101_N5","alpha","not applicable",1
+"HP1509101_N7","ductal","not applicable",1
+"HP1509101_O12","alpha","not applicable",1
+"HP1509101_O24","delta","not applicable",1
+"HP1509101_O4","delta","delta",1
+"HP1509101_O9","alpha","alpha",1
+"HP1509101_P1","not applicable","co-expression",1
+"HP1509101_P16","not applicable","not applicable",1
+"HP1509101_P17","ductal","ductal",1
+"HP1509101_P20","alpha","alpha",1
+"HP1509101_P3","not applicable","not applicable",1
+"HP1509101_P4","alpha","alpha",1
+"HP1509101_P6","acinar","not applicable",1
+"HP1509101_P7","beta","co-expression",1
+"HP1525301T2D_A1","ductal","ductal",1
+"HP1525301T2D_A2","unclassified endocrine","not applicable",1
+"HP1525301T2D_A4","unclassified endocrine","not applicable",1
+"HP1525301T2D_A8","not applicable","not applicable",1
+"HP1525301T2D_B17","not applicable","not applicable",1
+"HP1525301T2D_B23","alpha","not applicable",1
+"HP1525301T2D_B24","acinar","ductal",1
+"HP1525301T2D_C12","unclassified endocrine","not applicable",1
+"HP1525301T2D_C16","alpha","alpha",1
+"HP1525301T2D_C18","not applicable","not applicable",1
+"HP1525301T2D_C2","alpha","alpha",1
+"HP1525301T2D_C22","acinar","ductal",1
+"HP1525301T2D_C3","acinar","ductal",1
+"HP1525301T2D_C8","alpha","alpha",1
+"HP1525301T2D_C9","acinar","ductal",1
+"HP1525301T2D_D10","acinar","acinar",1
+"HP1525301T2D_D12","gamma","gamma",1
+"HP1525301T2D_D14","ductal","ductal",1
+"HP1525301T2D_D2","acinar","ductal",1
+"HP1525301T2D_D6","acinar","acinar",1
+"HP1525301T2D_E19","delta","gamma",1
+"HP1525301T2D_E5","MHC class II","PSC",1
+"HP1525301T2D_E8","alpha","alpha",1
+"HP1525301T2D_F12","ductal","ductal",1
+"HP1525301T2D_F15","beta","beta",1
+"HP1525301T2D_F23","beta","beta",1
+"HP1525301T2D_F5","acinar","acinar",1
+"HP1525301T2D_F7","not applicable","PSC",1
+"HP1525301T2D_G10","acinar","ductal",1
+"HP1525301T2D_G15","alpha","alpha",1
+"HP1525301T2D_G4","alpha","alpha",1
+"HP1525301T2D_G6","not applicable","not applicable",1
+"HP1525301T2D_H11","ductal","ductal",1
+"HP1525301T2D_H17","ductal","ductal",1
+"HP1525301T2D_H18","ductal","ductal",1
+"HP1525301T2D_H20","alpha","alpha",1
+"HP1525301T2D_H24","ductal","ductal",1
+"HP1525301T2D_H5","not applicable","not applicable",1
+"HP1525301T2D_H7","alpha","alpha",1
+"HP1525301T2D_I1","acinar","ductal",1
+"HP1525301T2D_I10","acinar","ductal",1
+"HP1525301T2D_I12","alpha","alpha",1
+"HP1525301T2D_I18","acinar","ductal",1
+"HP1525301T2D_I22","acinar","ductal",1
+"HP1525301T2D_I6","beta","beta",1
+"HP1525301T2D_I7","alpha","alpha",1
+"HP1525301T2D_J9","ductal","ductal",1
+"HP1525301T2D_K4","unclassified endocrine","not applicable",1
+"HP1525301T2D_K6","ductal","ductal",1
+"HP1525301T2D_L1","ductal","ductal",1
+"HP1525301T2D_L13","ductal","ductal",1
+"HP1525301T2D_L14","beta","beta",1
+"HP1525301T2D_L20","ductal","ductal",1
+"HP1525301T2D_L7","not applicable","not applicable",1
+"HP1525301T2D_M1","acinar","not applicable",1
+"HP1525301T2D_M10","alpha","alpha",1
+"HP1525301T2D_M12","acinar","ductal",1
+"HP1525301T2D_M13","alpha","alpha",1
+"HP1525301T2D_M21","unclassified endocrine","not applicable",1
+"HP1525301T2D_M22","not applicable","ductal",1
+"HP1525301T2D_M3","not applicable","not applicable",1
+"HP1525301T2D_M8","alpha","alpha",1
+"HP1525301T2D_N1","ductal","ductal",1
+"HP1525301T2D_N16","acinar","ductal",1
+"HP1525301T2D_N24","alpha","alpha",1
+"HP1525301T2D_O4","not applicable","not applicable",1
+"HP1525301T2D_O6","not applicable","alpha",1
+"HP1525301T2D_O8","ductal","not applicable",1
+"HP1525301T2D_P11","alpha","alpha",1
+"HP1525301T2D_P14","not applicable","ductal",1
+"HP1525301T2D_P15","endothelial","endothelial",1
+"HP1525301T2D_P20","ductal","ductal",1
+"HP1525301T2D_P24","alpha","alpha",1
+"HP1525301T2D_P4","ductal","ductal",1
+"HP1525301T2D_P6","alpha","alpha",1
+"HP1526901T2D_A10","delta","delta",1
+"HP1526901T2D_A16","delta","delta",1
+"HP1526901T2D_A18","unclassified endocrine","not applicable",1
+"HP1526901T2D_A2","beta","beta",1
+"HP1526901T2D_A6","acinar","acinar",1
+"HP1526901T2D_B11","alpha","alpha",1
+"HP1526901T2D_B16","unclassified endocrine","not applicable",1
+"HP1526901T2D_D11","not applicable","not applicable",1
+"HP1526901T2D_D13","unclassified endocrine","not applicable",1
+"HP1526901T2D_D24","not applicable","delta",1
+"HP1526901T2D_D3","acinar","ductal",1
+"HP1526901T2D_D4","ductal","ductal",1
+"HP1526901T2D_D7","acinar","acinar",1
+"HP1526901T2D_D8","alpha","alpha",1
+"HP1526901T2D_E16","acinar","acinar",1
+"HP1526901T2D_E18","delta","alpha",1
+"HP1526901T2D_E2","beta","beta",1
+"HP1526901T2D_E6","co-expression","alpha",1
+"HP1526901T2D_E7","not applicable","not applicable",1
+"HP1526901T2D_F11","unclassified endocrine","not applicable",1
+"HP1526901T2D_F17","beta","beta",1
+"HP1526901T2D_F23","delta","delta",1
+"HP1526901T2D_F3","alpha","alpha",1
+"HP1526901T2D_F6","not applicable","not applicable",1
+"HP1526901T2D_G13","alpha","alpha",1
+"HP1526901T2D_G19","gamma","gamma",1
+"HP1526901T2D_G21","beta","beta",1
+"HP1526901T2D_G3","not applicable","not applicable",1
+"HP1526901T2D_G5","unclassified endocrine","not applicable",1
+"HP1526901T2D_H10","co-expression","beta",1
+"HP1526901T2D_H13","not applicable","not applicable",1
+"HP1526901T2D_H20","beta","beta",1
+"HP1526901T2D_H22","beta","beta",1
+"HP1526901T2D_H23","gamma","gamma",1
+"HP1526901T2D_H3","gamma","gamma",1
+"HP1526901T2D_H6","alpha","alpha",1
+"HP1526901T2D_H7","not applicable","not applicable",1
+"HP1526901T2D_I21","alpha","alpha",1
+"HP1526901T2D_I24","gamma","gamma",1
+"HP1526901T2D_I3","beta","beta",1
+"HP1526901T2D_I6","alpha","alpha",1
+"HP1526901T2D_K13","not applicable","not applicable",1
+"HP1526901T2D_K19","ductal","ductal",1
+"HP1526901T2D_K22","delta","delta",1
+"HP1526901T2D_K24","delta","delta",1
+"HP1526901T2D_L13","alpha","alpha",1
+"HP1526901T2D_L22","unclassified endocrine","not applicable",1
+"HP1526901T2D_L4","beta","beta",1
+"HP1526901T2D_L5","beta","beta",1
+"HP1526901T2D_L8","unclassified endocrine","not applicable",1
+"HP1526901T2D_M1","alpha","alpha",1
+"HP1526901T2D_M13","delta","epsilon",1
+"HP1526901T2D_M3","gamma","gamma",1
+"HP1526901T2D_N1","beta","beta",1
+"HP1526901T2D_N10","alpha","alpha",1
+"HP1526901T2D_N19","gamma","gamma",1
+"HP1526901T2D_N22","not applicable","not applicable",1
+"HP1526901T2D_N4","acinar","acinar",1
+"HP1526901T2D_N6","alpha","alpha",1
+"HP1526901T2D_O11","not applicable","not applicable",1
+"HP1526901T2D_O21","alpha","alpha",1
+"HP1526901T2D_O22","alpha","alpha",1
+"HP1526901T2D_P15","not applicable","not applicable",1
+"HP1526901T2D_P2","alpha","alpha",1
+"AZ_A2","gamma","gamma",2
+"AZ_A3","not applicable","not applicable",2
+"AZ_A7","acinar","acinar",2
+"AZ_B1","co-expression","delta",2
+"AZ_B8","acinar","acinar",2
+"AZ_C2","alpha","alpha",2
+"AZ_C4","beta","beta",2
+"AZ_C8","alpha","alpha",2
+"AZ_D12","gamma","gamma",2
+"AZ_D2","beta","beta",2
+"AZ_D3","alpha","alpha",2
+"AZ_D4","alpha","alpha",2
+"AZ_E2","alpha","alpha",2
+"AZ_E5","alpha","alpha",2
+"AZ_E7","beta","beta",2
+"AZ_F10","not applicable","not applicable",2
+"AZ_F3","not applicable","unclassified endocrine",2
+"AZ_G8","not applicable","not applicable",2
+"AZ_H11","beta","beta",2
+"AZ_H12","not applicable","gamma",2
+"HP1502401_A10","beta","beta",2
+"HP1502401_A14","acinar","acinar",2
+"HP1502401_A17","alpha","alpha",2
+"HP1502401_A19","unclassified endocrine","not applicable",2
+"HP1502401_A20","not applicable","unclassified endocrine",2
+"HP1502401_A22","acinar","acinar",2
+"HP1502401_A23","not applicable","unclassified endocrine",2
+"HP1502401_A9","not applicable","not applicable",2
+"HP1502401_B14","beta","beta",2
+"HP1502401_B18","delta","gamma",2
+"HP1502401_B19","not applicable","not applicable",2
+"HP1502401_B2","not applicable","not applicable",2
+"HP1502401_B20","not applicable","alpha",2
+"HP1502401_B4","not applicable","not applicable",2
+"HP1502401_B9","not applicable","not applicable",2
+"HP1502401_C15","unclassified endocrine","not applicable",2
+"HP1502401_C20","co-expression","delta",2
+"HP1502401_C21","beta","beta",2
+"HP1502401_D11","acinar","not applicable",2
+"HP1502401_D16","alpha","alpha",2
+"HP1502401_D24","alpha","alpha",2
+"HP1502401_D3","beta","beta",2
+"HP1502401_D6","beta","beta",2
+"HP1502401_D9","unclassified endocrine","not applicable",2
+"HP1502401_E14","not applicable","epsilon",2
+"HP1502401_E17","delta","alpha",2
+"HP1502401_E6","alpha","alpha",2
+"HP1502401_E9","delta","delta",2
+"HP1502401_F12","alpha","alpha",2
+"HP1502401_F8","unclassified endocrine","not applicable",2
+"HP1502401_G14","beta","beta",2
+"HP1502401_G20","delta","delta",2
+"HP1502401_H11","beta","beta",2
+"HP1502401_H15","alpha","alpha",2
+"HP1502401_H17","not applicable","not applicable",2
+"HP1502401_H2","alpha","alpha",2
+"HP1502401_H23","ductal","ductal",2
+"HP1502401_H9","not applicable","not applicable",2
+"HP1502401_I10","not applicable","not applicable",2
+"HP1502401_I12","endothelial","endothelial",2
+"HP1502401_I15","alpha","alpha",2
+"HP1502401_I9","delta","delta",2
+"HP1502401_J13","not applicable","not applicable",2
+"HP1502401_J14","alpha","alpha",2
+"HP1502401_J20","alpha","alpha",2
+"HP1502401_J22","beta","beta",2
+"HP1502401_J4","alpha","alpha",2
+"HP1502401_J6","alpha","alpha",2
+"HP1502401_J8","alpha","alpha",2
+"HP1502401_K1","alpha","alpha",2
+"HP1502401_K12","acinar","acinar",2
+"HP1502401_K18","not applicable","unclassified endocrine",2
+"HP1502401_K20","alpha","alpha",2
+"HP1502401_K4","not applicable","unclassified endocrine",2
+"HP1502401_K6","alpha","alpha",2
+"HP1502401_L1","alpha","alpha",2
+"HP1502401_L10","beta","beta",2
+"HP1502401_L16","alpha","alpha",2
+"HP1502401_L19","not applicable","not applicable",2
+"HP1502401_M10","alpha","alpha",2
+"HP1502401_M14","alpha","alpha",2
+"HP1502401_M17","MHC class II","mast",2
+"HP1502401_M18","alpha","not applicable",2
+"HP1502401_M19","alpha","alpha",2
+"HP1502401_M7","alpha","alpha",2
+"HP1502401_M8","acinar","acinar",2
+"HP1502401_N13","not applicable","not applicable",2
+"HP1502401_N15","alpha","alpha",2
+"HP1502401_N22","not applicable","not applicable",2
+"HP1502401_N3","alpha","alpha",2
+"HP1502401_N7","delta","delta",2
+"HP1502401_N8","beta","beta",2
+"HP1502401_N9","gamma","gamma",2
+"HP1502401_O14","acinar","acinar",2
+"HP1502401_O15","not applicable","not applicable",2
+"HP1502401_O20","alpha","alpha",2
+"HP1502401_O8","alpha","alpha",2
+"HP1504101T2D_A1","not applicable","not applicable",2
+"HP1504101T2D_A13","gamma","gamma",2
+"HP1504101T2D_A14","not applicable","not applicable",2
+"HP1504101T2D_A16","not applicable","not applicable",2
+"HP1504101T2D_A18","gamma","gamma",2
+"HP1504101T2D_A20","gamma","gamma",2
+"HP1504101T2D_A23","alpha","alpha",2
+"HP1504101T2D_A24","delta","delta",2
+"HP1504101T2D_A3","not applicable","not applicable",2
+"HP1504101T2D_A8","alpha","alpha",2
+"HP1504101T2D_B12","gamma","gamma",2
+"HP1504101T2D_B19","not applicable","not applicable",2
+"HP1504101T2D_B20","unclassified endocrine","not applicable",2
+"HP1504101T2D_B23","not applicable","not applicable",2
+"HP1504101T2D_B8","acinar","ductal",2
+"HP1504101T2D_C11","acinar","acinar",2
+"HP1504101T2D_C13","not applicable","not applicable",2
+"HP1504101T2D_C21","gamma","gamma",2
+"HP1504101T2D_D5","alpha","alpha",2
+"HP1504101T2D_D6","alpha","alpha",2
+"HP1504101T2D_E12","not applicable","not applicable",2
+"HP1504101T2D_E16","beta","beta",2
+"HP1504101T2D_E17","unclassified endocrine","not applicable",2
+"HP1504101T2D_E20","gamma","gamma",2
+"HP1504101T2D_E24","beta","beta",2
+"HP1504101T2D_E4","delta","gamma",2
+"HP1504101T2D_E9","gamma","gamma",2
+"HP1504101T2D_F16","gamma","gamma",2
+"HP1504101T2D_F2","alpha","gamma",2
+"HP1504101T2D_F3","alpha","alpha",2
+"HP1504101T2D_F8","not applicable","not applicable",2
+"HP1504101T2D_G15","not applicable","not applicable",2
+"HP1504101T2D_G17","alpha","alpha",2
+"HP1504101T2D_G21","gamma","gamma",2
+"HP1504101T2D_G23","alpha","alpha",2
+"HP1504101T2D_G3","gamma","gamma",2
+"HP1504101T2D_G9","beta","gamma",2
+"HP1504101T2D_H1","gamma","gamma",2
+"HP1504101T2D_H12","unclassified endocrine","not applicable",2
+"HP1504101T2D_H13","not applicable","not applicable",2
+"HP1504101T2D_H21","alpha","alpha",2
+"HP1504101T2D_H22","alpha","alpha",2
+"HP1504101T2D_H23","delta","beta",2
+"HP1504101T2D_I19","not applicable","not applicable",2
+"HP1504101T2D_I20","alpha","alpha",2
+"HP1504101T2D_I22","alpha","alpha",2
+"HP1504101T2D_I24","alpha","alpha",2
+"HP1504101T2D_I3","not applicable","not applicable",2
+"HP1504101T2D_J12","unclassified endocrine","not applicable",2
+"HP1504101T2D_J19","not applicable","not applicable",2
+"HP1504101T2D_J2","alpha","alpha",2
+"HP1504101T2D_K13","not applicable","not applicable",2
+"HP1504101T2D_K14","not applicable","not applicable",2
+"HP1504101T2D_K17","alpha","alpha",2
+"HP1504101T2D_K20","alpha","alpha",2
+"HP1504101T2D_K7","not applicable","not applicable",2
+"HP1504101T2D_K8","gamma","gamma",2
+"HP1504101T2D_L13","gamma","gamma",2
+"HP1504101T2D_L20","unclassified endocrine","not applicable",2
+"HP1504101T2D_M12","not applicable","not applicable",2
+"HP1504101T2D_M20","not applicable","not applicable",2
+"HP1504101T2D_N16","gamma","gamma",2
+"HP1504101T2D_N22","alpha","alpha",2
+"HP1504101T2D_N8","alpha","alpha",2
+"HP1504101T2D_O14","alpha","alpha",2
+"HP1504101T2D_O15","not applicable","not applicable",2
+"HP1504101T2D_O18","not applicable","not applicable",2
+"HP1504101T2D_O7","not applicable","not applicable",2
+"HP1504101T2D_P16","unclassified endocrine","not applicable",2
+"HP1504101T2D_P18","alpha","alpha",2
+"HP1504101T2D_P20","not applicable","not applicable",2
+"HP1504101T2D_P21","alpha","alpha",2
+"HP1504901_A10","delta","delta",2
+"HP1504901_A18","not applicable","not applicable",2
+"HP1504901_A19","alpha","alpha",2
+"HP1504901_B14","ductal","ductal",2
+"HP1504901_B2","alpha","not applicable",2
+"HP1504901_B20","alpha","gamma",2
+"HP1504901_B8","delta","gamma",2
+"HP1504901_C12","not applicable","not applicable",2
+"HP1504901_C3","not applicable","not applicable",2
+"HP1504901_C4","not applicable","not applicable",2
+"HP1504901_C6","not applicable","not applicable",2
+"HP1504901_C7","not applicable","not applicable",2
+"HP1504901_C9","not applicable","not applicable",2
+"HP1504901_D10","not applicable","not applicable",2
+"HP1504901_D11","not applicable","not applicable",2
+"HP1504901_D13","ductal","acinar",2
+"HP1504901_D15","alpha","alpha",2
+"HP1504901_D3","not applicable","not applicable",2
+"HP1504901_D6","alpha","delta",2
+"HP1504901_D8","not applicable","not applicable",2
+"HP1504901_E14","alpha","alpha",2
+"HP1504901_E18","alpha","alpha",2
+"HP1504901_E20","not applicable","not applicable",2
+"HP1504901_E4","not applicable","not applicable",2
+"HP1504901_E6","ductal","ductal",2
+"HP1504901_E7","not applicable","not applicable",2
+"HP1504901_E8","not applicable","not applicable",2
+"HP1504901_E9","PSC","PSC",2
+"HP1504901_F15","alpha","gamma",2
+"HP1504901_F22","not applicable","not applicable",2
+"HP1504901_F4","alpha","alpha",2
+"HP1504901_F5","alpha","alpha",2
+"HP1504901_G13","alpha","alpha",2
+"HP1504901_G16","beta","co-expression",2
+"HP1504901_G17","not applicable","not applicable",2
+"HP1504901_G18","alpha","beta",2
+"HP1504901_G19","alpha","alpha",2
+"HP1504901_G2","alpha","alpha",2
+"HP1504901_G24","not applicable","alpha",2
+"HP1504901_G4","alpha","beta",2
+"HP1504901_G5","not applicable","not applicable",2
+"HP1504901_G9","alpha","alpha",2
+"HP1504901_H1","alpha","alpha",2
+"HP1504901_H11","alpha","alpha",2
+"HP1504901_H14","gamma","gamma",2
+"HP1504901_H15","not applicable","not applicable",2
+"HP1504901_H17","beta","beta",2
+"HP1504901_H19","gamma","gamma",2
+"HP1504901_H2","not applicable","alpha",2
+"HP1504901_H20","not applicable","not applicable",2
+"HP1504901_I1","not applicable","not applicable",2
+"HP1504901_I10","ductal","ductal",2
+"HP1504901_I15","not applicable","not applicable",2
+"HP1504901_I17","endothelial","endothelial",2
+"HP1504901_I2","alpha","alpha",2
+"HP1504901_I23","co-expression","co-expression",2
+"HP1504901_I4","not applicable","not applicable",2
+"HP1504901_I8","alpha","alpha",2
+"HP1504901_J10","ductal","not applicable",2
+"HP1504901_J15","endothelial","co-expression",2
+"HP1504901_J16","not applicable","not applicable",2
+"HP1504901_J19","not applicable","not applicable",2
+"HP1504901_J23","alpha","alpha",2
+"HP1504901_J3","alpha","beta",2
+"HP1504901_K11","not applicable","not applicable",2
+"HP1504901_K13","not applicable","not applicable",2
+"HP1504901_K2","not applicable","not applicable",2
+"HP1504901_K23","ductal","ductal",2
+"HP1504901_K4","not applicable","not applicable",2
+"HP1504901_K7","not applicable","not applicable",2
+"HP1504901_L23","not applicable","not applicable",2
+"HP1504901_L3","gamma","gamma",2
+"HP1504901_L4","not applicable","not applicable",2
+"HP1504901_L5","not applicable","not applicable",2
+"HP1504901_M11","PSC","PSC",2
+"HP1504901_M5","not applicable","not applicable",2
+"HP1504901_M6","not applicable","not applicable",2
+"HP1504901_M8","not applicable","not applicable",2
+"HP1504901_N18","ductal","ductal",2
+"HP1504901_N19","alpha","alpha",2
+"HP1504901_N24","alpha","delta",2
+"HP1504901_O10","alpha","alpha",2
+"HP1504901_O13","not applicable","not applicable",2
+"HP1504901_O15","not applicable","not applicable",2
+"HP1504901_O17","alpha","alpha",2
+"HP1504901_O19","not applicable","not applicable",2
+"HP1504901_O2","not applicable","not applicable",2
+"HP1504901_O22","not applicable","not applicable",2
+"HP1504901_O3","not applicable","not applicable",2
+"HP1504901_P10","alpha","alpha",2
+"HP1504901_P15","unclassified endocrine","unclassified endocrine",2
+"HP1504901_P8","not applicable","not applicable",2
+"HP1506401_A11","not applicable","not applicable",2
+"HP1506401_A2","unclassified endocrine","not applicable",2
+"HP1506401_A20","ductal","ductal",2
+"HP1506401_B13","not applicable","not applicable",2
+"HP1506401_B24","ductal","ductal",2
+"HP1506401_B8","beta","co-expression",2
+"HP1506401_C20","not applicable","not applicable",2
+"HP1506401_C24","acinar","acinar",2
+"HP1506401_C3","unclassified endocrine","not applicable",2
+"HP1506401_C7","acinar","acinar",2
+"HP1506401_C8","co-expression","beta",2
+"HP1506401_D10","ductal","not applicable",2
+"HP1506401_D20","not applicable","not applicable",2
+"HP1506401_D5","not applicable","not applicable",2
+"HP1506401_E9","alpha","not applicable",2
+"HP1506401_F18","beta","beta",2
+"HP1506401_F19","ductal","ductal",2
+"HP1506401_F2","acinar","acinar",2
+"HP1506401_F22","co-expression","co-expression",2
+"HP1506401_F4","not applicable","not applicable",2
+"HP1506401_G14","acinar","acinar",2
+"HP1506401_G21","ductal","ductal",2
+"HP1506401_G23","ductal","ductal",2
+"HP1506401_G3","alpha","alpha",2
+"HP1506401_H21","not applicable","not applicable",2
+"HP1506401_H4","ductal","ductal",2
+"HP1506401_H8","not applicable","not applicable",2
+"HP1506401_I1","gamma","gamma",2
+"HP1506401_I19","unclassified endocrine","not applicable",2
+"HP1506401_I8","alpha","alpha",2
+"HP1506401_I9","not applicable","not applicable",2
+"HP1506401_J1","not applicable","not applicable",2
+"HP1506401_J11","acinar","acinar",2
+"HP1506401_J15","acinar","acinar",2
+"HP1506401_J19","co-expression","beta",2
+"HP1506401_J22","ductal","ductal",2
+"HP1506401_J23","acinar","acinar",2
+"HP1506401_K14","acinar","acinar",2
+"HP1506401_K4","ductal","ductal",2
+"HP1506401_K6","acinar","acinar",2
+"HP1506401_L13","ductal","ductal",2
+"HP1506401_L6","not applicable","not applicable",2
+"HP1506401_M14","not applicable","not applicable",2
+"HP1506401_M17","acinar","acinar",2
+"HP1506401_M19","acinar","acinar",2
+"HP1506401_M2","not applicable","not applicable",2
+"HP1506401_M8","acinar","acinar",2
+"HP1506401_N16","ductal","ductal",2
+"HP1506401_N17","ductal","ductal",2
+"HP1506401_N23","acinar","acinar",2
+"HP1506401_N8","unclassified endocrine","not applicable",2
+"HP1506401_O16","acinar","acinar",2
+"HP1506401_O22","not applicable","not applicable",2
+"HP1506401_O5","not applicable","not applicable",2
+"HP1506401_O6","alpha","not applicable",2
+"HP1506401_P11","ductal","ductal",2
+"HP1506401_P12","co-expression","beta",2
+"HP1506401_P23","acinar","acinar",2
+"HP1506401_P5","ductal","ductal",2
+"HP1507101_A14","alpha","alpha",2
+"HP1507101_A23","not applicable","not applicable",2
+"HP1507101_A7","not applicable","not applicable",2
+"HP1507101_B10","alpha","not applicable",2
+"HP1507101_B14","alpha","alpha",2
+"HP1507101_B23","co-expression","alpha",2
+"HP1507101_B3","alpha","alpha",2
+"HP1507101_B5","beta","beta",2
+"HP1507101_B6","alpha","alpha",2
+"HP1507101_C10","beta","co-expression",2
+"HP1507101_C11","PSC","not applicable",2
+"HP1507101_C15","beta","not applicable",2
+"HP1507101_C18","unclassified endocrine","alpha",2
+"HP1507101_C20","alpha","not applicable",2
+"HP1507101_D14","alpha","alpha",2
+"HP1507101_D17","alpha","alpha",2
+"HP1507101_D19","gamma","not applicable",2
+"HP1507101_D2","alpha","alpha",2
+"HP1507101_D20","alpha","not applicable",2
+"HP1507101_D22","beta","beta",2
+"HP1507101_D3","beta","beta",2
+"HP1507101_D5","alpha","alpha",2
+"HP1507101_D6","beta","beta",2
+"HP1507101_E15","unclassified endocrine","not applicable",2
+"HP1507101_E18","PSC","not applicable",2
+"HP1507101_E23","PSC","not applicable",2
+"HP1507101_E9","alpha","alpha",2
+"HP1507101_F1","co-expression","alpha",2
+"HP1507101_F10","delta","delta",2
+"HP1507101_F16","co-expression","alpha",2
+"HP1507101_G1","not applicable","not applicable",2
+"HP1507101_G14","co-expression","alpha",2
+"HP1507101_G2","PSC","PSC",2
+"HP1507101_G24","alpha","not applicable",2
+"HP1507101_H1","alpha","alpha",2
+"HP1507101_H11","alpha","alpha",2
+"HP1507101_H13","unclassified endocrine","not applicable",2
+"HP1507101_H2","delta","not applicable",2
+"HP1507101_H23","alpha","alpha",2
+"HP1507101_H8","not applicable","not applicable",2
+"HP1507101_I13","alpha","alpha",2
+"HP1507101_I14","unclassified endocrine","not applicable",2
+"HP1507101_I18","beta","beta",2
+"HP1507101_I20","alpha","alpha",2
+"HP1507101_I22","alpha","alpha",2
+"HP1507101_I6","co-expression","alpha",2
+"HP1507101_J13","alpha","alpha",2
+"HP1507101_J17","co-expression","alpha",2
+"HP1507101_J18","alpha","alpha",2
+"HP1507101_J19","beta","beta",2
+"HP1507101_J23","alpha","alpha",2
+"HP1507101_J4","alpha","not applicable",2
+"HP1507101_J6","not applicable","not applicable",2
+"HP1507101_K12","beta","not applicable",2
+"HP1507101_K23","beta","beta",2
+"HP1507101_K3","alpha","alpha",2
+"HP1507101_K5","alpha","not applicable",2
+"HP1507101_L24","beta","beta",2
+"HP1507101_M13","not applicable","not applicable",2
+"HP1507101_M15","not applicable","not applicable",2
+"HP1507101_M17","not applicable","not applicable",2
+"HP1507101_M20","alpha","not applicable",2
+"HP1507101_M21","not applicable","not applicable",2
+"HP1507101_M24","not applicable","not applicable",2
+"HP1507101_M5","not applicable","not applicable",2
+"HP1507101_N1","MHC class II","alpha",2
+"HP1507101_N14","not applicable","not applicable",2
+"HP1507101_N7","not applicable","not applicable",2
+"HP1507101_N8","ductal","ductal",2
+"HP1507101_O12","ductal","ductal",2
+"HP1507101_O18","alpha","not applicable",2
+"HP1507101_O19","beta","beta",2
+"HP1507101_O21","not applicable","not applicable",2
+"HP1507101_O22","co-expression","alpha",2
+"HP1507101_O6","alpha","not applicable",2
+"HP1507101_O9","beta","not applicable",2
+"HP1507101_P14","unclassified endocrine","not applicable",2
+"HP1507101_P16","not applicable","not applicable",2
+"HP1507101_P17","delta","not applicable",2
+"HP1507101_P20","endothelial","not applicable",2
+"HP1507101_P5","alpha","alpha",2
+"HP1507101_P8","delta","alpha",2
+"HP1508501T2D_A11","acinar","acinar",2
+"HP1508501T2D_A19","gamma","gamma",2
+"HP1508501T2D_A2","alpha","not applicable",2
+"HP1508501T2D_A22","not applicable","not applicable",2
+"HP1508501T2D_A4","alpha","alpha",2
+"HP1508501T2D_A8","PSC","PSC",2
+"HP1508501T2D_B15","alpha","alpha",2
+"HP1508501T2D_B20","beta","beta",2
+"HP1508501T2D_C4","co-expression","beta",2
+"HP1508501T2D_D1","alpha","alpha",2
+"HP1508501T2D_D18","acinar","acinar",2
+"HP1508501T2D_D21","alpha","alpha",2
+"HP1508501T2D_D22","ductal","ductal",2
+"HP1508501T2D_D23","not applicable","not applicable",2
+"HP1508501T2D_D24","ductal","not applicable",2
+"HP1508501T2D_D3","alpha","alpha",2
+"HP1508501T2D_E1","PSC","PSC",2
+"HP1508501T2D_E16","ductal","ductal",2
+"HP1508501T2D_E2","alpha","alpha",2
+"HP1508501T2D_E21","alpha","alpha",2
+"HP1508501T2D_E23","alpha","alpha",2
+"HP1508501T2D_E9","ductal","ductal",2
+"HP1508501T2D_F10","not applicable","not applicable",2
+"HP1508501T2D_F22","not applicable","unclassified endocrine",2
+"HP1508501T2D_F23","alpha","alpha",2
+"HP1508501T2D_F24","not applicable","not applicable",2
+"HP1508501T2D_F7","co-expression","beta",2
+"HP1508501T2D_G20","alpha","alpha",2
+"HP1508501T2D_G22","gamma","gamma",2
+"HP1508501T2D_G7","unclassified endocrine","not applicable",2
+"HP1508501T2D_G8","not applicable","not applicable",2
+"HP1508501T2D_H15","alpha","alpha",2
+"HP1508501T2D_H20","not applicable","not applicable",2
+"HP1508501T2D_H24","alpha","not applicable",2
+"HP1508501T2D_I15","alpha","alpha",2
+"HP1508501T2D_I7","acinar","acinar",2
+"HP1508501T2D_J1","alpha","alpha",2
+"HP1508501T2D_J13","ductal","ductal",2
+"HP1508501T2D_J24","beta","not applicable",2
+"HP1508501T2D_K10","unclassified endocrine","not applicable",2
+"HP1508501T2D_K14","alpha","alpha",2
+"HP1508501T2D_K18","endothelial","endothelial",2
+"HP1508501T2D_K23","ductal","ductal",2
+"HP1508501T2D_K24","alpha","not applicable",2
+"HP1508501T2D_L20","ductal","ductal",2
+"HP1508501T2D_M1","MHC class II","mast",2
+"HP1508501T2D_M11","acinar","acinar",2
+"HP1508501T2D_M16","PSC","PSC",2
+"HP1508501T2D_M21","PSC","not applicable",2
+"HP1508501T2D_M23","ductal","ductal",2
+"HP1508501T2D_M24","unclassified endocrine","not applicable",2
+"HP1508501T2D_M8","alpha","alpha",2
+"HP1508501T2D_M9","alpha","alpha",2
+"HP1508501T2D_N11","alpha","alpha",2
+"HP1508501T2D_N18","gamma","gamma",2
+"HP1508501T2D_N19","ductal","ductal",2
+"HP1508501T2D_N20","alpha","alpha",2
+"HP1508501T2D_N22","ductal","ductal",2
+"HP1508501T2D_N24","acinar","not applicable",2
+"HP1508501T2D_N3","unclassified endocrine","not applicable",2
+"HP1508501T2D_N4","alpha","alpha",2
+"HP1508501T2D_N6","ductal","ductal",2
+"HP1508501T2D_O10","alpha","not applicable",2
+"HP1508501T2D_O18","not applicable","not applicable",2
+"HP1508501T2D_O21","not applicable","not applicable",2
+"HP1508501T2D_O9","ductal","ductal",2
+"HP1508501T2D_P15","not applicable","not applicable",2
+"HP1508501T2D_P20","not applicable","not applicable",2
+"HP1508501T2D_P7","alpha","alpha",2
+"HP1508501T2D_P9","alpha","alpha",2
+"HP1509101_A1","not applicable","not applicable",2
+"HP1509101_A12","not applicable","not applicable",2
+"HP1509101_A14","not applicable","not applicable",2
+"HP1509101_A4","unclassified endocrine","not applicable",2
+"HP1509101_A7","alpha","alpha",2
+"HP1509101_A9","not applicable","not applicable",2
+"HP1509101_B1","not applicable","not applicable",2
+"HP1509101_B10","alpha","alpha",2
+"HP1509101_B13","beta","beta",2
+"HP1509101_B19","ductal","ductal",2
+"HP1509101_B5","not applicable","not applicable",2
+"HP1509101_B8","alpha","not applicable",2
+"HP1509101_C14","not applicable","not applicable",2
+"HP1509101_C15","not applicable","not applicable",2
+"HP1509101_C22","alpha","alpha",2
+"HP1509101_C23","beta","beta",2
+"HP1509101_C5","not applicable","not applicable",2
+"HP1509101_C8","not applicable","not applicable",2
+"HP1509101_D15","alpha","not applicable",2
+"HP1509101_D19","alpha","alpha",2
+"HP1509101_D20","not applicable","not applicable",2
+"HP1509101_D23","ductal","ductal",2
+"HP1509101_D4","not applicable","not applicable",2
+"HP1509101_E13","not applicable","not applicable",2
+"HP1509101_E24","ductal","not applicable",2
+"HP1509101_F16","not applicable","not applicable",2
+"HP1509101_F17","not applicable","not applicable",2
+"HP1509101_F8","ductal","not applicable",2
+"HP1509101_G2","ductal","not applicable",2
+"HP1509101_G21","endothelial","not applicable",2
+"HP1509101_G5","not applicable","not applicable",2
+"HP1509101_G6","not applicable","not applicable",2
+"HP1509101_G8","gamma","not applicable",2
+"HP1509101_H1","ductal","alpha",2
+"HP1509101_H23","alpha","alpha",2
+"HP1509101_H4","not applicable","not applicable",2
+"HP1509101_H8","not applicable","not applicable",2
+"HP1509101_I12","ductal","ductal",2
+"HP1509101_I13","not applicable","not applicable",2
+"HP1509101_I14","alpha","not applicable",2
+"HP1509101_I16","ductal","not applicable",2
+"HP1509101_I23","alpha","alpha",2
+"HP1509101_I24","delta","not applicable",2
+"HP1509101_I6","ductal","not applicable",2
+"HP1509101_J23","ductal","ductal",2
+"HP1509101_J8","alpha","alpha",2
+"HP1509101_K1","not applicable","not applicable",2
+"HP1509101_K19","ductal","ductal",2
+"HP1509101_L10","not applicable","not applicable",2
+"HP1509101_L12","not applicable","not applicable",2
+"HP1509101_L13","ductal","ductal",2
+"HP1509101_L17","beta","alpha",2
+"HP1509101_L20","PSC","not applicable",2
+"HP1509101_L21","ductal","not applicable",2
+"HP1509101_M11","not applicable","not applicable",2
+"HP1509101_M16","ductal","not applicable",2
+"HP1509101_M21","not applicable","not applicable",2
+"HP1509101_N16","alpha","not applicable",2
+"HP1509101_N4","not applicable","not applicable",2
+"HP1509101_O1","delta","delta",2
+"HP1509101_O11","unclassified endocrine","not applicable",2
+"HP1509101_O14","ductal","ductal",2
+"HP1509101_O21","not applicable","not applicable",2
+"HP1509101_O23","alpha","not applicable",2
+"HP1509101_O3","unclassified endocrine","not applicable",2
+"HP1509101_P12","delta","delta",2
+"HP1509101_P14","endothelial","not applicable",2
+"HP1509101_P19","unclassified endocrine","not applicable",2
+"HP1509101_P24","unclassified endocrine","not applicable",2
+"HP1525301T2D_A14","acinar","ductal",2
+"HP1525301T2D_A15","ductal","ductal",2
+"HP1525301T2D_A21","not applicable","not applicable",2
+"HP1525301T2D_A22","unclassified endocrine","not applicable",2
+"HP1525301T2D_A24","not applicable","not applicable",2
+"HP1525301T2D_A6","co-expression","alpha",2
+"HP1525301T2D_B13","alpha","alpha",2
+"HP1525301T2D_B14","ductal","ductal",2
+"HP1525301T2D_B20","not applicable","not applicable",2
+"HP1525301T2D_C10","co-expression","alpha",2
+"HP1525301T2D_C11","ductal","ductal",2
+"HP1525301T2D_C14","acinar","acinar",2
+"HP1525301T2D_C5","alpha","alpha",2
+"HP1525301T2D_D19","delta","delta",2
+"HP1525301T2D_D20","not applicable","not applicable",2
+"HP1525301T2D_D23","beta","beta",2
+"HP1525301T2D_D4","ductal","ductal",2
+"HP1525301T2D_D9","alpha","alpha",2
+"HP1525301T2D_E1","alpha","alpha",2
+"HP1525301T2D_E10","unclassified endocrine","not applicable",2
+"HP1525301T2D_E3","gamma","gamma",2
+"HP1525301T2D_F13","unclassified endocrine","unclassified endocrine",2
+"HP1525301T2D_F16","acinar","ductal",2
+"HP1525301T2D_F4","co-expression","alpha",2
+"HP1525301T2D_G1","alpha","alpha",2
+"HP1525301T2D_G13","ductal","ductal",2
+"HP1525301T2D_G22","alpha","alpha",2
+"HP1525301T2D_G23","gamma","gamma",2
+"HP1525301T2D_G24","not applicable","not applicable",2
+"HP1525301T2D_G3","acinar","ductal",2
+"HP1525301T2D_G9","ductal","ductal",2
+"HP1525301T2D_H2","ductal","ductal",2
+"HP1525301T2D_H6","alpha","alpha",2
+"HP1525301T2D_H9","acinar","acinar",2
+"HP1525301T2D_I13","not applicable","not applicable",2
+"HP1525301T2D_I15","ductal","ductal",2
+"HP1525301T2D_I19","acinar","ductal",2
+"HP1525301T2D_I4","alpha","alpha",2
+"HP1525301T2D_I9","unclassified endocrine","not applicable",2
+"HP1525301T2D_J10","delta","delta",2
+"HP1525301T2D_J15","ductal","ductal",2
+"HP1525301T2D_J16","acinar","acinar",2
+"HP1525301T2D_J17","PSC","PSC",2
+"HP1525301T2D_J19","alpha","alpha",2
+"HP1525301T2D_J4","alpha","alpha",2
+"HP1525301T2D_J7","ductal","ductal",2
+"HP1525301T2D_K1","ductal","ductal",2
+"HP1525301T2D_K14","ductal","ductal",2
+"HP1525301T2D_K17","ductal","ductal",2
+"HP1525301T2D_K2","ductal","ductal",2
+"HP1525301T2D_K22","alpha","alpha",2
+"HP1525301T2D_K3","alpha","alpha",2
+"HP1525301T2D_K5","acinar","acinar",2
+"HP1525301T2D_K8","acinar","acinar",2
+"HP1525301T2D_L10","unclassified endocrine","not applicable",2
+"HP1525301T2D_L11","unclassified endocrine","not applicable",2
+"HP1525301T2D_L16","ductal","ductal",2
+"HP1525301T2D_L5","acinar","acinar",2
+"HP1525301T2D_L9","co-expression","alpha",2
+"HP1525301T2D_M15","ductal","ductal",2
+"HP1525301T2D_M17","delta","delta",2
+"HP1525301T2D_M2","PSC","PSC",2
+"HP1525301T2D_M20","acinar","ductal",2
+"HP1525301T2D_M4","not applicable","not applicable",2
+"HP1525301T2D_N15","ductal","not applicable",2
+"HP1525301T2D_N17","unclassified endocrine","not applicable",2
+"HP1525301T2D_N19","gamma","not applicable",2
+"HP1525301T2D_N23","alpha","alpha",2
+"HP1525301T2D_N3","co-expression","beta",2
+"HP1525301T2D_N4","ductal","ductal",2
+"HP1525301T2D_N5","ductal","ductal",2
+"HP1525301T2D_O1","alpha","acinar",2
+"HP1525301T2D_O20","ductal","ductal",2
+"HP1525301T2D_O21","gamma","not applicable",2
+"HP1525301T2D_O22","ductal","ductal",2
+"HP1525301T2D_O7","acinar","ductal",2
+"HP1525301T2D_P16","PSC","PSC",2
+"HP1525301T2D_P3","unclassified endocrine","not applicable",2
+"HP1525301T2D_P5","ductal","ductal",2
+"HP1525301T2D_P7","unclassified endocrine","not applicable",2
+"HP1526901T2D_A11","ductal","ductal",2
+"HP1526901T2D_A17","alpha","alpha",2
+"HP1526901T2D_A19","beta","beta",2
+"HP1526901T2D_A8","alpha","alpha",2
+"HP1526901T2D_B1","beta","beta",2
+"HP1526901T2D_B12","alpha","alpha",2
+"HP1526901T2D_B20","alpha","alpha",2
+"HP1526901T2D_B22","unclassified endocrine","not applicable",2
+"HP1526901T2D_B5","ductal","ductal",2
+"HP1526901T2D_C12","not applicable","not applicable",2
+"HP1526901T2D_C14","ductal","ductal",2
+"HP1526901T2D_C16","alpha","alpha",2
+"HP1526901T2D_C21","unclassified endocrine","not applicable",2
+"HP1526901T2D_C23","ductal","ductal",2
+"HP1526901T2D_C7","not applicable","not applicable",2
+"HP1526901T2D_C8","acinar","acinar",2
+"HP1526901T2D_D20","not applicable","not applicable",2
+"HP1526901T2D_D9","alpha","alpha",2
+"HP1526901T2D_E11","beta","beta",2
+"HP1526901T2D_E20","delta","delta",2
+"HP1526901T2D_E5","gamma","gamma",2
+"HP1526901T2D_F1","alpha","alpha",2
+"HP1526901T2D_F10","alpha","alpha",2
+"HP1526901T2D_F14","not applicable","not applicable",2
+"HP1526901T2D_F18","beta","beta",2
+"HP1526901T2D_F8","acinar","ductal",2
+"HP1526901T2D_G10","alpha","alpha",2
+"HP1526901T2D_G11","MHC class II","MHC class II",2
+"HP1526901T2D_G14","alpha","alpha",2
+"HP1526901T2D_G2","co-expression","delta",2
+"HP1526901T2D_G24","ductal","ductal",2
+"HP1526901T2D_G4","beta","beta",2
+"HP1526901T2D_G6","unclassified endocrine","not applicable",2
+"HP1526901T2D_G9","gamma","gamma",2
+"HP1526901T2D_H11","unclassified endocrine","not applicable",2
+"HP1526901T2D_H14","delta","co-expression",2
+"HP1526901T2D_H19","alpha","alpha",2
+"HP1526901T2D_H2","acinar","acinar",2
+"HP1526901T2D_H9","ductal","ductal",2
+"HP1526901T2D_I14","alpha","alpha",2
+"HP1526901T2D_I18","co-expression","delta",2
+"HP1526901T2D_I20","beta","beta",2
+"HP1526901T2D_I9","PSC","PSC",2
+"HP1526901T2D_J12","ductal","ductal",2
+"HP1526901T2D_J14","alpha","alpha",2
+"HP1526901T2D_J18","ductal","ductal",2
+"HP1526901T2D_J2","alpha","alpha",2
+"HP1526901T2D_J22","delta","delta",2
+"HP1526901T2D_J4","beta","alpha",2
+"HP1526901T2D_K14","alpha","alpha",2
+"HP1526901T2D_K2","alpha","alpha",2
+"HP1526901T2D_K21","gamma","gamma",2
+"HP1526901T2D_K23","beta","beta",2
+"HP1526901T2D_K6","alpha","alpha",2
+"HP1526901T2D_K8","unclassified endocrine","not applicable",2
+"HP1526901T2D_L1","beta","beta",2
+"HP1526901T2D_L10","unclassified endocrine","not applicable",2
+"HP1526901T2D_L23","alpha","alpha",2
+"HP1526901T2D_L24","delta","delta",2
+"HP1526901T2D_L3","co-expression","co-expression",2
+"HP1526901T2D_L9","unclassified endocrine","not applicable",2
+"HP1526901T2D_M11","unclassified endocrine","not applicable",2
+"HP1526901T2D_M15","beta","beta",2
+"HP1526901T2D_M19","delta","delta",2
+"HP1526901T2D_M22","gamma","gamma",2
+"HP1526901T2D_M23","alpha","alpha",2
+"HP1526901T2D_M5","unclassified endocrine","not applicable",2
+"HP1526901T2D_M8","ductal","ductal",2
+"HP1526901T2D_M9","not applicable","not applicable",2
+"HP1526901T2D_N13","beta","beta",2
+"HP1526901T2D_N15","alpha","alpha",2
+"HP1526901T2D_N16","delta","delta",2
+"HP1526901T2D_N20","gamma","gamma",2
+"HP1526901T2D_O10","delta","gamma",2
+"HP1526901T2D_O15","beta","beta",2
+"HP1526901T2D_O16","unclassified endocrine","not applicable",2
+"HP1526901T2D_O20","unclassified endocrine","not applicable",2
+"HP1526901T2D_P1","delta","alpha",2
+"HP1526901T2D_P13","PSC","PSC",2
+"HP1526901T2D_P18","beta","beta",2
+"HP1526901T2D_P21","co-expression","alpha",2
+"HP1526901T2D_P4","beta","beta",2
+"AZ_A10","gamma","delta",3
+"AZ_A11","delta","alpha",3
+"AZ_A8","beta","beta",3
+"AZ_B11","beta","co-expression",3
+"AZ_C1","beta","alpha",3
+"AZ_C10","beta","beta",3
+"AZ_C5","beta","alpha",3
+"AZ_C7","unclassified endocrine","not applicable",3
+"AZ_D11","unclassified endocrine","not applicable",3
+"AZ_D9","beta","alpha",3
+"AZ_F11","delta","unclassified endocrine",3
+"AZ_G10","delta","alpha",3
+"AZ_G5","gamma","gamma",3
+"AZ_G6","beta","co-expression",3
+"AZ_G7","unclassified endocrine","not applicable",3
+"AZ_H10","acinar","acinar",3
+"AZ_H8","unclassified endocrine","not applicable",3
+"HP1502401_A1","delta","not applicable",3
+"HP1502401_A15","delta","alpha",3
+"HP1502401_A21","unclassified endocrine","unclassified endocrine",3
+"HP1502401_A3","delta","not applicable",3
+"HP1502401_A4","alpha","alpha",3
+"HP1502401_A8","unclassified endocrine","not applicable",3
+"HP1502401_B10","alpha","alpha",3
+"HP1502401_B22","delta","unclassified endocrine",3
+"HP1502401_B23","beta","beta",3
+"HP1502401_B24","beta","beta",3
+"HP1502401_B3","unclassified endocrine","not applicable",3
+"HP1502401_B6","unclassified endocrine","not applicable",3
+"HP1502401_B7","delta","beta",3
+"HP1502401_C16","not applicable","alpha",3
+"HP1502401_C17","unclassified endocrine","not applicable",3
+"HP1502401_C19","unclassified endocrine","not applicable",3
+"HP1502401_C5","delta","delta",3
+"HP1502401_C6","beta","beta",3
+"HP1502401_C7","beta","beta",3
+"HP1502401_D2","acinar","acinar",3
+"HP1502401_D21","unclassified endocrine","not applicable",3
+"HP1502401_D22","beta","beta",3
+"HP1502401_D5","alpha","alpha",3
+"HP1502401_E11","alpha","alpha",3
+"HP1502401_E15","unclassified endocrine","not applicable",3
+"HP1502401_F11","delta","delta",3
+"HP1502401_F15","gamma","gamma",3
+"HP1502401_F19","gamma","alpha",3
+"HP1502401_F4","not applicable","alpha",3
+"HP1502401_G23","acinar","ductal",3
+"HP1502401_G24","beta","beta",3
+"HP1502401_G4","beta","beta",3
+"HP1502401_G6","delta","beta",3
+"HP1502401_G8","alpha","alpha",3
+"HP1502401_H12","beta","beta",3
+"HP1502401_H13","gamma","gamma",3
+"HP1502401_H18","PSC","PSC",3
+"HP1502401_H5","alpha","alpha",3
+"HP1502401_I1","not applicable","alpha",3
+"HP1502401_I17","unclassified endocrine","not applicable",3
+"HP1502401_I22","delta","alpha",3
+"HP1502401_I24","beta","beta",3
+"HP1502401_I8","gamma","gamma",3
+"HP1502401_J12","beta","beta",3
+"HP1502401_J18","gamma","alpha",3
+"HP1502401_J19","ductal","ductal",3
+"HP1502401_J21","gamma","alpha",3
+"HP1502401_J24","acinar","ductal",3
+"HP1502401_J3","delta","not applicable",3
+"HP1502401_J7","MHC class II","mast",3
+"HP1502401_K17","delta","unclassified endocrine",3
+"HP1502401_K19","delta","unclassified endocrine",3
+"HP1502401_K22","delta","alpha",3
+"HP1502401_L13","alpha","alpha",3
+"HP1502401_L15","alpha","alpha",3
+"HP1502401_L17","delta","alpha",3
+"HP1502401_L2","delta","alpha",3
+"HP1502401_L8","unclassified endocrine","not applicable",3
+"HP1502401_M1","delta","alpha",3
+"HP1502401_M2","beta","beta",3
+"HP1502401_M22","acinar","acinar",3
+"HP1502401_M23","delta","alpha",3
+"HP1502401_M5","alpha","alpha",3
+"HP1502401_N17","delta","alpha",3
+"HP1502401_N21","beta","beta",3
+"HP1502401_O17","gamma","alpha",3
+"HP1504101T2D_A21","unclassified endocrine","not applicable",3
+"HP1504101T2D_A6","alpha","alpha",3
+"HP1504101T2D_A9","not applicable","not applicable",3
+"HP1504101T2D_B10","gamma","gamma",3
+"HP1504101T2D_B13","alpha","alpha",3
+"HP1504101T2D_B15","beta","not applicable",3
+"HP1504101T2D_B16","alpha","alpha",3
+"HP1504101T2D_B17","gamma","gamma",3
+"HP1504101T2D_B18","gamma","gamma",3
+"HP1504101T2D_B9","not applicable","not applicable",3
+"HP1504101T2D_C1","endothelial","endothelial",3
+"HP1504101T2D_C20","alpha","alpha",3
+"HP1504101T2D_C22","alpha","alpha",3
+"HP1504101T2D_C24","not applicable","not applicable",3
+"HP1504101T2D_C9","delta","delta",3
+"HP1504101T2D_D1","alpha","alpha",3
+"HP1504101T2D_D20","unclassified endocrine","not applicable",3
+"HP1504101T2D_D23","gamma","gamma",3
+"HP1504101T2D_E1","alpha","alpha",3
+"HP1504101T2D_E11","gamma","gamma",3
+"HP1504101T2D_E13","delta","not applicable",3
+"HP1504101T2D_E19","not applicable","alpha",3
+"HP1504101T2D_E23","alpha","alpha",3
+"HP1504101T2D_F1","acinar","acinar",3
+"HP1504101T2D_F18","PSC","PSC",3
+"HP1504101T2D_F20","gamma","gamma",3
+"HP1504101T2D_F23","unclassified endocrine","not applicable",3
+"HP1504101T2D_F5","not applicable","not applicable",3
+"HP1504101T2D_G13","not applicable","not applicable",3
+"HP1504101T2D_G4","gamma","gamma",3
+"HP1504101T2D_H11","not applicable","not applicable",3
+"HP1504101T2D_H16","not applicable","not applicable",3
+"HP1504101T2D_H18","ductal","ductal",3
+"HP1504101T2D_H19","unclassified endocrine","not applicable",3
+"HP1504101T2D_H20","alpha","alpha",3
+"HP1504101T2D_H3","not applicable","not applicable",3
+"HP1504101T2D_H5","delta","delta",3
+"HP1504101T2D_H7","MHC class II","unclassified",3
+"HP1504101T2D_H9","alpha","alpha",3
+"HP1504101T2D_I15","gamma","gamma",3
+"HP1504101T2D_I16","gamma","gamma",3
+"HP1504101T2D_I21","delta","not applicable",3
+"HP1504101T2D_I7","gamma","gamma",3
+"HP1504101T2D_I9","unclassified endocrine","not applicable",3
+"HP1504101T2D_J13","alpha","alpha",3
+"HP1504101T2D_J22","gamma","gamma",3
+"HP1504101T2D_J7","alpha","alpha",3
+"HP1504101T2D_K15","unclassified endocrine","not applicable",3
+"HP1504101T2D_K23","alpha","alpha",3
+"HP1504101T2D_K24","alpha","alpha",3
+"HP1504101T2D_K9","unclassified endocrine","not applicable",3
+"HP1504101T2D_L1","gamma","gamma",3
+"HP1504101T2D_L14","acinar","acinar",3
+"HP1504101T2D_L19","alpha","alpha",3
+"HP1504101T2D_L2","alpha","alpha",3
+"HP1504101T2D_L22","not applicable","not applicable",3
+"HP1504101T2D_L23","alpha","alpha",3
+"HP1504101T2D_L4","alpha","alpha",3
+"HP1504101T2D_L7","alpha","alpha",3
+"HP1504101T2D_M1","gamma","gamma",3
+"HP1504101T2D_M14","unclassified endocrine","not applicable",3
+"HP1504101T2D_M21","alpha","alpha",3
+"HP1504101T2D_M22","unclassified endocrine","not applicable",3
+"HP1504101T2D_M23","alpha","alpha",3
+"HP1504101T2D_M4","not applicable","alpha",3
+"HP1504101T2D_N13","alpha","alpha",3
+"HP1504101T2D_N14","unclassified endocrine","not applicable",3
+"HP1504101T2D_N15","alpha","alpha",3
+"HP1504101T2D_N18","unclassified endocrine","not applicable",3
+"HP1504101T2D_N20","gamma","gamma",3
+"HP1504101T2D_N21","delta","delta",3
+"HP1504101T2D_N5","alpha","alpha",3
+"HP1504101T2D_N6","alpha","alpha",3
+"HP1504101T2D_O12","beta","beta",3
+"HP1504101T2D_O13","alpha","alpha",3
+"HP1504101T2D_O19","not applicable","not applicable",3
+"HP1504101T2D_O21","not applicable","not applicable",3
+"HP1504101T2D_O23","gamma","gamma",3
+"HP1504101T2D_P10","not applicable","not applicable",3
+"HP1504101T2D_P15","unclassified endocrine","not applicable",3
+"HP1504101T2D_P19","not applicable","not applicable",3
+"HP1504101T2D_P2","alpha","alpha",3
+"HP1504101T2D_P3","PSC","PSC",3
+"HP1504101T2D_P5","delta","delta",3
+"HP1504101T2D_P8","not applicable","not applicable",3
+"HP1504101T2D_P9","gamma","gamma",3
+"HP1504901_A13","not applicable","not applicable",3
+"HP1504901_A23","endothelial","endothelial",3
+"HP1504901_A4","unclassified endocrine","not applicable",3
+"HP1504901_A6","unclassified endocrine","not applicable",3
+"HP1504901_A7","unclassified endocrine","not applicable",3
+"HP1504901_A8","unclassified endocrine","not applicable",3
+"HP1504901_B13","beta","co-expression",3
+"HP1504901_B6","gamma","gamma",3
+"HP1504901_C10","delta","delta",3
+"HP1504901_C13","alpha","epsilon",3
+"HP1504901_C18","unclassified endocrine","not applicable",3
+"HP1504901_C23","gamma","gamma",3
+"HP1504901_C8","unclassified endocrine","not applicable",3
+"HP1504901_D20","unclassified endocrine","not applicable",3
+"HP1504901_D21","delta","alpha",3
+"HP1504901_D4","endothelial","not applicable",3
+"HP1504901_E1","unclassified endocrine","not applicable",3
+"HP1504901_E12","delta","unclassified endocrine",3
+"HP1504901_E21","delta","beta",3
+"HP1504901_E24","gamma","alpha",3
+"HP1504901_F13","delta","beta",3
+"HP1504901_F16","endothelial","endothelial",3
+"HP1504901_F17","beta","beta",3
+"HP1504901_F18","gamma","gamma",3
+"HP1504901_F7","unclassified endocrine","not applicable",3
+"HP1504901_F9","delta","alpha",3
+"HP1504901_G22","unclassified endocrine","not applicable",3
+"HP1504901_G7","unclassified endocrine","not applicable",3
+"HP1504901_H13","unclassified endocrine","not applicable",3
+"HP1504901_H18","delta","beta",3
+"HP1504901_H21","unclassified endocrine","not applicable",3
+"HP1504901_H24","not applicable","not applicable",3
+"HP1504901_H3","unclassified endocrine","not applicable",3
+"HP1504901_H5","beta","beta",3
+"HP1504901_H7","unclassified endocrine","not applicable",3
+"HP1504901_I13","endothelial","endothelial",3
+"HP1504901_I16","unclassified endocrine","not applicable",3
+"HP1504901_I18","gamma","gamma",3
+"HP1504901_I20","unclassified endocrine","not applicable",3
+"HP1504901_I24","gamma","alpha",3
+"HP1504901_I9","unclassified endocrine","not applicable",3
+"HP1504901_J11","unclassified endocrine","not applicable",3
+"HP1504901_J13","not applicable","not applicable",3
+"HP1504901_J14","unclassified endocrine","not applicable",3
+"HP1504901_J2","unclassified endocrine","not applicable",3
+"HP1504901_J24","PSC","PSC",3
+"HP1504901_J5","ductal","ductal",3
+"HP1504901_J6","gamma","alpha",3
+"HP1504901_J8","gamma","alpha",3
+"HP1504901_K1","beta","alpha",3
+"HP1504901_K14","gamma","gamma",3
+"HP1504901_K17","unclassified endocrine","not applicable",3
+"HP1504901_K3","unclassified endocrine","not applicable",3
+"HP1504901_K5","not applicable","alpha",3
+"HP1504901_K6","delta","alpha",3
+"HP1504901_K9","unclassified endocrine","not applicable",3
+"HP1504901_L1","delta","alpha",3
+"HP1504901_L12","gamma","not applicable",3
+"HP1504901_L13","delta","alpha",3
+"HP1504901_L15","unclassified endocrine","not applicable",3
+"HP1504901_L16","delta","ductal",3
+"HP1504901_L17","beta","beta",3
+"HP1504901_L19","unclassified endocrine","not applicable",3
+"HP1504901_M10","unclassified endocrine","not applicable",3
+"HP1504901_M17","unclassified endocrine","not applicable",3
+"HP1504901_M2","unclassified endocrine","not applicable",3
+"HP1504901_M3","gamma","alpha",3
+"HP1504901_M4","gamma","gamma",3
+"HP1504901_N10","unclassified endocrine","not applicable",3
+"HP1504901_N16","alpha","alpha",3
+"HP1504901_N20","unclassified endocrine","not applicable",3
+"HP1504901_N21","PSC","PSC",3
+"HP1504901_N5","unclassified endocrine","not applicable",3
+"HP1504901_N9","gamma","gamma",3
+"HP1504901_O14","delta","ductal",3
+"HP1504901_O20","beta","beta",3
+"HP1504901_O23","unclassified endocrine","not applicable",3
+"HP1504901_O24","gamma","gamma",3
+"HP1504901_P14","beta","beta",3
+"HP1504901_P17","unclassified endocrine","not applicable",3
+"HP1504901_P19","unclassified endocrine","not applicable",3
+"HP1504901_P4","unclassified endocrine","not applicable",3
+"HP1504901_P5","unclassified endocrine","not applicable",3
+"HP1504901_P6","unclassified endocrine","not applicable",3
+"HP1504901_P7","endothelial","ductal",3
+"HP1506401_A12","ductal","ductal",3
+"HP1506401_A13","ductal","not applicable",3
+"HP1506401_A14","beta","unclassified endocrine",3
+"HP1506401_A18","ductal","ductal",3
+"HP1506401_A21","alpha","alpha",3
+"HP1506401_A24","beta","beta",3
+"HP1506401_A5","alpha","alpha",3
+"HP1506401_A9","acinar","acinar",3
+"HP1506401_B1","acinar","acinar",3
+"HP1506401_B19","unclassified endocrine","not applicable",3
+"HP1506401_B20","PSC","PSC",3
+"HP1506401_C21","not applicable","not applicable",3
+"HP1506401_C22","unclassified endocrine","not applicable",3
+"HP1506401_C23","acinar","acinar",3
+"HP1506401_C4","beta","beta",3
+"HP1506401_C5","alpha","alpha",3
+"HP1506401_D11","not applicable","not applicable",3
+"HP1506401_D17","ductal","ductal",3
+"HP1506401_D22","not applicable","not applicable",3
+"HP1506401_D3","acinar","acinar",3
+"HP1506401_D4","not applicable","not applicable",3
+"HP1506401_D7","ductal","ductal",3
+"HP1506401_D9","gamma","gamma",3
+"HP1506401_E1","not applicable","not applicable",3
+"HP1506401_E18","acinar","acinar",3
+"HP1506401_E2","not applicable","not applicable",3
+"HP1506401_E21","alpha","not applicable",3
+"HP1506401_E22","acinar","not applicable",3
+"HP1506401_E8","not applicable","acinar",3
+"HP1506401_F10","ductal","ductal",3
+"HP1506401_F12","beta","beta",3
+"HP1506401_F23","ductal","ductal",3
+"HP1506401_F3","ductal","acinar",3
+"HP1506401_F5","acinar","acinar",3
+"HP1506401_G11","delta","delta",3
+"HP1506401_G17","unclassified endocrine","not applicable",3
+"HP1506401_G22","unclassified endocrine","not applicable",3
+"HP1506401_G8","gamma","gamma",3
+"HP1506401_H13","alpha","alpha",3
+"HP1506401_H15","acinar","acinar",3
+"HP1506401_H18","acinar","acinar",3
+"HP1506401_H19","gamma","gamma",3
+"HP1506401_H23","ductal","ductal",3
+"HP1506401_H3","acinar","acinar",3
+"HP1506401_H7","ductal","ductal",3
+"HP1506401_I12","beta","beta",3
+"HP1506401_I13","acinar","acinar",3
+"HP1506401_I21","ductal","ductal",3
+"HP1506401_J13","unclassified endocrine","not applicable",3
+"HP1506401_J17","beta","beta",3
+"HP1506401_J18","ductal","not applicable",3
+"HP1506401_J2","acinar","acinar",3
+"HP1506401_J20","ductal","ductal",3
+"HP1506401_J21","ductal","ductal",3
+"HP1506401_J24","acinar","acinar",3
+"HP1506401_J5","ductal","ductal",3
+"HP1506401_J8","ductal","ductal",3
+"HP1506401_K12","alpha","alpha",3
+"HP1506401_K13","not applicable","not applicable",3
+"HP1506401_K20","unclassified endocrine","not applicable",3
+"HP1506401_K22","gamma","gamma",3
+"HP1506401_L22","acinar","acinar",3
+"HP1506401_L24","not applicable","not applicable",3
+"HP1506401_L4","ductal","ductal",3
+"HP1506401_L7","acinar","acinar",3
+"HP1506401_L9","acinar","acinar",3
+"HP1506401_M3","acinar","not applicable",3
+"HP1506401_N14","not applicable","not applicable",3
+"HP1506401_N15","acinar","acinar",3
+"HP1506401_N19","gamma","alpha",3
+"HP1506401_N21","acinar","not applicable",3
+"HP1506401_N6","not applicable","not applicable",3
+"HP1506401_N7","gamma","not applicable",3
+"HP1506401_N9","acinar","acinar",3
+"HP1506401_O1","not applicable","not applicable",3
+"HP1506401_O12","acinar","acinar",3
+"HP1506401_O14","unclassified endocrine","not applicable",3
+"HP1506401_O18","acinar","acinar",3
+"HP1506401_O3","alpha","alpha",3
+"HP1506401_O4","ductal","ductal",3
+"HP1506401_O9","not applicable","not applicable",3
+"HP1506401_P15","acinar","not applicable",3
+"HP1506401_P24","not applicable","not applicable",3
+"HP1506401_P3","alpha","alpha",3
+"HP1506401_P7","delta","not applicable",3
+"HP1506401_P9","ductal","not applicable",3
+"HP1507101_A12","beta","beta",3
+"HP1507101_A13","beta","not applicable",3
+"HP1507101_A17","acinar","not applicable",3
+"HP1507101_A2","unclassified endocrine","not applicable",3
+"HP1507101_A20","alpha","alpha",3
+"HP1507101_A21","unclassified endocrine","not applicable",3
+"HP1507101_A22","alpha","alpha",3
+"HP1507101_A9","unclassified endocrine","not applicable",3
+"HP1507101_B12","alpha","alpha",3
+"HP1507101_B16","alpha","alpha",3
+"HP1507101_B17","not applicable","not applicable",3
+"HP1507101_B18","alpha","alpha",3
+"HP1507101_B2","unclassified endocrine","not applicable",3
+"HP1507101_B4","alpha","alpha",3
+"HP1507101_B9","unclassified endocrine","not applicable",3
+"HP1507101_C2","alpha","alpha",3
+"HP1507101_D15","alpha","alpha",3
+"HP1507101_D8","alpha","alpha",3
+"HP1507101_D9","PSC","PSC",3
+"HP1507101_E10","alpha","alpha",3
+"HP1507101_E22","acinar","acinar",3
+"HP1507101_E24","alpha","alpha",3
+"HP1507101_E4","unclassified endocrine","not applicable",3
+"HP1507101_E5","unclassified endocrine","not applicable",3
+"HP1507101_E6","alpha","alpha",3
+"HP1507101_F11","beta","beta",3
+"HP1507101_F18","alpha","alpha",3
+"HP1507101_F20","alpha","alpha",3
+"HP1507101_F21","alpha","not applicable",3
+"HP1507101_F24","unclassified endocrine","not applicable",3
+"HP1507101_F6","unclassified endocrine","not applicable",3
+"HP1507101_F7","alpha","alpha",3
+"HP1507101_G11","alpha","not applicable",3
+"HP1507101_G18","alpha","alpha",3
+"HP1507101_G23","alpha","alpha",3
+"HP1507101_G6","alpha","alpha",3
+"HP1507101_H15","alpha","alpha",3
+"HP1507101_H19","unclassified endocrine","not applicable",3
+"HP1507101_H24","beta","not applicable",3
+"HP1507101_H3","alpha","alpha",3
+"HP1507101_H5","alpha","alpha",3
+"HP1507101_H7","alpha","alpha",3
+"HP1507101_I11","alpha","alpha",3
+"HP1507101_I12","beta","beta",3
+"HP1507101_I2","alpha","alpha",3
+"HP1507101_I21","delta","not applicable",3
+"HP1507101_I8","alpha","alpha",3
+"HP1507101_J8","beta","co-expression",3
+"HP1507101_K17","alpha","not applicable",3
+"HP1507101_K19","delta","not applicable",3
+"HP1507101_K21","delta","not applicable",3
+"HP1507101_K6","alpha","not applicable",3
+"HP1507101_L16","beta","beta",3
+"HP1507101_L21","alpha","alpha",3
+"HP1507101_L6","gamma","not applicable",3
+"HP1507101_L8","MHC class II","not applicable",3
+"HP1507101_M18","alpha","alpha",3
+"HP1507101_M2","alpha","alpha",3
+"HP1507101_N11","unclassified endocrine","not applicable",3
+"HP1507101_N13","beta","beta",3
+"HP1507101_N16","alpha","alpha",3
+"HP1507101_N18","alpha","not applicable",3
+"HP1507101_N2","alpha","alpha",3
+"HP1507101_N21","beta","co-expression",3
+"HP1507101_N9","alpha","alpha",3
+"HP1507101_O13","alpha","alpha",3
+"HP1507101_O3","beta","beta",3
+"HP1507101_O5","alpha","alpha",3
+"HP1507101_O8","beta","beta",3
+"HP1507101_P24","unclassified endocrine","not applicable",3
+"HP1508501T2D_A1","unclassified endocrine","not applicable",3
+"HP1508501T2D_A12","alpha","alpha",3
+"HP1508501T2D_A6","gamma","not applicable",3
+"HP1508501T2D_A9","not applicable","not applicable",3
+"HP1508501T2D_B10","gamma","gamma",3
+"HP1508501T2D_B13","not applicable","not applicable",3
+"HP1508501T2D_C16","delta","delta",3
+"HP1508501T2D_C18","ductal","ductal",3
+"HP1508501T2D_C24","ductal","not applicable",3
+"HP1508501T2D_C6","acinar","not applicable",3
+"HP1508501T2D_C7","alpha","not applicable",3
+"HP1508501T2D_D10","alpha","alpha",3
+"HP1508501T2D_D11","alpha","alpha",3
+"HP1508501T2D_D2","alpha","alpha",3
+"HP1508501T2D_D9","acinar","acinar",3
+"HP1508501T2D_E13","alpha","alpha",3
+"HP1508501T2D_E15","ductal","ductal",3
+"HP1508501T2D_E18","alpha","alpha",3
+"HP1508501T2D_F1","beta","beta",3
+"HP1508501T2D_F17","alpha","alpha",3
+"HP1508501T2D_F21","acinar","acinar",3
+"HP1508501T2D_F5","delta","ductal",3
+"HP1508501T2D_F6","unclassified endocrine","not applicable",3
+"HP1508501T2D_G13","ductal","ductal",3
+"HP1508501T2D_G14","ductal","ductal",3
+"HP1508501T2D_G15","alpha","alpha",3
+"HP1508501T2D_G24","alpha","not applicable",3
+"HP1508501T2D_H17","ductal","ductal",3
+"HP1508501T2D_H21","alpha","alpha",3
+"HP1508501T2D_I1","ductal","ductal",3
+"HP1508501T2D_I16","alpha","alpha",3
+"HP1508501T2D_I18","delta","delta",3
+"HP1508501T2D_I2","alpha","alpha",3
+"HP1508501T2D_I20","alpha","alpha",3
+"HP1508501T2D_J10","not applicable","not applicable",3
+"HP1508501T2D_J21","alpha","alpha",3
+"HP1508501T2D_K13","PSC","not applicable",3
+"HP1508501T2D_K15","acinar","ductal",3
+"HP1508501T2D_K19","alpha","alpha",3
+"HP1508501T2D_K22","ductal","ductal",3
+"HP1508501T2D_K3","ductal","ductal",3
+"HP1508501T2D_K7","ductal","ductal",3
+"HP1508501T2D_L1","not applicable","not applicable",3
+"HP1508501T2D_L14","alpha","alpha",3
+"HP1508501T2D_L16","alpha","alpha",3
+"HP1508501T2D_L3","unclassified endocrine","not applicable",3
+"HP1508501T2D_L6","alpha","alpha",3
+"HP1508501T2D_L8","not applicable","not applicable",3
+"HP1508501T2D_M13","unclassified endocrine","not applicable",3
+"HP1508501T2D_M4","alpha","alpha",3
+"HP1508501T2D_M5","not applicable","alpha",3
+"HP1508501T2D_M6","delta","not applicable",3
+"HP1508501T2D_N12","MHC class II","not applicable",3
+"HP1508501T2D_N16","not applicable","not applicable",3
+"HP1508501T2D_N7","ductal","ductal",3
+"HP1508501T2D_O1","alpha","alpha",3
+"HP1508501T2D_O11","acinar","acinar",3
+"HP1508501T2D_O2","unclassified endocrine","not applicable",3
+"HP1508501T2D_O22","unclassified endocrine","not applicable",3
+"HP1508501T2D_O23","unclassified endocrine","not applicable",3
+"HP1508501T2D_O8","ductal","ductal",3
+"HP1508501T2D_P11","alpha","alpha",3
+"HP1508501T2D_P12","ductal","not applicable",3
+"HP1508501T2D_P22","unclassified endocrine","not applicable",3
+"HP1509101_A10","delta","not applicable",3
+"HP1509101_A15","unclassified endocrine","not applicable",3
+"HP1509101_A16","delta","not applicable",3
+"HP1509101_A18","unclassified endocrine","not applicable",3
+"HP1509101_A19","delta","not applicable",3
+"HP1509101_A3","alpha","alpha",3
+"HP1509101_A8","ductal","ductal",3
+"HP1509101_B11","alpha","not applicable",3
+"HP1509101_B12","PSC","not applicable",3
+"HP1509101_B16","acinar","acinar",3
+"HP1509101_B23","ductal","ductal",3
+"HP1509101_B4","unclassified endocrine","not applicable",3
+"HP1509101_B6","PSC","not applicable",3
+"HP1509101_B9","ductal","not applicable",3
+"HP1509101_C12","alpha","not applicable",3
+"HP1509101_C6","ductal","not applicable",3
+"HP1509101_D14","unclassified endocrine","not applicable",3
+"HP1509101_D16","unclassified endocrine","not applicable",3
+"HP1509101_D18","beta","beta",3
+"HP1509101_D7","delta","not applicable",3
+"HP1509101_D8","alpha","alpha",3
+"HP1509101_E1","unclassified endocrine","not applicable",3
+"HP1509101_E12","unclassified endocrine","not applicable",3
+"HP1509101_E14","ductal","not applicable",3
+"HP1509101_E4","delta","delta",3
+"HP1509101_E5","unclassified endocrine","not applicable",3
+"HP1509101_E8","unclassified endocrine","not applicable",3
+"HP1509101_F11","unclassified endocrine","not applicable",3
+"HP1509101_F13","alpha","not applicable",3
+"HP1509101_F15","not applicable","not applicable",3
+"HP1509101_F2","ductal","not applicable",3
+"HP1509101_F22","ductal","ductal",3
+"HP1509101_G10","ductal","not applicable",3
+"HP1509101_G14","alpha","not applicable",3
+"HP1509101_G15","delta","not applicable",3
+"HP1509101_G16","alpha","alpha",3
+"HP1509101_G19","alpha","alpha",3
+"HP1509101_G23","alpha","not applicable",3
+"HP1509101_G4","ductal","not applicable",3
+"HP1509101_G9","beta","beta",3
+"HP1509101_H14","alpha","not applicable",3
+"HP1509101_H15","delta","not applicable",3
+"HP1509101_H16","unclassified endocrine","not applicable",3
+"HP1509101_H2","unclassified endocrine","not applicable",3
+"HP1509101_H20","ductal","ductal",3
+"HP1509101_H21","alpha","alpha",3
+"HP1509101_H22","alpha","alpha",3
+"HP1509101_I10","alpha","alpha",3
+"HP1509101_I11","beta","not applicable",3
+"HP1509101_I19","delta","not applicable",3
+"HP1509101_J1","delta","not applicable",3
+"HP1509101_J10","unclassified endocrine","not applicable",3
+"HP1509101_J20","alpha","alpha",3
+"HP1509101_K12","delta","not applicable",3
+"HP1509101_K14","unclassified endocrine","not applicable",3
+"HP1509101_K17","delta","not applicable",3
+"HP1509101_K18","ductal","not applicable",3
+"HP1509101_K2","delta","not applicable",3
+"HP1509101_K22","alpha","alpha",3
+"HP1509101_K8","gamma","not applicable",3
+"HP1509101_L3","ductal","not applicable",3
+"HP1509101_L4","unclassified endocrine","not applicable",3
+"HP1509101_M2","unclassified endocrine","not applicable",3
+"HP1509101_M24","gamma","not applicable",3
+"HP1509101_M4","unclassified endocrine","not applicable",3
+"HP1509101_N18","delta","alpha",3
+"HP1509101_N21","beta","not applicable",3
+"HP1509101_O13","alpha","alpha",3
+"HP1509101_O18","beta","beta",3
+"HP1509101_O20","alpha","not applicable",3
+"HP1509101_O5","unclassified endocrine","not applicable",3
+"HP1509101_P10","gamma","not applicable",3
+"HP1509101_P22","alpha","not applicable",3
+"HP1509101_P23","PSC","PSC",3
+"HP1509101_P5","ductal","not applicable",3
+"HP1509101_P9","alpha","ductal",3
+"HP1525301T2D_A10","unclassified endocrine","not applicable",3
+"HP1525301T2D_A13","ductal","ductal",3
+"HP1525301T2D_A16","gamma","gamma",3
+"HP1525301T2D_A17","acinar","ductal",3
+"HP1525301T2D_A19","ductal","ductal",3
+"HP1525301T2D_A3","alpha","alpha",3
+"HP1525301T2D_A9","alpha","alpha",3
+"HP1525301T2D_B18","alpha","alpha",3
+"HP1525301T2D_B5","gamma","gamma",3
+"HP1525301T2D_B9","unclassified endocrine","not applicable",3
+"HP1525301T2D_C13","ductal","ductal",3
+"HP1525301T2D_C19","ductal","ductal",3
+"HP1525301T2D_C20","unclassified endocrine","not applicable",3
+"HP1525301T2D_C23","acinar","acinar",3
+"HP1525301T2D_C6","ductal","ductal",3
+"HP1525301T2D_D1","ductal","ductal",3
+"HP1525301T2D_D22","ductal","ductal",3
+"HP1525301T2D_D5","ductal","not applicable",3
+"HP1525301T2D_D8","ductal","ductal",3
+"HP1525301T2D_E14","unclassified endocrine","not applicable",3
+"HP1525301T2D_E17","ductal","ductal",3
+"HP1525301T2D_E18","unclassified endocrine","not applicable",3
+"HP1525301T2D_E2","acinar","acinar",3
+"HP1525301T2D_E21","not applicable","not applicable",3
+"HP1525301T2D_E4","ductal","not applicable",3
+"HP1525301T2D_F11","unclassified endocrine","not applicable",3
+"HP1525301T2D_F17","not applicable","not applicable",3
+"HP1525301T2D_F18","unclassified endocrine","not applicable",3
+"HP1525301T2D_F20","gamma","not applicable",3
+"HP1525301T2D_F21","ductal","ductal",3
+"HP1525301T2D_F24","PSC","PSC",3
+"HP1525301T2D_F3","acinar","acinar",3
+"HP1525301T2D_F6","unclassified endocrine","not applicable",3
+"HP1525301T2D_G12","not applicable","not applicable",3
+"HP1525301T2D_G16","unclassified endocrine","not applicable",3
+"HP1525301T2D_G8","beta","beta",3
+"HP1525301T2D_H1","ductal","ductal",3
+"HP1525301T2D_H12","alpha","alpha",3
+"HP1525301T2D_H13","unclassified endocrine","not applicable",3
+"HP1525301T2D_H15","unclassified endocrine","not applicable",3
+"HP1525301T2D_H3","ductal","ductal",3
+"HP1525301T2D_I11","MHC class II","MHC class II",3
+"HP1525301T2D_I21","alpha","alpha",3
+"HP1525301T2D_I23","ductal","ductal",3
+"HP1525301T2D_I24","ductal","ductal",3
+"HP1525301T2D_J1","alpha","alpha",3
+"HP1525301T2D_J11","unclassified endocrine","not applicable",3
+"HP1525301T2D_J23","acinar","acinar",3
+"HP1525301T2D_J3","not applicable","not applicable",3
+"HP1525301T2D_J6","unclassified endocrine","not applicable",3
+"HP1525301T2D_K11","ductal","ductal",3
+"HP1525301T2D_K16","ductal","ductal",3
+"HP1525301T2D_K20","unclassified endocrine","not applicable",3
+"HP1525301T2D_K24","unclassified endocrine","not applicable",3
+"HP1525301T2D_L2","ductal","ductal",3
+"HP1525301T2D_L22","alpha","alpha",3
+"HP1525301T2D_L23","ductal","ductal",3
+"HP1525301T2D_L3","acinar","not applicable",3
+"HP1525301T2D_L4","ductal","ductal",3
+"HP1525301T2D_L6","ductal","ductal",3
+"HP1525301T2D_M14","beta","co-expression",3
+"HP1525301T2D_M5","acinar","acinar",3
+"HP1525301T2D_N2","unclassified endocrine","not applicable",3
+"HP1525301T2D_N22","not applicable","unclassified endocrine",3
+"HP1525301T2D_N9","alpha","alpha",3
+"HP1525301T2D_O13","alpha","alpha",3
+"HP1525301T2D_O14","ductal","ductal",3
+"HP1525301T2D_O15","not applicable","not applicable",3
+"HP1525301T2D_O16","ductal","ductal",3
+"HP1525301T2D_O2","not applicable","delta",3
+"HP1525301T2D_O9","PSC","PSC",3
+"HP1525301T2D_P17","alpha","alpha",3
+"HP1525301T2D_P23","ductal","ductal",3
+"HP1525301T2D_P9","alpha","alpha",3
+"HP1526901T2D_A15","gamma","gamma",3
+"HP1526901T2D_A21","acinar","ductal",3
+"HP1526901T2D_A23","delta","co-expression",3
+"HP1526901T2D_A3","delta","alpha",3
+"HP1526901T2D_B14","alpha","alpha",3
+"HP1526901T2D_B15","unclassified endocrine","not applicable",3
+"HP1526901T2D_B23","acinar","ductal",3
+"HP1526901T2D_B24","ductal","ductal",3
+"HP1526901T2D_B6","delta","delta",3
+"HP1526901T2D_B8","unclassified endocrine","not applicable",3
+"HP1526901T2D_C10","beta","beta",3
+"HP1526901T2D_C15","delta","delta",3
+"HP1526901T2D_D12","ductal","ductal",3
+"HP1526901T2D_D15","not applicable","not applicable",3
+"HP1526901T2D_D23","unclassified endocrine","not applicable",3
+"HP1526901T2D_E1","ductal","ductal",3
+"HP1526901T2D_E12","unclassified endocrine","not applicable",3
+"HP1526901T2D_E21","delta","delta",3
+"HP1526901T2D_E3","delta","delta",3
+"HP1526901T2D_E4","gamma","gamma",3
+"HP1526901T2D_E9","ductal","ductal",3
+"HP1526901T2D_F13","unclassified endocrine","not applicable",3
+"HP1526901T2D_F15","acinar","ductal",3
+"HP1526901T2D_F21","alpha","alpha",3
+"HP1526901T2D_F5","beta","beta",3
+"HP1526901T2D_F7","gamma","gamma",3
+"HP1526901T2D_G15","unclassified endocrine","not applicable",3
+"HP1526901T2D_G18","alpha","alpha",3
+"HP1526901T2D_G20","unclassified endocrine","not applicable",3
+"HP1526901T2D_G22","ductal","ductal",3
+"HP1526901T2D_G23","delta","delta",3
+"HP1526901T2D_H1","unclassified endocrine","not applicable",3
+"HP1526901T2D_H12","alpha","alpha",3
+"HP1526901T2D_H24","beta","beta",3
+"HP1526901T2D_H8","ductal","ductal",3
+"HP1526901T2D_I1","ductal","ductal",3
+"HP1526901T2D_I10","delta","delta",3
+"HP1526901T2D_I13","beta","beta",3
+"HP1526901T2D_I16","alpha","alpha",3
+"HP1526901T2D_I19","delta","delta",3
+"HP1526901T2D_I2","unclassified endocrine","not applicable",3
+"HP1526901T2D_I4","alpha","alpha",3
+"HP1526901T2D_J11","not applicable","ductal",3
+"HP1526901T2D_J13","delta","alpha",3
+"HP1526901T2D_J16","unclassified endocrine","not applicable",3
+"HP1526901T2D_J19","alpha","alpha",3
+"HP1526901T2D_J24","alpha","alpha",3
+"HP1526901T2D_J5","beta","beta",3
+"HP1526901T2D_J7","unclassified endocrine","not applicable",3
+"HP1526901T2D_K10","alpha","alpha",3
+"HP1526901T2D_K12","gamma","gamma",3
+"HP1526901T2D_K3","beta","beta",3
+"HP1526901T2D_K5","unclassified endocrine","not applicable",3
+"HP1526901T2D_K7","beta","beta",3
+"HP1526901T2D_L11","alpha","alpha",3
+"HP1526901T2D_L20","unclassified endocrine","not applicable",3
+"HP1526901T2D_L21","co-expression","alpha",3
+"HP1526901T2D_M18","acinar","acinar",3
+"HP1526901T2D_M24","beta","co-expression",3
+"HP1526901T2D_M4","alpha","alpha",3
+"HP1526901T2D_N11","ductal","ductal",3
+"HP1526901T2D_N17","unclassified endocrine","not applicable",3
+"HP1526901T2D_N2","alpha","alpha",3
+"HP1526901T2D_N8","alpha","alpha",3
+"HP1526901T2D_N9","gamma","alpha",3
+"HP1526901T2D_O14","beta","beta",3
+"HP1526901T2D_O17","beta","beta",3
+"HP1526901T2D_O4","ductal","ductal",3
+"HP1526901T2D_O6","alpha","alpha",3
+"HP1526901T2D_O7","delta","delta",3
+"HP1526901T2D_O8","beta","beta",3
+"HP1526901T2D_O9","delta","delta",3
+"HP1526901T2D_P10","beta","beta",3
+"HP1526901T2D_P11","beta","beta",3
+"HP1526901T2D_P12","alpha","alpha",3
+"HP1526901T2D_P14","alpha","alpha",3
+"HP1526901T2D_P19","alpha","alpha",3
+"HP1526901T2D_P20","alpha","alpha",3
+"HP1526901T2D_P22","delta","delta",3
+"AZ_A12","delta","delta",4
+"AZ_A4","delta","not applicable",4
+"AZ_A6","alpha","alpha",4
+"AZ_B3","alpha","alpha",4
+"AZ_B6","alpha","not applicable",4
+"AZ_C12","delta","not applicable",4
+"AZ_D8","gamma","gamma",4
+"AZ_E12","alpha","alpha",4
+"AZ_E4","alpha","alpha",4
+"AZ_E6","unclassified endocrine","not applicable",4
+"AZ_F1","beta","beta",4
+"AZ_F12","delta","not applicable",4
+"AZ_F6","acinar","acinar",4
+"AZ_G1","alpha","alpha",4
+"AZ_G11","unclassified endocrine","not applicable",4
+"AZ_G3","alpha","alpha",4
+"AZ_G4","alpha","alpha",4
+"AZ_H4","MHC class II","endothelial",4
+"AZ_H9","alpha","alpha",4
+"HP1502401_A12","alpha","alpha",4
+"HP1502401_A16","unclassified endocrine","not applicable",4
+"HP1502401_A2","delta","delta",4
+"HP1502401_A24","delta","delta",4
+"HP1502401_A5","unclassified endocrine","not applicable",4
+"HP1502401_B11","gamma","gamma",4
+"HP1502401_B15","gamma","gamma",4
+"HP1502401_B16","alpha","alpha",4
+"HP1502401_B21","beta","beta",4
+"HP1502401_B5","alpha","alpha",4
+"HP1502401_B8","delta","delta",4
+"HP1502401_C1","acinar","acinar",4
+"HP1502401_C12","ductal","ductal",4
+"HP1502401_C2","unclassified endocrine","unclassified endocrine",4
+"HP1502401_C22","unclassified endocrine","unclassified endocrine",4
+"HP1502401_C9","unclassified endocrine","not applicable",4
+"HP1502401_D10","acinar","acinar",4
+"HP1502401_D13","beta","beta",4
+"HP1502401_D17","delta","delta",4
+"HP1502401_D18","ductal","ductal",4
+"HP1502401_D19","unclassified endocrine","not applicable",4
+"HP1502401_D23","unclassified endocrine","unclassified endocrine",4
+"HP1502401_D8","alpha","alpha",4
+"HP1502401_E16","alpha","alpha",4
+"HP1502401_E19","beta","beta",4
+"HP1502401_E4","unclassified endocrine","not applicable",4
+"HP1502401_F14","unclassified endocrine","not applicable",4
+"HP1502401_F17","gamma","gamma",4
+"HP1502401_F22","beta","beta",4
+"HP1502401_F3","unclassified endocrine","not applicable",4
+"HP1502401_F5","unclassified endocrine","not applicable",4
+"HP1502401_G1","delta","not applicable",4
+"HP1502401_G11","gamma","gamma",4
+"HP1502401_G12","gamma","gamma",4
+"HP1502401_G15","unclassified endocrine","not applicable",4
+"HP1502401_G2","unclassified endocrine","not applicable",4
+"HP1502401_G21","unclassified endocrine","unclassified endocrine",4
+"HP1502401_G3","delta","delta",4
+"HP1502401_G5","beta","beta",4
+"HP1502401_H16","alpha","alpha",4
+"HP1502401_H21","acinar","ductal",4
+"HP1502401_H22","beta","beta",4
+"HP1502401_H8","alpha","alpha",4
+"HP1502401_I11","unclassified endocrine","not applicable",4
+"HP1502401_I14","acinar","acinar",4
+"HP1502401_I21","ductal","ductal",4
+"HP1502401_J10","beta","beta",4
+"HP1502401_K2","alpha","alpha",4
+"HP1502401_K21","alpha","alpha",4
+"HP1502401_K23","delta","gamma",4
+"HP1502401_K7","unclassified endocrine","unclassified endocrine",4
+"HP1502401_K8","unclassified endocrine","not applicable",4
+"HP1502401_L11","alpha","alpha",4
+"HP1502401_L12","alpha","alpha",4
+"HP1502401_L18","alpha","ductal",4
+"HP1502401_L3","alpha","alpha",4
+"HP1502401_M15","alpha","alpha",4
+"HP1502401_M24","alpha","alpha",4
+"HP1502401_M3","alpha","alpha",4
+"HP1502401_N1","beta","beta",4
+"HP1502401_N14","unclassified endocrine","not applicable",4
+"HP1502401_N19","alpha","not applicable",4
+"HP1502401_N2","acinar","acinar",4
+"HP1502401_N23","gamma","gamma",4
+"HP1502401_N24","not applicable","not applicable",4
+"HP1502401_O1","alpha","alpha",4
+"HP1502401_O12","alpha","not applicable",4
+"HP1502401_O2","alpha","alpha",4
+"HP1502401_O21","alpha","alpha",4
+"HP1502401_O23","alpha","alpha",4
+"HP1502401_O4","alpha","alpha",4
+"HP1502401_O6","delta","delta",4
+"HP1504101T2D_A11","unclassified endocrine","not applicable",4
+"HP1504101T2D_A12","alpha","alpha",4
+"HP1504101T2D_A17","gamma","gamma",4
+"HP1504101T2D_A22","not applicable","not applicable",4
+"HP1504101T2D_A4","gamma","gamma",4
+"HP1504101T2D_A5","alpha","alpha",4
+"HP1504101T2D_B11","alpha","alpha",4
+"HP1504101T2D_B6","beta","beta",4
+"HP1504101T2D_C15","alpha","alpha",4
+"HP1504101T2D_C17","alpha","alpha",4
+"HP1504101T2D_C3","unclassified endocrine","not applicable",4
+"HP1504101T2D_C4","alpha","alpha",4
+"HP1504101T2D_C5","unclassified endocrine","not applicable",4
+"HP1504101T2D_D12","gamma","alpha",4
+"HP1504101T2D_D13","alpha","alpha",4
+"HP1504101T2D_D18","gamma","gamma",4
+"HP1504101T2D_D19","alpha","alpha",4
+"HP1504101T2D_D24","gamma","gamma",4
+"HP1504101T2D_D7","alpha","alpha",4
+"HP1504101T2D_D9","beta","beta",4
+"HP1504101T2D_E10","alpha","alpha",4
+"HP1504101T2D_E2","unclassified endocrine","not applicable",4
+"HP1504101T2D_E21","delta","alpha",4
+"HP1504101T2D_E22","alpha","alpha",4
+"HP1504101T2D_E3","gamma","alpha",4
+"HP1504101T2D_E7","gamma","gamma",4
+"HP1504101T2D_F10","alpha","alpha",4
+"HP1504101T2D_F13","gamma","gamma",4
+"HP1504101T2D_F14","gamma","gamma",4
+"HP1504101T2D_F17","delta","delta",4
+"HP1504101T2D_F19","alpha","alpha",4
+"HP1504101T2D_F21","not applicable","not applicable",4
+"HP1504101T2D_F22","alpha","alpha",4
+"HP1504101T2D_F24","not applicable","not applicable",4
+"HP1504101T2D_F4","unclassified endocrine","not applicable",4
+"HP1504101T2D_F7","beta","alpha",4
+"HP1504101T2D_F9","not applicable","not applicable",4
+"HP1504101T2D_G19","alpha","alpha",4
+"HP1504101T2D_G20","unclassified endocrine","not applicable",4
+"HP1504101T2D_H15","alpha","alpha",4
+"HP1504101T2D_H4","alpha","alpha",4
+"HP1504101T2D_I13","not applicable","not applicable",4
+"HP1504101T2D_I18","alpha","alpha",4
+"HP1504101T2D_I23","alpha","alpha",4
+"HP1504101T2D_I5","alpha","alpha",4
+"HP1504101T2D_J11","alpha","alpha",4
+"HP1504101T2D_J14","delta","delta",4
+"HP1504101T2D_J16","acinar","acinar",4
+"HP1504101T2D_J17","delta","not applicable",4
+"HP1504101T2D_J20","alpha","alpha",4
+"HP1504101T2D_J4","not applicable","not applicable",4
+"HP1504101T2D_J8","not applicable","not applicable",4
+"HP1504101T2D_K19","acinar","acinar",4
+"HP1504101T2D_K2","gamma","gamma",4
+"HP1504101T2D_K21","not applicable","not applicable",4
+"HP1504101T2D_K3","unclassified endocrine","not applicable",4
+"HP1504101T2D_L12","unclassified endocrine","not applicable",4
+"HP1504101T2D_L3","alpha","alpha",4
+"HP1504101T2D_L8","alpha","alpha",4
+"HP1504101T2D_M24","gamma","alpha",4
+"HP1504101T2D_M8","alpha","epsilon",4
+"HP1504101T2D_N24","alpha","alpha",4
+"HP1504101T2D_N4","not applicable","not applicable",4
+"HP1504101T2D_O1","not applicable","not applicable",4
+"HP1504101T2D_O10","alpha","alpha",4
+"HP1504101T2D_O11","gamma","gamma",4
+"HP1504101T2D_O17","not applicable","not applicable",4
+"HP1504101T2D_O24","ductal","ductal",4
+"HP1504101T2D_O3","alpha","alpha",4
+"HP1504101T2D_P14","PSC","alpha",4
+"HP1504101T2D_P23","not applicable","not applicable",4
+"HP1504101T2D_P4","not applicable","not applicable",4
+"HP1504101T2D_P6","delta","not applicable",4
+"HP1504901_A1","unclassified endocrine","not applicable",4
+"HP1504901_A11","unclassified endocrine","not applicable",4
+"HP1504901_A17","unclassified endocrine","not applicable",4
+"HP1504901_A20","unclassified endocrine","not applicable",4
+"HP1504901_A21","delta","delta",4
+"HP1504901_B1","alpha","alpha",4
+"HP1504901_B12","delta","not applicable",4
+"HP1504901_B15","alpha","alpha",4
+"HP1504901_B16","alpha","alpha",4
+"HP1504901_B22","beta","beta",4
+"HP1504901_B23","gamma","gamma",4
+"HP1504901_B4","delta","delta",4
+"HP1504901_C1","unclassified endocrine","not applicable",4
+"HP1504901_C19","unclassified endocrine","not applicable",4
+"HP1504901_C2","MHC class II","unclassified",4
+"HP1504901_C20","delta","not applicable",4
+"HP1504901_C22","unclassified endocrine","unclassified endocrine",4
+"HP1504901_C5","unclassified endocrine","not applicable",4
+"HP1504901_D16","alpha","alpha",4
+"HP1504901_D18","delta","epsilon",4
+"HP1504901_D24","gamma","gamma",4
+"HP1504901_D5","alpha","alpha",4
+"HP1504901_E13","unclassified endocrine","not applicable",4
+"HP1504901_E17","unclassified endocrine","not applicable",4
+"HP1504901_E19","unclassified endocrine","not applicable",4
+"HP1504901_E22","unclassified endocrine","not applicable",4
+"HP1504901_E23","delta","gamma",4
+"HP1504901_E3","unclassified endocrine","not applicable",4
+"HP1504901_F1","gamma","gamma",4
+"HP1504901_F10","alpha","alpha",4
+"HP1504901_F11","beta","beta",4
+"HP1504901_F19","alpha","alpha",4
+"HP1504901_F20","alpha","alpha",4
+"HP1504901_F8","ductal","ductal",4
+"HP1504901_G1","unclassified endocrine","not applicable",4
+"HP1504901_G10","MHC class II","endothelial",4
+"HP1504901_G14","delta","not applicable",4
+"HP1504901_G20","gamma","gamma",4
+"HP1504901_G21","alpha","beta",4
+"HP1504901_G23","unclassified endocrine","not applicable",4
+"HP1504901_G3","alpha","alpha",4
+"HP1504901_G6","alpha","alpha",4
+"HP1504901_H16","acinar","acinar",4
+"HP1504901_H8","alpha","not applicable",4
+"HP1504901_I12","alpha","alpha",4
+"HP1504901_I14","unclassified endocrine","not applicable",4
+"HP1504901_I5","unclassified endocrine","not applicable",4
+"HP1504901_I7","delta","delta",4
+"HP1504901_J1","unclassified endocrine","not applicable",4
+"HP1504901_J17","alpha","alpha",4
+"HP1504901_J7","beta","beta",4
+"HP1504901_K10","delta","not applicable",4
+"HP1504901_K12","alpha","alpha",4
+"HP1504901_K21","delta","not applicable",4
+"HP1504901_K22","beta","beta",4
+"HP1504901_L10","not applicable","not applicable",4
+"HP1504901_L11","unclassified endocrine","not applicable",4
+"HP1504901_L14","alpha","alpha",4
+"HP1504901_L20","beta","beta",4
+"HP1504901_L21","unclassified endocrine","alpha",4
+"HP1504901_L6","unclassified endocrine","not applicable",4
+"HP1504901_L8","beta","beta",4
+"HP1504901_L9","gamma","gamma",4
+"HP1504901_M18","alpha","alpha",4
+"HP1504901_M21","delta","delta",4
+"HP1504901_M23","unclassified endocrine","not applicable",4
+"HP1504901_N12","alpha","alpha",4
+"HP1504901_N6","unclassified endocrine","not applicable",4
+"HP1504901_N8","beta","beta",4
+"HP1504901_O11","ductal","ductal",4
+"HP1504901_O4","acinar","ductal",4
+"HP1504901_O5","gamma","gamma",4
+"HP1504901_O9","alpha","alpha",4
+"HP1504901_P1","unclassified endocrine","not applicable",4
+"HP1504901_P12","unclassified endocrine","not applicable",4
+"HP1504901_P2","unclassified endocrine","not applicable",4
+"HP1504901_P20","alpha","alpha",4
+"HP1504901_P21","beta","alpha",4
+"HP1504901_P22","unclassified endocrine","not applicable",4
+"HP1504901_P23","unclassified endocrine","not applicable",4
+"HP1504901_P9","PSC","PSC",4
+"HP1506401_A1","unclassified endocrine","not applicable",4
+"HP1506401_A10","unclassified endocrine","not applicable",4
+"HP1506401_A15","beta","beta",4
+"HP1506401_A17","beta","beta",4
+"HP1506401_A6","acinar","acinar",4
+"HP1506401_A7","acinar","acinar",4
+"HP1506401_A8","unclassified endocrine","not applicable",4
+"HP1506401_B10","delta","not applicable",4
+"HP1506401_B16","acinar","acinar",4
+"HP1506401_B9","acinar","not applicable",4
+"HP1506401_C13","acinar","acinar",4
+"HP1506401_C14","not applicable","not applicable",4
+"HP1506401_C15","beta","beta",4
+"HP1506401_C16","ductal","ductal",4
+"HP1506401_C19","unclassified endocrine","not applicable",4
+"HP1506401_D1","ductal","ductal",4
+"HP1506401_D12","acinar","acinar",4
+"HP1506401_D13","beta","beta",4
+"HP1506401_D16","not applicable","not applicable",4
+"HP1506401_D21","acinar","not applicable",4
+"HP1506401_D23","acinar","not applicable",4
+"HP1506401_D24","acinar","acinar",4
+"HP1506401_D6","not applicable","not applicable",4
+"HP1506401_E13","delta","not applicable",4
+"HP1506401_E20","acinar","acinar",4
+"HP1506401_E24","acinar","acinar",4
+"HP1506401_F11","beta","beta",4
+"HP1506401_F17","gamma","alpha",4
+"HP1506401_F20","co-expression","not applicable",4
+"HP1506401_F6","unclassified endocrine","not applicable",4
+"HP1506401_F7","ductal","not applicable",4
+"HP1506401_G15","acinar","not applicable",4
+"HP1506401_G20","ductal","ductal",4
+"HP1506401_G4","acinar","acinar",4
+"HP1506401_G5","alpha","alpha",4
+"HP1506401_H10","unclassified endocrine","not applicable",4
+"HP1506401_H16","acinar","acinar",4
+"HP1506401_H17","delta","not applicable",4
+"HP1506401_H24","not applicable","not applicable",4
+"HP1506401_H6","ductal","ductal",4
+"HP1506401_I15","ductal","acinar",4
+"HP1506401_I17","gamma","gamma",4
+"HP1506401_I2","gamma","gamma",4
+"HP1506401_I24","ductal","ductal",4
+"HP1506401_I3","ductal","not applicable",4
+"HP1506401_I4","ductal","ductal",4
+"HP1506401_J12","delta","not applicable",4
+"HP1506401_J4","beta","alpha",4
+"HP1506401_J7","ductal","ductal",4
+"HP1506401_J9","acinar","acinar",4
+"HP1506401_K1","beta","beta",4
+"HP1506401_K10","unclassified endocrine","not applicable",4
+"HP1506401_K21","beta","beta",4
+"HP1506401_K3","unclassified endocrine","not applicable",4
+"HP1506401_K7","unclassified endocrine","not applicable",4
+"HP1506401_K9","unclassified endocrine","not applicable",4
+"HP1506401_L11","acinar","acinar",4
+"HP1506401_L14","beta","co-expression",4
+"HP1506401_L15","not applicable","not applicable",4
+"HP1506401_L16","delta","not applicable",4
+"HP1506401_L2","beta","co-expression",4
+"HP1506401_L20","ductal","ductal",4
+"HP1506401_L3","acinar","acinar",4
+"HP1506401_M23","unclassified endocrine","not applicable",4
+"HP1506401_M6","gamma","gamma",4
+"HP1506401_N12","not applicable","not applicable",4
+"HP1506401_N24","acinar","acinar",4
+"HP1506401_O10","beta","beta",4
+"HP1506401_O19","ductal","not applicable",4
+"HP1506401_O23","alpha","alpha",4
+"HP1506401_O7","ductal","acinar",4
+"HP1506401_P17","acinar","acinar",4
+"HP1506401_P19","not applicable","alpha",4
+"HP1506401_P2","delta","not applicable",4
+"HP1506401_P20","beta","co-expression",4
+"HP1506401_P21","ductal","ductal",4
+"HP1506401_P22","ductal","ductal",4
+"HP1507101_A11","delta","not applicable",4
+"HP1507101_A19","delta","not applicable",4
+"HP1507101_A4","alpha","alpha",4
+"HP1507101_A8","delta","not applicable",4
+"HP1507101_B15","beta","co-expression",4
+"HP1507101_B19","alpha","alpha",4
+"HP1507101_B20","gamma","gamma",4
+"HP1507101_B21","unclassified endocrine","not applicable",4
+"HP1507101_B22","delta","not applicable",4
+"HP1507101_B8","ductal","not applicable",4
+"HP1507101_C12","beta","beta",4
+"HP1507101_C17","delta","not applicable",4
+"HP1507101_C19","gamma","not applicable",4
+"HP1507101_C21","unclassified endocrine","not applicable",4
+"HP1507101_C24","alpha","not applicable",4
+"HP1507101_C3","unclassified endocrine","not applicable",4
+"HP1507101_C4","alpha","alpha",4
+"HP1507101_D10","not applicable","endothelial",4
+"HP1507101_D16","alpha","not applicable",4
+"HP1507101_D21","alpha","not applicable",4
+"HP1507101_D24","alpha","not applicable",4
+"HP1507101_E14","beta","beta",4
+"HP1507101_E17","delta","not applicable",4
+"HP1507101_E2","alpha","alpha",4
+"HP1507101_E21","gamma","not applicable",4
+"HP1507101_F13","alpha","alpha",4
+"HP1507101_G12","alpha","alpha",4
+"HP1507101_H12","alpha","alpha",4
+"HP1507101_H16","ductal","ductal",4
+"HP1507101_I16","alpha","alpha",4
+"HP1507101_I3","delta","not applicable",4
+"HP1507101_I4","alpha","alpha",4
+"HP1507101_J11","alpha","alpha",4
+"HP1507101_J12","PSC","PSC",4
+"HP1507101_J16","unclassified endocrine","not applicable",4
+"HP1507101_J20","beta","beta",4
+"HP1507101_J21","alpha","alpha",4
+"HP1507101_J24","alpha","alpha",4
+"HP1507101_J9","gamma","not applicable",4
+"HP1507101_K14","unclassified endocrine","not applicable",4
+"HP1507101_K18","unclassified endocrine","not applicable",4
+"HP1507101_K2","alpha","not applicable",4
+"HP1507101_K22","alpha","not applicable",4
+"HP1507101_L11","alpha","alpha",4
+"HP1507101_L18","alpha","alpha",4
+"HP1507101_L2","alpha","alpha",4
+"HP1507101_M1","unclassified endocrine","not applicable",4
+"HP1507101_M11","unclassified endocrine","not applicable",4
+"HP1507101_M16","MHC class II","not applicable",4
+"HP1507101_M4","alpha","alpha",4
+"HP1507101_M7","unclassified endocrine","not applicable",4
+"HP1507101_N10","delta","not applicable",4
+"HP1507101_N17","ductal","not applicable",4
+"HP1507101_N19","alpha","alpha",4
+"HP1507101_N20","alpha","alpha",4
+"HP1507101_N3","beta","not applicable",4
+"HP1507101_N4","alpha","alpha",4
+"HP1507101_N6","beta","beta",4
+"HP1507101_O16","gamma","alpha",4
+"HP1507101_O2","delta","not applicable",4
+"HP1507101_O4","alpha","not applicable",4
+"HP1507101_O7","alpha","not applicable",4
+"HP1507101_P1","ductal","ductal",4
+"HP1507101_P12","alpha","alpha",4
+"HP1507101_P21","delta","delta",4
+"HP1507101_P6","alpha","not applicable",4
+"HP1507101_P9","unclassified endocrine","not applicable",4
+"HP1508501T2D_A10","co-expression","beta",4
+"HP1508501T2D_A17","ductal","ductal",4
+"HP1508501T2D_A21","unclassified endocrine","not applicable",4
+"HP1508501T2D_B17","ductal","ductal",4
+"HP1508501T2D_B18","ductal","ductal",4
+"HP1508501T2D_B19","ductal","ductal",4
+"HP1508501T2D_B21","beta","co-expression",4
+"HP1508501T2D_B3","alpha","alpha",4
+"HP1508501T2D_B6","delta","not applicable",4
+"HP1508501T2D_B7","delta","not applicable",4
+"HP1508501T2D_C10","alpha","alpha",4
+"HP1508501T2D_C11","ductal","ductal",4
+"HP1508501T2D_C13","alpha","alpha",4
+"HP1508501T2D_C17","gamma","beta",4
+"HP1508501T2D_C20","alpha","alpha",4
+"HP1508501T2D_C5","not applicable","not applicable",4
+"HP1508501T2D_C8","delta","delta",4
+"HP1508501T2D_D16","alpha","alpha",4
+"HP1508501T2D_E11","ductal","ductal",4
+"HP1508501T2D_E22","alpha","alpha",4
+"HP1508501T2D_E3","alpha","not applicable",4
+"HP1508501T2D_E4","acinar","acinar",4
+"HP1508501T2D_E8","alpha","alpha",4
+"HP1508501T2D_F13","unclassified endocrine","not applicable",4
+"HP1508501T2D_F14","MHC class II","MHC class II",4
+"HP1508501T2D_F16","alpha","alpha",4
+"HP1508501T2D_F18","alpha","alpha",4
+"HP1508501T2D_F20","alpha","alpha",4
+"HP1508501T2D_F4","ductal","ductal",4
+"HP1508501T2D_F9","alpha","alpha",4
+"HP1508501T2D_G11","alpha","alpha",4
+"HP1508501T2D_G3","ductal","ductal",4
+"HP1508501T2D_H10","alpha","alpha",4
+"HP1508501T2D_H16","acinar","acinar",4
+"HP1508501T2D_H18","gamma","gamma",4
+"HP1508501T2D_H22","alpha","alpha",4
+"HP1508501T2D_H23","alpha","alpha",4
+"HP1508501T2D_H5","PSC","PSC",4
+"HP1508501T2D_I11","ductal","ductal",4
+"HP1508501T2D_I12","ductal","ductal",4
+"HP1508501T2D_I14","alpha","alpha",4
+"HP1508501T2D_I19","PSC","PSC",4
+"HP1508501T2D_I21","ductal","ductal",4
+"HP1508501T2D_I22","alpha","alpha",4
+"HP1508501T2D_I3","PSC","PSC",4
+"HP1508501T2D_I4","ductal","ductal",4
+"HP1508501T2D_I6","PSC","not applicable",4
+"HP1508501T2D_I8","beta","beta",4
+"HP1508501T2D_I9","delta","not applicable",4
+"HP1508501T2D_J14","ductal","ductal",4
+"HP1508501T2D_J15","ductal","ductal",4
+"HP1508501T2D_J17","delta","alpha",4
+"HP1508501T2D_J18","delta","delta",4
+"HP1508501T2D_J3","alpha","alpha",4
+"HP1508501T2D_J4","alpha","alpha",4
+"HP1508501T2D_J5","alpha","alpha",4
+"HP1508501T2D_K11","not applicable","not applicable",4
+"HP1508501T2D_L13","alpha","alpha",4
+"HP1508501T2D_L17","delta","alpha",4
+"HP1508501T2D_L18","alpha","alpha",4
+"HP1508501T2D_L19","not applicable","not applicable",4
+"HP1508501T2D_L2","acinar","acinar",4
+"HP1508501T2D_L22","unclassified endocrine","not applicable",4
+"HP1508501T2D_L24","ductal","not applicable",4
+"HP1508501T2D_L4","unclassified endocrine","not applicable",4
+"HP1508501T2D_M20","alpha","alpha",4
+"HP1508501T2D_M3","ductal","ductal",4
+"HP1508501T2D_N2","ductal","ductal",4
+"HP1508501T2D_N23","ductal","ductal",4
+"HP1508501T2D_N9","ductal","ductal",4
+"HP1508501T2D_O19","unclassified endocrine","not applicable",4
+"HP1508501T2D_O24","unclassified endocrine","not applicable",4
+"HP1508501T2D_O6","alpha","not applicable",4
+"HP1508501T2D_P16","unclassified endocrine","not applicable",4
+"HP1508501T2D_P17","not applicable","not applicable",4
+"HP1508501T2D_P18","unclassified endocrine","not applicable",4
+"HP1508501T2D_P2","acinar","acinar",4
+"HP1508501T2D_P3","alpha","alpha",4
+"HP1508501T2D_P6","alpha","alpha",4
+"HP1509101_A11","delta","not applicable",4
+"HP1509101_A22","delta","not applicable",4
+"HP1509101_A24","ductal","not applicable",4
+"HP1509101_B15","unclassified endocrine","not applicable",4
+"HP1509101_B18","unclassified endocrine","not applicable",4
+"HP1509101_B22","unclassified endocrine","not applicable",4
+"HP1509101_B3","unclassified endocrine","not applicable",4
+"HP1509101_C1","beta","co-expression",4
+"HP1509101_C16","alpha","not applicable",4
+"HP1509101_C24","alpha","not applicable",4
+"HP1509101_C9","delta","not applicable",4
+"HP1509101_D13","unclassified endocrine","not applicable",4
+"HP1509101_D22","delta","delta",4
+"HP1509101_D24","delta","not applicable",4
+"HP1509101_D5","alpha","alpha",4
+"HP1509101_E11","unclassified endocrine","not applicable",4
+"HP1509101_E15","unclassified endocrine","not applicable",4
+"HP1509101_E17","delta","not applicable",4
+"HP1509101_E18","delta","not applicable",4
+"HP1509101_E19","alpha","alpha",4
+"HP1509101_E20","delta","not applicable",4
+"HP1509101_E21","delta","not applicable",4
+"HP1509101_E22","beta","beta",4
+"HP1509101_E3","acinar","ductal",4
+"HP1509101_E9","ductal","not applicable",4
+"HP1509101_F1","alpha","not applicable",4
+"HP1509101_F19","alpha","alpha",4
+"HP1509101_F20","unclassified endocrine","not applicable",4
+"HP1509101_F24","ductal","not applicable",4
+"HP1509101_F3","delta","not applicable",4
+"HP1509101_F4","alpha","alpha",4
+"HP1509101_F5","unclassified endocrine","not applicable",4
+"HP1509101_F7","ductal","ductal",4
+"HP1509101_G1","unclassified endocrine","not applicable",4
+"HP1509101_G24","alpha","not applicable",4
+"HP1509101_G3","ductal","not applicable",4
+"HP1509101_G7","unclassified endocrine","not applicable",4
+"HP1509101_H18","unclassified endocrine","not applicable",4
+"HP1509101_H19","alpha","not applicable",4
+"HP1509101_H24","alpha","not applicable",4
+"HP1509101_H3","unclassified endocrine","not applicable",4
+"HP1509101_H7","delta","delta",4
+"HP1509101_H9","alpha","not applicable",4
+"HP1509101_I1","unclassified endocrine","not applicable",4
+"HP1509101_I20","delta","not applicable",4
+"HP1509101_I22","alpha","not applicable",4
+"HP1509101_I3","delta","not applicable",4
+"HP1509101_I7","unclassified endocrine","not applicable",4
+"HP1509101_I8","gamma","not applicable",4
+"HP1509101_I9","unclassified endocrine","not applicable",4
+"HP1509101_J12","alpha","alpha",4
+"HP1509101_J2","unclassified endocrine","not applicable",4
+"HP1509101_J5","ductal","not applicable",4
+"HP1509101_J6","alpha","not applicable",4
+"HP1509101_K10","ductal","ductal",4
+"HP1509101_K13","delta","not applicable",4
+"HP1509101_K16","alpha","not applicable",4
+"HP1509101_K24","gamma","not applicable",4
+"HP1509101_K3","unclassified endocrine","not applicable",4
+"HP1509101_K6","alpha","not applicable",4
+"HP1509101_L11","co-expression","alpha",4
+"HP1509101_L18","PSC","PSC",4
+"HP1509101_L6","alpha","not applicable",4
+"HP1509101_L8","alpha","alpha",4
+"HP1509101_L9","ductal","not applicable",4
+"HP1509101_M12","alpha","alpha",4
+"HP1509101_M13","unclassified endocrine","not applicable",4
+"HP1509101_M8","gamma","not applicable",4
+"HP1509101_N1","alpha","not applicable",4
+"HP1509101_N10","ductal","not applicable",4
+"HP1509101_N12","delta","not applicable",4
+"HP1509101_N13","unclassified endocrine","not applicable",4
+"HP1509101_N8","delta","not applicable",4
+"HP1509101_N9","alpha","alpha",4
+"HP1509101_O15","unclassified endocrine","not applicable",4
+"HP1509101_O19","beta","not applicable",4
+"HP1509101_O7","alpha","alpha",4
+"HP1509101_P11","alpha","not applicable",4
+"HP1509101_P2","unclassified endocrine","not applicable",4
+"HP1525301T2D_A11","alpha","alpha",4
+"HP1525301T2D_A12","ductal","ductal",4
+"HP1525301T2D_A18","unclassified endocrine","not applicable",4
+"HP1525301T2D_A20","unclassified endocrine","not applicable",4
+"HP1525301T2D_A5","alpha","alpha",4
+"HP1525301T2D_B10","ductal","ductal",4
+"HP1525301T2D_B11","alpha","alpha",4
+"HP1525301T2D_B12","acinar","acinar",4
+"HP1525301T2D_B15","alpha","alpha",4
+"HP1525301T2D_B16","unclassified endocrine","not applicable",4
+"HP1525301T2D_B21","ductal","ductal",4
+"HP1525301T2D_B22","unclassified endocrine","not applicable",4
+"HP1525301T2D_B3","ductal","ductal",4
+"HP1525301T2D_B4","alpha","alpha",4
+"HP1525301T2D_B8","gamma","gamma",4
+"HP1525301T2D_C15","acinar","ductal",4
+"HP1525301T2D_C21","ductal","ductal",4
+"HP1525301T2D_C7","acinar","acinar",4
+"HP1525301T2D_D16","unclassified endocrine","not applicable",4
+"HP1525301T2D_D21","PSC","PSC",4
+"HP1525301T2D_E11","ductal","ductal",4
+"HP1525301T2D_E20","ductal","not applicable",4
+"HP1525301T2D_E22","alpha","alpha",4
+"HP1525301T2D_E7","alpha","alpha",4
+"HP1525301T2D_F1","unclassified endocrine","not applicable",4
+"HP1525301T2D_F10","acinar","acinar",4
+"HP1525301T2D_F14","unclassified endocrine","not applicable",4
+"HP1525301T2D_F8","ductal","ductal",4
+"HP1525301T2D_G14","ductal","ductal",4
+"HP1525301T2D_G17","acinar","acinar",4
+"HP1525301T2D_G18","alpha","alpha",4
+"HP1525301T2D_G19","alpha","alpha",4
+"HP1525301T2D_G20","ductal","ductal",4
+"HP1525301T2D_G21","ductal","ductal",4
+"HP1525301T2D_G5","ductal","ductal",4
+"HP1525301T2D_G7","unclassified endocrine","not applicable",4
+"HP1525301T2D_H16","ductal","ductal",4
+"HP1525301T2D_H19","alpha","alpha",4
+"HP1525301T2D_H21","not applicable","not applicable",4
+"HP1525301T2D_H22","not applicable","not applicable",4
+"HP1525301T2D_H4","not applicable","not applicable",4
+"HP1525301T2D_I14","not applicable","not applicable",4
+"HP1525301T2D_I16","ductal","ductal",4
+"HP1525301T2D_I20","acinar","not applicable",4
+"HP1525301T2D_I5","alpha","alpha",4
+"HP1525301T2D_J21","ductal","ductal",4
+"HP1525301T2D_J22","gamma","unclassified endocrine",4
+"HP1525301T2D_J24","unclassified endocrine","not applicable",4
+"HP1525301T2D_J5","acinar","acinar",4
+"HP1525301T2D_J8","alpha","alpha",4
+"HP1525301T2D_K10","PSC","PSC",4
+"HP1525301T2D_K13","unclassified endocrine","not applicable",4
+"HP1525301T2D_K15","alpha","alpha",4
+"HP1525301T2D_K18","ductal","ductal",4
+"HP1525301T2D_K19","alpha","alpha",4
+"HP1525301T2D_K21","ductal","ductal",4
+"HP1525301T2D_K23","alpha","alpha",4
+"HP1525301T2D_K7","acinar","acinar",4
+"HP1525301T2D_K9","unclassified endocrine","not applicable",4
+"HP1525301T2D_L15","alpha","alpha",4
+"HP1525301T2D_L17","co-expression","beta",4
+"HP1525301T2D_L19","unclassified endocrine","unclassified endocrine",4
+"HP1525301T2D_L21","unclassified endocrine","not applicable",4
+"HP1525301T2D_L24","alpha","alpha",4
+"HP1525301T2D_L8","PSC","PSC",4
+"HP1525301T2D_M23","unclassified endocrine","unclassified endocrine",4
+"HP1525301T2D_M24","unclassified endocrine","not applicable",4
+"HP1525301T2D_M6","ductal","ductal",4
+"HP1525301T2D_N14","ductal","ductal",4
+"HP1525301T2D_N18","beta","beta",4
+"HP1525301T2D_N20","ductal","ductal",4
+"HP1525301T2D_N8","alpha","alpha",4
+"HP1525301T2D_O11","gamma","gamma",4
+"HP1525301T2D_O17","ductal","ductal",4
+"HP1525301T2D_O18","alpha","alpha",4
+"HP1525301T2D_O23","ductal","ductal",4
+"HP1525301T2D_O24","ductal","ductal",4
+"HP1525301T2D_P19","ductal","ductal",4
+"HP1525301T2D_P2","ductal","ductal",4
+"HP1526901T2D_A1","beta","beta",4
+"HP1526901T2D_A14","beta","beta",4
+"HP1526901T2D_A20","delta","gamma",4
+"HP1526901T2D_A4","delta","delta",4
+"HP1526901T2D_B10","beta","beta",4
+"HP1526901T2D_B18","delta","delta",4
+"HP1526901T2D_B19","unclassified endocrine","not applicable",4
+"HP1526901T2D_B21","unclassified endocrine","not applicable",4
+"HP1526901T2D_B3","ductal","ductal",4
+"HP1526901T2D_C1","delta","delta",4
+"HP1526901T2D_C11","beta","beta",4
+"HP1526901T2D_C17","beta","beta",4
+"HP1526901T2D_C18","unclassified endocrine","not applicable",4
+"HP1526901T2D_C19","gamma","gamma",4
+"HP1526901T2D_C2","alpha","alpha",4
+"HP1526901T2D_C24","delta","delta",4
+"HP1526901T2D_C4","alpha","alpha",4
+"HP1526901T2D_C5","not applicable","not applicable",4
+"HP1526901T2D_C6","alpha","alpha",4
+"HP1526901T2D_C9","not applicable","not applicable",4
+"HP1526901T2D_D1","alpha","alpha",4
+"HP1526901T2D_D10","delta","gamma",4
+"HP1526901T2D_D17","beta","beta",4
+"HP1526901T2D_D18","alpha","alpha",4
+"HP1526901T2D_D19","beta","beta",4
+"HP1526901T2D_D2","acinar","ductal",4
+"HP1526901T2D_D21","delta","delta",4
+"HP1526901T2D_D22","ductal","ductal",4
+"HP1526901T2D_E13","unclassified endocrine","not applicable",4
+"HP1526901T2D_E15","PSC","PSC",4
+"HP1526901T2D_E17","MHC class II","not applicable",4
+"HP1526901T2D_E22","ductal","ductal",4
+"HP1526901T2D_F16","ductal","ductal",4
+"HP1526901T2D_F22","ductal","ductal",4
+"HP1526901T2D_G12","unclassified endocrine","not applicable",4
+"HP1526901T2D_G17","beta","beta",4
+"HP1526901T2D_G7","alpha","alpha",4
+"HP1526901T2D_G8","alpha","alpha",4
+"HP1526901T2D_H15","unclassified endocrine","not applicable",4
+"HP1526901T2D_H17","alpha","alpha",4
+"HP1526901T2D_H21","ductal","ductal",4
+"HP1526901T2D_H4","beta","beta",4
+"HP1526901T2D_H5","ductal","ductal",4
+"HP1526901T2D_I12","acinar","acinar",4
+"HP1526901T2D_I15","alpha","alpha",4
+"HP1526901T2D_I5","beta","co-expression",4
+"HP1526901T2D_I7","alpha","alpha",4
+"HP1526901T2D_I8","alpha","alpha",4
+"HP1526901T2D_J10","unclassified endocrine","not applicable",4
+"HP1526901T2D_J21","beta","beta",4
+"HP1526901T2D_J9","unclassified endocrine","not applicable",4
+"HP1526901T2D_K1","ductal","ductal",4
+"HP1526901T2D_K11","gamma","gamma",4
+"HP1526901T2D_K15","alpha","alpha",4
+"HP1526901T2D_K16","unclassified endocrine","not applicable",4
+"HP1526901T2D_K20","beta","beta",4
+"HP1526901T2D_L14","gamma","gamma",4
+"HP1526901T2D_L15","acinar","acinar",4
+"HP1526901T2D_L18","unclassified endocrine","not applicable",4
+"HP1526901T2D_L2","delta","alpha",4
+"HP1526901T2D_L7","gamma","gamma",4
+"HP1526901T2D_M12","acinar","not applicable",4
+"HP1526901T2D_M2","beta","beta",4
+"HP1526901T2D_M20","ductal","ductal",4
+"HP1526901T2D_M6","unclassified endocrine","not applicable",4
+"HP1526901T2D_M7","beta","alpha",4
+"HP1526901T2D_N23","beta","beta",4
+"HP1526901T2D_N24","unclassified endocrine","not applicable",4
+"HP1526901T2D_O12","MHC class II","mast",4
+"HP1526901T2D_O13","beta","beta",4
+"HP1526901T2D_O2","PSC","PSC",4
+"HP1526901T2D_O24","beta","beta",4
+"HP1526901T2D_O3","gamma","gamma",4
+"HP1526901T2D_P23","gamma","gamma",4
+"HP1526901T2D_P6","unclassified endocrine","not applicable",4
+"HP1526901T2D_P7","beta","beta",4
+"HP1526901T2D_P9","beta","beta",4
+"AZ_A1","unclassified endocrine","not applicable",5
+"AZ_A5","not applicable","ductal",5
+"AZ_A9","delta","unclassified endocrine",5
+"AZ_B10","beta","delta",5
+"AZ_B5","alpha","alpha",5
+"AZ_B7","unclassified endocrine","not applicable",5
+"AZ_B9","alpha","alpha",5
+"AZ_C11","delta","delta",5
+"AZ_C9","acinar","ductal",5
+"AZ_D10","delta","not applicable",5
+"AZ_D7","alpha","alpha",5
+"AZ_E1","unclassified endocrine","unclassified endocrine",5
+"AZ_E11","unclassified endocrine","not applicable",5
+"AZ_E3","endothelial","MHC class II",5
+"AZ_E9","alpha","alpha",5
+"AZ_F2","beta","beta",5
+"AZ_F4","alpha","alpha",5
+"AZ_F8","alpha","alpha",5
+"AZ_G12","unclassified endocrine","not applicable",5
+"AZ_G9","unclassified endocrine","not applicable",5
+"AZ_H3","unclassified endocrine","gamma",5
+"HP1502401_A6","alpha","beta",5
+"HP1502401_B12","unclassified endocrine","not applicable",5
+"HP1502401_B13","acinar","not applicable",5
+"HP1502401_B17","acinar","acinar",5
+"HP1502401_C10","beta","beta",5
+"HP1502401_C23","unclassified endocrine","not applicable",5
+"HP1502401_C3","unclassified endocrine","not applicable",5
+"HP1502401_C4","gamma","alpha",5
+"HP1502401_C8","delta","delta",5
+"HP1502401_D14","unclassified endocrine","not applicable",5
+"HP1502401_D4","acinar","ductal",5
+"HP1502401_D7","delta","beta",5
+"HP1502401_E10","beta","beta",5
+"HP1502401_E18","not applicable","unclassified endocrine",5
+"HP1502401_E2","acinar","acinar",5
+"HP1502401_E21","alpha","alpha",5
+"HP1502401_E3","delta","delta",5
+"HP1502401_E5","gamma","gamma",5
+"HP1502401_E8","unclassified endocrine","not applicable",5
+"HP1502401_F1","unclassified endocrine","not applicable",5
+"HP1502401_F10","alpha","alpha",5
+"HP1502401_F13","acinar","acinar",5
+"HP1502401_F16","delta","beta",5
+"HP1502401_F18","gamma","gamma",5
+"HP1502401_F2","unclassified endocrine","not applicable",5
+"HP1502401_F21","beta","beta",5
+"HP1502401_G10","alpha","alpha",5
+"HP1502401_G17","unclassified endocrine","not applicable",5
+"HP1502401_G18","acinar","acinar",5
+"HP1502401_H1","alpha","alpha",5
+"HP1502401_H14","alpha","alpha",5
+"HP1502401_H19","beta","beta",5
+"HP1502401_H20","alpha","alpha",5
+"HP1502401_H24","alpha","alpha",5
+"HP1502401_H3","alpha","alpha",5
+"HP1502401_H4","alpha","alpha",5
+"HP1502401_H6","delta","delta",5
+"HP1502401_I16","alpha","alpha",5
+"HP1502401_I18","alpha","alpha",5
+"HP1502401_I2","ductal","ductal",5
+"HP1502401_I20","unclassified endocrine","not applicable",5
+"HP1502401_I3","unclassified endocrine","not applicable",5
+"HP1502401_I5","unclassified endocrine","not applicable",5
+"HP1502401_I6","gamma","beta",5
+"HP1502401_J15","acinar","ductal",5
+"HP1502401_J2","acinar","acinar",5
+"HP1502401_J9","delta","not applicable",5
+"HP1502401_K10","acinar","acinar",5
+"HP1502401_K15","alpha","alpha",5
+"HP1502401_K16","alpha","alpha",5
+"HP1502401_K5","alpha","alpha",5
+"HP1502401_L23","alpha","alpha",5
+"HP1502401_L6","unclassified endocrine","not applicable",5
+"HP1502401_M11","alpha","alpha",5
+"HP1502401_M12","beta","beta",5
+"HP1502401_M20","beta","co-expression",5
+"HP1502401_M4","alpha","alpha",5
+"HP1502401_M6","delta","delta",5
+"HP1502401_N12","alpha","alpha",5
+"HP1502401_N4","alpha","alpha",5
+"HP1502401_N5","unclassified endocrine","not applicable",5
+"HP1502401_O11","unclassified endocrine","not applicable",5
+"HP1502401_O24","alpha","alpha",5
+"HP1502401_O3","alpha","alpha",5
+"HP1502401_O5","unclassified endocrine","not applicable",5
+"HP1502401_O7","alpha","co-expression",5
+"HP1504101T2D_A15","gamma","gamma",5
+"HP1504101T2D_A19","alpha","alpha",5
+"HP1504101T2D_B14","not applicable","not applicable",5
+"HP1504101T2D_B3","beta","unclassified endocrine",5
+"HP1504101T2D_B5","gamma","gamma",5
+"HP1504101T2D_B7","alpha","alpha",5
+"HP1504101T2D_C10","delta","delta",5
+"HP1504101T2D_C18","beta","beta",5
+"HP1504101T2D_C2","unclassified endocrine","not applicable",5
+"HP1504101T2D_C23","unclassified endocrine","not applicable",5
+"HP1504101T2D_D10","not applicable","not applicable",5
+"HP1504101T2D_D14","not applicable","not applicable",5
+"HP1504101T2D_D16","not applicable","not applicable",5
+"HP1504101T2D_D17","gamma","gamma",5
+"HP1504101T2D_D3","not applicable","not applicable",5
+"HP1504101T2D_D8","not applicable","unclassified endocrine",5
+"HP1504101T2D_E14","gamma","gamma",5
+"HP1504101T2D_E18","gamma","gamma",5
+"HP1504101T2D_E5","unclassified endocrine","not applicable",5
+"HP1504101T2D_F12","alpha","alpha",5
+"HP1504101T2D_F15","beta","alpha",5
+"HP1504101T2D_G10","alpha","alpha",5
+"HP1504101T2D_G16","gamma","gamma",5
+"HP1504101T2D_G18","unclassified endocrine","not applicable",5
+"HP1504101T2D_G2","alpha","alpha",5
+"HP1504101T2D_G6","not applicable","not applicable",5
+"HP1504101T2D_G7","unclassified endocrine","not applicable",5
+"HP1504101T2D_H10","not applicable","not applicable",5
+"HP1504101T2D_H2","alpha","alpha",5
+"HP1504101T2D_H24","gamma","gamma",5
+"HP1504101T2D_I1","co-expression","alpha",5
+"HP1504101T2D_I17","alpha","alpha",5
+"HP1504101T2D_I4","not applicable","not applicable",5
+"HP1504101T2D_I6","acinar","acinar",5
+"HP1504101T2D_J1","alpha","alpha",5
+"HP1504101T2D_J10","unclassified endocrine","not applicable",5
+"HP1504101T2D_J24","alpha","alpha",5
+"HP1504101T2D_J3","gamma","gamma",5
+"HP1504101T2D_J5","gamma","gamma",5
+"HP1504101T2D_J6","delta","not applicable",5
+"HP1504101T2D_J9","gamma","gamma",5
+"HP1504101T2D_K1","unclassified endocrine","not applicable",5
+"HP1504101T2D_K11","unclassified endocrine","not applicable",5
+"HP1504101T2D_K16","unclassified endocrine","not applicable",5
+"HP1504101T2D_K4","alpha","alpha",5
+"HP1504101T2D_K5","unclassified endocrine","not applicable",5
+"HP1504101T2D_L10","alpha","alpha",5
+"HP1504101T2D_L16","delta","not applicable",5
+"HP1504101T2D_L17","not applicable","not applicable",5
+"HP1504101T2D_L18","alpha","alpha",5
+"HP1504101T2D_L21","alpha","alpha",5
+"HP1504101T2D_L24","gamma","gamma",5
+"HP1504101T2D_L6","unclassified endocrine","not applicable",5
+"HP1504101T2D_M13","unclassified endocrine","not applicable",5
+"HP1504101T2D_M15","alpha","alpha",5
+"HP1504101T2D_M17","delta","not applicable",5
+"HP1504101T2D_M18","alpha","alpha",5
+"HP1504101T2D_M6","alpha","alpha",5
+"HP1504101T2D_M7","alpha","alpha",5
+"HP1504101T2D_M9","alpha","alpha",5
+"HP1504101T2D_N1","alpha","alpha",5
+"HP1504101T2D_N19","alpha","alpha",5
+"HP1504101T2D_N7","alpha","alpha",5
+"HP1504101T2D_O16","alpha","alpha",5
+"HP1504101T2D_O2","not applicable","not applicable",5
+"HP1504101T2D_O20","alpha","alpha",5
+"HP1504101T2D_O4","gamma","gamma",5
+"HP1504101T2D_O5","not applicable","not applicable",5
+"HP1504101T2D_O8","not applicable","not applicable",5
+"HP1504101T2D_O9","alpha","alpha",5
+"HP1504101T2D_P22","alpha","alpha",5
+"HP1504101T2D_P24","gamma","gamma",5
+"HP1504101T2D_P7","alpha","alpha",5
+"HP1504901_A12","unclassified endocrine","not applicable",5
+"HP1504901_A16","beta","beta",5
+"HP1504901_A2","alpha","alpha",5
+"HP1504901_A22","PSC","PSC",5
+"HP1504901_B10","beta","beta",5
+"HP1504901_B11","delta","beta",5
+"HP1504901_B19","unclassified endocrine","not applicable",5
+"HP1504901_B3","alpha","alpha",5
+"HP1504901_B7","beta","co-expression",5
+"HP1504901_C11","gamma","alpha",5
+"HP1504901_C14","gamma","gamma",5
+"HP1504901_C16","alpha","alpha",5
+"HP1504901_C17","alpha","beta",5
+"HP1504901_D1","alpha","alpha",5
+"HP1504901_D12","alpha","alpha",5
+"HP1504901_D22","alpha","alpha",5
+"HP1504901_D23","alpha","alpha",5
+"HP1504901_D7","co-expression","beta",5
+"HP1504901_E15","unclassified endocrine","not applicable",5
+"HP1504901_E16","delta","beta",5
+"HP1504901_E2","endothelial","endothelial",5
+"HP1504901_F14","alpha","epsilon",5
+"HP1504901_F21","unclassified endocrine","not applicable",5
+"HP1504901_F3","alpha","alpha",5
+"HP1504901_G11","ductal","ductal",5
+"HP1504901_H10","alpha","alpha",5
+"HP1504901_H22","delta","beta",5
+"HP1504901_H23","unclassified endocrine","not applicable",5
+"HP1504901_H4","alpha","alpha",5
+"HP1504901_H6","alpha","alpha",5
+"HP1504901_I11","unclassified endocrine","not applicable",5
+"HP1504901_I19","PSC","PSC",5
+"HP1504901_I21","alpha","alpha",5
+"HP1504901_I3","alpha","alpha",5
+"HP1504901_J12","delta","alpha",5
+"HP1504901_J20","alpha","alpha",5
+"HP1504901_J21","unclassified endocrine","not applicable",5
+"HP1504901_J22","alpha","alpha",5
+"HP1504901_J4","delta","delta",5
+"HP1504901_K15","unclassified endocrine","not applicable",5
+"HP1504901_K18","delta","not applicable",5
+"HP1504901_K24","unclassified endocrine","not applicable",5
+"HP1504901_K8","unclassified endocrine","not applicable",5
+"HP1504901_L18","gamma","gamma",5
+"HP1504901_L2","unclassified endocrine","not applicable",5
+"HP1504901_L24","unclassified endocrine","unclassified endocrine",5
+"HP1504901_M12","alpha","alpha",5
+"HP1504901_M13","delta","not applicable",5
+"HP1504901_M15","delta","not applicable",5
+"HP1504901_M20","not applicable","unclassified endocrine",5
+"HP1504901_M22","unclassified endocrine","not applicable",5
+"HP1504901_M9","unclassified endocrine","not applicable",5
+"HP1504901_N13","co-expression","beta",5
+"HP1504901_N14","unclassified endocrine","not applicable",5
+"HP1504901_N22","alpha","alpha",5
+"HP1504901_N3","unclassified endocrine","not applicable",5
+"HP1504901_O1","delta","gamma",5
+"HP1504901_O16","alpha","alpha",5
+"HP1504901_O18","delta","beta",5
+"HP1504901_P11","delta","ductal",5
+"HP1504901_P16","not applicable","not applicable",5
+"HP1504901_P18","endothelial","endothelial",5
+"HP1504901_P24","unclassified endocrine","not applicable",5
+"HP1504901_P3","endothelial","endothelial",5
+"HP1506401_A16","unclassified endocrine","not applicable",5
+"HP1506401_A19","delta","not applicable",5
+"HP1506401_A4","acinar","ductal",5
+"HP1506401_B11","beta","beta",5
+"HP1506401_B14","acinar","acinar",5
+"HP1506401_B18","ductal","not applicable",5
+"HP1506401_B2","unclassified endocrine","not applicable",5
+"HP1506401_B21","not applicable","not applicable",5
+"HP1506401_B23","ductal","ductal",5
+"HP1506401_B3","gamma","gamma",5
+"HP1506401_B4","gamma","gamma",5
+"HP1506401_B7","unclassified endocrine","not applicable",5
+"HP1506401_C11","unclassified endocrine","not applicable",5
+"HP1506401_C12","ductal","not applicable",5
+"HP1506401_C2","unclassified endocrine","not applicable",5
+"HP1506401_C6","unclassified endocrine","not applicable",5
+"HP1506401_D14","acinar","acinar",5
+"HP1506401_D8","ductal","ductal",5
+"HP1506401_E10","unclassified endocrine","not applicable",5
+"HP1506401_E11","alpha","alpha",5
+"HP1506401_E12","gamma","gamma",5
+"HP1506401_E15","co-expression","alpha",5
+"HP1506401_E17","ductal","ductal",5
+"HP1506401_E19","ductal","not applicable",5
+"HP1506401_E5","not applicable","not applicable",5
+"HP1506401_E6","ductal","ductal",5
+"HP1506401_F15","unclassified endocrine","not applicable",5
+"HP1506401_F16","acinar","acinar",5
+"HP1506401_F24","beta","beta",5
+"HP1506401_F9","beta","beta",5
+"HP1506401_G10","unclassified endocrine","not applicable",5
+"HP1506401_G12","beta","beta",5
+"HP1506401_G13","alpha","alpha",5
+"HP1506401_G16","acinar","acinar",5
+"HP1506401_G6","beta","beta",5
+"HP1506401_G7","unclassified endocrine","not applicable",5
+"HP1506401_H11","gamma","not applicable",5
+"HP1506401_H12","gamma","not applicable",5
+"HP1506401_H2","acinar","ductal",5
+"HP1506401_H20","delta","not applicable",5
+"HP1506401_H22","co-expression","alpha",5
+"HP1506401_H5","unclassified endocrine","not applicable",5
+"HP1506401_H9","ductal","ductal",5
+"HP1506401_I11","beta","beta",5
+"HP1506401_I16","acinar","not applicable",5
+"HP1506401_I22","ductal","not applicable",5
+"HP1506401_I23","beta","beta",5
+"HP1506401_J10","unclassified endocrine","not applicable",5
+"HP1506401_J14","acinar","acinar",5
+"HP1506401_J16","alpha","epsilon",5
+"HP1506401_J3","acinar","acinar",5
+"HP1506401_J6","acinar","acinar",5
+"HP1506401_K16","ductal","ductal",5
+"HP1506401_K23","gamma","gamma",5
+"HP1506401_K5","unclassified endocrine","not applicable",5
+"HP1506401_K8","not applicable","not applicable",5
+"HP1506401_L1","acinar","ductal",5
+"HP1506401_L12","unclassified endocrine","not applicable",5
+"HP1506401_L18","acinar","acinar",5
+"HP1506401_L21","ductal","ductal",5
+"HP1506401_L5","beta","beta",5
+"HP1506401_L8","unclassified endocrine","not applicable",5
+"HP1506401_M1","acinar","acinar",5
+"HP1506401_M10","not applicable","not applicable",5
+"HP1506401_M11","ductal","ductal",5
+"HP1506401_M12","alpha","alpha",5
+"HP1506401_M16","ductal","ductal",5
+"HP1506401_M18","acinar","acinar",5
+"HP1506401_M4","acinar","acinar",5
+"HP1506401_M9","not applicable","not applicable",5
+"HP1506401_N1","acinar","acinar",5
+"HP1506401_N10","ductal","ductal",5
+"HP1506401_N2","not applicable","not applicable",5
+"HP1506401_N20","beta","beta",5
+"HP1506401_N3","unclassified endocrine","not applicable",5
+"HP1506401_N4","co-expression","alpha",5
+"HP1506401_O13","delta","not applicable",5
+"HP1506401_P8","unclassified endocrine","not applicable",5
+"HP1507101_A1","unclassified endocrine","not applicable",5
+"HP1507101_A10","alpha","not applicable",5
+"HP1507101_A5","delta","delta",5
+"HP1507101_B1","alpha","alpha",5
+"HP1507101_B24","alpha","alpha",5
+"HP1507101_C1","delta","not applicable",5
+"HP1507101_C13","delta","not applicable",5
+"HP1507101_C22","PSC","not applicable",5
+"HP1507101_C5","alpha","alpha",5
+"HP1507101_C7","not applicable","beta",5
+"HP1507101_C8","alpha","alpha",5
+"HP1507101_D1","alpha","alpha",5
+"HP1507101_D11","alpha","not applicable",5
+"HP1507101_D4","unclassified endocrine","not applicable",5
+"HP1507101_E11","delta","not applicable",5
+"HP1507101_E12","co-expression","alpha",5
+"HP1507101_E16","delta","not applicable",5
+"HP1507101_E19","acinar","not applicable",5
+"HP1507101_E20","alpha","alpha",5
+"HP1507101_E3","alpha","not applicable",5
+"HP1507101_E7","alpha","alpha",5
+"HP1507101_F15","acinar","ductal",5
+"HP1507101_F23","beta","beta",5
+"HP1507101_F4","beta","beta",5
+"HP1507101_F8","alpha","alpha",5
+"HP1507101_G13","alpha","alpha",5
+"HP1507101_G16","alpha","alpha",5
+"HP1507101_G21","beta","not applicable",5
+"HP1507101_G4","alpha","not applicable",5
+"HP1507101_G7","unclassified endocrine","not applicable",5
+"HP1507101_H14","alpha","alpha",5
+"HP1507101_H20","alpha","not applicable",5
+"HP1507101_H21","co-expression","not applicable",5
+"HP1507101_H22","alpha","alpha",5
+"HP1507101_I1","delta","not applicable",5
+"HP1507101_I15","alpha","not applicable",5
+"HP1507101_I24","alpha","not applicable",5
+"HP1507101_I7","unclassified endocrine","not applicable",5
+"HP1507101_I9","unclassified endocrine","not applicable",5
+"HP1507101_J1","alpha","alpha",5
+"HP1507101_J14","alpha","not applicable",5
+"HP1507101_J15","not applicable","ductal",5
+"HP1507101_J2","alpha","alpha",5
+"HP1507101_J5","alpha","alpha",5
+"HP1507101_J7","acinar","acinar",5
+"HP1507101_K1","alpha","not applicable",5
+"HP1507101_K11","unclassified endocrine","not applicable",5
+"HP1507101_K13","PSC","PSC",5
+"HP1507101_K15","beta","beta",5
+"HP1507101_K24","alpha","not applicable",5
+"HP1507101_K7","unclassified endocrine","not applicable",5
+"HP1507101_K8","alpha","alpha",5
+"HP1507101_L1","PSC","PSC",5
+"HP1507101_L12","unclassified endocrine","not applicable",5
+"HP1507101_L14","alpha","alpha",5
+"HP1507101_L22","beta","beta",5
+"HP1507101_L23","delta","delta",5
+"HP1507101_L4","delta","delta",5
+"HP1507101_L9","not applicable","not applicable",5
+"HP1507101_M14","alpha","not applicable",5
+"HP1507101_M19","unclassified endocrine","not applicable",5
+"HP1507101_M22","gamma","gamma",5
+"HP1507101_M3","unclassified endocrine","not applicable",5
+"HP1507101_M6","alpha","not applicable",5
+"HP1507101_M8","beta","beta",5
+"HP1507101_M9","unclassified endocrine","not applicable",5
+"HP1507101_N23","alpha","not applicable",5
+"HP1507101_O1","alpha","alpha",5
+"HP1507101_O14","beta","beta",5
+"HP1507101_O20","alpha","alpha",5
+"HP1507101_O24","alpha","not applicable",5
+"HP1507101_P10","alpha","alpha",5
+"HP1507101_P11","alpha","co-expression",5
+"HP1507101_P15","PSC","not applicable",5
+"HP1507101_P23","alpha","alpha",5
+"HP1508501T2D_A20","unclassified endocrine","not applicable",5
+"HP1508501T2D_A23","acinar","acinar",5
+"HP1508501T2D_A3","alpha","alpha",5
+"HP1508501T2D_A5","unclassified endocrine","not applicable",5
+"HP1508501T2D_B14","acinar","acinar",5
+"HP1508501T2D_B16","not applicable","beta",5
+"HP1508501T2D_B4","alpha","alpha",5
+"HP1508501T2D_B8","alpha","alpha",5
+"HP1508501T2D_B9","alpha","alpha",5
+"HP1508501T2D_C1","unclassified endocrine","not applicable",5
+"HP1508501T2D_C15","acinar","ductal",5
+"HP1508501T2D_C19","ductal","ductal",5
+"HP1508501T2D_D12","beta","not applicable",5
+"HP1508501T2D_D14","alpha","alpha",5
+"HP1508501T2D_D15","delta","alpha",5
+"HP1508501T2D_D19","alpha","not applicable",5
+"HP1508501T2D_D20","alpha","alpha",5
+"HP1508501T2D_D5","alpha","alpha",5
+"HP1508501T2D_D7","alpha","not applicable",5
+"HP1508501T2D_E10","alpha","alpha",5
+"HP1508501T2D_E12","alpha","alpha",5
+"HP1508501T2D_E17","acinar","ductal",5
+"HP1508501T2D_E19","alpha","alpha",5
+"HP1508501T2D_E20","PSC","PSC",5
+"HP1508501T2D_E24","alpha","not applicable",5
+"HP1508501T2D_E5","unclassified endocrine","not applicable",5
+"HP1508501T2D_E6","not applicable","alpha",5
+"HP1508501T2D_F11","gamma","gamma",5
+"HP1508501T2D_F15","ductal","ductal",5
+"HP1508501T2D_F19","delta","not applicable",5
+"HP1508501T2D_F2","alpha","alpha",5
+"HP1508501T2D_F3","beta","beta",5
+"HP1508501T2D_G1","ductal","ductal",5
+"HP1508501T2D_G17","acinar","acinar",5
+"HP1508501T2D_G2","acinar","ductal",5
+"HP1508501T2D_G21","alpha","alpha",5
+"HP1508501T2D_G5","co-expression","beta",5
+"HP1508501T2D_G6","beta","alpha",5
+"HP1508501T2D_H1","unclassified endocrine","not applicable",5
+"HP1508501T2D_H11","delta","delta",5
+"HP1508501T2D_H12","endothelial","mast",5
+"HP1508501T2D_H13","acinar","ductal",5
+"HP1508501T2D_H14","delta","ductal",5
+"HP1508501T2D_H6","alpha","alpha",5
+"HP1508501T2D_H7","not applicable","not applicable",5
+"HP1508501T2D_I10","acinar","acinar",5
+"HP1508501T2D_I24","acinar","not applicable",5
+"HP1508501T2D_I5","delta","not applicable",5
+"HP1508501T2D_J20","alpha","alpha",5
+"HP1508501T2D_J23","acinar","acinar",5
+"HP1508501T2D_J6","not applicable","beta",5
+"HP1508501T2D_J7","unclassified endocrine","not applicable",5
+"HP1508501T2D_K16","gamma","gamma",5
+"HP1508501T2D_K17","alpha","alpha",5
+"HP1508501T2D_K20","beta","co-expression",5
+"HP1508501T2D_K21","alpha","alpha",5
+"HP1508501T2D_K4","alpha","alpha",5
+"HP1508501T2D_K5","acinar","not applicable",5
+"HP1508501T2D_K9","alpha","alpha",5
+"HP1508501T2D_L10","PSC","PSC",5
+"HP1508501T2D_L11","ductal","ductal",5
+"HP1508501T2D_L12","unclassified endocrine","not applicable",5
+"HP1508501T2D_L15","PSC","PSC",5
+"HP1508501T2D_L21","ductal","ductal",5
+"HP1508501T2D_L23","acinar","ductal",5
+"HP1508501T2D_L5","ductal","ductal",5
+"HP1508501T2D_M10","PSC","PSC",5
+"HP1508501T2D_M17","ductal","ductal",5
+"HP1508501T2D_M18","acinar","acinar",5
+"HP1508501T2D_M19","alpha","alpha",5
+"HP1508501T2D_M22","acinar","ductal",5
+"HP1508501T2D_M7","acinar","acinar",5
+"HP1508501T2D_N1","ductal","ductal",5
+"HP1508501T2D_N10","ductal","ductal",5
+"HP1508501T2D_N14","unclassified endocrine","not applicable",5
+"HP1508501T2D_N15","ductal","ductal",5
+"HP1508501T2D_N17","ductal","ductal",5
+"HP1508501T2D_N5","alpha","alpha",5
+"HP1508501T2D_O12","ductal","ductal",5
+"HP1508501T2D_O16","unclassified endocrine","not applicable",5
+"HP1508501T2D_O17","unclassified endocrine","not applicable",5
+"HP1508501T2D_O7","acinar","acinar",5
+"HP1508501T2D_P1","beta","co-expression",5
+"HP1508501T2D_P10","ductal","not applicable",5
+"HP1508501T2D_P14","acinar","acinar",5
+"HP1508501T2D_P21","unclassified endocrine","not applicable",5
+"HP1508501T2D_P5","alpha","co-expression",5
+"HP1508501T2D_P8","alpha","alpha",5
+"HP1509101_A13","delta","not applicable",5
+"HP1509101_A17","ductal","not applicable",5
+"HP1509101_A2","delta","not applicable",5
+"HP1509101_A20","alpha","not applicable",5
+"HP1509101_A5","alpha","not applicable",5
+"HP1509101_B14","unclassified endocrine","not applicable",5
+"HP1509101_B20","alpha","alpha",5
+"HP1509101_C10","unclassified endocrine","not applicable",5
+"HP1509101_C11","delta","not applicable",5
+"HP1509101_C13","unclassified endocrine","not applicable",5
+"HP1509101_C19","ductal","not applicable",5
+"HP1509101_C2","unclassified endocrine","not applicable",5
+"HP1509101_C21","ductal","ductal",5
+"HP1509101_C4","unclassified endocrine","not applicable",5
+"HP1509101_D11","unclassified endocrine","not applicable",5
+"HP1509101_D12","unclassified endocrine","not applicable",5
+"HP1509101_D17","ductal","ductal",5
+"HP1509101_D21","acinar","not applicable",5
+"HP1509101_D6","unclassified endocrine","not applicable",5
+"HP1509101_E10","ductal","not applicable",5
+"HP1509101_E16","unclassified endocrine","not applicable",5
+"HP1509101_E6","unclassified endocrine","not applicable",5
+"HP1509101_F12","unclassified endocrine","not applicable",5
+"HP1509101_F18","acinar","acinar",5
+"HP1509101_F21","gamma","gamma",5
+"HP1509101_F9","unclassified endocrine","not applicable",5
+"HP1509101_G18","alpha","alpha",5
+"HP1509101_G20","alpha","not applicable",5
+"HP1509101_G22","alpha","not applicable",5
+"HP1509101_H12","unclassified endocrine","not applicable",5
+"HP1509101_H13","delta","delta",5
+"HP1509101_H5","not applicable","not applicable",5
+"HP1509101_I15","unclassified endocrine","not applicable",5
+"HP1509101_I4","delta","not applicable",5
+"HP1509101_J11","ductal","not applicable",5
+"HP1509101_J13","delta","not applicable",5
+"HP1509101_J19","beta","beta",5
+"HP1509101_J21","unclassified endocrine","not applicable",5
+"HP1509101_J22","acinar","ductal",5
+"HP1509101_J24","alpha","not applicable",5
+"HP1509101_J3","delta","not applicable",5
+"HP1509101_J4","alpha","alpha",5
+"HP1509101_J7","unclassified endocrine","not applicable",5
+"HP1509101_K20","delta","not applicable",5
+"HP1509101_K4","unclassified endocrine","not applicable",5
+"HP1509101_K7","alpha","not applicable",5
+"HP1509101_L15","delta","not applicable",5
+"HP1509101_L16","ductal","ductal",5
+"HP1509101_L2","ductal","not applicable",5
+"HP1509101_L23","delta","delta",5
+"HP1509101_L5","unclassified endocrine","not applicable",5
+"HP1509101_L7","unclassified endocrine","not applicable",5
+"HP1509101_M1","unclassified endocrine","not applicable",5
+"HP1509101_M17","unclassified endocrine","not applicable",5
+"HP1509101_M20","delta","not applicable",5
+"HP1509101_M22","unclassified endocrine","not applicable",5
+"HP1509101_M23","unclassified endocrine","not applicable",5
+"HP1509101_M3","unclassified endocrine","not applicable",5
+"HP1509101_M5","unclassified endocrine","not applicable",5
+"HP1509101_M6","unclassified endocrine","not applicable",5
+"HP1509101_M7","unclassified endocrine","not applicable",5
+"HP1509101_N11","ductal","not applicable",5
+"HP1509101_N15","alpha","not applicable",5
+"HP1509101_N17","alpha","alpha",5
+"HP1509101_N19","ductal","not applicable",5
+"HP1509101_N20","alpha","alpha",5
+"HP1509101_N22","alpha","not applicable",5
+"HP1509101_N6","ductal","not applicable",5
+"HP1509101_O10","beta","not applicable",5
+"HP1509101_O16","alpha","alpha",5
+"HP1509101_O17","PSC","not applicable",5
+"HP1509101_O2","unclassified endocrine","not applicable",5
+"HP1509101_O22","delta","not applicable",5
+"HP1509101_O6","beta","not applicable",5
+"HP1509101_O8","gamma","not applicable",5
+"HP1509101_P15","not applicable","not applicable",5
+"HP1509101_P18","alpha","alpha",5
+"HP1509101_P21","unclassified endocrine","not applicable",5
+"HP1509101_P8","acinar","ductal",5
+"HP1525301T2D_A23","not applicable","not applicable",5
+"HP1525301T2D_A7","delta","delta",5
+"HP1525301T2D_B1","alpha","alpha",5
+"HP1525301T2D_B19","not applicable","not applicable",5
+"HP1525301T2D_B2","unclassified endocrine","not applicable",5
+"HP1525301T2D_B6","PSC","PSC",5
+"HP1525301T2D_B7","alpha","alpha",5
+"HP1525301T2D_C1","alpha","alpha",5
+"HP1525301T2D_C17","ductal","ductal",5
+"HP1525301T2D_C24","ductal","ductal",5
+"HP1525301T2D_C4","acinar","ductal",5
+"HP1525301T2D_D11","alpha","alpha",5
+"HP1525301T2D_D13","unclassified endocrine","not applicable",5
+"HP1525301T2D_D15","ductal","ductal",5
+"HP1525301T2D_D17","delta","not applicable",5
+"HP1525301T2D_D18","PSC","not applicable",5
+"HP1525301T2D_D24","not applicable","not applicable",5
+"HP1525301T2D_D3","ductal","ductal",5
+"HP1525301T2D_D7","unclassified endocrine","not applicable",5
+"HP1525301T2D_E12","PSC","PSC",5
+"HP1525301T2D_E13","alpha","alpha",5
+"HP1525301T2D_E15","ductal","ductal",5
+"HP1525301T2D_E16","alpha","alpha",5
+"HP1525301T2D_E23","alpha","alpha",5
+"HP1525301T2D_E24","PSC","PSC",5
+"HP1525301T2D_E6","PSC","not applicable",5
+"HP1525301T2D_E9","unclassified endocrine","not applicable",5
+"HP1525301T2D_F19","alpha","alpha",5
+"HP1525301T2D_F2","alpha","alpha",5
+"HP1525301T2D_F22","not applicable","not applicable",5
+"HP1525301T2D_F9","unclassified endocrine","not applicable",5
+"HP1525301T2D_G11","alpha","alpha",5
+"HP1525301T2D_G2","not applicable","not applicable",5
+"HP1525301T2D_H10","not applicable","beta",5
+"HP1525301T2D_H14","acinar","ductal",5
+"HP1525301T2D_H23","alpha","alpha",5
+"HP1525301T2D_H8","alpha","acinar",5
+"HP1525301T2D_I17","ductal","ductal",5
+"HP1525301T2D_I2","alpha","alpha",5
+"HP1525301T2D_I3","ductal","ductal",5
+"HP1525301T2D_I8","ductal","ductal",5
+"HP1525301T2D_J12","unclassified endocrine","not applicable",5
+"HP1525301T2D_J13","alpha","alpha",5
+"HP1525301T2D_J14","alpha","alpha",5
+"HP1525301T2D_J18","gamma","gamma",5
+"HP1525301T2D_J2","alpha","alpha",5
+"HP1525301T2D_J20","acinar","ductal",5
+"HP1525301T2D_K12","not applicable","ductal",5
+"HP1525301T2D_L12","not applicable","not applicable",5
+"HP1525301T2D_L18","not applicable","not applicable",5
+"HP1525301T2D_M11","ductal","ductal",5
+"HP1525301T2D_M16","alpha","alpha",5
+"HP1525301T2D_M18","unclassified endocrine","not applicable",5
+"HP1525301T2D_M19","delta","unclassified endocrine",5
+"HP1525301T2D_M7","beta","beta",5
+"HP1525301T2D_M9","acinar","ductal",5
+"HP1525301T2D_N10","acinar","acinar",5
+"HP1525301T2D_N11","acinar","ductal",5
+"HP1525301T2D_N12","ductal","ductal",5
+"HP1525301T2D_N13","alpha","alpha",5
+"HP1525301T2D_N21","gamma","gamma",5
+"HP1525301T2D_N6","acinar","ductal",5
+"HP1525301T2D_N7","delta","alpha",5
+"HP1525301T2D_O10","acinar","not applicable",5
+"HP1525301T2D_O12","unclassified endocrine","not applicable",5
+"HP1525301T2D_O19","unclassified endocrine","not applicable",5
+"HP1525301T2D_O3","acinar","acinar",5
+"HP1525301T2D_O5","alpha","alpha",5
+"HP1525301T2D_P1","ductal","ductal",5
+"HP1525301T2D_P10","unclassified endocrine","not applicable",5
+"HP1525301T2D_P12","unclassified endocrine","not applicable",5
+"HP1525301T2D_P13","ductal","ductal",5
+"HP1525301T2D_P18","alpha","alpha",5
+"HP1525301T2D_P21","acinar","ductal",5
+"HP1525301T2D_P22","alpha","alpha",5
+"HP1525301T2D_P8","co-expression","alpha",5
+"HP1526901T2D_A12","delta","alpha",5
+"HP1526901T2D_A13","beta","co-expression",5
+"HP1526901T2D_A22","delta","delta",5
+"HP1526901T2D_A24","acinar","ductal",5
+"HP1526901T2D_A5","beta","beta",5
+"HP1526901T2D_A7","alpha","alpha",5
+"HP1526901T2D_A9","alpha","alpha",5
+"HP1526901T2D_B13","gamma","gamma",5
+"HP1526901T2D_B17","alpha","alpha",5
+"HP1526901T2D_B2","unclassified endocrine","not applicable",5
+"HP1526901T2D_B4","beta","beta",5
+"HP1526901T2D_B7","delta","delta",5
+"HP1526901T2D_B9","beta","beta",5
+"HP1526901T2D_C13","gamma","gamma",5
+"HP1526901T2D_C20","ductal","ductal",5
+"HP1526901T2D_C22","ductal","ductal",5
+"HP1526901T2D_C3","beta","beta",5
+"HP1526901T2D_D14","gamma","gamma",5
+"HP1526901T2D_D16","alpha","alpha",5
+"HP1526901T2D_D5","alpha","alpha",5
+"HP1526901T2D_D6","not applicable","not applicable",5
+"HP1526901T2D_E10","gamma","gamma",5
+"HP1526901T2D_E14","ductal","ductal",5
+"HP1526901T2D_E19","delta","delta",5
+"HP1526901T2D_E23","ductal","ductal",5
+"HP1526901T2D_E24","unclassified endocrine","not applicable",5
+"HP1526901T2D_E8","alpha","alpha",5
+"HP1526901T2D_F12","gamma","gamma",5
+"HP1526901T2D_F19","alpha","alpha",5
+"HP1526901T2D_F2","alpha","alpha",5
+"HP1526901T2D_F20","alpha","alpha",5
+"HP1526901T2D_F24","ductal","ductal",5
+"HP1526901T2D_F4","delta","not applicable",5
+"HP1526901T2D_F9","alpha","alpha",5
+"HP1526901T2D_G1","gamma","gamma",5
+"HP1526901T2D_G16","alpha","alpha",5
+"HP1526901T2D_H16","gamma","gamma",5
+"HP1526901T2D_H18","delta","delta",5
+"HP1526901T2D_I11","delta","delta",5
+"HP1526901T2D_I17","acinar","acinar",5
+"HP1526901T2D_I22","beta","beta",5
+"HP1526901T2D_I23","unclassified endocrine","not applicable",5
+"HP1526901T2D_J1","delta","delta",5
+"HP1526901T2D_J15","unclassified endocrine","not applicable",5
+"HP1526901T2D_J17","gamma","gamma",5
+"HP1526901T2D_J20","delta","delta",5
+"HP1526901T2D_J23","unclassified endocrine","not applicable",5
+"HP1526901T2D_J3","not applicable","ductal",5
+"HP1526901T2D_J6","beta","beta",5
+"HP1526901T2D_J8","alpha","alpha",5
+"HP1526901T2D_K17","acinar","acinar",5
+"HP1526901T2D_K18","alpha","alpha",5
+"HP1526901T2D_K4","ductal","ductal",5
+"HP1526901T2D_K9","unclassified endocrine","not applicable",5
+"HP1526901T2D_L12","gamma","gamma",5
+"HP1526901T2D_L16","alpha","alpha",5
+"HP1526901T2D_L17","alpha","alpha",5
+"HP1526901T2D_L19","gamma","alpha",5
+"HP1526901T2D_L6","beta","beta",5
+"HP1526901T2D_M10","unclassified endocrine","not applicable",5
+"HP1526901T2D_M14","ductal","ductal",5
+"HP1526901T2D_M16","alpha","alpha",5
+"HP1526901T2D_M17","delta","not applicable",5
+"HP1526901T2D_M21","alpha","alpha",5
+"HP1526901T2D_N12","beta","beta",5
+"HP1526901T2D_N14","alpha","alpha",5
+"HP1526901T2D_N18","gamma","gamma",5
+"HP1526901T2D_N21","ductal","ductal",5
+"HP1526901T2D_N3","beta","beta",5
+"HP1526901T2D_N5","acinar","not applicable",5
+"HP1526901T2D_N7","acinar","acinar",5
+"HP1526901T2D_O1","beta","beta",5
+"HP1526901T2D_O18","unclassified endocrine","not applicable",5
+"HP1526901T2D_O19","acinar","acinar",5
+"HP1526901T2D_O23","alpha","alpha",5
+"HP1526901T2D_O5","ductal","ductal",5
+"HP1526901T2D_P16","unclassified endocrine","not applicable",5
+"HP1526901T2D_P17","beta","beta",5
+"HP1526901T2D_P24","not applicable","not applicable",5
+"HP1526901T2D_P3","unclassified endocrine","not applicable",5
+"HP1526901T2D_P5","unclassified endocrine","not applicable",5
+"HP1526901T2D_P8","PSC","not applicable",5

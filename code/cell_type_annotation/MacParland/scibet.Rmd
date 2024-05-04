@@ -1,0 +1,77 @@
+
+SciBet: https://github.com/PaulingLiu/scibet/tree/master 
+https://github.com/zwj-tina/scibetR 
+
+Install packages
+```{r}
+#install.packages("Rcpp")
+#install.packages("RcppEigen")
+#install.packages("ggsci")
+#install.packages("viridis")
+#install.packages("tidyverse")
+```
+
+```{r}
+#if (!requireNamespace("devtools", quietly = TRUE)) install.packages("devtools")
+#devtools::install_github("zwj-tina/scibetR")
+```
+
+Load packages
+```{r}
+library(ggplot2)
+library(tidyverse)
+library(scibetR)
+library(viridis)
+library(ggsci)
+library(anndata)
+```
+
+Train for each fold and predict test data
+```{r}
+final_dataframe <- NULL
+for (fold in seq(1, 5)) {
+  # Provide the path to your .h5ad file
+  train_data_path <- paste("data/data_train_fold_", fold, ".h5ad", sep = "")
+  test_data_path <- paste("data/data_test_fold_", fold, ".h5ad", sep = "")
+  
+  # Read the .h5ad file
+  train_data <- anndata::read_h5ad(train_data_path)
+  test_data <- anndata::read_h5ad(test_data_path)
+  
+  # Extract data needed
+  train_data_X <- train_data$X
+  train_data_labels <- data.frame(label = train_data$obs$cell_type)
+  train_data_X <- cbind(train_data, label = train_data_labels)
+  row.names(train_data_X) <- NULL
+  
+  test_data_X <- test_data$X
+  test_data_labels <- data.frame(label = test_data$obs$cell_type)
+  test_data_X <- cbind(test_data, label = test_data_labels)
+  row.names(test_data_X) <- NULL
+  
+  # Train and predict
+  pred <- scibetR::SciBet_R(train_data_X, test_data_X, k=2000)
+  pred <- data.frame(label = pred)
+  
+  # Store prediction, true values, and fold
+  final_dataframe_temp <- data.frame(pred = pred$label, true_label = test_data_labels$label, fold = fold)
+  if (is.null(final_dataframe)) {
+    final_dataframe <- final_dataframe_temp
+  } else {
+    final_dataframe <- rbind(final_dataframe, final_dataframe_temp)
+  }
+}
+
+```
+
+Download dataframe with results
+```{r}
+write.csv(final_dataframe, file = "results/scibet_output.csv", row.names = TRUE)
+```
+
+Quickly evaluate performance
+```{r}
+accuracy <- mean(final_dataframe$pred == final_dataframe$true_label)
+print(paste("Accuracy:", accuracy))
+```
+

@@ -1,0 +1,98 @@
+
+Seurat: https://github.com/satijalab/seurat 
+https://github.com/satijalab/seurat-data 
+
+Install packages
+```{r}
+#install.packages('Seurat')
+#devtools::install_github('satijalab/seurat-data')
+```
+
+
+Load packages
+```{r}
+library(tidyverse)
+library(Seurat)
+#library(SeuratData)
+library(anndata)
+```
+
+Train for each fold and predict test data
+```{r}
+final_dataframe <- NULL
+for (fold in seq(1, 5)) {
+  # Provide the path to your .h5ad file
+  train_data_path <- paste("data/data_hvgs_train_fold_", fold, ".h5ad", sep = "")
+  test_data_path <- paste("data/data_hvgs_test_fold_", fold, ".h5ad", sep = "")
+  
+  # Read the .h5ad file
+  train_data <- anndata::read_h5ad(train_data_path)
+  test_data <- anndata::read_h5ad(test_data_path)
+  
+  # Extract data needed and create suitable Seurat object for train data
+  train_data_X <- t(train_data$X)
+  colnames(train_data_X) <- train_data$obs$sample_ID
+  train_data_X <- CreateSeuratObject(train_data_X)
+  train_data_X <- AddMetaData(train_data_X, train_data$obs$cell_type, col.name = "cell_type")
+  train_data_X <- AddMetaData(train_data_X, train_data$obs$patientID, col.name = "patientID")
+  train_data_X[["RNA"]] <- split(train_data_X[["RNA"]], f = train_data_X$patientID)
+  # Since data is already normalized we have to manually specify this by doing:
+  unique_batch_labels <- unique(train_data$obs$patientID)
+  for (ID in unique_batch_labels) {
+    train_data_X[["RNA"]][paste("data.", ID, sep = "")] <- train_data_X[["RNA"]][paste("counts.", ID, sep = "")]
+  }
+  #train_data_X <- NormalizeData(train_data_X)
+  train_data_X <- FindVariableFeatures(train_data_X)
+  train_data_X <- ScaleData(train_data_X)
+  train_data_X <- RunPCA(train_data_X)
+  train_data_X <- FindNeighbors(train_data_X, dims = 1:30)
+  train_data_X <- FindClusters(train_data_X)
+  
+  # Extract data needed and create suitable Seurat object for test data
+  test_data_X <- t(test_data$X)
+  colnames(test_data_X) <- test_data$obs$sample_ID
+  test_data_X <- CreateSeuratObject(test_data_X)
+  test_data_X <- AddMetaData(test_data_X, test_data$obs$cell_type, col.name = "cell_type")
+  test_data_X <- AddMetaData(test_data_X, test_data$obs$patientID, col.name = "patientID")
+  test_data_X[["RNA"]]["data"] <- test_data_X[["RNA"]]["counts"]
+  #test_data_X <- NormalizeData(test_data_X)
+  
+  # Integrate train data
+  train_data_X <- IntegrateLayers(object = train_data_X, method = CCAIntegration, orig.reduction = "pca", new.reduction = "integrated.cca", verbose = FALSE, k.weight = 50) # Needed to reduce k.weight from 100 to 50 since certain bacth effects have less than 100 samples
+  train_data_X <- FindNeighbors(train_data_X, reduction = "integrated.cca", dims = 1:30)
+  train_data_X <- FindClusters(train_data_X)
+  
+  # Train and predict
+  anchors <- FindTransferAnchors(reference = train_data_X, query = test_data_X, dims = 1:30,
+    reference.reduction = "pca")
+  predictions <- TransferData(anchorset = anchors, refdata = train_data_X$cell_type, dims = 1:30)
+  test_data_X <- AddMetaData(test_data_X, metadata = predictions)
+  
+  # Store prediction, true values, and fold
+  final_dataframe_temp <- data.frame(pred = test_data_X$predicted.id, true_label = test_data_X$cell_type, fold = fold)
+  if (is.null(final_dataframe)) {
+    final_dataframe <- final_dataframe_temp
+  } else {
+    final_dataframe <- rbind(final_dataframe, final_dataframe_temp)
+  }
+}
+
+```
+
+```{r}
+#final_dataframe_saved <- read.csv(file = "results/seurat_hvgs_output.csv", row.names = 1)
+#final_dataframe_fused <- rbind(final_dataframe_saved, final_dataframe)
+```
+
+Download dataframe with results
+```{r}
+#final_dataframe <- final_dataframe_fused
+write.csv(final_dataframe, file = "results/seurat_hvgs_output.csv", row.names = TRUE)
+```
+
+Quickly evaluate performance
+```{r}
+accuracy <- mean(final_dataframe$pred == final_dataframe$true_label)
+print(paste("Accuracy:", accuracy))
+```
+

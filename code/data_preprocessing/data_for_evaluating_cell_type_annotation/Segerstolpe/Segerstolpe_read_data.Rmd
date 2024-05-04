@@ -1,0 +1,44 @@
+
+How to read files from: https://github.com/hemberg-lab/scRNA.seq.datasets/blob/master/R/segerstolpe.R 
+
+Data
+```{r}
+d <- read.table("../../../../data/raw/data_for_evaluating_cell_type_annotation/Segerstolpe/pancreas_refseq_rpkms_counts_3514sc.txt", stringsAsFactors = F)
+d <- d[!duplicated(d[,1]), ]
+rownames(d) <- d[,1]
+d <- d[,3:ncol(d)]
+d <- d[,3515:7028]
+```
+
+
+```{r}
+labs <- read.csv("../../../../data/raw/data_for_evaluating_cell_type_annotation/Segerstolpe/labels.txt", stringsAsFactors = F, sep = "\t")
+#labs <- as.character(labs)
+colnames(d) <- labs$X0
+d <- d[,order(colnames(d))]
+# remove eGFP row
+d <- d[1:(nrow(d) - 1), ]
+```
+
+
+Annotations
+```{r}
+ann <- read.table("../../../../data/raw/data_for_evaluating_cell_type_annotation/Segerstolpe/E-MTAB-5061.sdrf.txt", stringsAsFactors = F, header = T, sep = "\t")
+rownames(ann) <- ann$Extract.Name
+ann <- ann[order(rownames(ann)), ]
+ann <- ann[,c(15,16,12,4,5)]
+colnames(ann) <- c("cell_quality", "cell_type", "disease", "sex", "age")
+# format cell type names
+ann$cell_type <- unlist(lapply(strsplit(ann$cell_type, " cell"), "[[", 1))
+```
+
+
+Download
+```{r}
+write.csv(d,"../../../../data/raw/data_for_evaluating_cell_type_annotation/Segerstolpe/data.txt", row.names = TRUE, col.names = TRUE, sep = "\t")
+
+write.csv(ann,"../../../../data/raw/data_for_evaluating_cell_type_annotation/Segerstolpe/annotations.txt", row.names = TRUE, col.names = TRUE, sep = "\t")
+```
+
+
+

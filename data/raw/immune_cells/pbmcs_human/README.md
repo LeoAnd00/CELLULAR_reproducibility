@@ -1,0 +1,2 @@
+# pbmcs_human
+All samples are from [GSE115189](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=gse115189), [GSM3665016](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=gsm3665016), [GSM3665017](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM3665017), [GSM3665018](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM3665018), [GSM3665019](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM3665019), [PBMC 10X data](https://support.10xgenomics.com/single-cell-gene-expression/datasets/3.0.0/pbmc_10k_v3).

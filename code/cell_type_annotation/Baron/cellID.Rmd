@@ -1,0 +1,127 @@
+
+CellID: https://github.com/RausellLab/CelliD 
+Useful tutorial: https://cbl-imagine.github.io/CellID/Vignette/vign.html 
+
+
+Install packages
+```{r}
+# Not sure which of these two approches that worked for installation
+#setRepositories(ind = c(1,2,3,4))
+#devtools::install_github("RausellLab/CelliD")
+
+#BiocManager::install("CelliD")
+```
+
+
+Load packages
+```{r}
+library(CelliD)
+library(tidyverse) # general purpose library for data handling
+library(ggpubr) #library for plotting
+```
+
+
+Train for each fold and predict test data
+```{r}
+final_dataframe_group <- NULL
+final_dataframe_cell <- NULL
+for (fold in seq(1, 5)) {
+  # Provide the path to your .h5ad file
+  train_data_path <- paste("data/data_train_fold_", fold, ".h5ad", sep = "")
+  test_data_path <- paste("data/data_test_fold_", fold, ".h5ad", sep = "")
+  
+  # Read the .h5ad file
+  train_data <- anndata::read_h5ad(train_data_path)
+  test_data <- anndata::read_h5ad(test_data_path)
+  
+  # Extract data needed and create suitable Seurat object for train data
+  train_data_X <- t(train_data$X)
+  colnames(train_data_X) <- train_data$obs$sample_ID
+  train_data_X <- CreateSeuratObject(train_data_X)
+  train_data_X <- AddMetaData(train_data_X, train_data$obs$cell_type, col.name = "cell_type")
+  train_data_X <- AddMetaData(train_data_X, train_data$obs$patientID, col.name = "patientID")
+  train_data_X[["RNA"]] <- split(train_data_X[["RNA"]], f = train_data_X$patientID)
+  # Since data is already normalized we have to manually specify this by doing:
+  train_data_X[["RNA"]]["data"] <- train_data_X[["RNA"]]["counts"]
+  #for (ID in seq(0, 9)) {
+  #  train_data_X[["RNA"]][paste("data.Patient_", ID, sep = "")] <- train_data_X[["RNA"]][paste("counts.Patient_", ID, #sep = "")]
+  #}
+  #train_data_X <- NormalizeData(train_data_X)
+  train_data_X <- FindVariableFeatures(train_data_X)
+  train_data_X <- ScaleData(train_data_X)
+  train_data_X <- RunPCA(train_data_X)
+  
+  # Extract data needed and create suitable Seurat object for test data
+  test_data_X <- t(test_data$X)
+  colnames(test_data_X) <- test_data$obs$sample_ID
+  test_data_X <- CreateSeuratObject(test_data_X)
+  test_data_X <- AddMetaData(test_data_X, test_data$obs$cell_type, col.name = "cell_type")
+  test_data_X <- AddMetaData(test_data_X, test_data$obs$patientID, col.name = "patientID")
+  test_data_X[["RNA"]]["data"] <- test_data_X[["RNA"]]["counts"]
+  #test_data_X <- NormalizeData(test_data_X)
+  test_data_X <- FindVariableFeatures(test_data_X)
+  test_data_X <- ScaleData(test_data_X)
+  test_data_X <- RunPCA(test_data_X)
+  
+  # Run MCA
+  train_data_X <- RunMCA(train_data_X)
+  
+  test_data_X <- RunMCA(test_data_X)
+  
+  # extract gene signatures of baron cell types
+  train_data_X_group_gs <- GetGroupGeneSet(train_data_X, dims = 1:50, n.features = 200, group.by = "cell_type")
+  
+  # extract gene signatures of baron cells
+  train_data_X_cell_gs <- GetCellGeneSet(train_data_X, dims = 1:50, n.features = 200)
+  
+  # Group predict
+  test_data_X_group_gs <- RunCellHGT(test_data_X, pathways = train_data_X_group_gs, dims = 1:50)
+  
+  test_data_X_group_gs_prediction <- rownames(test_data_X_group_gs)[apply(test_data_X_group_gs, 2, which.max)]
+  
+  # For detecting novel cell type
+  #test_data_X_group_gs_prediction_signif <- ifelse(apply(test_data_X_group_gs, 2, max)>2, yes = #test_data_X_group_gs_prediction, "unassigned")
+  
+  # Cell predict
+  test_data_X_cell_gs <- RunCellHGT(test_data_X, pathways = train_data_X_cell_gs, dims = 1:50)
+  
+  test_data_X_cell_gs_matchn <- rownames(test_data_X_cell_gs)[apply(test_data_X_cell_gs, 2, which.max)]
+  
+  test_data_X_cell_gs_prediction <- train_data_X$cell_type[test_data_X_cell_gs_matchn]
+  
+  # For detecting novel cell type
+  #test_data_X_cell_gs_prediction_signif <- ifelse(apply(test_data_X_cell_gs, 2, max)>2, yes = #test_data_X_cell_gs_prediction, "unassigned")
+  
+  # Store prediction, true values, and fold
+  final_dataframe_temp_group <- data.frame(pred = test_data_X_group_gs_prediction, true_label = test_data_X$cell_type, fold = fold)
+  final_dataframe_temp_cell <- data.frame(pred = test_data_X_cell_gs_prediction, true_label = test_data_X$cell_type, fold = fold)
+  if (is.null(final_dataframe_group)) {
+    final_dataframe_group <- final_dataframe_temp_group
+  } else {
+    final_dataframe_group <- rbind(final_dataframe_group, final_dataframe_temp_group)
+  }
+  
+  if (is.null(final_dataframe_cell)) {
+    final_dataframe_cell <- final_dataframe_temp_cell
+  } else {
+    final_dataframe_cell <- rbind(final_dataframe_cell, final_dataframe_temp_cell)
+  }
+}
+
+```
+
+Download dataframe with results
+```{r}
+write.csv(final_dataframe_group, file = "results/CellID_group_output.csv", row.names = TRUE)
+write.csv(final_dataframe_cell, file = "results/CellID_cell_output.csv", row.names = TRUE)
+```
+
+Quickly evaluate performance
+```{r}
+accuracy <- mean(final_dataframe_group$pred == final_dataframe_group$true_label)
+print(paste("Accuracy of CellID Group:", accuracy))
+
+accuracy <- mean(final_dataframe_cell$pred == final_dataframe_cell$true_label)
+print(paste("Accuracy of CellID Cell:", accuracy))
+```
+

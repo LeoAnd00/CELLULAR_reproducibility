@@ -1,0 +1,3515 @@
+,pred,true_label,fold
+0,alpha,alpha,1
+1,alpha,alpha,1
+2,not applicable,unclassified endocrine,1
+3,ductal,ductal,1
+4,not applicable,not applicable,1
+5,not applicable,not applicable,1
+6,delta,delta,1
+7,beta,beta,1
+8,not applicable,not applicable,1
+9,alpha,alpha,1
+10,PSC,PSC,1
+11,co-expression,co-expression,1
+12,not applicable,ductal,1
+13,beta,beta,1
+14,alpha,delta,1
+15,beta,beta,1
+16,gamma,gamma,1
+17,co-expression,beta,1
+18,not applicable,not applicable,1
+19,not applicable,not applicable,1
+20,delta,delta,1
+21,beta,beta,1
+22,beta,beta,1
+23,not applicable,not applicable,1
+24,alpha,alpha,1
+25,beta,beta,1
+26,not applicable,not applicable,1
+27,unclassified endocrine,not applicable,1
+28,delta,delta,1
+29,not applicable,not applicable,1
+30,alpha,alpha,1
+31,not applicable,not applicable,1
+32,not applicable,not applicable,1
+33,acinar,acinar,1
+34,beta,co-expression,1
+35,acinar,acinar,1
+36,acinar,acinar,1
+37,gamma,gamma,1
+38,alpha,alpha,1
+39,alpha,alpha,1
+40,beta,beta,1
+41,not applicable,not applicable,1
+42,unclassified endocrine,not applicable,1
+43,beta,beta,1
+44,not applicable,not applicable,1
+45,unclassified endocrine,not applicable,1
+46,beta,beta,1
+47,alpha,alpha,1
+48,not applicable,not applicable,1
+49,not applicable,not applicable,1
+50,alpha,alpha,1
+51,not applicable,unclassified endocrine,1
+52,alpha,alpha,1
+53,alpha,alpha,1
+54,delta,delta,1
+55,alpha,alpha,1
+56,alpha,alpha,1
+57,mast,mast,1
+58,ductal,ductal,1
+59,alpha,alpha,1
+60,not applicable,not applicable,1
+61,alpha,alpha,1
+62,gamma,gamma,1
+63,gamma,gamma,1
+64,alpha,alpha,1
+65,alpha,alpha,1
+66,gamma,gamma,1
+67,alpha,alpha,1
+68,alpha,alpha,1
+69,alpha,alpha,1
+70,not applicable,not applicable,1
+71,alpha,alpha,1
+72,ductal,ductal,1
+73,alpha,alpha,1
+74,alpha,alpha,1
+75,ductal,ductal,1
+76,alpha,alpha,1
+77,alpha,not applicable,1
+78,ductal,ductal,1
+79,gamma,gamma,1
+80,ductal,ductal,1
+81,ductal,ductal,1
+82,alpha,alpha,1
+83,not applicable,not applicable,1
+84,ductal,ductal,1
+85,beta,beta,1
+86,delta,delta,1
+87,not applicable,not applicable,1
+88,alpha,alpha,1
+89,mast,mast,1
+90,acinar,acinar,1
+91,not applicable,not applicable,1
+92,not applicable,not applicable,1
+93,not applicable,not applicable,1
+94,not applicable,not applicable,1
+95,alpha,alpha,1
+96,gamma,gamma,1
+97,gamma,gamma,1
+98,gamma,gamma,1
+99,gamma,gamma,1
+100,alpha,alpha,1
+101,co-expression,co-expression,1
+102,not applicable,not applicable,1
+103,not applicable,not applicable,1
+104,not applicable,not applicable,1
+105,not applicable,not applicable,1
+106,gamma,gamma,1
+107,gamma,gamma,1
+108,alpha,alpha,1
+109,gamma,gamma,1
+110,not applicable,not applicable,1
+111,not applicable,not applicable,1
+112,beta,beta,1
+113,not applicable,alpha,1
+114,gamma,gamma,1
+115,gamma,gamma,1
+116,not applicable,not applicable,1
+117,alpha,alpha,1
+118,not applicable,not applicable,1
+119,alpha,alpha,1
+120,alpha,alpha,1
+121,alpha,alpha,1
+122,alpha,alpha,1
+123,not applicable,not applicable,1
+124,gamma,gamma,1
+125,gamma,gamma,1
+126,gamma,alpha,1
+127,beta,beta,1
+128,not applicable,not applicable,1
+129,gamma,gamma,1
+130,gamma,not applicable,1
+131,not applicable,not applicable,1
+132,alpha,alpha,1
+133,not applicable,alpha,1
+134,alpha,alpha,1
+135,alpha,alpha,1
+136,alpha,alpha,1
+137,not applicable,not applicable,1
+138,not applicable,not applicable,1
+139,acinar,acinar,1
+140,alpha,alpha,1
+141,alpha,alpha,1
+142,alpha,alpha,1
+143,not applicable,not applicable,1
+144,delta,delta,1
+145,gamma,gamma,1
+146,alpha,alpha,1
+147,not applicable,not applicable,1
+148,alpha,alpha,1
+149,not applicable,not applicable,1
+150,not applicable,not applicable,1
+151,alpha,alpha,1
+152,alpha,alpha,1
+153,gamma,gamma,1
+154,alpha,alpha,1
+155,beta,beta,1
+156,unclassified endocrine,not applicable,1
+157,alpha,alpha,1
+158,alpha,alpha,1
+159,alpha,alpha,1
+160,not applicable,not applicable,1
+161,not applicable,not applicable,1
+162,alpha,alpha,1
+163,alpha,alpha,1
+164,alpha,alpha,1
+165,not applicable,unclassified endocrine,1
+166,alpha,alpha,1
+167,gamma,gamma,1
+168,alpha,alpha,1
+169,alpha,alpha,1
+170,not applicable,not applicable,1
+171,not applicable,not applicable,1
+172,beta,beta,1
+173,gamma,gamma,1
+174,alpha,alpha,1
+175,not applicable,not applicable,1
+176,alpha,alpha,1
+177,alpha,alpha,1
+178,PSC,PSC,1
+179,not applicable,not applicable,1
+180,delta,delta,1
+181,not applicable,not applicable,1
+182,not applicable,not applicable,1
+183,not applicable,not applicable,1
+184,alpha,alpha,1
+185,alpha,alpha,1
+186,not applicable,not applicable,1
+187,alpha,alpha,1
+188,gamma,gamma,1
+189,co-expression,co-expression,1
+190,not applicable,not applicable,1
+191,unclassified endocrine,not applicable,1
+192,alpha,alpha,1
+193,delta,delta,1
+194,acinar,acinar,1
+195,alpha,alpha,1
+196,alpha,not applicable,1
+197,beta,beta,1
+198,alpha,alpha,1
+199,beta,beta,1
+200,alpha,alpha,1
+201,not applicable,not applicable,1
+202,gamma,gamma,1
+203,not applicable,not applicable,1
+204,PSC,PSC,1
+205,gamma,gamma,1
+206,not applicable,not applicable,1
+207,beta,beta,1
+208,delta,delta,1
+209,beta,beta,1
+210,not applicable,not applicable,1
+211,not applicable,not applicable,1
+212,not applicable,not applicable,1
+213,not applicable,not applicable,1
+214,PSC,PSC,1
+215,alpha,alpha,1
+216,unclassified endocrine,not applicable,1
+217,alpha,alpha,1
+218,not applicable,not applicable,1
+219,gamma,gamma,1
+220,alpha,alpha,1
+221,alpha,alpha,1
+222,gamma,gamma,1
+223,unclassified endocrine,not applicable,1
+224,alpha,alpha,1
+225,not applicable,not applicable,1
+226,gamma,gamma,1
+227,alpha,alpha,1
+228,alpha,alpha,1
+229,beta,beta,1
+230,not applicable,not applicable,1
+231,not applicable,not applicable,1
+232,unclassified endocrine,not applicable,1
+233,not applicable,not applicable,1
+234,PSC,PSC,1
+235,ductal,ductal,1
+236,gamma,gamma,1
+237,acinar,acinar,1
+238,acinar,acinar,1
+239,unclassified endocrine,not applicable,1
+240,not applicable,not applicable,1
+241,ductal,ductal,1
+242,not applicable,unclassified endocrine,1
+243,beta,beta,1
+244,ductal,ductal,1
+245,not applicable,not applicable,1
+246,unclassified endocrine,not applicable,1
+247,ductal,ductal,1
+248,acinar,not applicable,1
+249,delta,delta,1
+250,acinar,acinar,1
+251,gamma,not applicable,1
+252,unclassified endocrine,unclassified endocrine,1
+253,not applicable,not applicable,1
+254,not applicable,not applicable,1
+255,alpha,alpha,1
+256,gamma,not applicable,1
+257,ductal,ductal,1
+258,beta,beta,1
+259,alpha,alpha,1
+260,ductal,ductal,1
+261,ductal,ductal,1
+262,ductal,ductal,1
+263,alpha,alpha,1
+264,beta,beta,1
+265,acinar,acinar,1
+266,alpha,alpha,1
+267,acinar,acinar,1
+268,gamma,gamma,1
+269,acinar,acinar,1
+270,not applicable,not applicable,1
+271,not applicable,not applicable,1
+272,acinar,acinar,1
+273,not applicable,not applicable,1
+274,not applicable,not applicable,1
+275,acinar,acinar,1
+276,ductal,ductal,1
+277,not applicable,unclassified endocrine,1
+278,ductal,ductal,1
+279,acinar,acinar,1
+280,not applicable,not applicable,1
+281,ductal,ductal,1
+282,gamma,gamma,1
+283,acinar,acinar,1
+284,alpha,alpha,1
+285,not applicable,not applicable,1
+286,not applicable,not applicable,1
+287,not applicable,not applicable,1
+288,ductal,ductal,1
+289,not applicable,not applicable,1
+290,alpha,not applicable,1
+291,unclassified endocrine,not applicable,1
+292,ductal,not applicable,1
+293,beta,beta,1
+294,alpha,not applicable,1
+295,not applicable,not applicable,1
+296,acinar,acinar,1
+297,acinar,acinar,1
+298,beta,beta,1
+299,not applicable,not applicable,1
+300,not applicable,not applicable,1
+301,ductal,ductal,1
+302,not applicable,not applicable,1
+303,acinar,acinar,1
+304,acinar,acinar,1
+305,ductal,ductal,1
+306,ductal,ductal,1
+307,acinar,acinar,1
+308,beta,beta,1
+309,not applicable,not applicable,1
+310,not applicable,not applicable,1
+311,ductal,ductal,1
+312,not applicable,not applicable,1
+313,not applicable,not applicable,1
+314,alpha,not applicable,1
+315,alpha,not applicable,1
+316,not applicable,not applicable,1
+317,alpha,not applicable,1
+318,beta,beta,1
+319,alpha,not applicable,1
+320,alpha,alpha,1
+321,alpha,alpha,1
+322,alpha,alpha,1
+323,unclassified endocrine,not applicable,1
+324,not applicable,not applicable,1
+325,alpha,not applicable,1
+326,unclassified endocrine,not applicable,1
+327,alpha,alpha,1
+328,not applicable,not applicable,1
+329,alpha,alpha,1
+330,beta,beta,1
+331,alpha,not applicable,1
+332,not applicable,not applicable,1
+333,not applicable,not applicable,1
+334,alpha,alpha,1
+335,co-expression,delta,1
+336,beta,beta,1
+337,not applicable,not applicable,1
+338,alpha,alpha,1
+339,alpha,alpha,1
+340,alpha,alpha,1
+341,alpha,alpha,1
+342,alpha,alpha,1
+343,gamma,not applicable,1
+344,ductal,ductal,1
+345,alpha,alpha,1
+346,not applicable,not applicable,1
+347,not applicable,not applicable,1
+348,alpha,not applicable,1
+349,alpha,alpha,1
+350,alpha,not applicable,1
+351,not applicable,not applicable,1
+352,alpha,alpha,1
+353,alpha,not applicable,1
+354,co-expression,co-expression,1
+355,beta,beta,1
+356,not applicable,not applicable,1
+357,beta,beta,1
+358,alpha,alpha,1
+359,alpha,alpha,1
+360,alpha,not applicable,1
+361,alpha,alpha,1
+362,not applicable,alpha,1
+363,alpha,not applicable,1
+364,alpha,alpha,1
+365,not applicable,not applicable,1
+366,alpha,alpha,1
+367,alpha,alpha,1
+368,PSC,not applicable,1
+369,ductal,ductal,1
+370,PSC,PSC,1
+371,alpha,alpha,1
+372,not applicable,not applicable,1
+373,alpha,not applicable,1
+374,alpha,not applicable,1
+375,alpha,not applicable,1
+376,acinar,acinar,1
+377,alpha,alpha,1
+378,not applicable,not applicable,1
+379,alpha,alpha,1
+380,alpha,alpha,1
+381,alpha,alpha,1
+382,PSC,not applicable,1
+383,alpha,alpha,1
+384,not applicable,not applicable,1
+385,alpha,not applicable,1
+386,not applicable,not applicable,1
+387,alpha,not applicable,1
+388,not applicable,not applicable,1
+389,beta,beta,1
+390,alpha,not applicable,1
+391,alpha,alpha,1
+392,not applicable,not applicable,1
+393,alpha,not applicable,1
+394,delta,delta,1
+395,alpha,not applicable,1
+396,unclassified endocrine,not applicable,1
+397,beta,beta,1
+398,not applicable,not applicable,1
+399,alpha,alpha,1
+400,alpha,alpha,1
+401,not applicable,not applicable,1
+402,alpha,alpha,1
+403,alpha,alpha,1
+404,alpha,alpha,1
+405,alpha,alpha,1
+406,not applicable,not applicable,1
+407,alpha,not applicable,1
+408,ductal,ductal,1
+409,not applicable,not applicable,1
+410,alpha,alpha,1
+411,alpha,alpha,1
+412,not applicable,not applicable,1
+413,alpha,not applicable,1
+414,alpha,alpha,1
+415,unclassified,not applicable,1
+416,alpha,alpha,1
+417,PSC,PSC,1
+418,beta,beta,1
+419,ductal,ductal,1
+420,ductal,not applicable,1
+421,not applicable,not applicable,1
+422,alpha,alpha,1
+423,not applicable,not applicable,1
+424,MHC class II,MHC class II,1
+425,alpha,alpha,1
+426,alpha,alpha,1
+427,not applicable,not applicable,1
+428,alpha,alpha,1
+429,alpha,alpha,1
+430,alpha,alpha,1
+431,ductal,ductal,1
+432,ductal,ductal,1
+433,ductal,ductal,1
+434,alpha,alpha,1
+435,acinar,acinar,1
+436,not applicable,unclassified endocrine,1
+437,acinar,acinar,1
+438,acinar,acinar,1
+439,acinar,acinar,1
+440,alpha,alpha,1
+441,not applicable,unclassified endocrine,1
+442,ductal,not applicable,1
+443,beta,co-expression,1
+444,alpha,alpha,1
+445,alpha,alpha,1
+446,not applicable,not applicable,1
+447,not applicable,not applicable,1
+448,ductal,ductal,1
+449,ductal,ductal,1
+450,delta,delta,1
+451,ductal,ductal,1
+452,alpha,alpha,1
+453,ductal,ductal,1
+454,not applicable,not applicable,1
+455,PSC,PSC,1
+456,ductal,ductal,1
+457,alpha,alpha,1
+458,alpha,alpha,1
+459,alpha,alpha,1
+460,alpha,alpha,1
+461,ductal,ductal,1
+462,acinar,acinar,1
+463,not applicable,not applicable,1
+464,alpha,alpha,1
+465,ductal,ductal,1
+466,alpha,alpha,1
+467,beta,beta,1
+468,ductal,ductal,1
+469,not applicable,not applicable,1
+470,acinar,acinar,1
+471,acinar,acinar,1
+472,ductal,ductal,1
+473,acinar,acinar,1
+474,alpha,alpha,1
+475,not applicable,not applicable,1
+476,not applicable,not applicable,1
+477,ductal,ductal,1
+478,beta,beta,1
+479,not applicable,not applicable,1
+480,not applicable,not applicable,1
+481,not applicable,not applicable,1
+482,not applicable,not applicable,1
+483,alpha,gamma,1
+484,not applicable,not applicable,1
+485,not applicable,not applicable,1
+486,not applicable,not applicable,1
+487,PSC,PSC,1
+488,unclassified endocrine,not applicable,1
+489,not applicable,not applicable,1
+490,ductal,not applicable,1
+491,not applicable,not applicable,1
+492,not applicable,not applicable,1
+493,not applicable,not applicable,1
+494,unclassified endocrine,not applicable,1
+495,not applicable,not applicable,1
+496,not applicable,not applicable,1
+497,not applicable,not applicable,1
+498,PSC,not applicable,1
+499,not applicable,not applicable,1
+500,not applicable,not applicable,1
+501,not applicable,not applicable,1
+502,not applicable,not applicable,1
+503,unclassified endocrine,not applicable,1
+504,not applicable,not applicable,1
+505,not applicable,not applicable,1
+506,not applicable,not applicable,1
+507,endothelial,endothelial,1
+508,not applicable,not applicable,1
+509,not applicable,not applicable,1
+510,beta,not applicable,1
+511,not applicable,not applicable,1
+512,not applicable,not applicable,1
+513,not applicable,not applicable,1
+514,alpha,not applicable,1
+515,endothelial,not applicable,1
+516,not applicable,not applicable,1
+517,endothelial,endothelial,1
+518,alpha,not applicable,1
+519,not applicable,not applicable,1
+520,alpha,alpha,1
+521,alpha,alpha,1
+522,PSC,not applicable,1
+523,alpha,alpha,1
+524,delta,delta,1
+525,not applicable,not applicable,1
+526,epsilon,not applicable,1
+527,ductal,ductal,1
+528,not applicable,not applicable,1
+529,ductal,ductal,1
+530,not applicable,not applicable,1
+531,not applicable,not applicable,1
+532,endothelial,not applicable,1
+533,beta,beta,1
+534,not applicable,not applicable,1
+535,beta,beta,1
+536,delta,delta,1
+537,not applicable,not applicable,1
+538,alpha,not applicable,1
+539,alpha,alpha,1
+540,not applicable,not applicable,1
+541,not applicable,not applicable,1
+542,not applicable,not applicable,1
+543,ductal,not applicable,1
+544,not applicable,not applicable,1
+545,not applicable,not applicable,1
+546,not applicable,not applicable,1
+547,beta,beta,1
+548,not applicable,not applicable,1
+549,not applicable,not applicable,1
+550,not applicable,not applicable,1
+551,ductal,not applicable,1
+552,alpha,not applicable,1
+553,delta,not applicable,1
+554,delta,delta,1
+555,alpha,alpha,1
+556,gamma,co-expression,1
+557,not applicable,not applicable,1
+558,ductal,ductal,1
+559,alpha,alpha,1
+560,not applicable,not applicable,1
+561,alpha,alpha,1
+562,not applicable,not applicable,1
+563,beta,co-expression,1
+564,ductal,ductal,1
+565,not applicable,not applicable,1
+566,unclassified endocrine,not applicable,1
+567,not applicable,not applicable,1
+568,ductal,not applicable,1
+569,not applicable,not applicable,1
+570,ductal,ductal,1
+571,not applicable,not applicable,1
+572,alpha,alpha,1
+573,not applicable,not applicable,1
+574,alpha,alpha,1
+575,ductal,ductal,1
+576,ductal,ductal,1
+577,alpha,alpha,1
+578,ductal,ductal,1
+579,acinar,acinar,1
+580,gamma,gamma,1
+581,ductal,ductal,1
+582,ductal,ductal,1
+583,acinar,acinar,1
+584,gamma,gamma,1
+585,PSC,PSC,1
+586,alpha,alpha,1
+587,ductal,ductal,1
+588,beta,beta,1
+589,beta,beta,1
+590,acinar,acinar,1
+591,PSC,PSC,1
+592,ductal,ductal,1
+593,alpha,alpha,1
+594,alpha,alpha,1
+595,not applicable,not applicable,1
+596,ductal,ductal,1
+597,ductal,ductal,1
+598,ductal,ductal,1
+599,alpha,alpha,1
+600,ductal,ductal,1
+601,not applicable,not applicable,1
+602,alpha,alpha,1
+603,ductal,ductal,1
+604,ductal,ductal,1
+605,alpha,alpha,1
+606,ductal,ductal,1
+607,ductal,ductal,1
+608,beta,beta,1
+609,alpha,alpha,1
+610,ductal,ductal,1
+611,not applicable,not applicable,1
+612,ductal,ductal,1
+613,ductal,ductal,1
+614,ductal,ductal,1
+615,beta,beta,1
+616,ductal,ductal,1
+617,not applicable,not applicable,1
+618,ductal,not applicable,1
+619,alpha,alpha,1
+620,ductal,ductal,1
+621,alpha,alpha,1
+622,not applicable,not applicable,1
+623,not applicable,ductal,1
+624,not applicable,not applicable,1
+625,alpha,alpha,1
+626,ductal,ductal,1
+627,ductal,ductal,1
+628,alpha,alpha,1
+629,not applicable,not applicable,1
+630,alpha,alpha,1
+631,not applicable,not applicable,1
+632,alpha,alpha,1
+633,ductal,ductal,1
+634,endothelial,endothelial,1
+635,ductal,ductal,1
+636,alpha,alpha,1
+637,ductal,ductal,1
+638,alpha,alpha,1
+639,delta,delta,1
+640,delta,delta,1
+641,not applicable,not applicable,1
+642,beta,beta,1
+643,acinar,acinar,1
+644,alpha,alpha,1
+645,not applicable,not applicable,1
+646,not applicable,not applicable,1
+647,not applicable,not applicable,1
+648,alpha,delta,1
+649,ductal,ductal,1
+650,ductal,ductal,1
+651,acinar,acinar,1
+652,alpha,alpha,1
+653,acinar,acinar,1
+654,alpha,alpha,1
+655,beta,beta,1
+656,alpha,alpha,1
+657,not applicable,not applicable,1
+658,not applicable,not applicable,1
+659,beta,beta,1
+660,delta,delta,1
+661,alpha,alpha,1
+662,not applicable,not applicable,1
+663,alpha,alpha,1
+664,gamma,gamma,1
+665,beta,beta,1
+666,not applicable,not applicable,1
+667,not applicable,not applicable,1
+668,beta,beta,1
+669,not applicable,not applicable,1
+670,beta,beta,1
+671,beta,beta,1
+672,gamma,gamma,1
+673,gamma,gamma,1
+674,alpha,alpha,1
+675,not applicable,not applicable,1
+676,alpha,alpha,1
+677,gamma,gamma,1
+678,beta,beta,1
+679,alpha,alpha,1
+680,unclassified endocrine,not applicable,1
+681,ductal,ductal,1
+682,delta,delta,1
+683,delta,delta,1
+684,alpha,alpha,1
+685,not applicable,not applicable,1
+686,beta,beta,1
+687,co-expression,beta,1
+688,not applicable,not applicable,1
+689,alpha,alpha,1
+690,epsilon,epsilon,1
+691,gamma,gamma,1
+692,beta,beta,1
+693,alpha,alpha,1
+694,gamma,gamma,1
+695,not applicable,not applicable,1
+696,acinar,acinar,1
+697,alpha,alpha,1
+698,unclassified endocrine,not applicable,1
+699,alpha,alpha,1
+700,alpha,alpha,1
+701,not applicable,not applicable,1
+702,alpha,alpha,1
+0,gamma,gamma,2
+1,not applicable,not applicable,2
+2,acinar,acinar,2
+3,delta,delta,2
+4,acinar,acinar,2
+5,alpha,alpha,2
+6,beta,beta,2
+7,alpha,alpha,2
+8,gamma,gamma,2
+9,beta,beta,2
+10,alpha,alpha,2
+11,alpha,alpha,2
+12,alpha,alpha,2
+13,alpha,alpha,2
+14,beta,beta,2
+15,not applicable,not applicable,2
+16,not applicable,unclassified endocrine,2
+17,not applicable,not applicable,2
+18,beta,beta,2
+19,alpha,gamma,2
+20,beta,beta,2
+21,acinar,acinar,2
+22,alpha,alpha,2
+23,not applicable,not applicable,2
+24,not applicable,unclassified endocrine,2
+25,acinar,acinar,2
+26,not applicable,unclassified endocrine,2
+27,not applicable,not applicable,2
+28,beta,beta,2
+29,gamma,gamma,2
+30,not applicable,not applicable,2
+31,not applicable,not applicable,2
+32,not applicable,alpha,2
+33,not applicable,not applicable,2
+34,not applicable,not applicable,2
+35,alpha,not applicable,2
+36,delta,delta,2
+37,beta,beta,2
+38,acinar,not applicable,2
+39,alpha,alpha,2
+40,alpha,alpha,2
+41,beta,beta,2
+42,beta,beta,2
+43,not applicable,not applicable,2
+44,epsilon,epsilon,2
+45,delta,alpha,2
+46,alpha,alpha,2
+47,delta,delta,2
+48,alpha,alpha,2
+49,not applicable,not applicable,2
+50,beta,beta,2
+51,delta,delta,2
+52,beta,beta,2
+53,alpha,alpha,2
+54,not applicable,not applicable,2
+55,alpha,alpha,2
+56,ductal,ductal,2
+57,not applicable,not applicable,2
+58,not applicable,not applicable,2
+59,endothelial,endothelial,2
+60,alpha,alpha,2
+61,delta,delta,2
+62,mast,not applicable,2
+63,alpha,alpha,2
+64,alpha,alpha,2
+65,beta,beta,2
+66,alpha,alpha,2
+67,alpha,alpha,2
+68,alpha,alpha,2
+69,alpha,alpha,2
+70,acinar,acinar,2
+71,not applicable,unclassified endocrine,2
+72,alpha,alpha,2
+73,not applicable,unclassified endocrine,2
+74,alpha,alpha,2
+75,alpha,alpha,2
+76,beta,beta,2
+77,alpha,alpha,2
+78,not applicable,not applicable,2
+79,alpha,alpha,2
+80,alpha,alpha,2
+81,mast,mast,2
+82,alpha,not applicable,2
+83,alpha,alpha,2
+84,alpha,alpha,2
+85,acinar,acinar,2
+86,not applicable,not applicable,2
+87,alpha,alpha,2
+88,unclassified endocrine,not applicable,2
+89,not applicable,alpha,2
+90,delta,delta,2
+91,beta,beta,2
+92,alpha,gamma,2
+93,acinar,acinar,2
+94,not applicable,not applicable,2
+95,alpha,alpha,2
+96,alpha,alpha,2
+97,unclassified endocrine,not applicable,2
+98,gamma,gamma,2
+99,not applicable,not applicable,2
+100,not applicable,not applicable,2
+101,gamma,gamma,2
+102,gamma,gamma,2
+103,alpha,alpha,2
+104,delta,delta,2
+105,not applicable,not applicable,2
+106,alpha,alpha,2
+107,gamma,gamma,2
+108,not applicable,not applicable,2
+109,not applicable,not applicable,2
+110,not applicable,not applicable,2
+111,ductal,ductal,2
+112,acinar,acinar,2
+113,not applicable,not applicable,2
+114,gamma,gamma,2
+115,alpha,alpha,2
+116,alpha,alpha,2
+117,not applicable,not applicable,2
+118,beta,beta,2
+119,not applicable,not applicable,2
+120,gamma,gamma,2
+121,beta,beta,2
+122,gamma,gamma,2
+123,gamma,gamma,2
+124,gamma,gamma,2
+125,gamma,gamma,2
+126,alpha,alpha,2
+127,not applicable,not applicable,2
+128,not applicable,not applicable,2
+129,alpha,alpha,2
+130,gamma,gamma,2
+131,alpha,alpha,2
+132,gamma,gamma,2
+133,gamma,gamma,2
+134,gamma,gamma,2
+135,not applicable,not applicable,2
+136,not applicable,not applicable,2
+137,alpha,alpha,2
+138,alpha,alpha,2
+139,beta,beta,2
+140,delta,not applicable,2
+141,alpha,alpha,2
+142,alpha,alpha,2
+143,alpha,alpha,2
+144,not applicable,not applicable,2
+145,not applicable,not applicable,2
+146,not applicable,not applicable,2
+147,alpha,alpha,2
+148,not applicable,not applicable,2
+149,delta,not applicable,2
+150,alpha,alpha,2
+151,alpha,alpha,2
+152,not applicable,not applicable,2
+153,gamma,gamma,2
+154,alpha,gamma,2
+155,not applicable,not applicable,2
+156,not applicable,not applicable,2
+157,not applicable,not applicable,2
+158,gamma,gamma,2
+159,alpha,alpha,2
+160,alpha,alpha,2
+161,alpha,alpha,2
+162,not applicable,not applicable,2
+163,not applicable,not applicable,2
+164,not applicable,not applicable,2
+165,not applicable,not applicable,2
+166,alpha,alpha,2
+167,not applicable,not applicable,2
+168,alpha,alpha,2
+169,delta,delta,2
+170,acinar,not applicable,2
+171,alpha,alpha,2
+172,ductal,ductal,2
+173,alpha,not applicable,2
+174,gamma,gamma,2
+175,gamma,gamma,2
+176,not applicable,not applicable,2
+177,acinar,not applicable,2
+178,not applicable,not applicable,2
+179,alpha,not applicable,2
+180,not applicable,not applicable,2
+181,not applicable,not applicable,2
+182,not applicable,not applicable,2
+183,not applicable,not applicable,2
+184,acinar,acinar,2
+185,alpha,alpha,2
+186,alpha,not applicable,2
+187,delta,delta,2
+188,not applicable,not applicable,2
+189,alpha,alpha,2
+190,alpha,alpha,2
+191,not applicable,not applicable,2
+192,not applicable,not applicable,2
+193,not applicable,ductal,2
+194,not applicable,not applicable,2
+195,not applicable,not applicable,2
+196,PSC,PSC,2
+197,gamma,gamma,2
+198,not applicable,not applicable,2
+199,alpha,alpha,2
+200,alpha,alpha,2
+201,alpha,alpha,2
+202,beta,co-expression,2
+203,not applicable,not applicable,2
+204,beta,beta,2
+205,alpha,alpha,2
+206,alpha,alpha,2
+207,alpha,alpha,2
+208,beta,beta,2
+209,not applicable,not applicable,2
+210,alpha,alpha,2
+211,alpha,alpha,2
+212,alpha,alpha,2
+213,gamma,gamma,2
+214,not applicable,not applicable,2
+215,beta,beta,2
+216,gamma,gamma,2
+217,not applicable,alpha,2
+218,not applicable,not applicable,2
+219,not applicable,not applicable,2
+220,ductal,ductal,2
+221,not applicable,not applicable,2
+222,endothelial,endothelial,2
+223,alpha,alpha,2
+224,co-expression,co-expression,2
+225,not applicable,not applicable,2
+226,alpha,alpha,2
+227,ductal,not applicable,2
+228,beta,co-expression,2
+229,not applicable,not applicable,2
+230,not applicable,not applicable,2
+231,alpha,alpha,2
+232,beta,beta,2
+233,not applicable,not applicable,2
+234,not applicable,not applicable,2
+235,not applicable,not applicable,2
+236,ductal,ductal,2
+237,not applicable,not applicable,2
+238,not applicable,not applicable,2
+239,alpha,not applicable,2
+240,gamma,gamma,2
+241,not applicable,not applicable,2
+242,not applicable,not applicable,2
+243,PSC,PSC,2
+244,not applicable,not applicable,2
+245,alpha,not applicable,2
+246,not applicable,not applicable,2
+247,ductal,ductal,2
+248,alpha,alpha,2
+249,delta,delta,2
+250,alpha,alpha,2
+251,not applicable,not applicable,2
+252,not applicable,not applicable,2
+253,alpha,alpha,2
+254,not applicable,not applicable,2
+255,acinar,not applicable,2
+256,not applicable,not applicable,2
+257,not applicable,not applicable,2
+258,alpha,alpha,2
+259,not applicable,unclassified endocrine,2
+260,not applicable,not applicable,2
+261,not applicable,not applicable,2
+262,not applicable,not applicable,2
+263,ductal,ductal,2
+264,not applicable,not applicable,2
+265,ductal,ductal,2
+266,co-expression,co-expression,2
+267,not applicable,not applicable,2
+268,acinar,acinar,2
+269,not applicable,not applicable,2
+270,acinar,acinar,2
+271,beta,beta,2
+272,ductal,not applicable,2
+273,not applicable,not applicable,2
+274,not applicable,not applicable,2
+275,alpha,not applicable,2
+276,beta,beta,2
+277,ductal,ductal,2
+278,acinar,acinar,2
+279,co-expression,co-expression,2
+280,ductal,not applicable,2
+281,acinar,acinar,2
+282,ductal,ductal,2
+283,ductal,ductal,2
+284,alpha,alpha,2
+285,ductal,not applicable,2
+286,ductal,ductal,2
+287,not applicable,not applicable,2
+288,gamma,gamma,2
+289,unclassified endocrine,not applicable,2
+290,alpha,alpha,2
+291,not applicable,not applicable,2
+292,acinar,not applicable,2
+293,acinar,acinar,2
+294,acinar,acinar,2
+295,beta,beta,2
+296,ductal,ductal,2
+297,acinar,acinar,2
+298,acinar,acinar,2
+299,ductal,ductal,2
+300,acinar,acinar,2
+301,ductal,ductal,2
+302,not applicable,not applicable,2
+303,delta,not applicable,2
+304,acinar,acinar,2
+305,acinar,acinar,2
+306,not applicable,not applicable,2
+307,acinar,acinar,2
+308,ductal,ductal,2
+309,ductal,ductal,2
+310,acinar,acinar,2
+311,not applicable,not applicable,2
+312,acinar,acinar,2
+313,not applicable,not applicable,2
+314,not applicable,not applicable,2
+315,gamma,not applicable,2
+316,ductal,ductal,2
+317,beta,beta,2
+318,acinar,acinar,2
+319,ductal,ductal,2
+320,alpha,alpha,2
+321,not applicable,not applicable,2
+322,not applicable,not applicable,2
+323,alpha,not applicable,2
+324,alpha,alpha,2
+325,alpha,alpha,2
+326,alpha,alpha,2
+327,beta,beta,2
+328,alpha,alpha,2
+329,co-expression,co-expression,2
+330,PSC,not applicable,2
+331,beta,not applicable,2
+332,not applicable,alpha,2
+333,alpha,not applicable,2
+334,alpha,alpha,2
+335,alpha,alpha,2
+336,gamma,not applicable,2
+337,alpha,alpha,2
+338,alpha,not applicable,2
+339,beta,beta,2
+340,beta,beta,2
+341,alpha,alpha,2
+342,beta,beta,2
+343,unclassified endocrine,not applicable,2
+344,PSC,not applicable,2
+345,PSC,not applicable,2
+346,alpha,alpha,2
+347,alpha,alpha,2
+348,delta,delta,2
+349,alpha,alpha,2
+350,not applicable,not applicable,2
+351,alpha,alpha,2
+352,PSC,PSC,2
+353,alpha,not applicable,2
+354,alpha,alpha,2
+355,alpha,alpha,2
+356,not applicable,not applicable,2
+357,not applicable,not applicable,2
+358,alpha,alpha,2
+359,not applicable,not applicable,2
+360,alpha,alpha,2
+361,not applicable,not applicable,2
+362,beta,beta,2
+363,alpha,alpha,2
+364,alpha,alpha,2
+365,alpha,alpha,2
+366,alpha,alpha,2
+367,alpha,alpha,2
+368,alpha,alpha,2
+369,beta,beta,2
+370,alpha,alpha,2
+371,alpha,not applicable,2
+372,not applicable,not applicable,2
+373,delta,not applicable,2
+374,beta,beta,2
+375,alpha,alpha,2
+376,alpha,not applicable,2
+377,beta,beta,2
+378,not applicable,not applicable,2
+379,unclassified endocrine,not applicable,2
+380,not applicable,not applicable,2
+381,alpha,not applicable,2
+382,not applicable,not applicable,2
+383,not applicable,not applicable,2
+384,not applicable,not applicable,2
+385,ductal,alpha,2
+386,not applicable,not applicable,2
+387,not applicable,not applicable,2
+388,ductal,ductal,2
+389,ductal,ductal,2
+390,alpha,not applicable,2
+391,beta,beta,2
+392,not applicable,not applicable,2
+393,alpha,alpha,2
+394,not applicable,not applicable,2
+395,beta,not applicable,2
+396,alpha,not applicable,2
+397,not applicable,not applicable,2
+398,alpha,not applicable,2
+399,endothelial,not applicable,2
+400,alpha,alpha,2
+401,alpha,alpha,2
+402,acinar,acinar,2
+403,gamma,gamma,2
+404,not applicable,not applicable,2
+405,not applicable,not applicable,2
+406,alpha,alpha,2
+407,PSC,PSC,2
+408,alpha,alpha,2
+409,beta,beta,2
+410,beta,beta,2
+411,alpha,alpha,2
+412,acinar,acinar,2
+413,alpha,alpha,2
+414,ductal,ductal,2
+415,not applicable,not applicable,2
+416,ductal,not applicable,2
+417,alpha,alpha,2
+418,PSC,PSC,2
+419,ductal,ductal,2
+420,alpha,alpha,2
+421,alpha,alpha,2
+422,alpha,alpha,2
+423,ductal,ductal,2
+424,not applicable,not applicable,2
+425,not applicable,unclassified endocrine,2
+426,alpha,alpha,2
+427,not applicable,not applicable,2
+428,beta,beta,2
+429,alpha,alpha,2
+430,gamma,gamma,2
+431,not applicable,not applicable,2
+432,not applicable,not applicable,2
+433,alpha,alpha,2
+434,not applicable,not applicable,2
+435,alpha,not applicable,2
+436,alpha,alpha,2
+437,acinar,acinar,2
+438,alpha,alpha,2
+439,ductal,ductal,2
+440,beta,not applicable,2
+441,not applicable,not applicable,2
+442,alpha,alpha,2
+443,endothelial,endothelial,2
+444,ductal,ductal,2
+445,alpha,not applicable,2
+446,ductal,ductal,2
+447,mast,mast,2
+448,acinar,acinar,2
+449,PSC,PSC,2
+450,PSC,not applicable,2
+451,ductal,ductal,2
+452,not applicable,not applicable,2
+453,alpha,alpha,2
+454,alpha,alpha,2
+455,alpha,alpha,2
+456,gamma,gamma,2
+457,ductal,ductal,2
+458,not applicable,alpha,2
+459,ductal,ductal,2
+460,acinar,not applicable,2
+461,not applicable,not applicable,2
+462,alpha,alpha,2
+463,ductal,ductal,2
+464,alpha,not applicable,2
+465,not applicable,not applicable,2
+466,not applicable,not applicable,2
+467,ductal,ductal,2
+468,not applicable,not applicable,2
+469,not applicable,not applicable,2
+470,alpha,alpha,2
+471,alpha,alpha,2
+472,not applicable,not applicable,2
+473,not applicable,not applicable,2
+474,not applicable,not applicable,2
+475,unclassified endocrine,not applicable,2
+476,alpha,alpha,2
+477,ductal,not applicable,2
+478,not applicable,not applicable,2
+479,not applicable,alpha,2
+480,beta,beta,2
+481,ductal,ductal,2
+482,not applicable,not applicable,2
+483,not applicable,not applicable,2
+484,not applicable,not applicable,2
+485,not applicable,not applicable,2
+486,alpha,alpha,2
+487,beta,beta,2
+488,not applicable,not applicable,2
+489,not applicable,not applicable,2
+490,not applicable,not applicable,2
+491,alpha,alpha,2
+492,not applicable,not applicable,2
+493,ductal,ductal,2
+494,not applicable,not applicable,2
+495,not applicable,not applicable,2
+496,ductal,not applicable,2
+497,not applicable,not applicable,2
+498,ductal,not applicable,2
+499,not applicable,not applicable,2
+500,not applicable,not applicable,2
+501,endothelial,not applicable,2
+502,not applicable,not applicable,2
+503,not applicable,not applicable,2
+504,alpha,not applicable,2
+505,alpha,alpha,2
+506,alpha,alpha,2
+507,not applicable,not applicable,2
+508,not applicable,not applicable,2
+509,ductal,ductal,2
+510,not applicable,not applicable,2
+511,alpha,not applicable,2
+512,ductal,not applicable,2
+513,not applicable,alpha,2
+514,alpha,not applicable,2
+515,ductal,not applicable,2
+516,ductal,ductal,2
+517,alpha,alpha,2
+518,not applicable,not applicable,2
+519,ductal,ductal,2
+520,alpha,not applicable,2
+521,not applicable,not applicable,2
+522,ductal,ductal,2
+523,gamma,alpha,2
+524,PSC,not applicable,2
+525,not applicable,not applicable,2
+526,not applicable,not applicable,2
+527,ductal,not applicable,2
+528,not applicable,not applicable,2
+529,not applicable,not applicable,2
+530,not applicable,not applicable,2
+531,delta,delta,2
+532,unclassified endocrine,not applicable,2
+533,ductal,ductal,2
+534,not applicable,not applicable,2
+535,alpha,not applicable,2
+536,not applicable,not applicable,2
+537,delta,delta,2
+538,endothelial,not applicable,2
+539,not applicable,not applicable,2
+540,not applicable,not applicable,2
+541,ductal,ductal,2
+542,ductal,ductal,2
+543,not applicable,not applicable,2
+544,not applicable,not applicable,2
+545,not applicable,not applicable,2
+546,alpha,alpha,2
+547,alpha,alpha,2
+548,ductal,ductal,2
+549,not applicable,not applicable,2
+550,alpha,alpha,2
+551,ductal,ductal,2
+552,acinar,acinar,2
+553,alpha,alpha,2
+554,delta,delta,2
+555,not applicable,not applicable,2
+556,beta,beta,2
+557,ductal,ductal,2
+558,alpha,alpha,2
+559,alpha,alpha,2
+560,not applicable,not applicable,2
+561,gamma,gamma,2
+562,mast,unclassified endocrine,2
+563,ductal,ductal,2
+564,alpha,alpha,2
+565,alpha,alpha,2
+566,ductal,ductal,2
+567,alpha,alpha,2
+568,gamma,gamma,2
+569,not applicable,not applicable,2
+570,ductal,ductal,2
+571,ductal,ductal,2
+572,ductal,ductal,2
+573,alpha,alpha,2
+574,acinar,acinar,2
+575,not applicable,not applicable,2
+576,ductal,ductal,2
+577,ductal,ductal,2
+578,alpha,alpha,2
+579,not applicable,not applicable,2
+580,delta,delta,2
+581,ductal,ductal,2
+582,acinar,acinar,2
+583,PSC,PSC,2
+584,alpha,alpha,2
+585,alpha,alpha,2
+586,ductal,ductal,2
+587,ductal,ductal,2
+588,ductal,ductal,2
+589,ductal,ductal,2
+590,ductal,ductal,2
+591,alpha,alpha,2
+592,alpha,alpha,2
+593,acinar,acinar,2
+594,acinar,acinar,2
+595,not applicable,not applicable,2
+596,not applicable,not applicable,2
+597,ductal,ductal,2
+598,acinar,acinar,2
+599,alpha,alpha,2
+600,ductal,ductal,2
+601,delta,delta,2
+602,PSC,PSC,2
+603,ductal,ductal,2
+604,unclassified,not applicable,2
+605,not applicable,not applicable,2
+606,not applicable,not applicable,2
+607,alpha,not applicable,2
+608,alpha,alpha,2
+609,beta,beta,2
+610,ductal,ductal,2
+611,ductal,ductal,2
+612,acinar,acinar,2
+613,ductal,ductal,2
+614,not applicable,not applicable,2
+615,ductal,ductal,2
+616,ductal,ductal,2
+617,PSC,PSC,2
+618,not applicable,not applicable,2
+619,ductal,ductal,2
+620,not applicable,not applicable,2
+621,ductal,ductal,2
+622,alpha,alpha,2
+623,beta,beta,2
+624,alpha,alpha,2
+625,beta,beta,2
+626,alpha,alpha,2
+627,alpha,alpha,2
+628,not applicable,not applicable,2
+629,ductal,ductal,2
+630,not applicable,not applicable,2
+631,ductal,ductal,2
+632,alpha,alpha,2
+633,not applicable,not applicable,2
+634,ductal,ductal,2
+635,ductal,not applicable,2
+636,acinar,acinar,2
+637,not applicable,not applicable,2
+638,alpha,alpha,2
+639,beta,beta,2
+640,delta,delta,2
+641,gamma,gamma,2
+642,alpha,alpha,2
+643,alpha,alpha,2
+644,not applicable,not applicable,2
+645,beta,beta,2
+646,ductal,ductal,2
+647,alpha,alpha,2
+648,MHC class II,MHC class II,2
+649,alpha,alpha,2
+650,delta,delta,2
+651,ductal,ductal,2
+652,beta,beta,2
+653,not applicable,not applicable,2
+654,gamma,gamma,2
+655,not applicable,not applicable,2
+656,co-expression,co-expression,2
+657,alpha,alpha,2
+658,acinar,acinar,2
+659,ductal,ductal,2
+660,alpha,alpha,2
+661,delta,delta,2
+662,beta,beta,2
+663,PSC,PSC,2
+664,ductal,ductal,2
+665,alpha,alpha,2
+666,ductal,ductal,2
+667,alpha,alpha,2
+668,delta,delta,2
+669,alpha,alpha,2
+670,alpha,alpha,2
+671,alpha,alpha,2
+672,gamma,gamma,2
+673,beta,beta,2
+674,alpha,alpha,2
+675,not applicable,not applicable,2
+676,beta,beta,2
+677,not applicable,not applicable,2
+678,alpha,alpha,2
+679,delta,delta,2
+680,co-expression,co-expression,2
+681,not applicable,not applicable,2
+682,not applicable,not applicable,2
+683,beta,beta,2
+684,delta,delta,2
+685,gamma,gamma,2
+686,alpha,alpha,2
+687,not applicable,not applicable,2
+688,ductal,ductal,2
+689,not applicable,not applicable,2
+690,beta,beta,2
+691,alpha,alpha,2
+692,delta,delta,2
+693,gamma,gamma,2
+694,gamma,gamma,2
+695,beta,beta,2
+696,not applicable,not applicable,2
+697,not applicable,not applicable,2
+698,alpha,alpha,2
+699,PSC,PSC,2
+700,beta,beta,2
+701,alpha,alpha,2
+702,beta,beta,2
+0,delta,delta,3
+1,alpha,alpha,3
+2,beta,beta,3
+3,co-expression,co-expression,3
+4,alpha,alpha,3
+5,beta,beta,3
+6,alpha,alpha,3
+7,not applicable,not applicable,3
+8,not applicable,not applicable,3
+9,alpha,alpha,3
+10,not applicable,unclassified endocrine,3
+11,alpha,alpha,3
+12,gamma,gamma,3
+13,delta,co-expression,3
+14,not applicable,not applicable,3
+15,acinar,acinar,3
+16,not applicable,not applicable,3
+17,unclassified endocrine,not applicable,3
+18,alpha,alpha,3
+19,not applicable,unclassified endocrine,3
+20,not applicable,not applicable,3
+21,alpha,alpha,3
+22,not applicable,not applicable,3
+23,alpha,alpha,3
+24,delta,unclassified endocrine,3
+25,beta,beta,3
+26,beta,beta,3
+27,not applicable,not applicable,3
+28,not applicable,not applicable,3
+29,beta,beta,3
+30,alpha,alpha,3
+31,not applicable,not applicable,3
+32,not applicable,not applicable,3
+33,delta,delta,3
+34,beta,beta,3
+35,beta,beta,3
+36,acinar,acinar,3
+37,not applicable,not applicable,3
+38,beta,beta,3
+39,alpha,alpha,3
+40,alpha,alpha,3
+41,not applicable,not applicable,3
+42,delta,delta,3
+43,unclassified endocrine,gamma,3
+44,alpha,alpha,3
+45,alpha,alpha,3
+46,ductal,ductal,3
+47,beta,beta,3
+48,beta,beta,3
+49,beta,beta,3
+50,alpha,alpha,3
+51,beta,beta,3
+52,gamma,gamma,3
+53,PSC,PSC,3
+54,alpha,alpha,3
+55,alpha,alpha,3
+56,not applicable,not applicable,3
+57,alpha,alpha,3
+58,beta,beta,3
+59,gamma,gamma,3
+60,beta,beta,3
+61,alpha,alpha,3
+62,ductal,ductal,3
+63,alpha,alpha,3
+64,ductal,ductal,3
+65,alpha,not applicable,3
+66,mast,mast,3
+67,not applicable,unclassified endocrine,3
+68,not applicable,unclassified endocrine,3
+69,alpha,alpha,3
+70,alpha,alpha,3
+71,alpha,alpha,3
+72,alpha,alpha,3
+73,alpha,alpha,3
+74,not applicable,not applicable,3
+75,alpha,alpha,3
+76,beta,beta,3
+77,acinar,acinar,3
+78,alpha,alpha,3
+79,alpha,alpha,3
+80,alpha,alpha,3
+81,beta,beta,3
+82,alpha,alpha,3
+83,not applicable,not applicable,3
+84,alpha,alpha,3
+85,not applicable,not applicable,3
+86,gamma,gamma,3
+87,alpha,alpha,3
+88,unclassified endocrine,not applicable,3
+89,alpha,alpha,3
+90,gamma,gamma,3
+91,gamma,gamma,3
+92,not applicable,not applicable,3
+93,endothelial,endothelial,3
+94,alpha,alpha,3
+95,alpha,alpha,3
+96,ductal,not applicable,3
+97,delta,delta,3
+98,alpha,alpha,3
+99,not applicable,not applicable,3
+100,gamma,gamma,3
+101,alpha,alpha,3
+102,gamma,gamma,3
+103,not applicable,not applicable,3
+104,alpha,alpha,3
+105,alpha,alpha,3
+106,acinar,acinar,3
+107,PSC,PSC,3
+108,gamma,gamma,3
+109,not applicable,not applicable,3
+110,not applicable,not applicable,3
+111,not applicable,not applicable,3
+112,gamma,gamma,3
+113,not applicable,not applicable,3
+114,not applicable,not applicable,3
+115,ductal,ductal,3
+116,not applicable,not applicable,3
+117,alpha,alpha,3
+118,not applicable,not applicable,3
+119,delta,delta,3
+120,endothelial,unclassified,3
+121,alpha,alpha,3
+122,gamma,gamma,3
+123,gamma,gamma,3
+124,PSC,not applicable,3
+125,gamma,gamma,3
+126,not applicable,not applicable,3
+127,alpha,alpha,3
+128,gamma,gamma,3
+129,alpha,alpha,3
+130,not applicable,not applicable,3
+131,alpha,alpha,3
+132,alpha,alpha,3
+133,not applicable,not applicable,3
+134,gamma,gamma,3
+135,acinar,acinar,3
+136,alpha,alpha,3
+137,alpha,alpha,3
+138,not applicable,not applicable,3
+139,alpha,alpha,3
+140,alpha,alpha,3
+141,alpha,alpha,3
+142,gamma,gamma,3
+143,not applicable,not applicable,3
+144,alpha,alpha,3
+145,not applicable,not applicable,3
+146,alpha,alpha,3
+147,alpha,alpha,3
+148,alpha,alpha,3
+149,not applicable,not applicable,3
+150,alpha,alpha,3
+151,not applicable,not applicable,3
+152,gamma,gamma,3
+153,delta,delta,3
+154,alpha,alpha,3
+155,alpha,alpha,3
+156,beta,beta,3
+157,alpha,alpha,3
+158,not applicable,not applicable,3
+159,not applicable,not applicable,3
+160,gamma,gamma,3
+161,not applicable,not applicable,3
+162,not applicable,not applicable,3
+163,not applicable,not applicable,3
+164,alpha,alpha,3
+165,PSC,PSC,3
+166,delta,delta,3
+167,not applicable,not applicable,3
+168,gamma,gamma,3
+169,not applicable,not applicable,3
+170,endothelial,endothelial,3
+171,not applicable,not applicable,3
+172,not applicable,not applicable,3
+173,unclassified endocrine,not applicable,3
+174,unclassified endocrine,not applicable,3
+175,co-expression,co-expression,3
+176,gamma,gamma,3
+177,delta,delta,3
+178,alpha,epsilon,3
+179,not applicable,not applicable,3
+180,gamma,gamma,3
+181,not applicable,not applicable,3
+182,not applicable,not applicable,3
+183,alpha,alpha,3
+184,endothelial,not applicable,3
+185,not applicable,not applicable,3
+186,not applicable,unclassified endocrine,3
+187,beta,beta,3
+188,alpha,alpha,3
+189,acinar,beta,3
+190,endothelial,endothelial,3
+191,beta,beta,3
+192,gamma,gamma,3
+193,not applicable,not applicable,3
+194,alpha,alpha,3
+195,unclassified endocrine,not applicable,3
+196,not applicable,not applicable,3
+197,not applicable,not applicable,3
+198,beta,beta,3
+199,not applicable,not applicable,3
+200,ductal,not applicable,3
+201,not applicable,not applicable,3
+202,beta,beta,3
+203,not applicable,not applicable,3
+204,endothelial,endothelial,3
+205,not applicable,not applicable,3
+206,gamma,gamma,3
+207,not applicable,not applicable,3
+208,alpha,alpha,3
+209,not applicable,not applicable,3
+210,not applicable,not applicable,3
+211,not applicable,not applicable,3
+212,not applicable,not applicable,3
+213,not applicable,not applicable,3
+214,PSC,PSC,3
+215,not applicable,ductal,3
+216,alpha,alpha,3
+217,alpha,alpha,3
+218,alpha,alpha,3
+219,alpha,gamma,3
+220,not applicable,not applicable,3
+221,not applicable,not applicable,3
+222,alpha,alpha,3
+223,alpha,alpha,3
+224,not applicable,not applicable,3
+225,alpha,alpha,3
+226,gamma,not applicable,3
+227,alpha,alpha,3
+228,not applicable,not applicable,3
+229,ductal,ductal,3
+230,beta,beta,3
+231,MHC class II,not applicable,3
+232,not applicable,not applicable,3
+233,not applicable,not applicable,3
+234,not applicable,not applicable,3
+235,alpha,alpha,3
+236,gamma,gamma,3
+237,not applicable,not applicable,3
+238,alpha,alpha,3
+239,not applicable,not applicable,3
+240,PSC,PSC,3
+241,not applicable,not applicable,3
+242,gamma,gamma,3
+243,ductal,ductal,3
+244,beta,beta,3
+245,not applicable,not applicable,3
+246,gamma,gamma,3
+247,co-expression,beta,3
+248,not applicable,not applicable,3
+249,not applicable,not applicable,3
+250,not applicable,not applicable,3
+251,not applicable,not applicable,3
+252,not applicable,not applicable,3
+253,ductal,ductal,3
+254,ductal,ductal,3
+255,ductal,not applicable,3
+256,unclassified endocrine,unclassified endocrine,3
+257,ductal,ductal,3
+258,alpha,alpha,3
+259,beta,beta,3
+260,alpha,alpha,3
+261,acinar,acinar,3
+262,acinar,acinar,3
+263,not applicable,not applicable,3
+264,PSC,PSC,3
+265,not applicable,not applicable,3
+266,not applicable,not applicable,3
+267,acinar,acinar,3
+268,beta,beta,3
+269,alpha,alpha,3
+270,not applicable,not applicable,3
+271,ductal,ductal,3
+272,ductal,not applicable,3
+273,acinar,acinar,3
+274,not applicable,not applicable,3
+275,ductal,ductal,3
+276,gamma,gamma,3
+277,not applicable,not applicable,3
+278,acinar,acinar,3
+279,not applicable,not applicable,3
+280,not applicable,not applicable,3
+281,acinar,not applicable,3
+282,acinar,acinar,3
+283,ductal,ductal,3
+284,beta,beta,3
+285,ductal,ductal,3
+286,acinar,acinar,3
+287,acinar,acinar,3
+288,delta,delta,3
+289,not applicable,not applicable,3
+290,not applicable,not applicable,3
+291,gamma,gamma,3
+292,alpha,alpha,3
+293,acinar,acinar,3
+294,acinar,acinar,3
+295,gamma,gamma,3
+296,ductal,ductal,3
+297,acinar,acinar,3
+298,ductal,ductal,3
+299,beta,beta,3
+300,acinar,acinar,3
+301,ductal,ductal,3
+302,not applicable,not applicable,3
+303,beta,beta,3
+304,not applicable,not applicable,3
+305,acinar,acinar,3
+306,ductal,ductal,3
+307,ductal,ductal,3
+308,acinar,acinar,3
+309,ductal,ductal,3
+310,ductal,ductal,3
+311,alpha,alpha,3
+312,not applicable,not applicable,3
+313,unclassified endocrine,not applicable,3
+314,gamma,gamma,3
+315,ductal,acinar,3
+316,not applicable,not applicable,3
+317,ductal,ductal,3
+318,acinar,acinar,3
+319,acinar,acinar,3
+320,acinar,not applicable,3
+321,not applicable,not applicable,3
+322,acinar,acinar,3
+323,epsilon,alpha,3
+324,acinar,not applicable,3
+325,not applicable,not applicable,3
+326,unclassified endocrine,not applicable,3
+327,acinar,acinar,3
+328,not applicable,not applicable,3
+329,acinar,acinar,3
+330,not applicable,not applicable,3
+331,acinar,acinar,3
+332,alpha,alpha,3
+333,ductal,ductal,3
+334,not applicable,not applicable,3
+335,acinar,not applicable,3
+336,not applicable,not applicable,3
+337,alpha,alpha,3
+338,not applicable,not applicable,3
+339,ductal,not applicable,3
+340,beta,beta,3
+341,beta,not applicable,3
+342,acinar,not applicable,3
+343,not applicable,not applicable,3
+344,alpha,alpha,3
+345,not applicable,not applicable,3
+346,alpha,alpha,3
+347,not applicable,not applicable,3
+348,alpha,alpha,3
+349,alpha,alpha,3
+350,not applicable,not applicable,3
+351,alpha,alpha,3
+352,not applicable,not applicable,3
+353,alpha,alpha,3
+354,not applicable,not applicable,3
+355,alpha,alpha,3
+356,alpha,alpha,3
+357,alpha,alpha,3
+358,PSC,PSC,3
+359,alpha,alpha,3
+360,acinar,acinar,3
+361,alpha,alpha,3
+362,not applicable,not applicable,3
+363,not applicable,not applicable,3
+364,alpha,alpha,3
+365,beta,beta,3
+366,alpha,alpha,3
+367,alpha,alpha,3
+368,not applicable,not applicable,3
+369,not applicable,not applicable,3
+370,not applicable,not applicable,3
+371,alpha,alpha,3
+372,not applicable,not applicable,3
+373,alpha,alpha,3
+374,alpha,alpha,3
+375,alpha,alpha,3
+376,alpha,alpha,3
+377,not applicable,not applicable,3
+378,beta,not applicable,3
+379,alpha,alpha,3
+380,alpha,alpha,3
+381,alpha,alpha,3
+382,alpha,alpha,3
+383,beta,beta,3
+384,alpha,alpha,3
+385,not applicable,not applicable,3
+386,alpha,alpha,3
+387,co-expression,co-expression,3
+388,not applicable,not applicable,3
+389,alpha,not applicable,3
+390,alpha,not applicable,3
+391,alpha,not applicable,3
+392,beta,beta,3
+393,alpha,alpha,3
+394,alpha,not applicable,3
+395,MHC class II,not applicable,3
+396,alpha,alpha,3
+397,alpha,alpha,3
+398,not applicable,not applicable,3
+399,beta,beta,3
+400,alpha,alpha,3
+401,alpha,not applicable,3
+402,alpha,alpha,3
+403,co-expression,co-expression,3
+404,alpha,alpha,3
+405,alpha,alpha,3
+406,beta,beta,3
+407,alpha,alpha,3
+408,beta,beta,3
+409,not applicable,not applicable,3
+410,not applicable,not applicable,3
+411,alpha,alpha,3
+412,unclassified endocrine,not applicable,3
+413,not applicable,not applicable,3
+414,gamma,gamma,3
+415,not applicable,not applicable,3
+416,delta,delta,3
+417,ductal,ductal,3
+418,ductal,not applicable,3
+419,ductal,not applicable,3
+420,alpha,not applicable,3
+421,alpha,alpha,3
+422,alpha,alpha,3
+423,alpha,alpha,3
+424,acinar,acinar,3
+425,alpha,alpha,3
+426,ductal,ductal,3
+427,alpha,alpha,3
+428,beta,beta,3
+429,alpha,alpha,3
+430,acinar,acinar,3
+431,not applicable,ductal,3
+432,not applicable,not applicable,3
+433,ductal,ductal,3
+434,ductal,ductal,3
+435,alpha,alpha,3
+436,alpha,not applicable,3
+437,ductal,ductal,3
+438,alpha,alpha,3
+439,ductal,ductal,3
+440,alpha,alpha,3
+441,delta,delta,3
+442,alpha,alpha,3
+443,alpha,alpha,3
+444,not applicable,not applicable,3
+445,alpha,alpha,3
+446,ductal,not applicable,3
+447,ductal,ductal,3
+448,alpha,alpha,3
+449,ductal,ductal,3
+450,ductal,ductal,3
+451,ductal,ductal,3
+452,not applicable,not applicable,3
+453,alpha,alpha,3
+454,alpha,alpha,3
+455,not applicable,not applicable,3
+456,alpha,alpha,3
+457,not applicable,not applicable,3
+458,not applicable,not applicable,3
+459,alpha,alpha,3
+460,alpha,alpha,3
+461,unclassified endocrine,not applicable,3
+462,not applicable,not applicable,3
+463,not applicable,not applicable,3
+464,ductal,ductal,3
+465,alpha,alpha,3
+466,acinar,acinar,3
+467,not applicable,not applicable,3
+468,not applicable,not applicable,3
+469,not applicable,not applicable,3
+470,ductal,ductal,3
+471,alpha,alpha,3
+472,not applicable,not applicable,3
+473,not applicable,not applicable,3
+474,not applicable,not applicable,3
+475,not applicable,not applicable,3
+476,not applicable,not applicable,3
+477,not applicable,not applicable,3
+478,alpha,not applicable,3
+479,alpha,alpha,3
+480,ductal,ductal,3
+481,alpha,not applicable,3
+482,PSC,not applicable,3
+483,acinar,acinar,3
+484,ductal,ductal,3
+485,not applicable,not applicable,3
+486,ductal,not applicable,3
+487,ductal,not applicable,3
+488,alpha,not applicable,3
+489,ductal,not applicable,3
+490,not applicable,not applicable,3
+491,not applicable,not applicable,3
+492,beta,beta,3
+493,not applicable,not applicable,3
+494,alpha,alpha,3
+495,not applicable,not applicable,3
+496,not applicable,not applicable,3
+497,not applicable,not applicable,3
+498,delta,delta,3
+499,not applicable,not applicable,3
+500,not applicable,not applicable,3
+501,not applicable,not applicable,3
+502,alpha,not applicable,3
+503,not applicable,not applicable,3
+504,ductal,not applicable,3
+505,ductal,ductal,3
+506,ductal,not applicable,3
+507,alpha,not applicable,3
+508,alpha,not applicable,3
+509,alpha,alpha,3
+510,alpha,alpha,3
+511,alpha,not applicable,3
+512,ductal,not applicable,3
+513,beta,beta,3
+514,not applicable,not applicable,3
+515,not applicable,not applicable,3
+516,not applicable,not applicable,3
+517,not applicable,not applicable,3
+518,ductal,ductal,3
+519,alpha,alpha,3
+520,alpha,alpha,3
+521,not applicable,alpha,3
+522,beta,not applicable,3
+523,not applicable,not applicable,3
+524,not applicable,not applicable,3
+525,not applicable,not applicable,3
+526,alpha,alpha,3
+527,not applicable,not applicable,3
+528,not applicable,not applicable,3
+529,not applicable,not applicable,3
+530,not applicable,not applicable,3
+531,not applicable,not applicable,3
+532,alpha,alpha,3
+533,unclassified endocrine,not applicable,3
+534,ductal,not applicable,3
+535,not applicable,not applicable,3
+536,not applicable,not applicable,3
+537,not applicable,not applicable,3
+538,not applicable,not applicable,3
+539,alpha,alpha,3
+540,beta,not applicable,3
+541,alpha,alpha,3
+542,beta,beta,3
+543,alpha,not applicable,3
+544,not applicable,not applicable,3
+545,not applicable,not applicable,3
+546,not applicable,not applicable,3
+547,PSC,PSC,3
+548,not applicable,not applicable,3
+549,not applicable,ductal,3
+550,not applicable,not applicable,3
+551,ductal,ductal,3
+552,gamma,gamma,3
+553,ductal,ductal,3
+554,ductal,ductal,3
+555,alpha,alpha,3
+556,alpha,alpha,3
+557,alpha,alpha,3
+558,gamma,gamma,3
+559,not applicable,not applicable,3
+560,ductal,ductal,3
+561,ductal,ductal,3
+562,not applicable,not applicable,3
+563,acinar,acinar,3
+564,ductal,ductal,3
+565,ductal,ductal,3
+566,ductal,ductal,3
+567,ductal,not applicable,3
+568,ductal,ductal,3
+569,not applicable,not applicable,3
+570,ductal,ductal,3
+571,not applicable,not applicable,3
+572,acinar,acinar,3
+573,ductal,not applicable,3
+574,ductal,not applicable,3
+575,not applicable,not applicable,3
+576,not applicable,not applicable,3
+577,not applicable,not applicable,3
+578,not applicable,not applicable,3
+579,ductal,ductal,3
+580,PSC,PSC,3
+581,acinar,acinar,3
+582,not applicable,not applicable,3
+583,unclassified endocrine,not applicable,3
+584,not applicable,not applicable,3
+585,beta,beta,3
+586,ductal,ductal,3
+587,alpha,alpha,3
+588,not applicable,not applicable,3
+589,not applicable,not applicable,3
+590,ductal,ductal,3
+591,MHC class II,MHC class II,3
+592,alpha,alpha,3
+593,ductal,ductal,3
+594,ductal,ductal,3
+595,alpha,alpha,3
+596,not applicable,not applicable,3
+597,acinar,acinar,3
+598,not applicable,not applicable,3
+599,not applicable,not applicable,3
+600,ductal,ductal,3
+601,ductal,ductal,3
+602,not applicable,not applicable,3
+603,not applicable,not applicable,3
+604,ductal,ductal,3
+605,alpha,alpha,3
+606,ductal,ductal,3
+607,MHC class II,not applicable,3
+608,ductal,ductal,3
+609,ductal,ductal,3
+610,beta,co-expression,3
+611,acinar,acinar,3
+612,not applicable,not applicable,3
+613,not applicable,unclassified endocrine,3
+614,alpha,alpha,3
+615,alpha,alpha,3
+616,ductal,ductal,3
+617,not applicable,not applicable,3
+618,ductal,ductal,3
+619,delta,delta,3
+620,PSC,PSC,3
+621,alpha,alpha,3
+622,ductal,ductal,3
+623,alpha,alpha,3
+624,gamma,gamma,3
+625,ductal,ductal,3
+626,beta,co-expression,3
+627,alpha,alpha,3
+628,alpha,alpha,3
+629,not applicable,not applicable,3
+630,ductal,ductal,3
+631,ductal,ductal,3
+632,delta,delta,3
+633,not applicable,not applicable,3
+634,beta,beta,3
+635,delta,delta,3
+636,ductal,ductal,3
+637,not applicable,not applicable,3
+638,not applicable,not applicable,3
+639,ductal,ductal,3
+640,not applicable,not applicable,3
+641,delta,delta,3
+642,delta,delta,3
+643,gamma,gamma,3
+644,ductal,ductal,3
+645,not applicable,not applicable,3
+646,acinar,ductal,3
+647,alpha,alpha,3
+648,beta,beta,3
+649,gamma,gamma,3
+650,not applicable,not applicable,3
+651,alpha,alpha,3
+652,not applicable,not applicable,3
+653,ductal,ductal,3
+654,delta,delta,3
+655,not applicable,not applicable,3
+656,alpha,alpha,3
+657,beta,beta,3
+658,ductal,ductal,3
+659,ductal,ductal,3
+660,delta,delta,3
+661,beta,beta,3
+662,alpha,alpha,3
+663,delta,delta,3
+664,not applicable,not applicable,3
+665,alpha,alpha,3
+666,ductal,ductal,3
+667,alpha,alpha,3
+668,not applicable,not applicable,3
+669,alpha,alpha,3
+670,alpha,alpha,3
+671,beta,beta,3
+672,not applicable,not applicable,3
+673,alpha,alpha,3
+674,gamma,gamma,3
+675,beta,beta,3
+676,not applicable,not applicable,3
+677,beta,beta,3
+678,alpha,alpha,3
+679,not applicable,not applicable,3
+680,alpha,alpha,3
+681,acinar,acinar,3
+682,co-expression,co-expression,3
+683,alpha,alpha,3
+684,ductal,ductal,3
+685,not applicable,not applicable,3
+686,alpha,alpha,3
+687,alpha,alpha,3
+688,alpha,alpha,3
+689,beta,beta,3
+690,beta,beta,3
+691,ductal,ductal,3
+692,alpha,alpha,3
+693,delta,delta,3
+694,beta,beta,3
+695,delta,delta,3
+696,beta,beta,3
+697,beta,beta,3
+698,alpha,alpha,3
+699,alpha,alpha,3
+700,alpha,alpha,3
+701,alpha,alpha,3
+702,delta,delta,3
+0,delta,delta,4
+1,not applicable,not applicable,4
+2,alpha,alpha,4
+3,alpha,alpha,4
+4,unclassified endocrine,not applicable,4
+5,unclassified endocrine,not applicable,4
+6,gamma,gamma,4
+7,alpha,alpha,4
+8,alpha,alpha,4
+9,unclassified endocrine,not applicable,4
+10,beta,beta,4
+11,not applicable,not applicable,4
+12,acinar,acinar,4
+13,alpha,alpha,4
+14,not applicable,not applicable,4
+15,alpha,alpha,4
+16,alpha,alpha,4
+17,endothelial,endothelial,4
+18,alpha,alpha,4
+19,alpha,alpha,4
+20,not applicable,not applicable,4
+21,delta,delta,4
+22,delta,delta,4
+23,not applicable,not applicable,4
+24,gamma,gamma,4
+25,gamma,gamma,4
+26,alpha,alpha,4
+27,beta,beta,4
+28,alpha,alpha,4
+29,delta,delta,4
+30,acinar,acinar,4
+31,ductal,ductal,4
+32,unclassified endocrine,unclassified endocrine,4
+33,unclassified endocrine,unclassified endocrine,4
+34,not applicable,not applicable,4
+35,acinar,acinar,4
+36,beta,beta,4
+37,beta,delta,4
+38,ductal,ductal,4
+39,not applicable,not applicable,4
+40,not applicable,unclassified endocrine,4
+41,alpha,alpha,4
+42,alpha,alpha,4
+43,delta,beta,4
+44,not applicable,not applicable,4
+45,not applicable,not applicable,4
+46,gamma,gamma,4
+47,beta,beta,4
+48,not applicable,not applicable,4
+49,not applicable,not applicable,4
+50,not applicable,not applicable,4
+51,gamma,gamma,4
+52,alpha,gamma,4
+53,not applicable,not applicable,4
+54,not applicable,not applicable,4
+55,not applicable,unclassified endocrine,4
+56,delta,delta,4
+57,beta,beta,4
+58,alpha,alpha,4
+59,mast,ductal,4
+60,beta,beta,4
+61,alpha,alpha,4
+62,not applicable,not applicable,4
+63,acinar,acinar,4
+64,ductal,ductal,4
+65,beta,beta,4
+66,alpha,alpha,4
+67,alpha,alpha,4
+68,alpha,gamma,4
+69,not applicable,unclassified endocrine,4
+70,unclassified endocrine,not applicable,4
+71,alpha,alpha,4
+72,alpha,alpha,4
+73,not applicable,ductal,4
+74,alpha,alpha,4
+75,alpha,alpha,4
+76,alpha,alpha,4
+77,alpha,alpha,4
+78,beta,beta,4
+79,not applicable,not applicable,4
+80,alpha,not applicable,4
+81,acinar,acinar,4
+82,alpha,gamma,4
+83,not applicable,not applicable,4
+84,not applicable,alpha,4
+85,beta,not applicable,4
+86,alpha,alpha,4
+87,alpha,alpha,4
+88,alpha,alpha,4
+89,alpha,alpha,4
+90,delta,delta,4
+91,not applicable,not applicable,4
+92,alpha,alpha,4
+93,gamma,gamma,4
+94,not applicable,not applicable,4
+95,gamma,gamma,4
+96,alpha,alpha,4
+97,alpha,alpha,4
+98,beta,beta,4
+99,alpha,alpha,4
+100,alpha,alpha,4
+101,not applicable,not applicable,4
+102,alpha,alpha,4
+103,not applicable,not applicable,4
+104,gamma,alpha,4
+105,alpha,alpha,4
+106,gamma,gamma,4
+107,gamma,alpha,4
+108,gamma,gamma,4
+109,alpha,alpha,4
+110,beta,beta,4
+111,alpha,alpha,4
+112,not applicable,not applicable,4
+113,gamma,alpha,4
+114,alpha,alpha,4
+115,not applicable,alpha,4
+116,gamma,gamma,4
+117,alpha,alpha,4
+118,gamma,gamma,4
+119,gamma,gamma,4
+120,delta,delta,4
+121,alpha,alpha,4
+122,not applicable,not applicable,4
+123,alpha,alpha,4
+124,not applicable,not applicable,4
+125,not applicable,not applicable,4
+126,alpha,alpha,4
+127,not applicable,not applicable,4
+128,alpha,alpha,4
+129,not applicable,not applicable,4
+130,alpha,alpha,4
+131,alpha,alpha,4
+132,unclassified endocrine,not applicable,4
+133,alpha,alpha,4
+134,alpha,alpha,4
+135,alpha,alpha,4
+136,alpha,alpha,4
+137,delta,delta,4
+138,acinar,acinar,4
+139,not applicable,not applicable,4
+140,alpha,alpha,4
+141,not applicable,not applicable,4
+142,not applicable,not applicable,4
+143,acinar,acinar,4
+144,gamma,gamma,4
+145,alpha,not applicable,4
+146,not applicable,not applicable,4
+147,not applicable,not applicable,4
+148,alpha,alpha,4
+149,alpha,alpha,4
+150,alpha,alpha,4
+151,epsilon,epsilon,4
+152,alpha,alpha,4
+153,not applicable,not applicable,4
+154,not applicable,not applicable,4
+155,alpha,alpha,4
+156,gamma,gamma,4
+157,not applicable,not applicable,4
+158,ductal,ductal,4
+159,alpha,alpha,4
+160,PSC,alpha,4
+161,not applicable,not applicable,4
+162,unclassified endocrine,not applicable,4
+163,not applicable,not applicable,4
+164,not applicable,not applicable,4
+165,not applicable,not applicable,4
+166,not applicable,not applicable,4
+167,not applicable,not applicable,4
+168,delta,delta,4
+169,alpha,alpha,4
+170,not applicable,not applicable,4
+171,alpha,alpha,4
+172,alpha,alpha,4
+173,beta,beta,4
+174,gamma,gamma,4
+175,delta,delta,4
+176,not applicable,not applicable,4
+177,not applicable,not applicable,4
+178,endothelial,unclassified,4
+179,not applicable,not applicable,4
+180,not applicable,unclassified endocrine,4
+181,unclassified endocrine,not applicable,4
+182,not applicable,alpha,4
+183,epsilon,epsilon,4
+184,gamma,gamma,4
+185,alpha,alpha,4
+186,not applicable,not applicable,4
+187,not applicable,not applicable,4
+188,not applicable,not applicable,4
+189,not applicable,not applicable,4
+190,gamma,gamma,4
+191,not applicable,not applicable,4
+192,gamma,gamma,4
+193,alpha,alpha,4
+194,beta,beta,4
+195,alpha,alpha,4
+196,alpha,alpha,4
+197,ductal,ductal,4
+198,not applicable,not applicable,4
+199,endothelial,endothelial,4
+200,ductal,not applicable,4
+201,co-expression,gamma,4
+202,alpha,beta,4
+203,not applicable,not applicable,4
+204,alpha,alpha,4
+205,gamma,alpha,4
+206,acinar,acinar,4
+207,alpha,not applicable,4
+208,not applicable,alpha,4
+209,unclassified endocrine,not applicable,4
+210,not applicable,not applicable,4
+211,delta,delta,4
+212,not applicable,not applicable,4
+213,alpha,alpha,4
+214,beta,beta,4
+215,not applicable,not applicable,4
+216,alpha,alpha,4
+217,acinar,not applicable,4
+218,beta,beta,4
+219,not applicable,not applicable,4
+220,not applicable,not applicable,4
+221,alpha,alpha,4
+222,beta,beta,4
+223,not applicable,alpha,4
+224,not applicable,not applicable,4
+225,beta,beta,4
+226,gamma,gamma,4
+227,alpha,alpha,4
+228,delta,delta,4
+229,not applicable,not applicable,4
+230,alpha,alpha,4
+231,not applicable,not applicable,4
+232,beta,beta,4
+233,ductal,ductal,4
+234,ductal,ductal,4
+235,gamma,gamma,4
+236,alpha,alpha,4
+237,not applicable,not applicable,4
+238,not applicable,not applicable,4
+239,not applicable,not applicable,4
+240,not applicable,alpha,4
+241,co-expression,alpha,4
+242,not applicable,not applicable,4
+243,not applicable,not applicable,4
+244,PSC,PSC,4
+245,not applicable,not applicable,4
+246,not applicable,not applicable,4
+247,beta,beta,4
+248,beta,beta,4
+249,acinar,acinar,4
+250,acinar,acinar,4
+251,not applicable,not applicable,4
+252,not applicable,not applicable,4
+253,acinar,acinar,4
+254,not applicable,not applicable,4
+255,acinar,acinar,4
+256,not applicable,not applicable,4
+257,beta,beta,4
+258,ductal,ductal,4
+259,not applicable,not applicable,4
+260,ductal,ductal,4
+261,acinar,acinar,4
+262,beta,beta,4
+263,not applicable,not applicable,4
+264,ductal,not applicable,4
+265,acinar,not applicable,4
+266,acinar,acinar,4
+267,not applicable,not applicable,4
+268,not applicable,not applicable,4
+269,acinar,acinar,4
+270,acinar,acinar,4
+271,beta,beta,4
+272,alpha,alpha,4
+273,alpha,not applicable,4
+274,not applicable,not applicable,4
+275,not applicable,not applicable,4
+276,acinar,not applicable,4
+277,ductal,ductal,4
+278,acinar,acinar,4
+279,alpha,alpha,4
+280,not applicable,not applicable,4
+281,acinar,acinar,4
+282,not applicable,not applicable,4
+283,not applicable,not applicable,4
+284,ductal,ductal,4
+285,acinar,acinar,4
+286,gamma,gamma,4
+287,gamma,gamma,4
+288,ductal,ductal,4
+289,ductal,not applicable,4
+290,ductal,ductal,4
+291,unclassified endocrine,not applicable,4
+292,alpha,alpha,4
+293,ductal,ductal,4
+294,acinar,acinar,4
+295,beta,beta,4
+296,not applicable,not applicable,4
+297,beta,beta,4
+298,not applicable,not applicable,4
+299,not applicable,not applicable,4
+300,not applicable,not applicable,4
+301,acinar,acinar,4
+302,co-expression,co-expression,4
+303,not applicable,not applicable,4
+304,unclassified endocrine,not applicable,4
+305,co-expression,co-expression,4
+306,ductal,ductal,4
+307,acinar,acinar,4
+308,not applicable,not applicable,4
+309,gamma,gamma,4
+310,not applicable,not applicable,4
+311,acinar,acinar,4
+312,beta,beta,4
+313,not applicable,not applicable,4
+314,alpha,alpha,4
+315,acinar,acinar,4
+316,acinar,acinar,4
+317,alpha,alpha,4
+318,not applicable,not applicable,4
+319,co-expression,co-expression,4
+320,ductal,ductal,4
+321,ductal,ductal,4
+322,beta,not applicable,4
+323,not applicable,not applicable,4
+324,alpha,alpha,4
+325,not applicable,not applicable,4
+326,gamma,co-expression,4
+327,alpha,alpha,4
+328,alpha,gamma,4
+329,not applicable,not applicable,4
+330,not applicable,not applicable,4
+331,not applicable,not applicable,4
+332,beta,beta,4
+333,not applicable,not applicable,4
+334,not applicable,not applicable,4
+335,not applicable,not applicable,4
+336,alpha,not applicable,4
+337,not applicable,not applicable,4
+338,alpha,alpha,4
+339,endothelial,endothelial,4
+340,alpha,not applicable,4
+341,alpha,not applicable,4
+342,alpha,not applicable,4
+343,beta,beta,4
+344,not applicable,not applicable,4
+345,alpha,alpha,4
+346,alpha,not applicable,4
+347,alpha,alpha,4
+348,alpha,alpha,4
+349,alpha,alpha,4
+350,ductal,ductal,4
+351,alpha,alpha,4
+352,not applicable,not applicable,4
+353,alpha,alpha,4
+354,alpha,alpha,4
+355,PSC,PSC,4
+356,not applicable,not applicable,4
+357,beta,beta,4
+358,not applicable,alpha,4
+359,alpha,alpha,4
+360,gamma,not applicable,4
+361,not applicable,not applicable,4
+362,not applicable,not applicable,4
+363,not applicable,not applicable,4
+364,not applicable,not applicable,4
+365,alpha,alpha,4
+366,alpha,alpha,4
+367,alpha,alpha,4
+368,not applicable,not applicable,4
+369,not applicable,not applicable,4
+370,mast,not applicable,4
+371,alpha,alpha,4
+372,not applicable,not applicable,4
+373,not applicable,not applicable,4
+374,ductal,not applicable,4
+375,alpha,alpha,4
+376,alpha,alpha,4
+377,alpha,not applicable,4
+378,alpha,alpha,4
+379,beta,beta,4
+380,alpha,alpha,4
+381,not applicable,not applicable,4
+382,alpha,not applicable,4
+383,alpha,not applicable,4
+384,ductal,ductal,4
+385,alpha,alpha,4
+386,delta,delta,4
+387,alpha,not applicable,4
+388,not applicable,not applicable,4
+389,beta,beta,4
+390,ductal,ductal,4
+391,not applicable,not applicable,4
+392,ductal,ductal,4
+393,ductal,ductal,4
+394,not applicable,ductal,4
+395,co-expression,co-expression,4
+396,alpha,alpha,4
+397,not applicable,not applicable,4
+398,not applicable,not applicable,4
+399,alpha,alpha,4
+400,ductal,ductal,4
+401,alpha,alpha,4
+402,not applicable,beta,4
+403,alpha,alpha,4
+404,not applicable,not applicable,4
+405,delta,delta,4
+406,alpha,alpha,4
+407,ductal,ductal,4
+408,alpha,alpha,4
+409,not applicable,not applicable,4
+410,acinar,acinar,4
+411,alpha,alpha,4
+412,not applicable,not applicable,4
+413,ductal,MHC class II,4
+414,alpha,alpha,4
+415,alpha,alpha,4
+416,alpha,alpha,4
+417,ductal,ductal,4
+418,not applicable,alpha,4
+419,alpha,alpha,4
+420,ductal,ductal,4
+421,alpha,alpha,4
+422,acinar,acinar,4
+423,gamma,gamma,4
+424,alpha,alpha,4
+425,alpha,alpha,4
+426,PSC,PSC,4
+427,ductal,ductal,4
+428,ductal,ductal,4
+429,alpha,alpha,4
+430,PSC,PSC,4
+431,ductal,ductal,4
+432,alpha,alpha,4
+433,PSC,PSC,4
+434,ductal,ductal,4
+435,ductal,not applicable,4
+436,beta,beta,4
+437,not applicable,not applicable,4
+438,ductal,ductal,4
+439,ductal,ductal,4
+440,gamma,alpha,4
+441,delta,delta,4
+442,alpha,alpha,4
+443,alpha,alpha,4
+444,alpha,alpha,4
+445,not applicable,not applicable,4
+446,alpha,alpha,4
+447,gamma,alpha,4
+448,alpha,alpha,4
+449,not applicable,not applicable,4
+450,acinar,acinar,4
+451,not applicable,not applicable,4
+452,ductal,not applicable,4
+453,not applicable,not applicable,4
+454,alpha,alpha,4
+455,ductal,ductal,4
+456,ductal,ductal,4
+457,ductal,ductal,4
+458,ductal,ductal,4
+459,not applicable,not applicable,4
+460,not applicable,not applicable,4
+461,alpha,not applicable,4
+462,not applicable,not applicable,4
+463,not applicable,not applicable,4
+464,not applicable,not applicable,4
+465,acinar,acinar,4
+466,alpha,alpha,4
+467,alpha,alpha,4
+468,alpha,not applicable,4
+469,not applicable,not applicable,4
+470,ductal,not applicable,4
+471,not applicable,not applicable,4
+472,not applicable,not applicable,4
+473,not applicable,not applicable,4
+474,not applicable,not applicable,4
+475,co-expression,co-expression,4
+476,not applicable,not applicable,4
+477,not applicable,not applicable,4
+478,not applicable,not applicable,4
+479,not applicable,not applicable,4
+480,delta,delta,4
+481,not applicable,not applicable,4
+482,not applicable,alpha,4
+483,not applicable,not applicable,4
+484,not applicable,not applicable,4
+485,not applicable,not applicable,4
+486,not applicable,not applicable,4
+487,alpha,alpha,4
+488,not applicable,not applicable,4
+489,not applicable,not applicable,4
+490,beta,beta,4
+491,ductal,ductal,4
+492,ductal,not applicable,4
+493,alpha,not applicable,4
+494,alpha,alpha,4
+495,mast,not applicable,4
+496,ductal,not applicable,4
+497,acinar,not applicable,4
+498,not applicable,alpha,4
+499,not applicable,not applicable,4
+500,ductal,ductal,4
+501,not applicable,not applicable,4
+502,alpha,not applicable,4
+503,not applicable,not applicable,4
+504,not applicable,not applicable,4
+505,not applicable,not applicable,4
+506,not applicable,not applicable,4
+507,alpha,not applicable,4
+508,not applicable,not applicable,4
+509,delta,delta,4
+510,not applicable,not applicable,4
+511,not applicable,not applicable,4
+512,not applicable,not applicable,4
+513,not applicable,not applicable,4
+514,not applicable,not applicable,4
+515,not applicable,not applicable,4
+516,alpha,not applicable,4
+517,not applicable,not applicable,4
+518,alpha,alpha,4
+519,not applicable,not applicable,4
+520,ductal,not applicable,4
+521,alpha,not applicable,4
+522,ductal,ductal,4
+523,unclassified endocrine,not applicable,4
+524,not applicable,not applicable,4
+525,not applicable,not applicable,4
+526,not applicable,not applicable,4
+527,not applicable,not applicable,4
+528,alpha,alpha,4
+529,endothelial,PSC,4
+530,not applicable,not applicable,4
+531,alpha,alpha,4
+532,not applicable,not applicable,4
+533,alpha,alpha,4
+534,not applicable,not applicable,4
+535,alpha,not applicable,4
+536,alpha,not applicable,4
+537,ductal,not applicable,4
+538,alpha,not applicable,4
+539,not applicable,not applicable,4
+540,co-expression,not applicable,4
+541,alpha,alpha,4
+542,not applicable,not applicable,4
+543,beta,not applicable,4
+544,not applicable,alpha,4
+545,not applicable,not applicable,4
+546,not applicable,not applicable,4
+547,alpha,alpha,4
+548,ductal,ductal,4
+549,not applicable,not applicable,4
+550,not applicable,not applicable,4
+551,alpha,alpha,4
+552,ductal,ductal,4
+553,alpha,alpha,4
+554,acinar,acinar,4
+555,alpha,alpha,4
+556,not applicable,not applicable,4
+557,ductal,ductal,4
+558,not applicable,not applicable,4
+559,ductal,ductal,4
+560,alpha,alpha,4
+561,gamma,gamma,4
+562,ductal,ductal,4
+563,ductal,ductal,4
+564,acinar,acinar,4
+565,not applicable,not applicable,4
+566,PSC,PSC,4
+567,ductal,ductal,4
+568,not applicable,not applicable,4
+569,alpha,alpha,4
+570,alpha,alpha,4
+571,not applicable,not applicable,4
+572,acinar,acinar,4
+573,not applicable,not applicable,4
+574,ductal,ductal,4
+575,ductal,ductal,4
+576,acinar,acinar,4
+577,alpha,alpha,4
+578,alpha,alpha,4
+579,ductal,ductal,4
+580,ductal,ductal,4
+581,ductal,ductal,4
+582,not applicable,not applicable,4
+583,ductal,ductal,4
+584,alpha,alpha,4
+585,not applicable,not applicable,4
+586,not applicable,not applicable,4
+587,not applicable,not applicable,4
+588,not applicable,not applicable,4
+589,ductal,ductal,4
+590,not applicable,not applicable,4
+591,alpha,alpha,4
+592,ductal,ductal,4
+593,not applicable,unclassified endocrine,4
+594,not applicable,not applicable,4
+595,acinar,acinar,4
+596,alpha,alpha,4
+597,PSC,PSC,4
+598,not applicable,not applicable,4
+599,gamma,alpha,4
+600,ductal,ductal,4
+601,alpha,alpha,4
+602,ductal,ductal,4
+603,alpha,alpha,4
+604,acinar,acinar,4
+605,not applicable,not applicable,4
+606,alpha,alpha,4
+607,beta,beta,4
+608,not applicable,unclassified endocrine,4
+609,not applicable,not applicable,4
+610,alpha,alpha,4
+611,PSC,PSC,4
+612,not applicable,unclassified endocrine,4
+613,not applicable,not applicable,4
+614,ductal,ductal,4
+615,ductal,ductal,4
+616,beta,beta,4
+617,ductal,ductal,4
+618,not applicable,alpha,4
+619,gamma,gamma,4
+620,ductal,ductal,4
+621,alpha,alpha,4
+622,ductal,ductal,4
+623,ductal,ductal,4
+624,ductal,ductal,4
+625,ductal,ductal,4
+626,beta,beta,4
+627,beta,beta,4
+628,gamma,gamma,4
+629,delta,delta,4
+630,beta,beta,4
+631,delta,delta,4
+632,not applicable,not applicable,4
+633,not applicable,not applicable,4
+634,ductal,ductal,4
+635,delta,delta,4
+636,beta,beta,4
+637,beta,beta,4
+638,not applicable,not applicable,4
+639,gamma,gamma,4
+640,alpha,alpha,4
+641,delta,delta,4
+642,alpha,alpha,4
+643,not applicable,not applicable,4
+644,alpha,alpha,4
+645,not applicable,not applicable,4
+646,alpha,alpha,4
+647,gamma,gamma,4
+648,beta,beta,4
+649,alpha,alpha,4
+650,beta,beta,4
+651,ductal,ductal,4
+652,delta,delta,4
+653,ductal,ductal,4
+654,not applicable,not applicable,4
+655,PSC,PSC,4
+656,ductal,not applicable,4
+657,ductal,ductal,4
+658,ductal,ductal,4
+659,ductal,ductal,4
+660,not applicable,not applicable,4
+661,beta,beta,4
+662,alpha,alpha,4
+663,alpha,alpha,4
+664,not applicable,not applicable,4
+665,alpha,alpha,4
+666,ductal,ductal,4
+667,beta,beta,4
+668,ductal,ductal,4
+669,acinar,acinar,4
+670,alpha,alpha,4
+671,delta,co-expression,4
+672,alpha,alpha,4
+673,alpha,alpha,4
+674,not applicable,not applicable,4
+675,beta,beta,4
+676,not applicable,not applicable,4
+677,ductal,ductal,4
+678,gamma,gamma,4
+679,alpha,alpha,4
+680,not applicable,not applicable,4
+681,beta,beta,4
+682,gamma,gamma,4
+683,acinar,acinar,4
+684,not applicable,not applicable,4
+685,alpha,alpha,4
+686,gamma,gamma,4
+687,ductal,not applicable,4
+688,beta,beta,4
+689,ductal,ductal,4
+690,not applicable,not applicable,4
+691,alpha,alpha,4
+692,beta,beta,4
+693,not applicable,not applicable,4
+694,mast,mast,4
+695,beta,beta,4
+696,PSC,PSC,4
+697,beta,beta,4
+698,gamma,gamma,4
+699,gamma,gamma,4
+700,not applicable,not applicable,4
+701,beta,beta,4
+702,beta,beta,4
+0,not applicable,not applicable,5
+1,not applicable,ductal,5
+2,not applicable,unclassified endocrine,5
+3,delta,delta,5
+4,alpha,alpha,5
+5,not applicable,not applicable,5
+6,alpha,alpha,5
+7,delta,delta,5
+8,ductal,ductal,5
+9,alpha,not applicable,5
+10,alpha,alpha,5
+11,beta,unclassified endocrine,5
+12,not applicable,not applicable,5
+13,MHC class II,MHC class II,5
+14,alpha,alpha,5
+15,beta,beta,5
+16,alpha,alpha,5
+17,alpha,alpha,5
+18,not applicable,not applicable,5
+19,not applicable,not applicable,5
+20,gamma,gamma,5
+21,beta,beta,5
+22,not applicable,not applicable,5
+23,acinar,not applicable,5
+24,acinar,acinar,5
+25,beta,beta,5
+26,not applicable,not applicable,5
+27,not applicable,not applicable,5
+28,alpha,alpha,5
+29,delta,delta,5
+30,unclassified endocrine,not applicable,5
+31,ductal,ductal,5
+32,beta,beta,5
+33,beta,beta,5
+34,unclassified endocrine,unclassified endocrine,5
+35,acinar,acinar,5
+36,alpha,alpha,5
+37,delta,delta,5
+38,gamma,gamma,5
+39,not applicable,not applicable,5
+40,not applicable,not applicable,5
+41,alpha,alpha,5
+42,acinar,acinar,5
+43,beta,beta,5
+44,gamma,gamma,5
+45,unclassified endocrine,not applicable,5
+46,beta,beta,5
+47,alpha,alpha,5
+48,unclassified endocrine,not applicable,5
+49,acinar,acinar,5
+50,alpha,alpha,5
+51,alpha,alpha,5
+52,beta,beta,5
+53,alpha,alpha,5
+54,alpha,alpha,5
+55,alpha,alpha,5
+56,alpha,alpha,5
+57,delta,delta,5
+58,alpha,alpha,5
+59,alpha,alpha,5
+60,ductal,ductal,5
+61,not applicable,not applicable,5
+62,not applicable,not applicable,5
+63,not applicable,not applicable,5
+64,beta,beta,5
+65,ductal,ductal,5
+66,acinar,acinar,5
+67,alpha,not applicable,5
+68,acinar,acinar,5
+69,alpha,alpha,5
+70,alpha,alpha,5
+71,alpha,alpha,5
+72,alpha,alpha,5
+73,not applicable,not applicable,5
+74,alpha,alpha,5
+75,beta,beta,5
+76,beta,co-expression,5
+77,alpha,alpha,5
+78,delta,delta,5
+79,alpha,alpha,5
+80,alpha,alpha,5
+81,not applicable,not applicable,5
+82,not applicable,not applicable,5
+83,alpha,alpha,5
+84,alpha,alpha,5
+85,not applicable,not applicable,5
+86,beta,co-expression,5
+87,gamma,gamma,5
+88,alpha,alpha,5
+89,not applicable,not applicable,5
+90,not applicable,unclassified endocrine,5
+91,gamma,gamma,5
+92,alpha,alpha,5
+93,delta,delta,5
+94,beta,beta,5
+95,not applicable,not applicable,5
+96,not applicable,not applicable,5
+97,not applicable,not applicable,5
+98,not applicable,not applicable,5
+99,not applicable,not applicable,5
+100,gamma,gamma,5
+101,not applicable,not applicable,5
+102,delta,unclassified endocrine,5
+103,gamma,gamma,5
+104,gamma,gamma,5
+105,not applicable,not applicable,5
+106,alpha,alpha,5
+107,alpha,alpha,5
+108,alpha,alpha,5
+109,gamma,gamma,5
+110,not applicable,not applicable,5
+111,alpha,alpha,5
+112,not applicable,not applicable,5
+113,not applicable,not applicable,5
+114,not applicable,not applicable,5
+115,alpha,alpha,5
+116,gamma,gamma,5
+117,alpha,alpha,5
+118,alpha,alpha,5
+119,not applicable,not applicable,5
+120,acinar,acinar,5
+121,alpha,alpha,5
+122,not applicable,not applicable,5
+123,alpha,alpha,5
+124,gamma,gamma,5
+125,gamma,gamma,5
+126,not applicable,not applicable,5
+127,gamma,gamma,5
+128,not applicable,not applicable,5
+129,not applicable,not applicable,5
+130,not applicable,not applicable,5
+131,alpha,alpha,5
+132,not applicable,not applicable,5
+133,alpha,alpha,5
+134,not applicable,not applicable,5
+135,not applicable,not applicable,5
+136,alpha,alpha,5
+137,alpha,alpha,5
+138,gamma,gamma,5
+139,not applicable,not applicable,5
+140,not applicable,not applicable,5
+141,alpha,alpha,5
+142,not applicable,not applicable,5
+143,alpha,alpha,5
+144,alpha,alpha,5
+145,alpha,alpha,5
+146,alpha,alpha,5
+147,alpha,alpha,5
+148,alpha,alpha,5
+149,alpha,alpha,5
+150,alpha,alpha,5
+151,not applicable,not applicable,5
+152,alpha,alpha,5
+153,gamma,gamma,5
+154,not applicable,not applicable,5
+155,not applicable,not applicable,5
+156,alpha,alpha,5
+157,alpha,alpha,5
+158,gamma,gamma,5
+159,alpha,alpha,5
+160,not applicable,not applicable,5
+161,beta,beta,5
+162,alpha,alpha,5
+163,PSC,PSC,5
+164,beta,beta,5
+165,beta,beta,5
+166,not applicable,not applicable,5
+167,alpha,alpha,5
+168,co-expression,co-expression,5
+169,alpha,alpha,5
+170,gamma,gamma,5
+171,alpha,alpha,5
+172,beta,beta,5
+173,alpha,alpha,5
+174,alpha,alpha,5
+175,alpha,alpha,5
+176,alpha,alpha,5
+177,beta,beta,5
+178,not applicable,not applicable,5
+179,beta,beta,5
+180,endothelial,endothelial,5
+181,epsilon,epsilon,5
+182,not applicable,not applicable,5
+183,alpha,alpha,5
+184,ductal,ductal,5
+185,alpha,alpha,5
+186,beta,beta,5
+187,not applicable,not applicable,5
+188,alpha,alpha,5
+189,alpha,alpha,5
+190,not applicable,not applicable,5
+191,PSC,PSC,5
+192,alpha,alpha,5
+193,alpha,alpha,5
+194,alpha,alpha,5
+195,alpha,alpha,5
+196,not applicable,not applicable,5
+197,alpha,alpha,5
+198,delta,delta,5
+199,not applicable,not applicable,5
+200,not applicable,not applicable,5
+201,not applicable,not applicable,5
+202,not applicable,not applicable,5
+203,gamma,gamma,5
+204,not applicable,not applicable,5
+205,not applicable,unclassified endocrine,5
+206,co-expression,alpha,5
+207,not applicable,not applicable,5
+208,gamma,not applicable,5
+209,not applicable,unclassified endocrine,5
+210,not applicable,not applicable,5
+211,not applicable,not applicable,5
+212,beta,beta,5
+213,not applicable,not applicable,5
+214,alpha,alpha,5
+215,not applicable,not applicable,5
+216,gamma,gamma,5
+217,alpha,alpha,5
+218,beta,beta,5
+219,ductal,ductal,5
+220,co-expression,not applicable,5
+221,endothelial,endothelial,5
+222,not applicable,not applicable,5
+223,endothelial,endothelial,5
+224,not applicable,not applicable,5
+225,not applicable,not applicable,5
+226,ductal,ductal,5
+227,beta,beta,5
+228,acinar,acinar,5
+229,ductal,not applicable,5
+230,not applicable,not applicable,5
+231,not applicable,not applicable,5
+232,ductal,ductal,5
+233,gamma,gamma,5
+234,gamma,gamma,5
+235,not applicable,not applicable,5
+236,not applicable,not applicable,5
+237,not applicable,not applicable,5
+238,not applicable,not applicable,5
+239,not applicable,not applicable,5
+240,acinar,acinar,5
+241,ductal,ductal,5
+242,not applicable,not applicable,5
+243,alpha,alpha,5
+244,gamma,gamma,5
+245,alpha,alpha,5
+246,ductal,ductal,5
+247,not applicable,not applicable,5
+248,not applicable,not applicable,5
+249,ductal,ductal,5
+250,not applicable,not applicable,5
+251,acinar,acinar,5
+252,beta,beta,5
+253,beta,beta,5
+254,not applicable,not applicable,5
+255,beta,beta,5
+256,alpha,alpha,5
+257,acinar,acinar,5
+258,beta,beta,5
+259,not applicable,not applicable,5
+260,gamma,not applicable,5
+261,gamma,not applicable,5
+262,ductal,ductal,5
+263,not applicable,not applicable,5
+264,alpha,alpha,5
+265,not applicable,not applicable,5
+266,ductal,ductal,5
+267,beta,beta,5
+268,not applicable,not applicable,5
+269,not applicable,not applicable,5
+270,beta,beta,5
+271,not applicable,not applicable,5
+272,acinar,acinar,5
+273,epsilon,epsilon,5
+274,acinar,acinar,5
+275,acinar,acinar,5
+276,ductal,ductal,5
+277,gamma,gamma,5
+278,not applicable,not applicable,5
+279,not applicable,not applicable,5
+280,ductal,ductal,5
+281,not applicable,not applicable,5
+282,acinar,acinar,5
+283,ductal,ductal,5
+284,beta,beta,5
+285,not applicable,not applicable,5
+286,acinar,acinar,5
+287,unclassified endocrine,not applicable,5
+288,ductal,ductal,5
+289,alpha,alpha,5
+290,ductal,ductal,5
+291,acinar,acinar,5
+292,acinar,acinar,5
+293,not applicable,not applicable,5
+294,acinar,acinar,5
+295,ductal,ductal,5
+296,not applicable,not applicable,5
+297,beta,beta,5
+298,unclassified endocrine,not applicable,5
+299,alpha,alpha,5
+300,not applicable,not applicable,5
+301,not applicable,not applicable,5
+302,not applicable,not applicable,5
+303,not applicable,not applicable,5
+304,delta,delta,5
+305,alpha,alpha,5
+306,alpha,alpha,5
+307,not applicable,not applicable,5
+308,not applicable,not applicable,5
+309,unclassified endocrine,not applicable,5
+310,alpha,alpha,5
+311,beta,beta,5
+312,alpha,alpha,5
+313,alpha,alpha,5
+314,alpha,not applicable,5
+315,not applicable,not applicable,5
+316,mast,not applicable,5
+317,alpha,alpha,5
+318,delta,not applicable,5
+319,acinar,not applicable,5
+320,alpha,alpha,5
+321,alpha,not applicable,5
+322,alpha,alpha,5
+323,ductal,ductal,5
+324,beta,beta,5
+325,beta,beta,5
+326,alpha,alpha,5
+327,alpha,alpha,5
+328,alpha,alpha,5
+329,beta,not applicable,5
+330,alpha,not applicable,5
+331,not applicable,not applicable,5
+332,alpha,alpha,5
+333,alpha,not applicable,5
+334,not applicable,not applicable,5
+335,alpha,alpha,5
+336,unclassified endocrine,not applicable,5
+337,not applicable,not applicable,5
+338,alpha,not applicable,5
+339,not applicable,not applicable,5
+340,not applicable,not applicable,5
+341,alpha,alpha,5
+342,alpha,not applicable,5
+343,ductal,ductal,5
+344,alpha,alpha,5
+345,alpha,alpha,5
+346,acinar,acinar,5
+347,not applicable,not applicable,5
+348,not applicable,not applicable,5
+349,PSC,PSC,5
+350,beta,beta,5
+351,alpha,not applicable,5
+352,not applicable,not applicable,5
+353,alpha,alpha,5
+354,PSC,PSC,5
+355,not applicable,not applicable,5
+356,alpha,alpha,5
+357,beta,beta,5
+358,delta,delta,5
+359,delta,delta,5
+360,not applicable,not applicable,5
+361,alpha,not applicable,5
+362,not applicable,not applicable,5
+363,gamma,gamma,5
+364,not applicable,not applicable,5
+365,not applicable,not applicable,5
+366,beta,beta,5
+367,not applicable,not applicable,5
+368,alpha,not applicable,5
+369,alpha,alpha,5
+370,beta,beta,5
+371,alpha,alpha,5
+372,alpha,not applicable,5
+373,alpha,alpha,5
+374,co-expression,co-expression,5
+375,PSC,not applicable,5
+376,alpha,alpha,5
+377,not applicable,not applicable,5
+378,acinar,acinar,5
+379,alpha,alpha,5
+380,not applicable,not applicable,5
+381,acinar,acinar,5
+382,beta,beta,5
+383,alpha,alpha,5
+384,alpha,alpha,5
+385,alpha,alpha,5
+386,not applicable,not applicable,5
+387,ductal,ductal,5
+388,ductal,ductal,5
+389,co-expression,not applicable,5
+390,alpha,alpha,5
+391,alpha,alpha,5
+392,not applicable,not applicable,5
+393,alpha,alpha,5
+394,alpha,alpha,5
+395,not applicable,not applicable,5
+396,alpha,alpha,5
+397,alpha,alpha,5
+398,ductal,ductal,5
+399,alpha,alpha,5
+400,PSC,PSC,5
+401,alpha,not applicable,5
+402,not applicable,not applicable,5
+403,alpha,alpha,5
+404,gamma,gamma,5
+405,ductal,ductal,5
+406,not applicable,not applicable,5
+407,alpha,alpha,5
+408,beta,beta,5
+409,ductal,ductal,5
+410,acinar,acinar,5
+411,ductal,ductal,5
+412,alpha,alpha,5
+413,beta,beta,5
+414,alpha,alpha,5
+415,not applicable,not applicable,5
+416,delta,delta,5
+417,mast,mast,5
+418,ductal,ductal,5
+419,beta,ductal,5
+420,alpha,alpha,5
+421,not applicable,not applicable,5
+422,acinar,acinar,5
+423,acinar,not applicable,5
+424,not applicable,not applicable,5
+425,alpha,alpha,5
+426,acinar,acinar,5
+427,beta,beta,5
+428,not applicable,not applicable,5
+429,gamma,gamma,5
+430,alpha,alpha,5
+431,beta,co-expression,5
+432,alpha,alpha,5
+433,alpha,alpha,5
+434,not applicable,not applicable,5
+435,alpha,alpha,5
+436,PSC,PSC,5
+437,ductal,ductal,5
+438,not applicable,not applicable,5
+439,PSC,PSC,5
+440,ductal,ductal,5
+441,ductal,ductal,5
+442,ductal,ductal,5
+443,PSC,PSC,5
+444,ductal,ductal,5
+445,acinar,acinar,5
+446,alpha,alpha,5
+447,ductal,ductal,5
+448,acinar,acinar,5
+449,ductal,ductal,5
+450,ductal,ductal,5
+451,not applicable,not applicable,5
+452,ductal,ductal,5
+453,ductal,ductal,5
+454,not applicable,alpha,5
+455,ductal,ductal,5
+456,not applicable,not applicable,5
+457,unclassified endocrine,not applicable,5
+458,acinar,acinar,5
+459,co-expression,co-expression,5
+460,not applicable,not applicable,5
+461,acinar,acinar,5
+462,not applicable,not applicable,5
+463,co-expression,co-expression,5
+464,alpha,alpha,5
+465,unclassified endocrine,not applicable,5
+466,beta,not applicable,5
+467,not applicable,not applicable,5
+468,alpha,not applicable,5
+469,not applicable,not applicable,5
+470,not applicable,not applicable,5
+471,alpha,alpha,5
+472,not applicable,not applicable,5
+473,not applicable,not applicable,5
+474,not applicable,not applicable,5
+475,not applicable,not applicable,5
+476,not applicable,not applicable,5
+477,ductal,ductal,5
+478,not applicable,not applicable,5
+479,not applicable,not applicable,5
+480,not applicable,not applicable,5
+481,ductal,ductal,5
+482,not applicable,not applicable,5
+483,not applicable,not applicable,5
+484,ductal,not applicable,5
+485,not applicable,not applicable,5
+486,not applicable,not applicable,5
+487,not applicable,not applicable,5
+488,acinar,acinar,5
+489,gamma,gamma,5
+490,not applicable,not applicable,5
+491,alpha,alpha,5
+492,alpha,not applicable,5
+493,alpha,not applicable,5
+494,not applicable,not applicable,5
+495,delta,delta,5
+496,beta,not applicable,5
+497,not applicable,not applicable,5
+498,alpha,not applicable,5
+499,not applicable,not applicable,5
+500,not applicable,not applicable,5
+501,co-expression,beta,5
+502,not applicable,not applicable,5
+503,ductal,ductal,5
+504,alpha,not applicable,5
+505,not applicable,not applicable,5
+506,alpha,alpha,5
+507,not applicable,not applicable,5
+508,not applicable,not applicable,5
+509,not applicable,not applicable,5
+510,alpha,not applicable,5
+511,not applicable,not applicable,5
+512,ductal,ductal,5
+513,not applicable,not applicable,5
+514,delta,delta,5
+515,not applicable,not applicable,5
+516,not applicable,not applicable,5
+517,not applicable,not applicable,5
+518,not applicable,not applicable,5
+519,not applicable,not applicable,5
+520,not applicable,not applicable,5
+521,not applicable,not applicable,5
+522,not applicable,not applicable,5
+523,not applicable,not applicable,5
+524,not applicable,not applicable,5
+525,not applicable,not applicable,5
+526,not applicable,not applicable,5
+527,not applicable,not applicable,5
+528,alpha,alpha,5
+529,not applicable,not applicable,5
+530,alpha,alpha,5
+531,not applicable,not applicable,5
+532,ductal,not applicable,5
+533,beta,not applicable,5
+534,alpha,alpha,5
+535,ductal,not applicable,5
+536,not applicable,not applicable,5
+537,not applicable,not applicable,5
+538,beta,not applicable,5
+539,gamma,not applicable,5
+540,not applicable,not applicable,5
+541,alpha,alpha,5
+542,not applicable,not applicable,5
+543,alpha,ductal,5
+544,mast,not applicable,5
+545,delta,delta,5
+546,alpha,alpha,5
+547,not applicable,not applicable,5
+548,not applicable,not applicable,5
+549,PSC,PSC,5
+550,alpha,alpha,5
+551,alpha,alpha,5
+552,ductal,ductal,5
+553,ductal,ductal,5
+554,ductal,ductal,5
+555,alpha,alpha,5
+556,not applicable,not applicable,5
+557,ductal,ductal,5
+558,not applicable,not applicable,5
+559,PSC,not applicable,5
+560,not applicable,not applicable,5
+561,ductal,ductal,5
+562,unclassified endocrine,not applicable,5
+563,PSC,PSC,5
+564,alpha,alpha,5
+565,ductal,ductal,5
+566,alpha,alpha,5
+567,alpha,alpha,5
+568,PSC,PSC,5
+569,unclassified endocrine,not applicable,5
+570,not applicable,not applicable,5
+571,alpha,alpha,5
+572,alpha,alpha,5
+573,not applicable,not applicable,5
+574,not applicable,not applicable,5
+575,alpha,alpha,5
+576,not applicable,not applicable,5
+577,beta,beta,5
+578,ductal,ductal,5
+579,alpha,alpha,5
+580,acinar,acinar,5
+581,ductal,ductal,5
+582,alpha,alpha,5
+583,ductal,ductal,5
+584,ductal,ductal,5
+585,not applicable,not applicable,5
+586,alpha,alpha,5
+587,alpha,alpha,5
+588,gamma,gamma,5
+589,alpha,alpha,5
+590,ductal,ductal,5
+591,ductal,ductal,5
+592,not applicable,not applicable,5
+593,not applicable,not applicable,5
+594,ductal,ductal,5
+595,alpha,alpha,5
+596,not applicable,not applicable,5
+597,not applicable,unclassified endocrine,5
+598,beta,beta,5
+599,ductal,ductal,5
+600,acinar,acinar,5
+601,ductal,ductal,5
+602,ductal,ductal,5
+603,alpha,alpha,5
+604,gamma,gamma,5
+605,ductal,ductal,5
+606,alpha,alpha,5
+607,not applicable,not applicable,5
+608,not applicable,not applicable,5
+609,not applicable,not applicable,5
+610,acinar,acinar,5
+611,alpha,alpha,5
+612,ductal,ductal,5
+613,not applicable,not applicable,5
+614,not applicable,not applicable,5
+615,ductal,ductal,5
+616,alpha,alpha,5
+617,ductal,ductal,5
+618,alpha,alpha,5
+619,alpha,alpha,5
+620,alpha,alpha,5
+621,co-expression,co-expression,5
+622,delta,delta,5
+623,ductal,ductal,5
+624,beta,beta,5
+625,alpha,alpha,5
+626,alpha,alpha,5
+627,gamma,gamma,5
+628,alpha,alpha,5
+629,not applicable,not applicable,5
+630,beta,beta,5
+631,delta,delta,5
+632,beta,beta,5
+633,gamma,gamma,5
+634,ductal,ductal,5
+635,ductal,ductal,5
+636,beta,beta,5
+637,gamma,gamma,5
+638,alpha,alpha,5
+639,alpha,alpha,5
+640,not applicable,not applicable,5
+641,gamma,gamma,5
+642,ductal,ductal,5
+643,delta,delta,5
+644,ductal,ductal,5
+645,not applicable,not applicable,5
+646,alpha,alpha,5
+647,gamma,gamma,5
+648,alpha,alpha,5
+649,alpha,alpha,5
+650,alpha,alpha,5
+651,ductal,ductal,5
+652,not applicable,not applicable,5
+653,alpha,alpha,5
+654,gamma,gamma,5
+655,alpha,alpha,5
+656,gamma,gamma,5
+657,delta,delta,5
+658,delta,delta,5
+659,acinar,acinar,5
+660,beta,beta,5
+661,not applicable,not applicable,5
+662,delta,delta,5
+663,not applicable,not applicable,5
+664,gamma,gamma,5
+665,delta,delta,5
+666,not applicable,not applicable,5
+667,ductal,ductal,5
+668,beta,beta,5
+669,alpha,alpha,5
+670,acinar,acinar,5
+671,alpha,alpha,5
+672,ductal,ductal,5
+673,not applicable,not applicable,5
+674,gamma,gamma,5
+675,alpha,alpha,5
+676,alpha,alpha,5
+677,alpha,alpha,5
+678,beta,beta,5
+679,not applicable,not applicable,5
+680,ductal,ductal,5
+681,alpha,alpha,5
+682,not applicable,not applicable,5
+683,alpha,alpha,5
+684,beta,beta,5
+685,alpha,alpha,5
+686,gamma,gamma,5
+687,ductal,ductal,5
+688,beta,beta,5
+689,acinar,not applicable,5
+690,acinar,acinar,5
+691,beta,beta,5
+692,not applicable,not applicable,5
+693,acinar,acinar,5
+694,alpha,alpha,5
+695,ductal,ductal,5
+696,not applicable,not applicable,5
+697,beta,beta,5
+698,not applicable,not applicable,5
+699,not applicable,not applicable,5
+700,not applicable,not applicable,5
+701,mast,not applicable,5

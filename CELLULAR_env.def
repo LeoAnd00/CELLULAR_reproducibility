@@ -1,0 +1,9 @@
+Bootstrap: docker
+From: continuumio/miniconda3:4.12.0
+
+%files
+    environment_alvis_cluster.yml
+    requirements_alvis_cluster.txt
+
+%post
+    /opt/conda/bin/conda env update --name base --file environment_alvis_cluster.yml --prune

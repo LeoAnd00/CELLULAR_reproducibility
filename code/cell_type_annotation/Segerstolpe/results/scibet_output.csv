@@ -1,0 +1,3515 @@
+"","pred","true_label","fold"
+"1","alpha","alpha",1
+"2","alpha","alpha",1
+"3","unclassified endocrine","unclassified endocrine",1
+"4","ductal","ductal",1
+"5","unclassified endocrine","not applicable",1
+"6","not applicable","not applicable",1
+"7","delta","delta",1
+"8","beta","beta",1
+"9","not applicable","not applicable",1
+"10","alpha","alpha",1
+"11","PSC","PSC",1
+"12","co-expression","co-expression",1
+"13","ductal","ductal",1
+"14","beta","beta",1
+"15","delta","delta",1
+"16","beta","beta",1
+"17","gamma","gamma",1
+"18","beta","beta",1
+"19","not applicable","not applicable",1
+"20","unclassified endocrine","not applicable",1
+"21","delta","delta",1
+"22","beta","beta",1
+"23","beta","beta",1
+"24","unclassified endocrine","not applicable",1
+"25","alpha","alpha",1
+"26","beta","beta",1
+"27","unclassified endocrine","not applicable",1
+"28","unclassified endocrine","not applicable",1
+"29","delta","delta",1
+"30","unclassified endocrine","not applicable",1
+"31","alpha","alpha",1
+"32","not applicable","not applicable",1
+"33","not applicable","not applicable",1
+"34","acinar","acinar",1
+"35","beta","co-expression",1
+"36","acinar","acinar",1
+"37","acinar","acinar",1
+"38","gamma","gamma",1
+"39","alpha","alpha",1
+"40","alpha","alpha",1
+"41","beta","beta",1
+"42","unclassified endocrine","not applicable",1
+"43","unclassified endocrine","not applicable",1
+"44","beta","beta",1
+"45","not applicable","not applicable",1
+"46","not applicable","not applicable",1
+"47","beta","beta",1
+"48","alpha","alpha",1
+"49","unclassified endocrine","not applicable",1
+"50","alpha","not applicable",1
+"51","alpha","alpha",1
+"52","unclassified endocrine","unclassified endocrine",1
+"53","alpha","alpha",1
+"54","not applicable","alpha",1
+"55","delta","delta",1
+"56","alpha","alpha",1
+"57","alpha","alpha",1
+"58","mast","mast",1
+"59","ductal","ductal",1
+"60","alpha","alpha",1
+"61","unclassified endocrine","not applicable",1
+"62","alpha","alpha",1
+"63","gamma","gamma",1
+"64","gamma","gamma",1
+"65","alpha","alpha",1
+"66","alpha","alpha",1
+"67","gamma","gamma",1
+"68","alpha","alpha",1
+"69","alpha","alpha",1
+"70","alpha","alpha",1
+"71","unclassified endocrine","not applicable",1
+"72","alpha","alpha",1
+"73","ductal","ductal",1
+"74","alpha","alpha",1
+"75","alpha","alpha",1
+"76","ductal","ductal",1
+"77","alpha","alpha",1
+"78","alpha","not applicable",1
+"79","ductal","ductal",1
+"80","gamma","gamma",1
+"81","ductal","ductal",1
+"82","ductal","ductal",1
+"83","alpha","alpha",1
+"84","unclassified endocrine","not applicable",1
+"85","ductal","ductal",1
+"86","beta","beta",1
+"87","delta","delta",1
+"88","not applicable","not applicable",1
+"89","alpha","alpha",1
+"90","mast","mast",1
+"91","acinar","acinar",1
+"92","unclassified endocrine","not applicable",1
+"93","unclassified endocrine","not applicable",1
+"94","not applicable","not applicable",1
+"95","not applicable","not applicable",1
+"96","alpha","alpha",1
+"97","gamma","gamma",1
+"98","gamma","gamma",1
+"99","gamma","gamma",1
+"100","gamma","gamma",1
+"101","alpha","alpha",1
+"102","co-expression","co-expression",1
+"103","not applicable","not applicable",1
+"104","unclassified endocrine","not applicable",1
+"105","unclassified endocrine","not applicable",1
+"106","gamma","not applicable",1
+"107","gamma","gamma",1
+"108","gamma","gamma",1
+"109","alpha","alpha",1
+"110","gamma","gamma",1
+"111","unclassified endocrine","not applicable",1
+"112","unclassified endocrine","not applicable",1
+"113","beta","beta",1
+"114","alpha","alpha",1
+"115","gamma","gamma",1
+"116","gamma","gamma",1
+"117","unclassified endocrine","not applicable",1
+"118","alpha","alpha",1
+"119","not applicable","not applicable",1
+"120","alpha","alpha",1
+"121","alpha","alpha",1
+"122","alpha","alpha",1
+"123","alpha","alpha",1
+"124","unclassified endocrine","not applicable",1
+"125","gamma","gamma",1
+"126","gamma","gamma",1
+"127","alpha","alpha",1
+"128","beta","beta",1
+"129","not applicable","not applicable",1
+"130","gamma","gamma",1
+"131","delta","not applicable",1
+"132","unclassified endocrine","not applicable",1
+"133","alpha","alpha",1
+"134","alpha","alpha",1
+"135","alpha","alpha",1
+"136","alpha","alpha",1
+"137","alpha","alpha",1
+"138","not applicable","not applicable",1
+"139","unclassified endocrine","not applicable",1
+"140","acinar","acinar",1
+"141","alpha","alpha",1
+"142","alpha","alpha",1
+"143","alpha","alpha",1
+"144","not applicable","not applicable",1
+"145","delta","delta",1
+"146","gamma","gamma",1
+"147","alpha","alpha",1
+"148","not applicable","not applicable",1
+"149","alpha","alpha",1
+"150","not applicable","not applicable",1
+"151","unclassified endocrine","not applicable",1
+"152","alpha","alpha",1
+"153","alpha","alpha",1
+"154","gamma","gamma",1
+"155","alpha","alpha",1
+"156","beta","beta",1
+"157","unclassified endocrine","not applicable",1
+"158","alpha","alpha",1
+"159","alpha","alpha",1
+"160","alpha","alpha",1
+"161","alpha","not applicable",1
+"162","not applicable","not applicable",1
+"163","alpha","alpha",1
+"164","alpha","alpha",1
+"165","alpha","alpha",1
+"166","not applicable","unclassified endocrine",1
+"167","alpha","alpha",1
+"168","gamma","gamma",1
+"169","alpha","alpha",1
+"170","alpha","alpha",1
+"171","unclassified endocrine","not applicable",1
+"172","not applicable","not applicable",1
+"173","beta","beta",1
+"174","gamma","gamma",1
+"175","alpha","alpha",1
+"176","unclassified endocrine","not applicable",1
+"177","alpha","alpha",1
+"178","alpha","alpha",1
+"179","PSC","PSC",1
+"180","not applicable","not applicable",1
+"181","delta","delta",1
+"182","unclassified endocrine","not applicable",1
+"183","unclassified endocrine","not applicable",1
+"184","unclassified endocrine","not applicable",1
+"185","alpha","alpha",1
+"186","alpha","alpha",1
+"187","unclassified endocrine","not applicable",1
+"188","alpha","alpha",1
+"189","gamma","gamma",1
+"190","co-expression","co-expression",1
+"191","unclassified endocrine","not applicable",1
+"192","not applicable","not applicable",1
+"193","alpha","alpha",1
+"194","delta","delta",1
+"195","acinar","acinar",1
+"196","alpha","alpha",1
+"197","alpha","not applicable",1
+"198","beta","beta",1
+"199","alpha","alpha",1
+"200","beta","beta",1
+"201","alpha","alpha",1
+"202","unclassified endocrine","not applicable",1
+"203","gamma","gamma",1
+"204","unclassified endocrine","not applicable",1
+"205","PSC","PSC",1
+"206","gamma","gamma",1
+"207","not applicable","not applicable",1
+"208","beta","beta",1
+"209","delta","delta",1
+"210","beta","beta",1
+"211","not applicable","not applicable",1
+"212","not applicable","not applicable",1
+"213","not applicable","not applicable",1
+"214","unclassified endocrine","not applicable",1
+"215","PSC","PSC",1
+"216","alpha","alpha",1
+"217","gamma","not applicable",1
+"218","alpha","alpha",1
+"219","not applicable","not applicable",1
+"220","gamma","gamma",1
+"221","alpha","alpha",1
+"222","alpha","alpha",1
+"223","gamma","gamma",1
+"224","unclassified endocrine","not applicable",1
+"225","alpha","alpha",1
+"226","unclassified endocrine","not applicable",1
+"227","gamma","gamma",1
+"228","alpha","alpha",1
+"229","alpha","alpha",1
+"230","beta","beta",1
+"231","not applicable","not applicable",1
+"232","not applicable","not applicable",1
+"233","unclassified endocrine","not applicable",1
+"234","not applicable","not applicable",1
+"235","PSC","PSC",1
+"236","ductal","ductal",1
+"237","gamma","gamma",1
+"238","acinar","acinar",1
+"239","acinar","acinar",1
+"240","not applicable","not applicable",1
+"241","not applicable","not applicable",1
+"242","ductal","ductal",1
+"243","not applicable","unclassified endocrine",1
+"244","beta","beta",1
+"245","ductal","ductal",1
+"246","ductal","not applicable",1
+"247","gamma","not applicable",1
+"248","ductal","ductal",1
+"249","acinar","not applicable",1
+"250","delta","delta",1
+"251","acinar","acinar",1
+"252","gamma","not applicable",1
+"253","not applicable","unclassified endocrine",1
+"254","not applicable","not applicable",1
+"255","not applicable","not applicable",1
+"256","alpha","alpha",1
+"257","gamma","not applicable",1
+"258","ductal","ductal",1
+"259","beta","beta",1
+"260","alpha","alpha",1
+"261","ductal","ductal",1
+"262","ductal","ductal",1
+"263","ductal","ductal",1
+"264","alpha","alpha",1
+"265","beta","beta",1
+"266","acinar","acinar",1
+"267","alpha","alpha",1
+"268","acinar","acinar",1
+"269","gamma","gamma",1
+"270","acinar","acinar",1
+"271","not applicable","not applicable",1
+"272","unclassified endocrine","not applicable",1
+"273","acinar","acinar",1
+"274","not applicable","not applicable",1
+"275","not applicable","not applicable",1
+"276","acinar","acinar",1
+"277","ductal","ductal",1
+"278","not applicable","unclassified endocrine",1
+"279","ductal","ductal",1
+"280","acinar","acinar",1
+"281","not applicable","not applicable",1
+"282","ductal","ductal",1
+"283","not applicable","gamma",1
+"284","acinar","acinar",1
+"285","not applicable","alpha",1
+"286","acinar","not applicable",1
+"287","not applicable","not applicable",1
+"288","not applicable","not applicable",1
+"289","ductal","ductal",1
+"290","unclassified endocrine","not applicable",1
+"291","gamma","not applicable",1
+"292","beta","not applicable",1
+"293","acinar","not applicable",1
+"294","beta","beta",1
+"295","not applicable","not applicable",1
+"296","acinar","not applicable",1
+"297","acinar","acinar",1
+"298","acinar","acinar",1
+"299","beta","beta",1
+"300","not applicable","not applicable",1
+"301","ductal","not applicable",1
+"302","ductal","ductal",1
+"303","gamma","not applicable",1
+"304","acinar","acinar",1
+"305","acinar","acinar",1
+"306","ductal","ductal",1
+"307","ductal","ductal",1
+"308","acinar","acinar",1
+"309","co-expression","beta",1
+"310","not applicable","not applicable",1
+"311","ductal","not applicable",1
+"312","ductal","ductal",1
+"313","not applicable","not applicable",1
+"314","not applicable","not applicable",1
+"315","alpha","not applicable",1
+"316","alpha","not applicable",1
+"317","unclassified endocrine","not applicable",1
+"318","delta","not applicable",1
+"319","beta","beta",1
+"320","alpha","not applicable",1
+"321","alpha","alpha",1
+"322","alpha","alpha",1
+"323","alpha","alpha",1
+"324","alpha","not applicable",1
+"325","alpha","not applicable",1
+"326","alpha","not applicable",1
+"327","beta","not applicable",1
+"328","alpha","alpha",1
+"329","not applicable","not applicable",1
+"330","alpha","alpha",1
+"331","beta","beta",1
+"332","alpha","not applicable",1
+"333","unclassified endocrine","not applicable",1
+"334","alpha","not applicable",1
+"335","alpha","alpha",1
+"336","co-expression","delta",1
+"337","beta","beta",1
+"338","alpha","not applicable",1
+"339","alpha","alpha",1
+"340","alpha","alpha",1
+"341","alpha","alpha",1
+"342","alpha","alpha",1
+"343","alpha","alpha",1
+"344","gamma","not applicable",1
+"345","ductal","ductal",1
+"346","alpha","alpha",1
+"347","alpha","not applicable",1
+"348","alpha","not applicable",1
+"349","alpha","not applicable",1
+"350","alpha","alpha",1
+"351","alpha","not applicable",1
+"352","alpha","not applicable",1
+"353","alpha","alpha",1
+"354","alpha","not applicable",1
+"355","co-expression","co-expression",1
+"356","beta","beta",1
+"357","alpha","not applicable",1
+"358","beta","beta",1
+"359","alpha","alpha",1
+"360","alpha","alpha",1
+"361","alpha","not applicable",1
+"362","alpha","alpha",1
+"363","alpha","alpha",1
+"364","alpha","not applicable",1
+"365","alpha","alpha",1
+"366","not applicable","not applicable",1
+"367","alpha","alpha",1
+"368","alpha","alpha",1
+"369","PSC","not applicable",1
+"370","ductal","ductal",1
+"371","PSC","PSC",1
+"372","alpha","alpha",1
+"373","not applicable","not applicable",1
+"374","alpha","not applicable",1
+"375","alpha","not applicable",1
+"376","alpha","not applicable",1
+"377","acinar","acinar",1
+"378","alpha","alpha",1
+"379","unclassified endocrine","not applicable",1
+"380","alpha","alpha",1
+"381","alpha","alpha",1
+"382","alpha","alpha",1
+"383","PSC","not applicable",1
+"384","alpha","alpha",1
+"385","not applicable","not applicable",1
+"386","alpha","not applicable",1
+"387","alpha","not applicable",1
+"388","alpha","not applicable",1
+"389","alpha","not applicable",1
+"390","beta","beta",1
+"391","alpha","not applicable",1
+"392","alpha","alpha",1
+"393","unclassified endocrine","not applicable",1
+"394","alpha","not applicable",1
+"395","delta","delta",1
+"396","alpha","not applicable",1
+"397","delta","not applicable",1
+"398","beta","beta",1
+"399","not applicable","not applicable",1
+"400","alpha","alpha",1
+"401","alpha","alpha",1
+"402","not applicable","not applicable",1
+"403","alpha","alpha",1
+"404","alpha","alpha",1
+"405","alpha","alpha",1
+"406","alpha","alpha",1
+"407","not applicable","not applicable",1
+"408","alpha","not applicable",1
+"409","ductal","ductal",1
+"410","not applicable","not applicable",1
+"411","alpha","alpha",1
+"412","alpha","alpha",1
+"413","not applicable","not applicable",1
+"414","alpha","not applicable",1
+"415","alpha","alpha",1
+"416","ductal","not applicable",1
+"417","alpha","alpha",1
+"418","PSC","PSC",1
+"419","beta","beta",1
+"420","ductal","ductal",1
+"421","ductal","not applicable",1
+"422","not applicable","not applicable",1
+"423","alpha","alpha",1
+"424","not applicable","not applicable",1
+"425","MHC class II","MHC class II",1
+"426","alpha","alpha",1
+"427","alpha","alpha",1
+"428","not applicable","not applicable",1
+"429","alpha","alpha",1
+"430","alpha","alpha",1
+"431","alpha","alpha",1
+"432","ductal","ductal",1
+"433","ductal","ductal",1
+"434","ductal","ductal",1
+"435","alpha","alpha",1
+"436","acinar","acinar",1
+"437","not applicable","unclassified endocrine",1
+"438","acinar","acinar",1
+"439","acinar","acinar",1
+"440","acinar","acinar",1
+"441","alpha","alpha",1
+"442","not applicable","unclassified endocrine",1
+"443","ductal","not applicable",1
+"444","co-expression","co-expression",1
+"445","alpha","alpha",1
+"446","alpha","alpha",1
+"447","not applicable","not applicable",1
+"448","ductal","not applicable",1
+"449","ductal","ductal",1
+"450","ductal","ductal",1
+"451","delta","delta",1
+"452","ductal","ductal",1
+"453","alpha","alpha",1
+"454","ductal","ductal",1
+"455","ductal","not applicable",1
+"456","PSC","PSC",1
+"457","ductal","ductal",1
+"458","alpha","alpha",1
+"459","alpha","alpha",1
+"460","alpha","alpha",1
+"461","alpha","alpha",1
+"462","ductal","ductal",1
+"463","acinar","acinar",1
+"464","not applicable","not applicable",1
+"465","alpha","alpha",1
+"466","ductal","ductal",1
+"467","alpha","alpha",1
+"468","co-expression","beta",1
+"469","ductal","ductal",1
+"470","not applicable","not applicable",1
+"471","acinar","acinar",1
+"472","acinar","acinar",1
+"473","ductal","ductal",1
+"474","acinar","acinar",1
+"475","alpha","alpha",1
+"476","not applicable","not applicable",1
+"477","not applicable","not applicable",1
+"478","ductal","ductal",1
+"479","beta","beta",1
+"480","alpha","not applicable",1
+"481","not applicable","not applicable",1
+"482","not applicable","not applicable",1
+"483","not applicable","not applicable",1
+"484","gamma","gamma",1
+"485","not applicable","not applicable",1
+"486","not applicable","not applicable",1
+"487","not applicable","not applicable",1
+"488","PSC","PSC",1
+"489","not applicable","not applicable",1
+"490","not applicable","not applicable",1
+"491","ductal","not applicable",1
+"492","not applicable","not applicable",1
+"493","not applicable","not applicable",1
+"494","unclassified endocrine","not applicable",1
+"495","unclassified endocrine","not applicable",1
+"496","unclassified endocrine","not applicable",1
+"497","not applicable","not applicable",1
+"498","unclassified endocrine","not applicable",1
+"499","PSC","not applicable",1
+"500","unclassified endocrine","not applicable",1
+"501","unclassified endocrine","not applicable",1
+"502","ductal","not applicable",1
+"503","not applicable","not applicable",1
+"504","beta","not applicable",1
+"505","unclassified endocrine","not applicable",1
+"506","not applicable","not applicable",1
+"507","not applicable","not applicable",1
+"508","endothelial","endothelial",1
+"509","not applicable","not applicable",1
+"510","alpha","not applicable",1
+"511","beta","not applicable",1
+"512","not applicable","not applicable",1
+"513","alpha","not applicable",1
+"514","not applicable","not applicable",1
+"515","alpha","not applicable",1
+"516","endothelial","not applicable",1
+"517","not applicable","not applicable",1
+"518","endothelial","endothelial",1
+"519","alpha","not applicable",1
+"520","alpha","not applicable",1
+"521","alpha","alpha",1
+"522","alpha","alpha",1
+"523","PSC","not applicable",1
+"524","alpha","alpha",1
+"525","delta","delta",1
+"526","not applicable","not applicable",1
+"527","delta","not applicable",1
+"528","ductal","ductal",1
+"529","not applicable","not applicable",1
+"530","ductal","ductal",1
+"531","alpha","not applicable",1
+"532","alpha","not applicable",1
+"533","endothelial","not applicable",1
+"534","beta","beta",1
+"535","not applicable","not applicable",1
+"536","beta","beta",1
+"537","delta","delta",1
+"538","not applicable","not applicable",1
+"539","alpha","not applicable",1
+"540","alpha","alpha",1
+"541","ductal","not applicable",1
+"542","not applicable","not applicable",1
+"543","ductal","not applicable",1
+"544","unclassified endocrine","not applicable",1
+"545","unclassified endocrine","not applicable",1
+"546","not applicable","not applicable",1
+"547","unclassified endocrine","not applicable",1
+"548","beta","beta",1
+"549","not applicable","not applicable",1
+"550","unclassified endocrine","not applicable",1
+"551","alpha","not applicable",1
+"552","ductal","not applicable",1
+"553","alpha","not applicable",1
+"554","delta","not applicable",1
+"555","delta","delta",1
+"556","alpha","alpha",1
+"557","co-expression","co-expression",1
+"558","not applicable","not applicable",1
+"559","ductal","ductal",1
+"560","alpha","alpha",1
+"561","not applicable","not applicable",1
+"562","alpha","alpha",1
+"563","ductal","not applicable",1
+"564","beta","co-expression",1
+"565","ductal","ductal",1
+"566","ductal","not applicable",1
+"567","beta","not applicable",1
+"568","not applicable","not applicable",1
+"569","ductal","not applicable",1
+"570","alpha","not applicable",1
+"571","ductal","ductal",1
+"572","not applicable","not applicable",1
+"573","alpha","alpha",1
+"574","not applicable","not applicable",1
+"575","alpha","alpha",1
+"576","ductal","ductal",1
+"577","ductal","ductal",1
+"578","alpha","alpha",1
+"579","ductal","ductal",1
+"580","acinar","acinar",1
+"581","gamma","gamma",1
+"582","ductal","ductal",1
+"583","ductal","ductal",1
+"584","acinar","acinar",1
+"585","gamma","gamma",1
+"586","PSC","PSC",1
+"587","alpha","alpha",1
+"588","ductal","ductal",1
+"589","beta","beta",1
+"590","beta","beta",1
+"591","acinar","acinar",1
+"592","PSC","PSC",1
+"593","ductal","ductal",1
+"594","alpha","alpha",1
+"595","alpha","alpha",1
+"596","not applicable","not applicable",1
+"597","ductal","ductal",1
+"598","ductal","ductal",1
+"599","ductal","ductal",1
+"600","alpha","alpha",1
+"601","ductal","ductal",1
+"602","not applicable","not applicable",1
+"603","alpha","alpha",1
+"604","ductal","ductal",1
+"605","ductal","ductal",1
+"606","alpha","alpha",1
+"607","ductal","ductal",1
+"608","ductal","ductal",1
+"609","beta","beta",1
+"610","alpha","alpha",1
+"611","ductal","ductal",1
+"612","not applicable","not applicable",1
+"613","ductal","ductal",1
+"614","ductal","ductal",1
+"615","ductal","ductal",1
+"616","co-expression","beta",1
+"617","ductal","ductal",1
+"618","not applicable","not applicable",1
+"619","acinar","not applicable",1
+"620","alpha","alpha",1
+"621","ductal","ductal",1
+"622","alpha","alpha",1
+"623","not applicable","not applicable",1
+"624","ductal","ductal",1
+"625","unclassified endocrine","not applicable",1
+"626","alpha","alpha",1
+"627","ductal","ductal",1
+"628","ductal","ductal",1
+"629","alpha","alpha",1
+"630","ductal","not applicable",1
+"631","alpha","alpha",1
+"632","ductal","not applicable",1
+"633","alpha","alpha",1
+"634","ductal","ductal",1
+"635","endothelial","endothelial",1
+"636","ductal","ductal",1
+"637","alpha","alpha",1
+"638","ductal","ductal",1
+"639","alpha","alpha",1
+"640","delta","delta",1
+"641","delta","delta",1
+"642","beta","not applicable",1
+"643","beta","beta",1
+"644","acinar","acinar",1
+"645","alpha","alpha",1
+"646","not applicable","not applicable",1
+"647","unclassified endocrine","not applicable",1
+"648","not applicable","not applicable",1
+"649","delta","delta",1
+"650","ductal","ductal",1
+"651","ductal","ductal",1
+"652","acinar","acinar",1
+"653","alpha","alpha",1
+"654","acinar","acinar",1
+"655","alpha","alpha",1
+"656","beta","beta",1
+"657","alpha","alpha",1
+"658","not applicable","not applicable",1
+"659","not applicable","not applicable",1
+"660","beta","beta",1
+"661","delta","delta",1
+"662","alpha","alpha",1
+"663","not applicable","not applicable",1
+"664","alpha","alpha",1
+"665","gamma","gamma",1
+"666","beta","beta",1
+"667","not applicable","not applicable",1
+"668","unclassified endocrine","not applicable",1
+"669","beta","beta",1
+"670","not applicable","not applicable",1
+"671","beta","beta",1
+"672","beta","beta",1
+"673","gamma","gamma",1
+"674","gamma","gamma",1
+"675","alpha","alpha",1
+"676","not applicable","not applicable",1
+"677","alpha","alpha",1
+"678","gamma","gamma",1
+"679","beta","beta",1
+"680","alpha","alpha",1
+"681","unclassified endocrine","not applicable",1
+"682","ductal","ductal",1
+"683","delta","delta",1
+"684","delta","delta",1
+"685","alpha","alpha",1
+"686","not applicable","not applicable",1
+"687","beta","beta",1
+"688","co-expression","beta",1
+"689","unclassified endocrine","not applicable",1
+"690","alpha","alpha",1
+"691","epsilon","epsilon",1
+"692","gamma","gamma",1
+"693","beta","beta",1
+"694","alpha","alpha",1
+"695","gamma","gamma",1
+"696","not applicable","not applicable",1
+"697","acinar","acinar",1
+"698","alpha","alpha",1
+"699","unclassified endocrine","not applicable",1
+"700","alpha","alpha",1
+"701","alpha","alpha",1
+"702","unclassified endocrine","not applicable",1
+"703","alpha","alpha",1
+"704","gamma","gamma",2
+"705","not applicable","not applicable",2
+"706","acinar","acinar",2
+"707","delta","delta",2
+"708","acinar","acinar",2
+"709","alpha","alpha",2
+"710","beta","beta",2
+"711","alpha","alpha",2
+"712","gamma","gamma",2
+"713","beta","beta",2
+"714","alpha","alpha",2
+"715","alpha","alpha",2
+"716","alpha","alpha",2
+"717","alpha","alpha",2
+"718","beta","beta",2
+"719","not applicable","not applicable",2
+"720","unclassified endocrine","unclassified endocrine",2
+"721","unclassified endocrine","not applicable",2
+"722","beta","beta",2
+"723","gamma","gamma",2
+"724","beta","beta",2
+"725","acinar","acinar",2
+"726","alpha","alpha",2
+"727","not applicable","not applicable",2
+"728","unclassified endocrine","unclassified endocrine",2
+"729","acinar","acinar",2
+"730","not applicable","unclassified endocrine",2
+"731","not applicable","not applicable",2
+"732","beta","beta",2
+"733","gamma","gamma",2
+"734","unclassified endocrine","not applicable",2
+"735","unclassified endocrine","not applicable",2
+"736","alpha","alpha",2
+"737","unclassified endocrine","not applicable",2
+"738","unclassified endocrine","not applicable",2
+"739","gamma","not applicable",2
+"740","delta","delta",2
+"741","beta","beta",2
+"742","acinar","not applicable",2
+"743","alpha","alpha",2
+"744","alpha","alpha",2
+"745","beta","beta",2
+"746","beta","beta",2
+"747","not applicable","not applicable",2
+"748","epsilon","epsilon",2
+"749","co-expression","alpha",2
+"750","alpha","alpha",2
+"751","delta","delta",2
+"752","alpha","alpha",2
+"753","unclassified endocrine","not applicable",2
+"754","beta","beta",2
+"755","delta","delta",2
+"756","beta","beta",2
+"757","alpha","alpha",2
+"758","not applicable","not applicable",2
+"759","alpha","alpha",2
+"760","ductal","ductal",2
+"761","unclassified endocrine","not applicable",2
+"762","not applicable","not applicable",2
+"763","endothelial","endothelial",2
+"764","alpha","alpha",2
+"765","delta","delta",2
+"766","beta","not applicable",2
+"767","alpha","alpha",2
+"768","alpha","alpha",2
+"769","beta","beta",2
+"770","alpha","alpha",2
+"771","alpha","alpha",2
+"772","alpha","alpha",2
+"773","alpha","alpha",2
+"774","acinar","acinar",2
+"775","not applicable","unclassified endocrine",2
+"776","alpha","alpha",2
+"777","not applicable","unclassified endocrine",2
+"778","alpha","alpha",2
+"779","alpha","alpha",2
+"780","beta","beta",2
+"781","alpha","alpha",2
+"782","unclassified endocrine","not applicable",2
+"783","alpha","alpha",2
+"784","alpha","alpha",2
+"785","mast","mast",2
+"786","alpha","not applicable",2
+"787","alpha","alpha",2
+"788","alpha","alpha",2
+"789","acinar","acinar",2
+"790","not applicable","not applicable",2
+"791","alpha","alpha",2
+"792","not applicable","not applicable",2
+"793","alpha","alpha",2
+"794","delta","delta",2
+"795","beta","beta",2
+"796","gamma","gamma",2
+"797","acinar","acinar",2
+"798","unclassified endocrine","not applicable",2
+"799","alpha","alpha",2
+"800","alpha","alpha",2
+"801","unclassified endocrine","not applicable",2
+"802","gamma","gamma",2
+"803","unclassified endocrine","not applicable",2
+"804","unclassified endocrine","not applicable",2
+"805","gamma","gamma",2
+"806","gamma","gamma",2
+"807","alpha","alpha",2
+"808","delta","delta",2
+"809","unclassified endocrine","not applicable",2
+"810","alpha","alpha",2
+"811","gamma","gamma",2
+"812","delta","not applicable",2
+"813","unclassified endocrine","not applicable",2
+"814","unclassified endocrine","not applicable",2
+"815","ductal","ductal",2
+"816","acinar","acinar",2
+"817","unclassified endocrine","not applicable",2
+"818","gamma","gamma",2
+"819","alpha","alpha",2
+"820","alpha","alpha",2
+"821","gamma","not applicable",2
+"822","beta","beta",2
+"823","not applicable","not applicable",2
+"824","gamma","gamma",2
+"825","beta","beta",2
+"826","gamma","gamma",2
+"827","gamma","gamma",2
+"828","gamma","gamma",2
+"829","gamma","gamma",2
+"830","alpha","alpha",2
+"831","not applicable","not applicable",2
+"832","unclassified endocrine","not applicable",2
+"833","alpha","alpha",2
+"834","gamma","gamma",2
+"835","alpha","alpha",2
+"836","gamma","gamma",2
+"837","gamma","gamma",2
+"838","gamma","gamma",2
+"839","not applicable","not applicable",2
+"840","not applicable","not applicable",2
+"841","alpha","alpha",2
+"842","alpha","alpha",2
+"843","beta","beta",2
+"844","gamma","not applicable",2
+"845","alpha","alpha",2
+"846","alpha","alpha",2
+"847","alpha","alpha",2
+"848","unclassified endocrine","not applicable",2
+"849","not applicable","not applicable",2
+"850","unclassified endocrine","not applicable",2
+"851","alpha","alpha",2
+"852","unclassified endocrine","not applicable",2
+"853","delta","not applicable",2
+"854","alpha","alpha",2
+"855","alpha","alpha",2
+"856","unclassified endocrine","not applicable",2
+"857","gamma","gamma",2
+"858","gamma","gamma",2
+"859","not applicable","not applicable",2
+"860","alpha","not applicable",2
+"861","unclassified endocrine","not applicable",2
+"862","gamma","gamma",2
+"863","alpha","alpha",2
+"864","alpha","alpha",2
+"865","alpha","alpha",2
+"866","not applicable","not applicable",2
+"867","unclassified endocrine","not applicable",2
+"868","unclassified endocrine","not applicable",2
+"869","not applicable","not applicable",2
+"870","alpha","alpha",2
+"871","alpha","not applicable",2
+"872","alpha","alpha",2
+"873","delta","delta",2
+"874","not applicable","not applicable",2
+"875","alpha","alpha",2
+"876","ductal","ductal",2
+"877","alpha","not applicable",2
+"878","gamma","gamma",2
+"879","gamma","gamma",2
+"880","unclassified endocrine","not applicable",2
+"881","unclassified endocrine","not applicable",2
+"882","not applicable","not applicable",2
+"883","unclassified endocrine","not applicable",2
+"884","not applicable","not applicable",2
+"885","unclassified endocrine","not applicable",2
+"886","not applicable","not applicable",2
+"887","not applicable","not applicable",2
+"888","acinar","acinar",2
+"889","alpha","alpha",2
+"890","not applicable","not applicable",2
+"891","delta","delta",2
+"892","not applicable","not applicable",2
+"893","alpha","alpha",2
+"894","alpha","alpha",2
+"895","unclassified endocrine","not applicable",2
+"896","unclassified endocrine","not applicable",2
+"897","ductal","ductal",2
+"898","not applicable","not applicable",2
+"899","not applicable","not applicable",2
+"900","PSC","PSC",2
+"901","gamma","gamma",2
+"902","unclassified endocrine","not applicable",2
+"903","alpha","alpha",2
+"904","alpha","alpha",2
+"905","alpha","alpha",2
+"906","beta","co-expression",2
+"907","not applicable","not applicable",2
+"908","beta","beta",2
+"909","alpha","alpha",2
+"910","alpha","alpha",2
+"911","alpha","alpha",2
+"912","beta","beta",2
+"913","unclassified endocrine","not applicable",2
+"914","alpha","alpha",2
+"915","alpha","alpha",2
+"916","alpha","alpha",2
+"917","gamma","gamma",2
+"918","unclassified endocrine","not applicable",2
+"919","beta","beta",2
+"920","gamma","gamma",2
+"921","alpha","alpha",2
+"922","unclassified endocrine","not applicable",2
+"923","not applicable","not applicable",2
+"924","ductal","ductal",2
+"925","not applicable","not applicable",2
+"926","endothelial","endothelial",2
+"927","alpha","alpha",2
+"928","co-expression","co-expression",2
+"929","not applicable","not applicable",2
+"930","alpha","alpha",2
+"931","ductal","not applicable",2
+"932","co-expression","co-expression",2
+"933","not applicable","not applicable",2
+"934","alpha","not applicable",2
+"935","alpha","alpha",2
+"936","beta","beta",2
+"937","not applicable","not applicable",2
+"938","unclassified endocrine","not applicable",2
+"939","not applicable","not applicable",2
+"940","ductal","ductal",2
+"941","not applicable","not applicable",2
+"942","not applicable","not applicable",2
+"943","not applicable","not applicable",2
+"944","gamma","gamma",2
+"945","unclassified endocrine","not applicable",2
+"946","unclassified endocrine","not applicable",2
+"947","PSC","PSC",2
+"948","not applicable","not applicable",2
+"949","alpha","not applicable",2
+"950","not applicable","not applicable",2
+"951","ductal","ductal",2
+"952","alpha","alpha",2
+"953","delta","delta",2
+"954","alpha","alpha",2
+"955","not applicable","not applicable",2
+"956","unclassified endocrine","not applicable",2
+"957","alpha","alpha",2
+"958","not applicable","not applicable",2
+"959","not applicable","not applicable",2
+"960","not applicable","not applicable",2
+"961","not applicable","not applicable",2
+"962","alpha","alpha",2
+"963","delta","unclassified endocrine",2
+"964","not applicable","not applicable",2
+"965","not applicable","not applicable",2
+"966","not applicable","not applicable",2
+"967","ductal","ductal",2
+"968","not applicable","not applicable",2
+"969","ductal","ductal",2
+"970","co-expression","co-expression",2
+"971","unclassified endocrine","not applicable",2
+"972","acinar","acinar",2
+"973","unclassified endocrine","not applicable",2
+"974","acinar","acinar",2
+"975","beta","beta",2
+"976","ductal","not applicable",2
+"977","not applicable","not applicable",2
+"978","acinar","not applicable",2
+"979","alpha","not applicable",2
+"980","beta","beta",2
+"981","ductal","ductal",2
+"982","acinar","acinar",2
+"983","co-expression","co-expression",2
+"984","not applicable","not applicable",2
+"985","acinar","acinar",2
+"986","ductal","ductal",2
+"987","ductal","ductal",2
+"988","alpha","alpha",2
+"989","ductal","not applicable",2
+"990","ductal","ductal",2
+"991","not applicable","not applicable",2
+"992","gamma","gamma",2
+"993","unclassified endocrine","not applicable",2
+"994","alpha","alpha",2
+"995","not applicable","not applicable",2
+"996","acinar","not applicable",2
+"997","acinar","acinar",2
+"998","acinar","acinar",2
+"999","beta","beta",2
+"1000","ductal","ductal",2
+"1001","acinar","acinar",2
+"1002","acinar","acinar",2
+"1003","ductal","ductal",2
+"1004","acinar","acinar",2
+"1005","ductal","ductal",2
+"1006","not applicable","not applicable",2
+"1007","delta","not applicable",2
+"1008","acinar","acinar",2
+"1009","acinar","acinar",2
+"1010","not applicable","not applicable",2
+"1011","acinar","acinar",2
+"1012","ductal","ductal",2
+"1013","ductal","ductal",2
+"1014","acinar","acinar",2
+"1015","not applicable","not applicable",2
+"1016","acinar","acinar",2
+"1017","acinar","not applicable",2
+"1018","not applicable","not applicable",2
+"1019","gamma","not applicable",2
+"1020","ductal","ductal",2
+"1021","beta","beta",2
+"1022","acinar","acinar",2
+"1023","ductal","ductal",2
+"1024","alpha","alpha",2
+"1025","unclassified endocrine","not applicable",2
+"1026","alpha","not applicable",2
+"1027","alpha","not applicable",2
+"1028","alpha","alpha",2
+"1029","alpha","alpha",2
+"1030","alpha","alpha",2
+"1031","beta","beta",2
+"1032","alpha","alpha",2
+"1033","co-expression","co-expression",2
+"1034","PSC","not applicable",2
+"1035","beta","not applicable",2
+"1036","alpha","alpha",2
+"1037","alpha","not applicable",2
+"1038","alpha","alpha",2
+"1039","alpha","alpha",2
+"1040","gamma","not applicable",2
+"1041","alpha","alpha",2
+"1042","alpha","not applicable",2
+"1043","beta","beta",2
+"1044","beta","beta",2
+"1045","alpha","alpha",2
+"1046","beta","beta",2
+"1047","beta","not applicable",2
+"1048","PSC","not applicable",2
+"1049","PSC","not applicable",2
+"1050","alpha","alpha",2
+"1051","alpha","alpha",2
+"1052","delta","delta",2
+"1053","alpha","alpha",2
+"1054","not applicable","not applicable",2
+"1055","alpha","alpha",2
+"1056","PSC","PSC",2
+"1057","alpha","not applicable",2
+"1058","alpha","alpha",2
+"1059","alpha","alpha",2
+"1060","not applicable","not applicable",2
+"1061","delta","not applicable",2
+"1062","alpha","alpha",2
+"1063","unclassified endocrine","not applicable",2
+"1064","alpha","alpha",2
+"1065","alpha","not applicable",2
+"1066","co-expression","beta",2
+"1067","alpha","alpha",2
+"1068","alpha","alpha",2
+"1069","alpha","alpha",2
+"1070","alpha","alpha",2
+"1071","alpha","alpha",2
+"1072","alpha","alpha",2
+"1073","beta","beta",2
+"1074","alpha","alpha",2
+"1075","alpha","not applicable",2
+"1076","unclassified endocrine","not applicable",2
+"1077","beta","not applicable",2
+"1078","beta","beta",2
+"1079","alpha","alpha",2
+"1080","alpha","not applicable",2
+"1081","beta","beta",2
+"1082","unclassified endocrine","not applicable",2
+"1083","not applicable","not applicable",2
+"1084","unclassified endocrine","not applicable",2
+"1085","alpha","not applicable",2
+"1086","not applicable","not applicable",2
+"1087","alpha","not applicable",2
+"1088","not applicable","not applicable",2
+"1089","epsilon","alpha",2
+"1090","unclassified endocrine","not applicable",2
+"1091","not applicable","not applicable",2
+"1092","ductal","ductal",2
+"1093","ductal","ductal",2
+"1094","alpha","not applicable",2
+"1095","beta","beta",2
+"1096","alpha","not applicable",2
+"1097","alpha","alpha",2
+"1098","alpha","not applicable",2
+"1099","beta","not applicable",2
+"1100","co-expression","not applicable",2
+"1101","unclassified endocrine","not applicable",2
+"1102","alpha","not applicable",2
+"1103","endothelial","not applicable",2
+"1104","alpha","alpha",2
+"1105","alpha","alpha",2
+"1106","acinar","acinar",2
+"1107","gamma","gamma",2
+"1108","not applicable","not applicable",2
+"1109","not applicable","not applicable",2
+"1110","alpha","alpha",2
+"1111","PSC","PSC",2
+"1112","alpha","alpha",2
+"1113","beta","beta",2
+"1114","beta","beta",2
+"1115","alpha","alpha",2
+"1116","acinar","acinar",2
+"1117","alpha","alpha",2
+"1118","ductal","ductal",2
+"1119","not applicable","not applicable",2
+"1120","ductal","not applicable",2
+"1121","alpha","alpha",2
+"1122","PSC","PSC",2
+"1123","ductal","ductal",2
+"1124","alpha","alpha",2
+"1125","alpha","alpha",2
+"1126","alpha","alpha",2
+"1127","ductal","ductal",2
+"1128","not applicable","not applicable",2
+"1129","ductal","unclassified endocrine",2
+"1130","alpha","alpha",2
+"1131","acinar","not applicable",2
+"1132","beta","beta",2
+"1133","alpha","alpha",2
+"1134","gamma","gamma",2
+"1135","not applicable","not applicable",2
+"1136","not applicable","not applicable",2
+"1137","alpha","alpha",2
+"1138","ductal","not applicable",2
+"1139","alpha","not applicable",2
+"1140","alpha","alpha",2
+"1141","acinar","acinar",2
+"1142","alpha","alpha",2
+"1143","ductal","ductal",2
+"1144","beta","not applicable",2
+"1145","not applicable","not applicable",2
+"1146","alpha","alpha",2
+"1147","endothelial","endothelial",2
+"1148","ductal","ductal",2
+"1149","alpha","not applicable",2
+"1150","ductal","ductal",2
+"1151","mast","mast",2
+"1152","acinar","acinar",2
+"1153","PSC","PSC",2
+"1154","PSC","not applicable",2
+"1155","ductal","ductal",2
+"1156","not applicable","not applicable",2
+"1157","alpha","alpha",2
+"1158","alpha","alpha",2
+"1159","alpha","alpha",2
+"1160","gamma","gamma",2
+"1161","ductal","ductal",2
+"1162","alpha","alpha",2
+"1163","ductal","ductal",2
+"1164","acinar","not applicable",2
+"1165","not applicable","not applicable",2
+"1166","alpha","alpha",2
+"1167","ductal","ductal",2
+"1168","alpha","not applicable",2
+"1169","not applicable","not applicable",2
+"1170","not applicable","not applicable",2
+"1171","ductal","ductal",2
+"1172","not applicable","not applicable",2
+"1173","not applicable","not applicable",2
+"1174","alpha","alpha",2
+"1175","alpha","alpha",2
+"1176","not applicable","not applicable",2
+"1177","not applicable","not applicable",2
+"1178","alpha","not applicable",2
+"1179","delta","not applicable",2
+"1180","alpha","alpha",2
+"1181","ductal","not applicable",2
+"1182","not applicable","not applicable",2
+"1183","alpha","alpha",2
+"1184","beta","beta",2
+"1185","ductal","ductal",2
+"1186","unclassified endocrine","not applicable",2
+"1187","alpha","not applicable",2
+"1188","alpha","not applicable",2
+"1189","not applicable","not applicable",2
+"1190","alpha","alpha",2
+"1191","beta","beta",2
+"1192","not applicable","not applicable",2
+"1193","not applicable","not applicable",2
+"1194","alpha","not applicable",2
+"1195","alpha","alpha",2
+"1196","unclassified endocrine","not applicable",2
+"1197","ductal","ductal",2
+"1198","not applicable","not applicable",2
+"1199","not applicable","not applicable",2
+"1200","ductal","not applicable",2
+"1201","not applicable","not applicable",2
+"1202","not applicable","not applicable",2
+"1203","ductal","not applicable",2
+"1204","ductal","not applicable",2
+"1205","endothelial","not applicable",2
+"1206","not applicable","not applicable",2
+"1207","unclassified endocrine","not applicable",2
+"1208","gamma","not applicable",2
+"1209","alpha","alpha",2
+"1210","alpha","alpha",2
+"1211","unclassified endocrine","not applicable",2
+"1212","not applicable","not applicable",2
+"1213","ductal","ductal",2
+"1214","alpha","not applicable",2
+"1215","alpha","not applicable",2
+"1216","ductal","not applicable",2
+"1217","alpha","alpha",2
+"1218","co-expression","not applicable",2
+"1219","ductal","not applicable",2
+"1220","ductal","ductal",2
+"1221","alpha","alpha",2
+"1222","not applicable","not applicable",2
+"1223","ductal","ductal",2
+"1224","alpha","not applicable",2
+"1225","not applicable","not applicable",2
+"1226","ductal","ductal",2
+"1227","co-expression","alpha",2
+"1228","PSC","not applicable",2
+"1229","ductal","not applicable",2
+"1230","unclassified endocrine","not applicable",2
+"1231","ductal","not applicable",2
+"1232","not applicable","not applicable",2
+"1233","alpha","not applicable",2
+"1234","unclassified endocrine","not applicable",2
+"1235","delta","delta",2
+"1236","delta","not applicable",2
+"1237","ductal","ductal",2
+"1238","unclassified endocrine","not applicable",2
+"1239","alpha","not applicable",2
+"1240","unclassified endocrine","not applicable",2
+"1241","delta","delta",2
+"1242","endothelial","not applicable",2
+"1243","not applicable","not applicable",2
+"1244","not applicable","not applicable",2
+"1245","ductal","ductal",2
+"1246","ductal","ductal",2
+"1247","not applicable","not applicable",2
+"1248","unclassified endocrine","not applicable",2
+"1249","ductal","not applicable",2
+"1250","alpha","alpha",2
+"1251","alpha","alpha",2
+"1252","ductal","ductal",2
+"1253","not applicable","not applicable",2
+"1254","alpha","alpha",2
+"1255","ductal","ductal",2
+"1256","acinar","acinar",2
+"1257","alpha","alpha",2
+"1258","delta","delta",2
+"1259","not applicable","not applicable",2
+"1260","beta","beta",2
+"1261","ductal","ductal",2
+"1262","alpha","alpha",2
+"1263","alpha","alpha",2
+"1264","not applicable","not applicable",2
+"1265","gamma","gamma",2
+"1266","unclassified endocrine","unclassified endocrine",2
+"1267","ductal","ductal",2
+"1268","alpha","alpha",2
+"1269","alpha","alpha",2
+"1270","ductal","ductal",2
+"1271","alpha","alpha",2
+"1272","gamma","gamma",2
+"1273","not applicable","not applicable",2
+"1274","ductal","ductal",2
+"1275","ductal","ductal",2
+"1276","ductal","ductal",2
+"1277","alpha","alpha",2
+"1278","acinar","acinar",2
+"1279","not applicable","not applicable",2
+"1280","ductal","ductal",2
+"1281","ductal","ductal",2
+"1282","alpha","alpha",2
+"1283","not applicable","not applicable",2
+"1284","delta","delta",2
+"1285","ductal","ductal",2
+"1286","acinar","acinar",2
+"1287","PSC","PSC",2
+"1288","alpha","alpha",2
+"1289","alpha","alpha",2
+"1290","ductal","ductal",2
+"1291","ductal","ductal",2
+"1292","ductal","ductal",2
+"1293","ductal","ductal",2
+"1294","ductal","ductal",2
+"1295","alpha","alpha",2
+"1296","alpha","alpha",2
+"1297","acinar","acinar",2
+"1298","acinar","acinar",2
+"1299","not applicable","not applicable",2
+"1300","not applicable","not applicable",2
+"1301","ductal","ductal",2
+"1302","acinar","acinar",2
+"1303","alpha","alpha",2
+"1304","ductal","ductal",2
+"1305","delta","delta",2
+"1306","PSC","PSC",2
+"1307","ductal","ductal",2
+"1308","PSC","not applicable",2
+"1309","ductal","not applicable",2
+"1310","unclassified endocrine","not applicable",2
+"1311","alpha","not applicable",2
+"1312","alpha","alpha",2
+"1313","beta","beta",2
+"1314","ductal","ductal",2
+"1315","ductal","ductal",2
+"1316","acinar","acinar",2
+"1317","ductal","ductal",2
+"1318","ductal","not applicable",2
+"1319","ductal","ductal",2
+"1320","ductal","ductal",2
+"1321","PSC","PSC",2
+"1322","not applicable","not applicable",2
+"1323","ductal","ductal",2
+"1324","not applicable","not applicable",2
+"1325","ductal","ductal",2
+"1326","alpha","alpha",2
+"1327","beta","beta",2
+"1328","alpha","alpha",2
+"1329","beta","beta",2
+"1330","alpha","alpha",2
+"1331","alpha","alpha",2
+"1332","not applicable","not applicable",2
+"1333","ductal","ductal",2
+"1334","unclassified","not applicable",2
+"1335","ductal","ductal",2
+"1336","alpha","alpha",2
+"1337","unclassified endocrine","not applicable",2
+"1338","ductal","ductal",2
+"1339","ductal","not applicable",2
+"1340","acinar","acinar",2
+"1341","not applicable","not applicable",2
+"1342","alpha","alpha",2
+"1343","beta","beta",2
+"1344","delta","delta",2
+"1345","gamma","gamma",2
+"1346","alpha","alpha",2
+"1347","alpha","alpha",2
+"1348","not applicable","not applicable",2
+"1349","beta","beta",2
+"1350","ductal","ductal",2
+"1351","alpha","alpha",2
+"1352","MHC class II","MHC class II",2
+"1353","alpha","alpha",2
+"1354","delta","delta",2
+"1355","ductal","ductal",2
+"1356","beta","beta",2
+"1357","unclassified endocrine","not applicable",2
+"1358","gamma","gamma",2
+"1359","not applicable","not applicable",2
+"1360","co-expression","co-expression",2
+"1361","alpha","alpha",2
+"1362","acinar","acinar",2
+"1363","ductal","ductal",2
+"1364","alpha","alpha",2
+"1365","delta","delta",2
+"1366","beta","beta",2
+"1367","PSC","PSC",2
+"1368","ductal","ductal",2
+"1369","alpha","alpha",2
+"1370","ductal","ductal",2
+"1371","alpha","alpha",2
+"1372","delta","delta",2
+"1373","alpha","alpha",2
+"1374","alpha","alpha",2
+"1375","alpha","alpha",2
+"1376","gamma","gamma",2
+"1377","beta","beta",2
+"1378","alpha","alpha",2
+"1379","not applicable","not applicable",2
+"1380","beta","beta",2
+"1381","unclassified endocrine","not applicable",2
+"1382","alpha","alpha",2
+"1383","delta","delta",2
+"1384","co-expression","co-expression",2
+"1385","not applicable","not applicable",2
+"1386","not applicable","not applicable",2
+"1387","beta","beta",2
+"1388","delta","delta",2
+"1389","gamma","gamma",2
+"1390","alpha","alpha",2
+"1391","unclassified endocrine","not applicable",2
+"1392","ductal","ductal",2
+"1393","unclassified endocrine","not applicable",2
+"1394","beta","beta",2
+"1395","alpha","alpha",2
+"1396","delta","delta",2
+"1397","gamma","gamma",2
+"1398","gamma","gamma",2
+"1399","beta","beta",2
+"1400","unclassified endocrine","not applicable",2
+"1401","beta","not applicable",2
+"1402","alpha","alpha",2
+"1403","PSC","PSC",2
+"1404","beta","beta",2
+"1405","alpha","alpha",2
+"1406","beta","beta",2
+"1407","delta","delta",3
+"1408","alpha","alpha",3
+"1409","beta","beta",3
+"1410","co-expression","co-expression",3
+"1411","alpha","alpha",3
+"1412","beta","beta",3
+"1413","alpha","alpha",3
+"1414","not applicable","not applicable",3
+"1415","unclassified endocrine","not applicable",3
+"1416","alpha","alpha",3
+"1417","unclassified endocrine","unclassified endocrine",3
+"1418","alpha","alpha",3
+"1419","gamma","gamma",3
+"1420","delta","co-expression",3
+"1421","unclassified endocrine","not applicable",3
+"1422","acinar","acinar",3
+"1423","unclassified endocrine","not applicable",3
+"1424","unclassified endocrine","not applicable",3
+"1425","alpha","alpha",3
+"1426","not applicable","unclassified endocrine",3
+"1427","unclassified endocrine","not applicable",3
+"1428","alpha","alpha",3
+"1429","unclassified endocrine","not applicable",3
+"1430","alpha","alpha",3
+"1431","unclassified endocrine","unclassified endocrine",3
+"1432","beta","beta",3
+"1433","beta","beta",3
+"1434","not applicable","not applicable",3
+"1435","not applicable","not applicable",3
+"1436","beta","beta",3
+"1437","alpha","alpha",3
+"1438","unclassified endocrine","not applicable",3
+"1439","unclassified endocrine","not applicable",3
+"1440","delta","delta",3
+"1441","beta","beta",3
+"1442","beta","beta",3
+"1443","acinar","acinar",3
+"1444","not applicable","not applicable",3
+"1445","beta","beta",3
+"1446","alpha","alpha",3
+"1447","alpha","alpha",3
+"1448","unclassified endocrine","not applicable",3
+"1449","delta","delta",3
+"1450","gamma","gamma",3
+"1451","alpha","alpha",3
+"1452","alpha","alpha",3
+"1453","ductal","ductal",3
+"1454","beta","beta",3
+"1455","beta","beta",3
+"1456","beta","beta",3
+"1457","alpha","alpha",3
+"1458","beta","beta",3
+"1459","gamma","gamma",3
+"1460","PSC","PSC",3
+"1461","alpha","alpha",3
+"1462","alpha","alpha",3
+"1463","unclassified endocrine","not applicable",3
+"1464","alpha","alpha",3
+"1465","beta","beta",3
+"1466","gamma","gamma",3
+"1467","beta","beta",3
+"1468","alpha","alpha",3
+"1469","ductal","ductal",3
+"1470","alpha","alpha",3
+"1471","ductal","ductal",3
+"1472","not applicable","not applicable",3
+"1473","mast","mast",3
+"1474","not applicable","unclassified endocrine",3
+"1475","beta","unclassified endocrine",3
+"1476","alpha","alpha",3
+"1477","alpha","alpha",3
+"1478","alpha","alpha",3
+"1479","alpha","alpha",3
+"1480","alpha","alpha",3
+"1481","not applicable","not applicable",3
+"1482","alpha","alpha",3
+"1483","beta","beta",3
+"1484","acinar","acinar",3
+"1485","alpha","alpha",3
+"1486","alpha","alpha",3
+"1487","alpha","alpha",3
+"1488","beta","beta",3
+"1489","alpha","alpha",3
+"1490","not applicable","not applicable",3
+"1491","alpha","alpha",3
+"1492","unclassified endocrine","not applicable",3
+"1493","gamma","gamma",3
+"1494","alpha","alpha",3
+"1495","delta","not applicable",3
+"1496","alpha","alpha",3
+"1497","gamma","gamma",3
+"1498","gamma","gamma",3
+"1499","unclassified endocrine","not applicable",3
+"1500","endothelial","endothelial",3
+"1501","alpha","alpha",3
+"1502","alpha","alpha",3
+"1503","beta","not applicable",3
+"1504","delta","delta",3
+"1505","alpha","alpha",3
+"1506","gamma","not applicable",3
+"1507","gamma","gamma",3
+"1508","alpha","alpha",3
+"1509","gamma","gamma",3
+"1510","acinar","not applicable",3
+"1511","co-expression","alpha",3
+"1512","alpha","alpha",3
+"1513","acinar","acinar",3
+"1514","PSC","PSC",3
+"1515","gamma","gamma",3
+"1516","unclassified endocrine","not applicable",3
+"1517","alpha","not applicable",3
+"1518","not applicable","not applicable",3
+"1519","gamma","gamma",3
+"1520","not applicable","not applicable",3
+"1521","not applicable","not applicable",3
+"1522","ductal","ductal",3
+"1523","not applicable","not applicable",3
+"1524","alpha","alpha",3
+"1525","unclassified endocrine","not applicable",3
+"1526","delta","delta",3
+"1527","unclassified","unclassified",3
+"1528","alpha","alpha",3
+"1529","gamma","gamma",3
+"1530","gamma","gamma",3
+"1531","beta","not applicable",3
+"1532","gamma","gamma",3
+"1533","not applicable","not applicable",3
+"1534","alpha","alpha",3
+"1535","gamma","gamma",3
+"1536","alpha","alpha",3
+"1537","unclassified endocrine","not applicable",3
+"1538","alpha","alpha",3
+"1539","alpha","alpha",3
+"1540","not applicable","not applicable",3
+"1541","gamma","gamma",3
+"1542","acinar","acinar",3
+"1543","alpha","alpha",3
+"1544","alpha","alpha",3
+"1545","alpha","not applicable",3
+"1546","alpha","alpha",3
+"1547","alpha","alpha",3
+"1548","alpha","alpha",3
+"1549","gamma","gamma",3
+"1550","alpha","not applicable",3
+"1551","alpha","alpha",3
+"1552","alpha","not applicable",3
+"1553","alpha","alpha",3
+"1554","alpha","alpha",3
+"1555","alpha","alpha",3
+"1556","unclassified endocrine","not applicable",3
+"1557","alpha","alpha",3
+"1558","not applicable","not applicable",3
+"1559","gamma","gamma",3
+"1560","delta","delta",3
+"1561","alpha","alpha",3
+"1562","alpha","alpha",3
+"1563","beta","beta",3
+"1564","alpha","alpha",3
+"1565","alpha","not applicable",3
+"1566","gamma","not applicable",3
+"1567","gamma","gamma",3
+"1568","not applicable","not applicable",3
+"1569","not applicable","not applicable",3
+"1570","alpha","not applicable",3
+"1571","alpha","alpha",3
+"1572","PSC","PSC",3
+"1573","delta","delta",3
+"1574","not applicable","not applicable",3
+"1575","gamma","gamma",3
+"1576","not applicable","not applicable",3
+"1577","endothelial","endothelial",3
+"1578","unclassified endocrine","not applicable",3
+"1579","unclassified endocrine","not applicable",3
+"1580","unclassified endocrine","not applicable",3
+"1581","not applicable","not applicable",3
+"1582","co-expression","co-expression",3
+"1583","gamma","gamma",3
+"1584","delta","delta",3
+"1585","epsilon","epsilon",3
+"1586","not applicable","not applicable",3
+"1587","gamma","gamma",3
+"1588","not applicable","not applicable",3
+"1589","not applicable","not applicable",3
+"1590","alpha","alpha",3
+"1591","endothelial","not applicable",3
+"1592","unclassified endocrine","not applicable",3
+"1593","not applicable","unclassified endocrine",3
+"1594","beta","beta",3
+"1595","alpha","alpha",3
+"1596","unclassified endocrine","beta",3
+"1597","endothelial","endothelial",3
+"1598","beta","beta",3
+"1599","gamma","gamma",3
+"1600","not applicable","not applicable",3
+"1601","alpha","alpha",3
+"1602","gamma","not applicable",3
+"1603","not applicable","not applicable",3
+"1604","unclassified endocrine","not applicable",3
+"1605","beta","beta",3
+"1606","not applicable","not applicable",3
+"1607","PSC","not applicable",3
+"1608","unclassified endocrine","not applicable",3
+"1609","beta","beta",3
+"1610","not applicable","not applicable",3
+"1611","endothelial","endothelial",3
+"1612","not applicable","not applicable",3
+"1613","gamma","gamma",3
+"1614","not applicable","not applicable",3
+"1615","alpha","alpha",3
+"1616","not applicable","not applicable",3
+"1617","not applicable","not applicable",3
+"1618","not applicable","not applicable",3
+"1619","not applicable","not applicable",3
+"1620","not applicable","not applicable",3
+"1621","PSC","PSC",3
+"1622","ductal","ductal",3
+"1623","alpha","alpha",3
+"1624","alpha","alpha",3
+"1625","alpha","alpha",3
+"1626","gamma","gamma",3
+"1627","not applicable","not applicable",3
+"1628","not applicable","not applicable",3
+"1629","alpha","alpha",3
+"1630","alpha","alpha",3
+"1631","not applicable","not applicable",3
+"1632","alpha","alpha",3
+"1633","gamma","not applicable",3
+"1634","alpha","alpha",3
+"1635","unclassified endocrine","not applicable",3
+"1636","ductal","ductal",3
+"1637","co-expression","beta",3
+"1638","not applicable","not applicable",3
+"1639","unclassified endocrine","not applicable",3
+"1640","not applicable","not applicable",3
+"1641","not applicable","not applicable",3
+"1642","alpha","alpha",3
+"1643","gamma","gamma",3
+"1644","not applicable","not applicable",3
+"1645","alpha","alpha",3
+"1646","unclassified endocrine","not applicable",3
+"1647","PSC","PSC",3
+"1648","not applicable","not applicable",3
+"1649","gamma","gamma",3
+"1650","ductal","ductal",3
+"1651","beta","beta",3
+"1652","not applicable","not applicable",3
+"1653","gamma","gamma",3
+"1654","beta","beta",3
+"1655","not applicable","not applicable",3
+"1656","not applicable","not applicable",3
+"1657","not applicable","not applicable",3
+"1658","unclassified endocrine","not applicable",3
+"1659","not applicable","not applicable",3
+"1660","ductal","ductal",3
+"1661","ductal","ductal",3
+"1662","ductal","not applicable",3
+"1663","unclassified endocrine","unclassified endocrine",3
+"1664","ductal","ductal",3
+"1665","alpha","alpha",3
+"1666","beta","beta",3
+"1667","alpha","alpha",3
+"1668","acinar","acinar",3
+"1669","acinar","acinar",3
+"1670","not applicable","not applicable",3
+"1671","PSC","PSC",3
+"1672","not applicable","not applicable",3
+"1673","not applicable","not applicable",3
+"1674","acinar","acinar",3
+"1675","beta","beta",3
+"1676","alpha","alpha",3
+"1677","not applicable","not applicable",3
+"1678","ductal","ductal",3
+"1679","acinar","not applicable",3
+"1680","acinar","acinar",3
+"1681","not applicable","not applicable",3
+"1682","ductal","ductal",3
+"1683","gamma","gamma",3
+"1684","acinar","not applicable",3
+"1685","acinar","acinar",3
+"1686","not applicable","not applicable",3
+"1687","not applicable","not applicable",3
+"1688","acinar","not applicable",3
+"1689","acinar","acinar",3
+"1690","ductal","ductal",3
+"1691","beta","beta",3
+"1692","ductal","ductal",3
+"1693","acinar","acinar",3
+"1694","acinar","acinar",3
+"1695","delta","delta",3
+"1696","not applicable","not applicable",3
+"1697","not applicable","not applicable",3
+"1698","gamma","gamma",3
+"1699","alpha","alpha",3
+"1700","acinar","acinar",3
+"1701","acinar","acinar",3
+"1702","gamma","gamma",3
+"1703","ductal","ductal",3
+"1704","acinar","acinar",3
+"1705","ductal","ductal",3
+"1706","beta","beta",3
+"1707","acinar","acinar",3
+"1708","ductal","ductal",3
+"1709","not applicable","not applicable",3
+"1710","beta","beta",3
+"1711","not applicable","not applicable",3
+"1712","acinar","acinar",3
+"1713","ductal","ductal",3
+"1714","ductal","ductal",3
+"1715","acinar","acinar",3
+"1716","ductal","ductal",3
+"1717","ductal","ductal",3
+"1718","alpha","alpha",3
+"1719","unclassified endocrine","not applicable",3
+"1720","not applicable","not applicable",3
+"1721","gamma","gamma",3
+"1722","acinar","acinar",3
+"1723","not applicable","not applicable",3
+"1724","ductal","ductal",3
+"1725","acinar","acinar",3
+"1726","acinar","acinar",3
+"1727","acinar","not applicable",3
+"1728","not applicable","not applicable",3
+"1729","acinar","acinar",3
+"1730","not applicable","alpha",3
+"1731","acinar","not applicable",3
+"1732","acinar","not applicable",3
+"1733","gamma","not applicable",3
+"1734","acinar","acinar",3
+"1735","acinar","not applicable",3
+"1736","acinar","acinar",3
+"1737","unclassified endocrine","not applicable",3
+"1738","acinar","acinar",3
+"1739","alpha","alpha",3
+"1740","ductal","ductal",3
+"1741","acinar","not applicable",3
+"1742","acinar","not applicable",3
+"1743","not applicable","not applicable",3
+"1744","not applicable","alpha",3
+"1745","not applicable","not applicable",3
+"1746","ductal","not applicable",3
+"1747","beta","beta",3
+"1748","beta","not applicable",3
+"1749","acinar","not applicable",3
+"1750","not applicable","not applicable",3
+"1751","alpha","alpha",3
+"1752","unclassified endocrine","not applicable",3
+"1753","alpha","alpha",3
+"1754","gamma","not applicable",3
+"1755","alpha","alpha",3
+"1756","alpha","alpha",3
+"1757","delta","not applicable",3
+"1758","alpha","alpha",3
+"1759","unclassified endocrine","not applicable",3
+"1760","alpha","alpha",3
+"1761","not applicable","not applicable",3
+"1762","alpha","alpha",3
+"1763","alpha","alpha",3
+"1764","alpha","alpha",3
+"1765","PSC","PSC",3
+"1766","alpha","alpha",3
+"1767","acinar","acinar",3
+"1768","alpha","alpha",3
+"1769","unclassified endocrine","not applicable",3
+"1770","unclassified endocrine","not applicable",3
+"1771","alpha","alpha",3
+"1772","beta","beta",3
+"1773","alpha","alpha",3
+"1774","alpha","alpha",3
+"1775","alpha","not applicable",3
+"1776","unclassified endocrine","not applicable",3
+"1777","not applicable","not applicable",3
+"1778","alpha","alpha",3
+"1779","alpha","not applicable",3
+"1780","alpha","alpha",3
+"1781","alpha","alpha",3
+"1782","alpha","alpha",3
+"1783","alpha","alpha",3
+"1784","unclassified endocrine","not applicable",3
+"1785","beta","not applicable",3
+"1786","alpha","alpha",3
+"1787","alpha","alpha",3
+"1788","alpha","alpha",3
+"1789","alpha","alpha",3
+"1790","beta","beta",3
+"1791","alpha","alpha",3
+"1792","beta","not applicable",3
+"1793","alpha","alpha",3
+"1794","co-expression","co-expression",3
+"1795","alpha","not applicable",3
+"1796","alpha","not applicable",3
+"1797","alpha","not applicable",3
+"1798","alpha","not applicable",3
+"1799","beta","beta",3
+"1800","alpha","alpha",3
+"1801","alpha","not applicable",3
+"1802","MHC class II","not applicable",3
+"1803","alpha","alpha",3
+"1804","alpha","alpha",3
+"1805","unclassified endocrine","not applicable",3
+"1806","beta","beta",3
+"1807","alpha","alpha",3
+"1808","alpha","not applicable",3
+"1809","alpha","alpha",3
+"1810","co-expression","co-expression",3
+"1811","alpha","alpha",3
+"1812","alpha","alpha",3
+"1813","beta","beta",3
+"1814","alpha","alpha",3
+"1815","beta","beta",3
+"1816","unclassified endocrine","not applicable",3
+"1817","not applicable","not applicable",3
+"1818","alpha","alpha",3
+"1819","alpha","not applicable",3
+"1820","not applicable","not applicable",3
+"1821","gamma","gamma",3
+"1822","unclassified endocrine","not applicable",3
+"1823","delta","delta",3
+"1824","ductal","ductal",3
+"1825","ductal","not applicable",3
+"1826","ductal","not applicable",3
+"1827","alpha","not applicable",3
+"1828","alpha","alpha",3
+"1829","alpha","alpha",3
+"1830","alpha","alpha",3
+"1831","acinar","acinar",3
+"1832","alpha","alpha",3
+"1833","ductal","ductal",3
+"1834","alpha","alpha",3
+"1835","beta","beta",3
+"1836","alpha","alpha",3
+"1837","acinar","acinar",3
+"1838","acinar","ductal",3
+"1839","not applicable","not applicable",3
+"1840","ductal","ductal",3
+"1841","ductal","ductal",3
+"1842","alpha","alpha",3
+"1843","alpha","not applicable",3
+"1844","ductal","ductal",3
+"1845","alpha","alpha",3
+"1846","ductal","ductal",3
+"1847","alpha","alpha",3
+"1848","delta","delta",3
+"1849","alpha","alpha",3
+"1850","alpha","alpha",3
+"1851","not applicable","not applicable",3
+"1852","alpha","alpha",3
+"1853","ductal","not applicable",3
+"1854","ductal","ductal",3
+"1855","alpha","alpha",3
+"1856","ductal","ductal",3
+"1857","ductal","ductal",3
+"1858","ductal","ductal",3
+"1859","not applicable","not applicable",3
+"1860","alpha","alpha",3
+"1861","alpha","alpha",3
+"1862","not applicable","not applicable",3
+"1863","alpha","alpha",3
+"1864","ductal","not applicable",3
+"1865","not applicable","not applicable",3
+"1866","alpha","alpha",3
+"1867","alpha","alpha",3
+"1868","unclassified endocrine","not applicable",3
+"1869","not applicable","not applicable",3
+"1870","not applicable","not applicable",3
+"1871","ductal","ductal",3
+"1872","alpha","alpha",3
+"1873","acinar","acinar",3
+"1874","not applicable","not applicable",3
+"1875","not applicable","not applicable",3
+"1876","not applicable","not applicable",3
+"1877","ductal","ductal",3
+"1878","alpha","alpha",3
+"1879","not applicable","not applicable",3
+"1880","not applicable","not applicable",3
+"1881","not applicable","not applicable",3
+"1882","not applicable","not applicable",3
+"1883","not applicable","not applicable",3
+"1884","unclassified endocrine","not applicable",3
+"1885","not applicable","not applicable",3
+"1886","alpha","alpha",3
+"1887","ductal","ductal",3
+"1888","alpha","not applicable",3
+"1889","PSC","not applicable",3
+"1890","acinar","acinar",3
+"1891","ductal","ductal",3
+"1892","not applicable","not applicable",3
+"1893","PSC","not applicable",3
+"1894","ductal","not applicable",3
+"1895","alpha","not applicable",3
+"1896","ductal","not applicable",3
+"1897","not applicable","not applicable",3
+"1898","not applicable","not applicable",3
+"1899","beta","beta",3
+"1900","alpha","not applicable",3
+"1901","alpha","alpha",3
+"1902","unclassified endocrine","not applicable",3
+"1903","unclassified endocrine","not applicable",3
+"1904","ductal","not applicable",3
+"1905","delta","delta",3
+"1906","unclassified endocrine","not applicable",3
+"1907","unclassified endocrine","not applicable",3
+"1908","not applicable","not applicable",3
+"1909","alpha","not applicable",3
+"1910","ductal","not applicable",3
+"1911","ductal","not applicable",3
+"1912","ductal","ductal",3
+"1913","ductal","not applicable",3
+"1914","alpha","not applicable",3
+"1915","alpha","not applicable",3
+"1916","alpha","alpha",3
+"1917","alpha","alpha",3
+"1918","alpha","not applicable",3
+"1919","ductal","not applicable",3
+"1920","beta","beta",3
+"1921","alpha","not applicable",3
+"1922","alpha","not applicable",3
+"1923","unclassified endocrine","not applicable",3
+"1924","unclassified endocrine","not applicable",3
+"1925","ductal","ductal",3
+"1926","alpha","alpha",3
+"1927","alpha","alpha",3
+"1928","alpha","alpha",3
+"1929","beta","not applicable",3
+"1930","alpha","not applicable",3
+"1931","alpha","not applicable",3
+"1932","not applicable","not applicable",3
+"1933","alpha","alpha",3
+"1934","alpha","not applicable",3
+"1935","not applicable","not applicable",3
+"1936","not applicable","not applicable",3
+"1937","ductal","not applicable",3
+"1938","ductal","not applicable",3
+"1939","alpha","alpha",3
+"1940","gamma","not applicable",3
+"1941","ductal","not applicable",3
+"1942","not applicable","not applicable",3
+"1943","not applicable","not applicable",3
+"1944","alpha","not applicable",3
+"1945","ductal","not applicable",3
+"1946","alpha","alpha",3
+"1947","beta","not applicable",3
+"1948","alpha","alpha",3
+"1949","beta","beta",3
+"1950","alpha","not applicable",3
+"1951","ductal","not applicable",3
+"1952","alpha","not applicable",3
+"1953","not applicable","not applicable",3
+"1954","not applicable","PSC",3
+"1955","not applicable","not applicable",3
+"1956","not applicable","ductal",3
+"1957","not applicable","not applicable",3
+"1958","ductal","ductal",3
+"1959","gamma","gamma",3
+"1960","ductal","ductal",3
+"1961","ductal","ductal",3
+"1962","alpha","alpha",3
+"1963","alpha","alpha",3
+"1964","alpha","alpha",3
+"1965","gamma","gamma",3
+"1966","unclassified endocrine","not applicable",3
+"1967","ductal","ductal",3
+"1968","ductal","ductal",3
+"1969","unclassified endocrine","not applicable",3
+"1970","acinar","acinar",3
+"1971","ductal","ductal",3
+"1972","ductal","ductal",3
+"1973","ductal","ductal",3
+"1974","ductal","not applicable",3
+"1975","ductal","ductal",3
+"1976","not applicable","not applicable",3
+"1977","ductal","ductal",3
+"1978","not applicable","not applicable",3
+"1979","acinar","acinar",3
+"1980","acinar","not applicable",3
+"1981","ductal","not applicable",3
+"1982","not applicable","not applicable",3
+"1983","acinar","not applicable",3
+"1984","not applicable","not applicable",3
+"1985","alpha","not applicable",3
+"1986","ductal","ductal",3
+"1987","PSC","PSC",3
+"1988","acinar","acinar",3
+"1989","not applicable","not applicable",3
+"1990","not applicable","not applicable",3
+"1991","not applicable","not applicable",3
+"1992","beta","beta",3
+"1993","ductal","ductal",3
+"1994","alpha","alpha",3
+"1995","not applicable","not applicable",3
+"1996","not applicable","not applicable",3
+"1997","ductal","ductal",3
+"1998","MHC class II","MHC class II",3
+"1999","alpha","alpha",3
+"2000","ductal","ductal",3
+"2001","ductal","ductal",3
+"2002","alpha","alpha",3
+"2003","unclassified endocrine","not applicable",3
+"2004","acinar","acinar",3
+"2005","unclassified endocrine","not applicable",3
+"2006","not applicable","not applicable",3
+"2007","ductal","ductal",3
+"2008","ductal","ductal",3
+"2009","not applicable","not applicable",3
+"2010","not applicable","not applicable",3
+"2011","ductal","ductal",3
+"2012","alpha","alpha",3
+"2013","ductal","ductal",3
+"2014","ductal","not applicable",3
+"2015","ductal","ductal",3
+"2016","ductal","ductal",3
+"2017","co-expression","co-expression",3
+"2018","acinar","acinar",3
+"2019","not applicable","not applicable",3
+"2020","unclassified endocrine","unclassified endocrine",3
+"2021","alpha","alpha",3
+"2022","alpha","alpha",3
+"2023","ductal","ductal",3
+"2024","not applicable","not applicable",3
+"2025","ductal","ductal",3
+"2026","delta","delta",3
+"2027","PSC","PSC",3
+"2028","alpha","alpha",3
+"2029","ductal","ductal",3
+"2030","alpha","alpha",3
+"2031","gamma","gamma",3
+"2032","ductal","ductal",3
+"2033","co-expression","co-expression",3
+"2034","alpha","alpha",3
+"2035","alpha","alpha",3
+"2036","not applicable","not applicable",3
+"2037","ductal","ductal",3
+"2038","ductal","ductal",3
+"2039","delta","delta",3
+"2040","not applicable","not applicable",3
+"2041","beta","beta",3
+"2042","delta","delta",3
+"2043","ductal","ductal",3
+"2044","not applicable","not applicable",3
+"2045","unclassified endocrine","not applicable",3
+"2046","ductal","ductal",3
+"2047","not applicable","not applicable",3
+"2048","delta","delta",3
+"2049","delta","delta",3
+"2050","gamma","gamma",3
+"2051","ductal","ductal",3
+"2052","not applicable","not applicable",3
+"2053","ductal","ductal",3
+"2054","alpha","alpha",3
+"2055","beta","beta",3
+"2056","gamma","gamma",3
+"2057","unclassified endocrine","not applicable",3
+"2058","alpha","alpha",3
+"2059","not applicable","not applicable",3
+"2060","ductal","ductal",3
+"2061","delta","delta",3
+"2062","not applicable","not applicable",3
+"2063","alpha","alpha",3
+"2064","beta","beta",3
+"2065","ductal","ductal",3
+"2066","ductal","ductal",3
+"2067","delta","delta",3
+"2068","beta","beta",3
+"2069","alpha","alpha",3
+"2070","delta","delta",3
+"2071","unclassified endocrine","not applicable",3
+"2072","alpha","alpha",3
+"2073","ductal","ductal",3
+"2074","alpha","alpha",3
+"2075","not applicable","not applicable",3
+"2076","alpha","alpha",3
+"2077","alpha","alpha",3
+"2078","beta","beta",3
+"2079","not applicable","not applicable",3
+"2080","alpha","alpha",3
+"2081","gamma","gamma",3
+"2082","beta","beta",3
+"2083","not applicable","not applicable",3
+"2084","beta","beta",3
+"2085","alpha","alpha",3
+"2086","not applicable","not applicable",3
+"2087","alpha","alpha",3
+"2088","acinar","acinar",3
+"2089","co-expression","co-expression",3
+"2090","alpha","alpha",3
+"2091","ductal","ductal",3
+"2092","unclassified endocrine","not applicable",3
+"2093","alpha","alpha",3
+"2094","alpha","alpha",3
+"2095","alpha","alpha",3
+"2096","beta","beta",3
+"2097","beta","beta",3
+"2098","ductal","ductal",3
+"2099","alpha","alpha",3
+"2100","delta","delta",3
+"2101","beta","beta",3
+"2102","delta","delta",3
+"2103","beta","beta",3
+"2104","beta","beta",3
+"2105","alpha","alpha",3
+"2106","alpha","alpha",3
+"2107","alpha","alpha",3
+"2108","alpha","alpha",3
+"2109","delta","delta",3
+"2110","delta","delta",4
+"2111","unclassified endocrine","not applicable",4
+"2112","alpha","alpha",4
+"2113","alpha","alpha",4
+"2114","not applicable","not applicable",4
+"2115","not applicable","not applicable",4
+"2116","gamma","gamma",4
+"2117","alpha","alpha",4
+"2118","alpha","alpha",4
+"2119","not applicable","not applicable",4
+"2120","beta","beta",4
+"2121","unclassified endocrine","not applicable",4
+"2122","acinar","acinar",4
+"2123","alpha","alpha",4
+"2124","unclassified endocrine","not applicable",4
+"2125","alpha","alpha",4
+"2126","alpha","alpha",4
+"2127","endothelial","endothelial",4
+"2128","alpha","alpha",4
+"2129","alpha","alpha",4
+"2130","unclassified endocrine","not applicable",4
+"2131","delta","delta",4
+"2132","delta","delta",4
+"2133","unclassified endocrine","not applicable",4
+"2134","gamma","gamma",4
+"2135","gamma","gamma",4
+"2136","alpha","alpha",4
+"2137","beta","beta",4
+"2138","alpha","alpha",4
+"2139","delta","delta",4
+"2140","acinar","acinar",4
+"2141","ductal","ductal",4
+"2142","not applicable","unclassified endocrine",4
+"2143","unclassified endocrine","unclassified endocrine",4
+"2144","unclassified endocrine","not applicable",4
+"2145","acinar","acinar",4
+"2146","beta","beta",4
+"2147","delta","delta",4
+"2148","ductal","ductal",4
+"2149","unclassified endocrine","not applicable",4
+"2150","unclassified endocrine","unclassified endocrine",4
+"2151","alpha","alpha",4
+"2152","alpha","alpha",4
+"2153","beta","beta",4
+"2154","unclassified endocrine","not applicable",4
+"2155","unclassified endocrine","not applicable",4
+"2156","gamma","gamma",4
+"2157","beta","beta",4
+"2158","unclassified endocrine","not applicable",4
+"2159","unclassified endocrine","not applicable",4
+"2160","gamma","not applicable",4
+"2161","gamma","gamma",4
+"2162","gamma","gamma",4
+"2163","unclassified endocrine","not applicable",4
+"2164","not applicable","not applicable",4
+"2165","not applicable","unclassified endocrine",4
+"2166","delta","delta",4
+"2167","beta","beta",4
+"2168","alpha","alpha",4
+"2169","not applicable","ductal",4
+"2170","beta","beta",4
+"2171","alpha","alpha",4
+"2172","not applicable","not applicable",4
+"2173","acinar","acinar",4
+"2174","ductal","ductal",4
+"2175","beta","beta",4
+"2176","alpha","alpha",4
+"2177","alpha","alpha",4
+"2178","gamma","gamma",4
+"2179","unclassified endocrine","unclassified endocrine",4
+"2180","unclassified endocrine","not applicable",4
+"2181","alpha","alpha",4
+"2182","alpha","alpha",4
+"2183","ductal","ductal",4
+"2184","alpha","alpha",4
+"2185","alpha","alpha",4
+"2186","alpha","alpha",4
+"2187","alpha","alpha",4
+"2188","beta","beta",4
+"2189","not applicable","not applicable",4
+"2190","alpha","not applicable",4
+"2191","acinar","acinar",4
+"2192","gamma","gamma",4
+"2193","not applicable","not applicable",4
+"2194","alpha","alpha",4
+"2195","beta","not applicable",4
+"2196","alpha","alpha",4
+"2197","alpha","alpha",4
+"2198","alpha","alpha",4
+"2199","alpha","alpha",4
+"2200","delta","delta",4
+"2201","not applicable","not applicable",4
+"2202","alpha","alpha",4
+"2203","gamma","gamma",4
+"2204","unclassified endocrine","not applicable",4
+"2205","gamma","gamma",4
+"2206","alpha","alpha",4
+"2207","alpha","alpha",4
+"2208","beta","beta",4
+"2209","alpha","alpha",4
+"2210","alpha","alpha",4
+"2211","unclassified endocrine","not applicable",4
+"2212","alpha","alpha",4
+"2213","unclassified endocrine","not applicable",4
+"2214","alpha","alpha",4
+"2215","alpha","alpha",4
+"2216","gamma","gamma",4
+"2217","alpha","alpha",4
+"2218","gamma","gamma",4
+"2219","alpha","alpha",4
+"2220","beta","beta",4
+"2221","alpha","alpha",4
+"2222","unclassified endocrine","not applicable",4
+"2223","co-expression","alpha",4
+"2224","alpha","alpha",4
+"2225","alpha","alpha",4
+"2226","gamma","gamma",4
+"2227","alpha","alpha",4
+"2228","gamma","gamma",4
+"2229","gamma","gamma",4
+"2230","delta","delta",4
+"2231","alpha","alpha",4
+"2232","not applicable","not applicable",4
+"2233","alpha","alpha",4
+"2234","alpha","not applicable",4
+"2235","gamma","not applicable",4
+"2236","alpha","alpha",4
+"2237","alpha","not applicable",4
+"2238","alpha","alpha",4
+"2239","alpha","not applicable",4
+"2240","alpha","alpha",4
+"2241","alpha","alpha",4
+"2242","delta","not applicable",4
+"2243","alpha","alpha",4
+"2244","alpha","alpha",4
+"2245","alpha","alpha",4
+"2246","alpha","alpha",4
+"2247","delta","delta",4
+"2248","acinar","acinar",4
+"2249","unclassified endocrine","not applicable",4
+"2250","alpha","alpha",4
+"2251","alpha","not applicable",4
+"2252","unclassified endocrine","not applicable",4
+"2253","acinar","acinar",4
+"2254","gamma","gamma",4
+"2255","alpha","not applicable",4
+"2256","unclassified endocrine","not applicable",4
+"2257","unclassified endocrine","not applicable",4
+"2258","alpha","alpha",4
+"2259","alpha","alpha",4
+"2260","alpha","alpha",4
+"2261","epsilon","epsilon",4
+"2262","alpha","alpha",4
+"2263","not applicable","not applicable",4
+"2264","alpha","not applicable",4
+"2265","alpha","alpha",4
+"2266","gamma","gamma",4
+"2267","not applicable","not applicable",4
+"2268","ductal","ductal",4
+"2269","alpha","alpha",4
+"2270","not applicable","alpha",4
+"2271","not applicable","not applicable",4
+"2272","delta","not applicable",4
+"2273","unclassified endocrine","not applicable",4
+"2274","not applicable","not applicable",4
+"2275","not applicable","not applicable",4
+"2276","not applicable","not applicable",4
+"2277","unclassified endocrine","not applicable",4
+"2278","delta","delta",4
+"2279","alpha","alpha",4
+"2280","not applicable","not applicable",4
+"2281","alpha","alpha",4
+"2282","alpha","alpha",4
+"2283","beta","beta",4
+"2284","gamma","gamma",4
+"2285","delta","delta",4
+"2286","unclassified endocrine","not applicable",4
+"2287","not applicable","not applicable",4
+"2288","unclassified","unclassified",4
+"2289","unclassified endocrine","not applicable",4
+"2290","not applicable","unclassified endocrine",4
+"2291","unclassified endocrine","not applicable",4
+"2292","alpha","alpha",4
+"2293","epsilon","epsilon",4
+"2294","gamma","gamma",4
+"2295","alpha","alpha",4
+"2296","not applicable","not applicable",4
+"2297","not applicable","not applicable",4
+"2298","unclassified endocrine","not applicable",4
+"2299","not applicable","not applicable",4
+"2300","gamma","gamma",4
+"2301","not applicable","not applicable",4
+"2302","gamma","gamma",4
+"2303","alpha","alpha",4
+"2304","beta","beta",4
+"2305","alpha","alpha",4
+"2306","alpha","alpha",4
+"2307","ductal","ductal",4
+"2308","unclassified endocrine","not applicable",4
+"2309","endothelial","endothelial",4
+"2310","not applicable","not applicable",4
+"2311","gamma","gamma",4
+"2312","beta","beta",4
+"2313","not applicable","not applicable",4
+"2314","alpha","alpha",4
+"2315","alpha","alpha",4
+"2316","acinar","acinar",4
+"2317","alpha","not applicable",4
+"2318","alpha","alpha",4
+"2319","not applicable","not applicable",4
+"2320","not applicable","not applicable",4
+"2321","delta","delta",4
+"2322","not applicable","not applicable",4
+"2323","alpha","alpha",4
+"2324","beta","beta",4
+"2325","not applicable","not applicable",4
+"2326","alpha","alpha",4
+"2327","unclassified endocrine","not applicable",4
+"2328","beta","beta",4
+"2329","not applicable","not applicable",4
+"2330","not applicable","not applicable",4
+"2331","alpha","alpha",4
+"2332","beta","beta",4
+"2333","alpha","alpha",4
+"2334","unclassified endocrine","not applicable",4
+"2335","beta","beta",4
+"2336","gamma","gamma",4
+"2337","alpha","alpha",4
+"2338","delta","delta",4
+"2339","not applicable","not applicable",4
+"2340","alpha","alpha",4
+"2341","not applicable","not applicable",4
+"2342","beta","beta",4
+"2343","ductal","ductal",4
+"2344","ductal","ductal",4
+"2345","gamma","gamma",4
+"2346","alpha","alpha",4
+"2347","not applicable","not applicable",4
+"2348","not applicable","not applicable",4
+"2349","not applicable","not applicable",4
+"2350","alpha","alpha",4
+"2351","co-expression","alpha",4
+"2352","unclassified endocrine","not applicable",4
+"2353","not applicable","not applicable",4
+"2354","PSC","PSC",4
+"2355","not applicable","not applicable",4
+"2356","not applicable","not applicable",4
+"2357","beta","beta",4
+"2358","beta","beta",4
+"2359","acinar","acinar",4
+"2360","acinar","acinar",4
+"2361","not applicable","not applicable",4
+"2362","not applicable","not applicable",4
+"2363","acinar","acinar",4
+"2364","not applicable","not applicable",4
+"2365","acinar","acinar",4
+"2366","not applicable","not applicable",4
+"2367","beta","beta",4
+"2368","ductal","ductal",4
+"2369","acinar","not applicable",4
+"2370","ductal","ductal",4
+"2371","acinar","acinar",4
+"2372","beta","beta",4
+"2373","acinar","not applicable",4
+"2374","ductal","not applicable",4
+"2375","acinar","not applicable",4
+"2376","acinar","acinar",4
+"2377","acinar","not applicable",4
+"2378","acinar","not applicable",4
+"2379","acinar","acinar",4
+"2380","acinar","acinar",4
+"2381","beta","beta",4
+"2382","alpha","alpha",4
+"2383","alpha","not applicable",4
+"2384","not applicable","not applicable",4
+"2385","ductal","not applicable",4
+"2386","acinar","not applicable",4
+"2387","ductal","ductal",4
+"2388","acinar","acinar",4
+"2389","alpha","alpha",4
+"2390","not applicable","not applicable",4
+"2391","acinar","acinar",4
+"2392","acinar","not applicable",4
+"2393","acinar","not applicable",4
+"2394","ductal","ductal",4
+"2395","acinar","acinar",4
+"2396","gamma","gamma",4
+"2397","gamma","gamma",4
+"2398","ductal","ductal",4
+"2399","ductal","not applicable",4
+"2400","ductal","ductal",4
+"2401","not applicable","not applicable",4
+"2402","alpha","alpha",4
+"2403","ductal","ductal",4
+"2404","acinar","acinar",4
+"2405","beta","beta",4
+"2406","ductal","not applicable",4
+"2407","beta","beta",4
+"2408","not applicable","not applicable",4
+"2409","not applicable","not applicable",4
+"2410","not applicable","not applicable",4
+"2411","acinar","acinar",4
+"2412","co-expression","co-expression",4
+"2413","acinar","not applicable",4
+"2414","not applicable","not applicable",4
+"2415","co-expression","co-expression",4
+"2416","ductal","ductal",4
+"2417","acinar","acinar",4
+"2418","not applicable","not applicable",4
+"2419","gamma","gamma",4
+"2420","acinar","not applicable",4
+"2421","acinar","acinar",4
+"2422","beta","beta",4
+"2423","ductal","not applicable",4
+"2424","alpha","alpha",4
+"2425","acinar","acinar",4
+"2426","acinar","acinar",4
+"2427","alpha","alpha",4
+"2428","not applicable","not applicable",4
+"2429","co-expression","co-expression",4
+"2430","ductal","ductal",4
+"2431","ductal","ductal",4
+"2432","beta","not applicable",4
+"2433","alpha","not applicable",4
+"2434","alpha","alpha",4
+"2435","alpha","not applicable",4
+"2436","co-expression","co-expression",4
+"2437","alpha","alpha",4
+"2438","gamma","gamma",4
+"2439","unclassified endocrine","not applicable",4
+"2440","ductal","not applicable",4
+"2441","ductal","not applicable",4
+"2442","beta","beta",4
+"2443","alpha","not applicable",4
+"2444","alpha","not applicable",4
+"2445","unclassified endocrine","not applicable",4
+"2446","alpha","not applicable",4
+"2447","unclassified endocrine","not applicable",4
+"2448","alpha","alpha",4
+"2449","endothelial","endothelial",4
+"2450","alpha","not applicable",4
+"2451","alpha","not applicable",4
+"2452","alpha","not applicable",4
+"2453","beta","beta",4
+"2454","not applicable","not applicable",4
+"2455","alpha","alpha",4
+"2456","alpha","not applicable",4
+"2457","alpha","alpha",4
+"2458","alpha","alpha",4
+"2459","alpha","alpha",4
+"2460","ductal","ductal",4
+"2461","alpha","alpha",4
+"2462","unclassified endocrine","not applicable",4
+"2463","alpha","alpha",4
+"2464","alpha","alpha",4
+"2465","PSC","PSC",4
+"2466","not applicable","not applicable",4
+"2467","beta","beta",4
+"2468","alpha","alpha",4
+"2469","alpha","alpha",4
+"2470","gamma","not applicable",4
+"2471","unclassified endocrine","not applicable",4
+"2472","not applicable","not applicable",4
+"2473","alpha","not applicable",4
+"2474","alpha","not applicable",4
+"2475","alpha","alpha",4
+"2476","alpha","alpha",4
+"2477","alpha","alpha",4
+"2478","not applicable","not applicable",4
+"2479","not applicable","not applicable",4
+"2480","mast","not applicable",4
+"2481","alpha","alpha",4
+"2482","unclassified endocrine","not applicable",4
+"2483","beta","not applicable",4
+"2484","ductal","not applicable",4
+"2485","alpha","alpha",4
+"2486","alpha","alpha",4
+"2487","alpha","not applicable",4
+"2488","alpha","alpha",4
+"2489","beta","beta",4
+"2490","alpha","alpha",4
+"2491","alpha","not applicable",4
+"2492","alpha","not applicable",4
+"2493","alpha","not applicable",4
+"2494","ductal","ductal",4
+"2495","alpha","alpha",4
+"2496","delta","delta",4
+"2497","alpha","not applicable",4
+"2498","unclassified endocrine","not applicable",4
+"2499","beta","beta",4
+"2500","ductal","ductal",4
+"2501","unclassified endocrine","not applicable",4
+"2502","ductal","ductal",4
+"2503","ductal","ductal",4
+"2504","ductal","ductal",4
+"2505","co-expression","co-expression",4
+"2506","alpha","alpha",4
+"2507","unclassified endocrine","not applicable",4
+"2508","unclassified endocrine","not applicable",4
+"2509","alpha","alpha",4
+"2510","ductal","ductal",4
+"2511","alpha","alpha",4
+"2512","not applicable","beta",4
+"2513","alpha","alpha",4
+"2514","ductal","not applicable",4
+"2515","delta","delta",4
+"2516","alpha","alpha",4
+"2517","ductal","ductal",4
+"2518","alpha","alpha",4
+"2519","not applicable","not applicable",4
+"2520","acinar","acinar",4
+"2521","alpha","alpha",4
+"2522","not applicable","not applicable",4
+"2523","MHC class II","MHC class II",4
+"2524","alpha","alpha",4
+"2525","alpha","alpha",4
+"2526","alpha","alpha",4
+"2527","ductal","ductal",4
+"2528","alpha","alpha",4
+"2529","alpha","alpha",4
+"2530","ductal","ductal",4
+"2531","alpha","alpha",4
+"2532","acinar","acinar",4
+"2533","gamma","gamma",4
+"2534","alpha","alpha",4
+"2535","alpha","alpha",4
+"2536","PSC","PSC",4
+"2537","ductal","ductal",4
+"2538","ductal","ductal",4
+"2539","alpha","alpha",4
+"2540","PSC","PSC",4
+"2541","ductal","ductal",4
+"2542","alpha","alpha",4
+"2543","PSC","PSC",4
+"2544","ductal","ductal",4
+"2545","endothelial","not applicable",4
+"2546","beta","beta",4
+"2547","not applicable","not applicable",4
+"2548","ductal","ductal",4
+"2549","ductal","ductal",4
+"2550","co-expression","alpha",4
+"2551","delta","delta",4
+"2552","alpha","alpha",4
+"2553","alpha","alpha",4
+"2554","alpha","alpha",4
+"2555","not applicable","not applicable",4
+"2556","alpha","alpha",4
+"2557","co-expression","alpha",4
+"2558","alpha","alpha",4
+"2559","PSC","not applicable",4
+"2560","acinar","acinar",4
+"2561","not applicable","not applicable",4
+"2562","ductal","not applicable",4
+"2563","not applicable","not applicable",4
+"2564","alpha","alpha",4
+"2565","ductal","ductal",4
+"2566","ductal","ductal",4
+"2567","ductal","ductal",4
+"2568","ductal","ductal",4
+"2569","not applicable","not applicable",4
+"2570","not applicable","not applicable",4
+"2571","alpha","not applicable",4
+"2572","not applicable","not applicable",4
+"2573","not applicable","not applicable",4
+"2574","not applicable","not applicable",4
+"2575","not applicable","acinar",4
+"2576","alpha","alpha",4
+"2577","alpha","alpha",4
+"2578","gamma","not applicable",4
+"2579","not applicable","not applicable",4
+"2580","ductal","not applicable",4
+"2581","ductal","not applicable",4
+"2582","not applicable","not applicable",4
+"2583","not applicable","not applicable",4
+"2584","not applicable","not applicable",4
+"2585","co-expression","co-expression",4
+"2586","alpha","not applicable",4
+"2587","alpha","not applicable",4
+"2588","ductal","not applicable",4
+"2589","unclassified endocrine","not applicable",4
+"2590","delta","delta",4
+"2591","not applicable","not applicable",4
+"2592","alpha","alpha",4
+"2593","unclassified endocrine","not applicable",4
+"2594","not applicable","not applicable",4
+"2595","not applicable","not applicable",4
+"2596","not applicable","not applicable",4
+"2597","alpha","alpha",4
+"2598","ductal","not applicable",4
+"2599","gamma","not applicable",4
+"2600","beta","beta",4
+"2601","ductal","ductal",4
+"2602","ductal","not applicable",4
+"2603","alpha","not applicable",4
+"2604","alpha","alpha",4
+"2605","not applicable","not applicable",4
+"2606","ductal","not applicable",4
+"2607","MHC class II","not applicable",4
+"2608","alpha","alpha",4
+"2609","mast","not applicable",4
+"2610","ductal","ductal",4
+"2611","unclassified endocrine","not applicable",4
+"2612","alpha","not applicable",4
+"2613","ductal","not applicable",4
+"2614","not applicable","not applicable",4
+"2615","not applicable","not applicable",4
+"2616","alpha","not applicable",4
+"2617","alpha","not applicable",4
+"2618","unclassified endocrine","not applicable",4
+"2619","delta","delta",4
+"2620","alpha","not applicable",4
+"2621","not applicable","not applicable",4
+"2622","beta","not applicable",4
+"2623","alpha","not applicable",4
+"2624","gamma","not applicable",4
+"2625","unclassified endocrine","not applicable",4
+"2626","alpha","not applicable",4
+"2627","not applicable","not applicable",4
+"2628","alpha","alpha",4
+"2629","not applicable","not applicable",4
+"2630","ductal","not applicable",4
+"2631","alpha","not applicable",4
+"2632","ductal","ductal",4
+"2633","delta","not applicable",4
+"2634","alpha","not applicable",4
+"2635","alpha","not applicable",4
+"2636","ductal","not applicable",4
+"2637","alpha","not applicable",4
+"2638","alpha","alpha",4
+"2639","PSC","PSC",4
+"2640","alpha","not applicable",4
+"2641","alpha","alpha",4
+"2642","ductal","not applicable",4
+"2643","alpha","alpha",4
+"2644","not applicable","not applicable",4
+"2645","alpha","not applicable",4
+"2646","alpha","not applicable",4
+"2647","ductal","not applicable",4
+"2648","alpha","not applicable",4
+"2649","not applicable","not applicable",4
+"2650","gamma","not applicable",4
+"2651","alpha","alpha",4
+"2652","not applicable","not applicable",4
+"2653","co-expression","not applicable",4
+"2654","alpha","alpha",4
+"2655","alpha","not applicable",4
+"2656","not applicable","not applicable",4
+"2657","alpha","alpha",4
+"2658","ductal","ductal",4
+"2659","not applicable","not applicable",4
+"2660","not applicable","not applicable",4
+"2661","alpha","alpha",4
+"2662","ductal","ductal",4
+"2663","alpha","alpha",4
+"2664","acinar","acinar",4
+"2665","alpha","alpha",4
+"2666","not applicable","not applicable",4
+"2667","ductal","ductal",4
+"2668","not applicable","not applicable",4
+"2669","ductal","ductal",4
+"2670","alpha","alpha",4
+"2671","gamma","gamma",4
+"2672","ductal","ductal",4
+"2673","ductal","ductal",4
+"2674","acinar","acinar",4
+"2675","not applicable","not applicable",4
+"2676","PSC","PSC",4
+"2677","ductal","ductal",4
+"2678","ductal","not applicable",4
+"2679","alpha","alpha",4
+"2680","alpha","alpha",4
+"2681","not applicable","not applicable",4
+"2682","acinar","acinar",4
+"2683","not applicable","not applicable",4
+"2684","ductal","ductal",4
+"2685","ductal","ductal",4
+"2686","acinar","acinar",4
+"2687","alpha","alpha",4
+"2688","alpha","alpha",4
+"2689","ductal","ductal",4
+"2690","ductal","ductal",4
+"2691","ductal","ductal",4
+"2692","not applicable","not applicable",4
+"2693","ductal","ductal",4
+"2694","alpha","alpha",4
+"2695","ductal","not applicable",4
+"2696","not applicable","not applicable",4
+"2697","not applicable","not applicable",4
+"2698","unclassified endocrine","not applicable",4
+"2699","ductal","ductal",4
+"2700","not applicable","not applicable",4
+"2701","alpha","alpha",4
+"2702","ductal","ductal",4
+"2703","alpha","unclassified endocrine",4
+"2704","not applicable","not applicable",4
+"2705","acinar","acinar",4
+"2706","alpha","alpha",4
+"2707","PSC","PSC",4
+"2708","unclassified endocrine","not applicable",4
+"2709","alpha","alpha",4
+"2710","ductal","ductal",4
+"2711","alpha","alpha",4
+"2712","ductal","ductal",4
+"2713","alpha","alpha",4
+"2714","acinar","acinar",4
+"2715","unclassified endocrine","not applicable",4
+"2716","alpha","alpha",4
+"2717","beta","beta",4
+"2718","not applicable","unclassified endocrine",4
+"2719","not applicable","not applicable",4
+"2720","alpha","alpha",4
+"2721","PSC","PSC",4
+"2722","ductal","unclassified endocrine",4
+"2723","not applicable","not applicable",4
+"2724","ductal","ductal",4
+"2725","ductal","ductal",4
+"2726","beta","beta",4
+"2727","ductal","ductal",4
+"2728","alpha","alpha",4
+"2729","gamma","gamma",4
+"2730","ductal","ductal",4
+"2731","alpha","alpha",4
+"2732","ductal","ductal",4
+"2733","ductal","ductal",4
+"2734","ductal","ductal",4
+"2735","ductal","ductal",4
+"2736","beta","beta",4
+"2737","beta","beta",4
+"2738","gamma","gamma",4
+"2739","delta","delta",4
+"2740","beta","beta",4
+"2741","delta","delta",4
+"2742","unclassified endocrine","not applicable",4
+"2743","not applicable","not applicable",4
+"2744","ductal","ductal",4
+"2745","delta","delta",4
+"2746","beta","beta",4
+"2747","beta","beta",4
+"2748","not applicable","not applicable",4
+"2749","gamma","gamma",4
+"2750","alpha","alpha",4
+"2751","delta","delta",4
+"2752","alpha","alpha",4
+"2753","not applicable","not applicable",4
+"2754","alpha","alpha",4
+"2755","not applicable","not applicable",4
+"2756","alpha","alpha",4
+"2757","gamma","gamma",4
+"2758","beta","beta",4
+"2759","alpha","alpha",4
+"2760","beta","beta",4
+"2761","ductal","ductal",4
+"2762","delta","delta",4
+"2763","ductal","ductal",4
+"2764","not applicable","not applicable",4
+"2765","PSC","PSC",4
+"2766","MHC class II","not applicable",4
+"2767","ductal","ductal",4
+"2768","ductal","ductal",4
+"2769","ductal","ductal",4
+"2770","not applicable","not applicable",4
+"2771","beta","beta",4
+"2772","alpha","alpha",4
+"2773","alpha","alpha",4
+"2774","not applicable","not applicable",4
+"2775","alpha","alpha",4
+"2776","ductal","ductal",4
+"2777","beta","beta",4
+"2778","ductal","ductal",4
+"2779","acinar","acinar",4
+"2780","alpha","alpha",4
+"2781","beta","co-expression",4
+"2782","alpha","alpha",4
+"2783","alpha","alpha",4
+"2784","not applicable","not applicable",4
+"2785","beta","beta",4
+"2786","not applicable","not applicable",4
+"2787","ductal","ductal",4
+"2788","gamma","gamma",4
+"2789","alpha","alpha",4
+"2790","not applicable","not applicable",4
+"2791","beta","beta",4
+"2792","gamma","gamma",4
+"2793","acinar","acinar",4
+"2794","unclassified endocrine","not applicable",4
+"2795","alpha","alpha",4
+"2796","gamma","gamma",4
+"2797","ductal","not applicable",4
+"2798","beta","beta",4
+"2799","ductal","ductal",4
+"2800","not applicable","not applicable",4
+"2801","alpha","alpha",4
+"2802","beta","beta",4
+"2803","not applicable","not applicable",4
+"2804","mast","mast",4
+"2805","beta","beta",4
+"2806","PSC","PSC",4
+"2807","beta","beta",4
+"2808","gamma","gamma",4
+"2809","gamma","gamma",4
+"2810","unclassified endocrine","not applicable",4
+"2811","beta","beta",4
+"2812","beta","beta",4
+"2813","unclassified endocrine","not applicable",5
+"2814","ductal","ductal",5
+"2815","delta","unclassified endocrine",5
+"2816","delta","delta",5
+"2817","alpha","alpha",5
+"2818","not applicable","not applicable",5
+"2819","alpha","alpha",5
+"2820","delta","delta",5
+"2821","ductal","ductal",5
+"2822","delta","not applicable",5
+"2823","alpha","alpha",5
+"2824","beta","unclassified endocrine",5
+"2825","unclassified endocrine","not applicable",5
+"2826","MHC class II","MHC class II",5
+"2827","alpha","alpha",5
+"2828","beta","beta",5
+"2829","alpha","alpha",5
+"2830","alpha","alpha",5
+"2831","unclassified endocrine","not applicable",5
+"2832","not applicable","not applicable",5
+"2833","gamma","gamma",5
+"2834","beta","beta",5
+"2835","unclassified endocrine","not applicable",5
+"2836","acinar","not applicable",5
+"2837","acinar","acinar",5
+"2838","beta","beta",5
+"2839","unclassified endocrine","not applicable",5
+"2840","unclassified endocrine","not applicable",5
+"2841","alpha","alpha",5
+"2842","delta","delta",5
+"2843","unclassified endocrine","not applicable",5
+"2844","ductal","ductal",5
+"2845","beta","beta",5
+"2846","beta","beta",5
+"2847","unclassified endocrine","unclassified endocrine",5
+"2848","acinar","acinar",5
+"2849","alpha","alpha",5
+"2850","delta","delta",5
+"2851","gamma","gamma",5
+"2852","unclassified endocrine","not applicable",5
+"2853","unclassified endocrine","not applicable",5
+"2854","alpha","alpha",5
+"2855","acinar","acinar",5
+"2856","beta","beta",5
+"2857","gamma","gamma",5
+"2858","unclassified endocrine","not applicable",5
+"2859","beta","beta",5
+"2860","alpha","alpha",5
+"2861","unclassified endocrine","not applicable",5
+"2862","acinar","acinar",5
+"2863","alpha","alpha",5
+"2864","alpha","alpha",5
+"2865","beta","beta",5
+"2866","alpha","alpha",5
+"2867","alpha","alpha",5
+"2868","alpha","alpha",5
+"2869","alpha","alpha",5
+"2870","delta","delta",5
+"2871","alpha","alpha",5
+"2872","alpha","alpha",5
+"2873","ductal","ductal",5
+"2874","unclassified endocrine","not applicable",5
+"2875","not applicable","not applicable",5
+"2876","not applicable","not applicable",5
+"2877","beta","beta",5
+"2878","ductal","ductal",5
+"2879","acinar","acinar",5
+"2880","not applicable","not applicable",5
+"2881","acinar","acinar",5
+"2882","alpha","alpha",5
+"2883","alpha","alpha",5
+"2884","alpha","alpha",5
+"2885","alpha","alpha",5
+"2886","not applicable","not applicable",5
+"2887","alpha","alpha",5
+"2888","beta","beta",5
+"2889","beta","co-expression",5
+"2890","alpha","alpha",5
+"2891","delta","delta",5
+"2892","alpha","alpha",5
+"2893","alpha","alpha",5
+"2894","unclassified endocrine","not applicable",5
+"2895","unclassified endocrine","not applicable",5
+"2896","alpha","alpha",5
+"2897","alpha","alpha",5
+"2898","not applicable","not applicable",5
+"2899","beta","co-expression",5
+"2900","gamma","gamma",5
+"2901","alpha","alpha",5
+"2902","not applicable","not applicable",5
+"2903","gamma","unclassified endocrine",5
+"2904","gamma","gamma",5
+"2905","alpha","alpha",5
+"2906","delta","delta",5
+"2907","beta","beta",5
+"2908","unclassified endocrine","not applicable",5
+"2909","unclassified endocrine","not applicable",5
+"2910","unclassified endocrine","not applicable",5
+"2911","unclassified endocrine","not applicable",5
+"2912","not applicable","not applicable",5
+"2913","gamma","gamma",5
+"2914","alpha","not applicable",5
+"2915","delta","unclassified endocrine",5
+"2916","gamma","gamma",5
+"2917","gamma","gamma",5
+"2918","unclassified endocrine","not applicable",5
+"2919","alpha","alpha",5
+"2920","alpha","alpha",5
+"2921","alpha","alpha",5
+"2922","gamma","gamma",5
+"2923","unclassified endocrine","not applicable",5
+"2924","alpha","alpha",5
+"2925","not applicable","not applicable",5
+"2926","not applicable","not applicable",5
+"2927","not applicable","not applicable",5
+"2928","alpha","alpha",5
+"2929","gamma","gamma",5
+"2930","alpha","alpha",5
+"2931","alpha","alpha",5
+"2932","not applicable","not applicable",5
+"2933","acinar","acinar",5
+"2934","alpha","alpha",5
+"2935","unclassified endocrine","not applicable",5
+"2936","alpha","alpha",5
+"2937","gamma","gamma",5
+"2938","gamma","gamma",5
+"2939","alpha","not applicable",5
+"2940","gamma","gamma",5
+"2941","unclassified endocrine","not applicable",5
+"2942","unclassified endocrine","not applicable",5
+"2943","unclassified endocrine","not applicable",5
+"2944","alpha","alpha",5
+"2945","unclassified endocrine","not applicable",5
+"2946","alpha","alpha",5
+"2947","not applicable","not applicable",5
+"2948","unclassified endocrine","not applicable",5
+"2949","alpha","alpha",5
+"2950","alpha","alpha",5
+"2951","gamma","gamma",5
+"2952","unclassified endocrine","not applicable",5
+"2953","not applicable","not applicable",5
+"2954","alpha","alpha",5
+"2955","beta","not applicable",5
+"2956","alpha","alpha",5
+"2957","alpha","alpha",5
+"2958","alpha","alpha",5
+"2959","alpha","alpha",5
+"2960","alpha","alpha",5
+"2961","alpha","alpha",5
+"2962","alpha","alpha",5
+"2963","alpha","alpha",5
+"2964","not applicable","not applicable",5
+"2965","alpha","alpha",5
+"2966","gamma","gamma",5
+"2967","gamma","not applicable",5
+"2968","gamma","not applicable",5
+"2969","alpha","alpha",5
+"2970","alpha","alpha",5
+"2971","gamma","gamma",5
+"2972","alpha","alpha",5
+"2973","unclassified endocrine","not applicable",5
+"2974","beta","beta",5
+"2975","alpha","alpha",5
+"2976","PSC","PSC",5
+"2977","beta","beta",5
+"2978","beta","beta",5
+"2979","not applicable","not applicable",5
+"2980","alpha","alpha",5
+"2981","co-expression","co-expression",5
+"2982","alpha","alpha",5
+"2983","gamma","gamma",5
+"2984","alpha","alpha",5
+"2985","beta","beta",5
+"2986","alpha","alpha",5
+"2987","alpha","alpha",5
+"2988","alpha","alpha",5
+"2989","alpha","alpha",5
+"2990","beta","beta",5
+"2991","unclassified endocrine","not applicable",5
+"2992","beta","beta",5
+"2993","endothelial","endothelial",5
+"2994","epsilon","epsilon",5
+"2995","not applicable","not applicable",5
+"2996","alpha","alpha",5
+"2997","ductal","ductal",5
+"2998","alpha","alpha",5
+"2999","beta","beta",5
+"3000","unclassified endocrine","not applicable",5
+"3001","alpha","alpha",5
+"3002","alpha","alpha",5
+"3003","not applicable","not applicable",5
+"3004","PSC","PSC",5
+"3005","alpha","alpha",5
+"3006","alpha","alpha",5
+"3007","alpha","alpha",5
+"3008","alpha","alpha",5
+"3009","not applicable","not applicable",5
+"3010","alpha","alpha",5
+"3011","delta","delta",5
+"3012","not applicable","not applicable",5
+"3013","not applicable","not applicable",5
+"3014","not applicable","not applicable",5
+"3015","not applicable","not applicable",5
+"3016","gamma","gamma",5
+"3017","not applicable","not applicable",5
+"3018","not applicable","unclassified endocrine",5
+"3019","delta","alpha",5
+"3020","unclassified endocrine","not applicable",5
+"3021","not applicable","not applicable",5
+"3022","not applicable","unclassified endocrine",5
+"3023","not applicable","not applicable",5
+"3024","not applicable","not applicable",5
+"3025","beta","beta",5
+"3026","not applicable","not applicable",5
+"3027","alpha","alpha",5
+"3028","not applicable","not applicable",5
+"3029","gamma","gamma",5
+"3030","alpha","alpha",5
+"3031","beta","beta",5
+"3032","ductal","ductal",5
+"3033","not applicable","not applicable",5
+"3034","endothelial","endothelial",5
+"3035","unclassified endocrine","not applicable",5
+"3036","endothelial","endothelial",5
+"3037","not applicable","not applicable",5
+"3038","gamma","not applicable",5
+"3039","ductal","ductal",5
+"3040","beta","beta",5
+"3041","acinar","acinar",5
+"3042","ductal","not applicable",5
+"3043","not applicable","not applicable",5
+"3044","acinar","not applicable",5
+"3045","ductal","ductal",5
+"3046","gamma","gamma",5
+"3047","gamma","gamma",5
+"3048","acinar","not applicable",5
+"3049","not applicable","not applicable",5
+"3050","ductal","not applicable",5
+"3051","unclassified endocrine","not applicable",5
+"3052","not applicable","not applicable",5
+"3053","acinar","acinar",5
+"3054","ductal","ductal",5
+"3055","acinar","not applicable",5
+"3056","alpha","alpha",5
+"3057","gamma","gamma",5
+"3058","alpha","alpha",5
+"3059","ductal","ductal",5
+"3060","ductal","not applicable",5
+"3061","unclassified endocrine","not applicable",5
+"3062","ductal","ductal",5
+"3063","not applicable","not applicable",5
+"3064","acinar","acinar",5
+"3065","beta","beta",5
+"3066","beta","beta",5
+"3067","not applicable","not applicable",5
+"3068","beta","beta",5
+"3069","alpha","alpha",5
+"3070","acinar","acinar",5
+"3071","beta","beta",5
+"3072","not applicable","not applicable",5
+"3073","gamma","not applicable",5
+"3074","gamma","not applicable",5
+"3075","ductal","ductal",5
+"3076","not applicable","not applicable",5
+"3077","alpha","alpha",5
+"3078","not applicable","not applicable",5
+"3079","ductal","ductal",5
+"3080","beta","beta",5
+"3081","ductal","not applicable",5
+"3082","ductal","not applicable",5
+"3083","beta","beta",5
+"3084","not applicable","not applicable",5
+"3085","acinar","acinar",5
+"3086","epsilon","epsilon",5
+"3087","acinar","acinar",5
+"3088","acinar","acinar",5
+"3089","ductal","ductal",5
+"3090","gamma","gamma",5
+"3091","unclassified endocrine","not applicable",5
+"3092","ductal","not applicable",5
+"3093","ductal","ductal",5
+"3094","not applicable","not applicable",5
+"3095","acinar","acinar",5
+"3096","ductal","ductal",5
+"3097","beta","beta",5
+"3098","not applicable","not applicable",5
+"3099","acinar","acinar",5
+"3100","acinar","not applicable",5
+"3101","ductal","ductal",5
+"3102","alpha","alpha",5
+"3103","ductal","ductal",5
+"3104","acinar","acinar",5
+"3105","acinar","acinar",5
+"3106","acinar","not applicable",5
+"3107","acinar","acinar",5
+"3108","ductal","ductal",5
+"3109","acinar","not applicable",5
+"3110","beta","beta",5
+"3111","acinar","not applicable",5
+"3112","alpha","alpha",5
+"3113","unclassified endocrine","not applicable",5
+"3114","not applicable","not applicable",5
+"3115","unclassified endocrine","not applicable",5
+"3116","alpha","not applicable",5
+"3117","delta","delta",5
+"3118","alpha","alpha",5
+"3119","alpha","alpha",5
+"3120","not applicable","not applicable",5
+"3121","alpha","not applicable",5
+"3122","PSC","not applicable",5
+"3123","alpha","alpha",5
+"3124","beta","beta",5
+"3125","alpha","alpha",5
+"3126","alpha","alpha",5
+"3127","alpha","not applicable",5
+"3128","unclassified endocrine","not applicable",5
+"3129","beta","not applicable",5
+"3130","alpha","alpha",5
+"3131","delta","not applicable",5
+"3132","acinar","not applicable",5
+"3133","alpha","alpha",5
+"3134","alpha","not applicable",5
+"3135","alpha","alpha",5
+"3136","ductal","ductal",5
+"3137","beta","beta",5
+"3138","beta","beta",5
+"3139","alpha","alpha",5
+"3140","alpha","alpha",5
+"3141","alpha","alpha",5
+"3142","beta","not applicable",5
+"3143","alpha","not applicable",5
+"3144","unclassified endocrine","not applicable",5
+"3145","alpha","alpha",5
+"3146","alpha","not applicable",5
+"3147","alpha","not applicable",5
+"3148","alpha","alpha",5
+"3149","not applicable","not applicable",5
+"3150","alpha","not applicable",5
+"3151","alpha","not applicable",5
+"3152","unclassified endocrine","not applicable",5
+"3153","not applicable","not applicable",5
+"3154","alpha","alpha",5
+"3155","alpha","not applicable",5
+"3156","ductal","ductal",5
+"3157","alpha","alpha",5
+"3158","alpha","alpha",5
+"3159","acinar","acinar",5
+"3160","alpha","not applicable",5
+"3161","unclassified endocrine","not applicable",5
+"3162","PSC","PSC",5
+"3163","beta","beta",5
+"3164","alpha","not applicable",5
+"3165","unclassified endocrine","not applicable",5
+"3166","alpha","alpha",5
+"3167","PSC","PSC",5
+"3168","not applicable","not applicable",5
+"3169","alpha","alpha",5
+"3170","beta","beta",5
+"3171","delta","delta",5
+"3172","delta","delta",5
+"3173","alpha","not applicable",5
+"3174","alpha","not applicable",5
+"3175","unclassified endocrine","not applicable",5
+"3176","gamma","gamma",5
+"3177","unclassified endocrine","not applicable",5
+"3178","alpha","not applicable",5
+"3179","beta","beta",5
+"3180","not applicable","not applicable",5
+"3181","alpha","not applicable",5
+"3182","alpha","alpha",5
+"3183","beta","beta",5
+"3184","alpha","alpha",5
+"3185","alpha","not applicable",5
+"3186","alpha","alpha",5
+"3187","co-expression","co-expression",5
+"3188","PSC","not applicable",5
+"3189","alpha","alpha",5
+"3190","not applicable","not applicable",5
+"3191","acinar","acinar",5
+"3192","alpha","alpha",5
+"3193","ductal","not applicable",5
+"3194","acinar","acinar",5
+"3195","beta","beta",5
+"3196","alpha","alpha",5
+"3197","alpha","alpha",5
+"3198","alpha","alpha",5
+"3199","not applicable","not applicable",5
+"3200","ductal","ductal",5
+"3201","ductal","ductal",5
+"3202","co-expression","not applicable",5
+"3203","alpha","alpha",5
+"3204","co-expression","alpha",5
+"3205","alpha","not applicable",5
+"3206","alpha","alpha",5
+"3207","alpha","alpha",5
+"3208","alpha","not applicable",5
+"3209","alpha","alpha",5
+"3210","alpha","alpha",5
+"3211","ductal","ductal",5
+"3212","alpha","alpha",5
+"3213","PSC","PSC",5
+"3214","alpha","not applicable",5
+"3215","unclassified endocrine","not applicable",5
+"3216","alpha","alpha",5
+"3217","gamma","gamma",5
+"3218","ductal","ductal",5
+"3219","alpha","not applicable",5
+"3220","alpha","alpha",5
+"3221","beta","beta",5
+"3222","ductal","ductal",5
+"3223","acinar","acinar",5
+"3224","ductal","ductal",5
+"3225","alpha","alpha",5
+"3226","beta","beta",5
+"3227","alpha","alpha",5
+"3228","not applicable","not applicable",5
+"3229","delta","delta",5
+"3230","mast","mast",5
+"3231","ductal","ductal",5
+"3232","ductal","ductal",5
+"3233","alpha","alpha",5
+"3234","unclassified endocrine","not applicable",5
+"3235","acinar","acinar",5
+"3236","acinar","not applicable",5
+"3237","unclassified endocrine","not applicable",5
+"3238","alpha","alpha",5
+"3239","acinar","acinar",5
+"3240","beta","beta",5
+"3241","not applicable","not applicable",5
+"3242","gamma","gamma",5
+"3243","alpha","alpha",5
+"3244","co-expression","co-expression",5
+"3245","alpha","alpha",5
+"3246","alpha","alpha",5
+"3247","ductal","not applicable",5
+"3248","alpha","alpha",5
+"3249","PSC","PSC",5
+"3250","ductal","ductal",5
+"3251","not applicable","not applicable",5
+"3252","PSC","PSC",5
+"3253","ductal","ductal",5
+"3254","ductal","ductal",5
+"3255","ductal","ductal",5
+"3256","PSC","PSC",5
+"3257","ductal","ductal",5
+"3258","acinar","acinar",5
+"3259","alpha","alpha",5
+"3260","ductal","ductal",5
+"3261","acinar","acinar",5
+"3262","ductal","ductal",5
+"3263","ductal","ductal",5
+"3264","not applicable","not applicable",5
+"3265","ductal","ductal",5
+"3266","ductal","ductal",5
+"3267","alpha","alpha",5
+"3268","ductal","ductal",5
+"3269","unclassified endocrine","not applicable",5
+"3270","not applicable","not applicable",5
+"3271","acinar","acinar",5
+"3272","co-expression","co-expression",5
+"3273","ductal","not applicable",5
+"3274","not applicable","acinar",5
+"3275","not applicable","not applicable",5
+"3276","co-expression","co-expression",5
+"3277","alpha","alpha",5
+"3278","not applicable","not applicable",5
+"3279","ductal","not applicable",5
+"3280","ductal","not applicable",5
+"3281","alpha","not applicable",5
+"3282","alpha","not applicable",5
+"3283","not applicable","not applicable",5
+"3284","alpha","alpha",5
+"3285","not applicable","not applicable",5
+"3286","alpha","not applicable",5
+"3287","unclassified endocrine","not applicable",5
+"3288","ductal","not applicable",5
+"3289","not applicable","not applicable",5
+"3290","ductal","ductal",5
+"3291","delta","not applicable",5
+"3292","not applicable","not applicable",5
+"3293","not applicable","not applicable",5
+"3294","ductal","ductal",5
+"3295","ductal","not applicable",5
+"3296","not applicable","not applicable",5
+"3297","ductal","not applicable",5
+"3298","unclassified endocrine","not applicable",5
+"3299","unclassified endocrine","not applicable",5
+"3300","not applicable","not applicable",5
+"3301","acinar","acinar",5
+"3302","gamma","gamma",5
+"3303","not applicable","not applicable",5
+"3304","alpha","alpha",5
+"3305","alpha","not applicable",5
+"3306","alpha","not applicable",5
+"3307","not applicable","not applicable",5
+"3308","delta","delta",5
+"3309","beta","not applicable",5
+"3310","not applicable","not applicable",5
+"3311","alpha","not applicable",5
+"3312","ductal","not applicable",5
+"3313","unclassified endocrine","not applicable",5
+"3314","co-expression","beta",5
+"3315","not applicable","not applicable",5
+"3316","ductal","ductal",5
+"3317","alpha","not applicable",5
+"3318","ductal","not applicable",5
+"3319","alpha","alpha",5
+"3320","ductal","not applicable",5
+"3321","alpha","not applicable",5
+"3322","ductal","not applicable",5
+"3323","alpha","not applicable",5
+"3324","not applicable","not applicable",5
+"3325","ductal","ductal",5
+"3326","ductal","not applicable",5
+"3327","delta","delta",5
+"3328","not applicable","not applicable",5
+"3329","not applicable","not applicable",5
+"3330","unclassified endocrine","not applicable",5
+"3331","not applicable","not applicable",5
+"3332","not applicable","not applicable",5
+"3333","not applicable","not applicable",5
+"3334","unclassified endocrine","not applicable",5
+"3335","unclassified endocrine","not applicable",5
+"3336","endothelial","not applicable",5
+"3337","unclassified endocrine","not applicable",5
+"3338","unclassified endocrine","not applicable",5
+"3339","ductal","not applicable",5
+"3340","alpha","not applicable",5
+"3341","alpha","alpha",5
+"3342","ductal","not applicable",5
+"3343","alpha","alpha",5
+"3344","alpha","not applicable",5
+"3345","ductal","not applicable",5
+"3346","beta","not applicable",5
+"3347","alpha","alpha",5
+"3348","ductal","not applicable",5
+"3349","not applicable","not applicable",5
+"3350","unclassified endocrine","not applicable",5
+"3351","beta","not applicable",5
+"3352","gamma","not applicable",5
+"3353","co-expression","not applicable",5
+"3354","alpha","alpha",5
+"3355","not applicable","not applicable",5
+"3356","not applicable","ductal",5
+"3357","unclassified endocrine","not applicable",5
+"3358","delta","delta",5
+"3359","alpha","alpha",5
+"3360","unclassified endocrine","not applicable",5
+"3361","not applicable","not applicable",5
+"3362","PSC","PSC",5
+"3363","alpha","alpha",5
+"3364","alpha","alpha",5
+"3365","ductal","ductal",5
+"3366","ductal","ductal",5
+"3367","ductal","ductal",5
+"3368","alpha","alpha",5
+"3369","not applicable","not applicable",5
+"3370","ductal","ductal",5
+"3371","not applicable","not applicable",5
+"3372","PSC","not applicable",5
+"3373","delta","not applicable",5
+"3374","ductal","ductal",5
+"3375","acinar","not applicable",5
+"3376","PSC","PSC",5
+"3377","alpha","alpha",5
+"3378","ductal","ductal",5
+"3379","alpha","alpha",5
+"3380","alpha","alpha",5
+"3381","PSC","PSC",5
+"3382","PSC","not applicable",5
+"3383","not applicable","not applicable",5
+"3384","alpha","alpha",5
+"3385","alpha","alpha",5
+"3386","unclassified endocrine","not applicable",5
+"3387","unclassified endocrine","not applicable",5
+"3388","alpha","alpha",5
+"3389","not applicable","not applicable",5
+"3390","co-expression","beta",5
+"3391","ductal","ductal",5
+"3392","alpha","alpha",5
+"3393","acinar","acinar",5
+"3394","ductal","ductal",5
+"3395","alpha","alpha",5
+"3396","ductal","ductal",5
+"3397","ductal","ductal",5
+"3398","not applicable","not applicable",5
+"3399","alpha","alpha",5
+"3400","alpha","alpha",5
+"3401","gamma","gamma",5
+"3402","alpha","alpha",5
+"3403","ductal","ductal",5
+"3404","ductal","ductal",5
+"3405","ductal","not applicable",5
+"3406","not applicable","not applicable",5
+"3407","ductal","ductal",5
+"3408","alpha","alpha",5
+"3409","not applicable","not applicable",5
+"3410","beta","unclassified endocrine",5
+"3411","beta","beta",5
+"3412","ductal","ductal",5
+"3413","acinar","acinar",5
+"3414","ductal","ductal",5
+"3415","ductal","ductal",5
+"3416","alpha","alpha",5
+"3417","gamma","gamma",5
+"3418","ductal","ductal",5
+"3419","alpha","alpha",5
+"3420","ductal","not applicable",5
+"3421","not applicable","not applicable",5
+"3422","not applicable","not applicable",5
+"3423","acinar","acinar",5
+"3424","alpha","alpha",5
+"3425","ductal","ductal",5
+"3426","not applicable","not applicable",5
+"3427","not applicable","not applicable",5
+"3428","ductal","ductal",5
+"3429","alpha","alpha",5
+"3430","ductal","ductal",5
+"3431","alpha","alpha",5
+"3432","alpha","alpha",5
+"3433","alpha","alpha",5
+"3434","co-expression","co-expression",5
+"3435","delta","delta",5
+"3436","ductal","ductal",5
+"3437","beta","beta",5
+"3438","alpha","alpha",5
+"3439","alpha","alpha",5
+"3440","gamma","gamma",5
+"3441","alpha","alpha",5
+"3442","unclassified endocrine","not applicable",5
+"3443","beta","beta",5
+"3444","delta","delta",5
+"3445","beta","beta",5
+"3446","gamma","gamma",5
+"3447","ductal","ductal",5
+"3448","ductal","ductal",5
+"3449","beta","beta",5
+"3450","gamma","gamma",5
+"3451","alpha","alpha",5
+"3452","alpha","alpha",5
+"3453","not applicable","not applicable",5
+"3454","gamma","gamma",5
+"3455","ductal","ductal",5
+"3456","delta","delta",5
+"3457","ductal","ductal",5
+"3458","not applicable","not applicable",5
+"3459","alpha","alpha",5
+"3460","gamma","gamma",5
+"3461","alpha","alpha",5
+"3462","alpha","alpha",5
+"3463","co-expression","alpha",5
+"3464","ductal","ductal",5
+"3465","beta","not applicable",5
+"3466","alpha","alpha",5
+"3467","gamma","gamma",5
+"3468","alpha","alpha",5
+"3469","gamma","gamma",5
+"3470","delta","delta",5
+"3471","delta","delta",5
+"3472","acinar","acinar",5
+"3473","beta","beta",5
+"3474","unclassified endocrine","not applicable",5
+"3475","delta","delta",5
+"3476","not applicable","not applicable",5
+"3477","gamma","gamma",5
+"3478","delta","delta",5
+"3479","not applicable","not applicable",5
+"3480","ductal","ductal",5
+"3481","beta","beta",5
+"3482","alpha","alpha",5
+"3483","acinar","acinar",5
+"3484","alpha","alpha",5
+"3485","ductal","ductal",5
+"3486","unclassified endocrine","not applicable",5
+"3487","gamma","gamma",5
+"3488","alpha","alpha",5
+"3489","alpha","alpha",5
+"3490","alpha","alpha",5
+"3491","beta","beta",5
+"3492","not applicable","not applicable",5
+"3493","ductal","ductal",5
+"3494","alpha","alpha",5
+"3495","not applicable","not applicable",5
+"3496","alpha","alpha",5
+"3497","beta","beta",5
+"3498","alpha","alpha",5
+"3499","gamma","gamma",5
+"3500","ductal","ductal",5
+"3501","beta","beta",5
+"3502","acinar","not applicable",5
+"3503","acinar","acinar",5
+"3504","beta","beta",5
+"3505","unclassified endocrine","not applicable",5
+"3506","acinar","acinar",5
+"3507","alpha","alpha",5
+"3508","ductal","ductal",5
+"3509","not applicable","not applicable",5
+"3510","beta","beta",5
+"3511","not applicable","not applicable",5
+"3512","unclassified endocrine","not applicable",5
+"3513","not applicable","not applicable",5
+"3514","mast","not applicable",5

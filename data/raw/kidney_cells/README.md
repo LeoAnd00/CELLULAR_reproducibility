@@ -1,0 +1,2 @@
+# kidney_cells
+All samples are from [GSM4572192](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM4572192), [GSM4572193](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM4572193), [GSM4572194](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM4572194).

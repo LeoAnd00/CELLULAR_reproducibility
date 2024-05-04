@@ -1,0 +1,9 @@
+channels: 
+  - conda-forge
+  - defaults
+dependencies:
+  - python-annoy
+  - pip
+  - pip:
+    - -r requirements_alvis_cluster.txt
+    - git+https://github.com/theislab/scgen.git
