@@ -169,7 +169,7 @@ class UMAP_Kidney_Viz():
         adata_CELLULAR = self.CELLULAR(save_path=save_path)
 
         # Create subplots
-        fig, axs = plt.subplots(4, 1, figsize=(7.08, (7.08*2)))
+        fig, axs = plt.subplots(2, 2, figsize=((7.08*1.5), (7.08*1)))
 
         ### Visualize PCA
         vis_adata = adata_pca
@@ -198,8 +198,8 @@ class UMAP_Kidney_Viz():
             color = palette[color_idx % len(palette)]  # Cycle through the palette colors
             if label not in color_dict:
                 color_dict[label] = color
-            axs[0].scatter(vis_adata.obsm["X_umap"][idx, 0], vis_adata.obsm["X_umap"][idx, 1], color=color, s=2)
-        axs[0].set_title('Cell Type', fontsize=7)
+            axs[0,0].scatter(vis_adata.obsm["X_umap"][idx, 0], vis_adata.obsm["X_umap"][idx, 1], color=color, s=2)
+        #axs[0,0].set_title('Cell Type', fontsize=7)
 
         num_columns = max(1, math.ceil(len(color_dict) / 23))  # Each column for every 20 legend entries
         # Add legend
@@ -207,14 +207,16 @@ class UMAP_Kidney_Viz():
         legend_handles = [plt.Line2D([0], [0], marker='o', color='w', markersize=2.5, markerfacecolor=color_dict[label], label=label) for label in color_dict]
 
         # Add legend outside of the loop
-        axs[0].legend(handles=legend_handles, loc='center left', bbox_to_anchor=(1, 0.5), frameon=False, fontsize=6, markerscale=2.5, ncol=num_columns, columnspacing=0.5)
+        #axs[0,0].legend(handles=legend_handles, loc='center left', bbox_to_anchor=(1, 0.5), frameon=False, fontsize=6, markerscale=2.5, ncol=num_columns, columnspacing=0.5)
 
         # Remove border around the plot
-        axs[0].spines['top'].set_visible(False)
-        axs[0].spines['right'].set_visible(False)
-        axs[0].spines['bottom'].set_visible(False)
-        axs[0].spines['left'].set_visible(False)
-        axs[0].axis('off')
+        #axs[0,0].spines['top'].set_visible(False)
+        #axs[0,0].spines['right'].set_visible(False)
+        #axs[0,0].spines['bottom'].set_visible(False)
+        #axs[0,0].spines['left'].set_visible(False)
+        #axs[0,0].axis('off')
+        axs[0,0].set_xticks([])
+        axs[0,0].set_yticks([])
 
         # Plot UMAP colored by patientID
         color_dict = {}
@@ -224,9 +226,9 @@ class UMAP_Kidney_Viz():
             color = palette[color_idx % len(palette)]  # Cycle through the palette colors
             if label not in color_dict:
                 color_dict[label] = color
-            axs[1].scatter(vis_adata.obsm["X_umap"][idx, 0], vis_adata.obsm["X_umap"][idx, 1], color=color, s=2)
+            axs[1,0].scatter(vis_adata.obsm["X_umap"][idx, 0], vis_adata.obsm["X_umap"][idx, 1], color=color, s=2)
 
-        axs[1].set_title('Batch Effect', fontsize=7)
+        #axs[1,0].set_title('Batch Effect', fontsize=7)
         
         num_columns = max(1, math.ceil(len(color_dict) / 23))  # Each column for every 20 legend entries
         # Add legend
@@ -234,14 +236,16 @@ class UMAP_Kidney_Viz():
         legend_handles = [plt.Line2D([0], [0], marker='o', color='w', markersize=2.5, markerfacecolor=color_dict[label], label=label) for label in color_dict]
 
         # Add legend outside of the loop
-        axs[1].legend(handles=legend_handles, loc='center left', bbox_to_anchor=(1, 0.5), frameon=False, fontsize=6, markerscale=2.5, ncol=num_columns, columnspacing=0.5)
+        #axs[1,0].legend(handles=legend_handles, loc='center left', bbox_to_anchor=(1, 0.5), frameon=False, fontsize=6, markerscale=2.5, ncol=num_columns, columnspacing=0.5)
 
         # Remove border around the plot
-        axs[1].spines['top'].set_visible(False)
-        axs[1].spines['right'].set_visible(False)
-        axs[1].spines['bottom'].set_visible(False)
-        axs[1].spines['left'].set_visible(False)
-        axs[1].axis('off')
+        #axs[1,0].spines['top'].set_visible(False)
+        #axs[1,0].spines['right'].set_visible(False)
+        #axs[1,0].spines['bottom'].set_visible(False)
+        #axs[1,0].spines['left'].set_visible(False)
+        #axs[1,0].axis('off')
+        axs[1,0].set_xticks([])
+        axs[1,0].set_yticks([])
 
         ### Visualize CELLULAR
         vis_adata = adata_CELLULAR
@@ -270,8 +274,8 @@ class UMAP_Kidney_Viz():
             color = palette[color_idx % len(palette)]  # Cycle through the palette colors
             if label not in color_dict:
                 color_dict[label] = color
-            axs[2].scatter(vis_adata.obsm["X_umap"][idx, 0], vis_adata.obsm["X_umap"][idx, 1], color=color, s=2)
-        axs[2].set_title('Cell Type', fontsize=7)
+            axs[0,1].scatter(vis_adata.obsm["X_umap"][idx, 0], vis_adata.obsm["X_umap"][idx, 1], color=color, s=2)
+        #axs[0,1].set_title('Cell Type', fontsize=7)
 
         num_columns = max(1, math.ceil(len(color_dict) / 23))  # Each column for every 20 legend entries
         # Add legend
@@ -279,14 +283,16 @@ class UMAP_Kidney_Viz():
         legend_handles = [plt.Line2D([0], [0], marker='o', color='w', markersize=2.5, markerfacecolor=color_dict[label], label=label) for label in color_dict]
 
         # Add legend outside of the loop
-        axs[2].legend(handles=legend_handles, loc='center left', bbox_to_anchor=(1, 0.5), frameon=False, fontsize=6, markerscale=2.5, ncol=num_columns, columnspacing=0.5)
+        axs[0,1].legend(handles=legend_handles, loc='center left', bbox_to_anchor=(1, 0.5), frameon=False, fontsize=6, markerscale=2.5, ncol=num_columns, columnspacing=0.5)
 
         # Remove border around the plot
-        axs[2].spines['top'].set_visible(False)
-        axs[2].spines['right'].set_visible(False)
-        axs[2].spines['bottom'].set_visible(False)
-        axs[2].spines['left'].set_visible(False)
-        axs[2].axis('off')
+        #axs[0,1].spines['top'].set_visible(False)
+        #axs[0,1].spines['right'].set_visible(False)
+        #axs[0,1].spines['bottom'].set_visible(False)
+        #axs[0,1].spines['left'].set_visible(False)
+        #axs[0,1].axis('off')
+        axs[0,1].set_xticks([])
+        axs[0,1].set_yticks([])
 
         # Plot UMAP colored by patientID
         color_dict = {}
@@ -296,9 +302,9 @@ class UMAP_Kidney_Viz():
             color = palette[color_idx % len(palette)]  # Cycle through the palette colors
             if label not in color_dict:
                 color_dict[label] = color
-            axs[3].scatter(vis_adata.obsm["X_umap"][idx, 0], vis_adata.obsm["X_umap"][idx, 1], color=color, s=2)
+            axs[1,1].scatter(vis_adata.obsm["X_umap"][idx, 0], vis_adata.obsm["X_umap"][idx, 1], color=color, s=2)
 
-        axs[3].set_title('Batch Effect', fontsize=7)
+        #axs[1,1].set_title('Batch Effect', fontsize=7)
         
         num_columns = max(1, math.ceil(len(color_dict) / 23))  # Each column for every 20 legend entries
         # Add legend
@@ -306,18 +312,20 @@ class UMAP_Kidney_Viz():
         legend_handles = [plt.Line2D([0], [0], marker='o', color='w', markersize=2.5, markerfacecolor=color_dict[label], label=label) for label in color_dict]
 
         # Add legend outside of the loop
-        axs[3].legend(handles=legend_handles, loc='center left', bbox_to_anchor=(1, 0.5), frameon=False, fontsize=6, markerscale=2.5, ncol=num_columns, columnspacing=0.5)
+        axs[1,1].legend(handles=legend_handles, loc='center left', bbox_to_anchor=(1, 0.5), frameon=False, fontsize=6, markerscale=2.5, ncol=num_columns, columnspacing=0.5)
 
         # Remove border around the plot
-        axs[3].spines['top'].set_visible(False)
-        axs[3].spines['right'].set_visible(False)
-        axs[3].spines['bottom'].set_visible(False)
-        axs[3].spines['left'].set_visible(False)
-        axs[3].axis('off')
+        #axs[1,1].spines['top'].set_visible(False)
+        #axs[1,1].spines['right'].set_visible(False)
+        #axs[1,1].spines['bottom'].set_visible(False)
+        #axs[1,1].spines['left'].set_visible(False)
+        #axs[1,1].axis('off')
+        axs[1,1].set_xticks([])
+        axs[1,1].set_yticks([])
 
         # Annotate subplots with letters
         for ax, letter in zip(axs.ravel(), ['a', 'b', 'c', 'd']):
-            ax.text(0, 1.1, letter, transform=ax.transAxes, fontsize=7, fontweight='bold', va='top')
+            ax.text(0, 1.05, letter, transform=ax.transAxes, fontsize=7, fontweight='bold', va='top')
 
         plt.tight_layout()
 
