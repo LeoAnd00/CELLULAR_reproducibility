@@ -9,7 +9,8 @@ Contains code for producing figures used for the final report.
 ## Cell type centorid loss validity investigation figure
 
 ### How to run
-1. Run *Fig_eucledian_distance.ipynb*.
+* Run *Fig_eucledian_distance.ipynb*.
+* Run cmd command in *fig_cv_score.py*.
 
 ## Kidney dataset test fold figure
 
