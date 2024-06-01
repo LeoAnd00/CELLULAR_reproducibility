@@ -154,22 +154,6 @@ class novel_cell_type_detection():
                                 ['Hepatocyte_4'],
                                 ['Hepatocyte_5'],
                                 ['Hepatocyte_6']]
-        elif datset_name == "Segerstolpe":
-            exclude_cell_types_list = [['not applicable'], 
-                                    ['delta'], 
-                                    ['alpha'], 
-                                    ['gamma'], 
-                                    ['ductal'], 
-                                    ['acinar'], 
-                                    ['beta'], 
-                                    ['unclassified endocrine'], 
-                                    ['co-expression'], 
-                                    ['MHC class II'], 
-                                    ['PSC'], 
-                                    ['endothelial'], 
-                                    ['epsilon'], 
-                                    ['mast'], 
-                                    ['unclassified']]
         elif datset_name == "Baron":
             exclude_cell_types_list = [['acinar'], 
                                     ['beta'], 

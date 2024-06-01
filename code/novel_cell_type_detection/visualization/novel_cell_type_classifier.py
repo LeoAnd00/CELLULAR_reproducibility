@@ -83,8 +83,6 @@ class classifier_train():
 
         if not os.path.exists(image_path):
             os.makedirs(image_path)
-        if not os.path.exists(f'figures/dendrogram{image_path}'):
-            os.makedirs(f'figures/dendrogram{image_path}')
         
         self.image_path = image_path
 
