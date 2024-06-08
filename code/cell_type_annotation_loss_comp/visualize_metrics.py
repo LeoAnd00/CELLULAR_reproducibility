@@ -62,7 +62,7 @@ class VisualizeEnv():
         # Set up the figure and axis with 4 columns per row
         ncols = 1
         nrows = 3
-        fig, axs = plt.subplots(nrows=nrows, ncols=ncols, figsize=(7.08 * ncols, (7.08/2) * nrows), sharey=False)
+        fig, axs = plt.subplots(nrows=nrows, ncols=ncols, figsize=((7/3), (7*1.5/3)), sharey=False)
 
         columns_metrics = self.metrics.columns[1:4].to_list()
 
@@ -73,7 +73,7 @@ class VisualizeEnv():
             # Group by model type, calculate mean and std, and sort by mean value of the current metric
             visual_metrics = metrics[['Dataset','Method',metric]]
 
-            axs[col_idx].set_ylabel(metric, fontsize=7)
+            axs[col_idx].set_ylabel(metric, fontsize=5)
             variable = visual_metrics[metric].to_list()
             group = visual_metrics['Dataset'].to_list()
             group2 = visual_metrics['Method'].to_list()
@@ -81,30 +81,39 @@ class VisualizeEnv():
                          "CELLULAR | Centroid Loss", 
                          "CELLULAR | CL Loss"]
 
-            if col_idx == 0:
-                sns.boxplot(y = variable,
-                        x = group,
-                        hue = group2, 
-                        width = 0.6,
-                        linewidth=0.4,
-                        hue_order = hue_order,
-                        ax=axs[col_idx], 
-                        showfliers = False)
-                
-                sns.move_legend(
-                    axs[col_idx], "lower center",
-                    bbox_to_anchor=(.5, 1), ncol=len(hue_order), title=None, frameon=False, fontsize=7
-                )
-            else:
-                sns.boxplot(y = variable,
-                        x = group,
-                        hue = group2, 
-                        width = 0.6,
-                        linewidth=0.4,
-                        hue_order = hue_order,
-                        ax=axs[col_idx], 
-                        showfliers = False)
-                axs[col_idx].legend().remove()
+            #if col_idx == 0:
+            #    sns.boxplot(y = variable,
+            #            x = group,
+            #            hue = group2, 
+            #            width = 0.6,
+            #            linewidth=0.2,
+            #            hue_order = hue_order,
+            #            ax=axs[col_idx], 
+            #            showfliers = False)
+            #    
+            #    sns.move_legend(
+            #        axs[col_idx], "lower center",
+            #        bbox_to_anchor=(.5, 1), ncol=len(hue_order), title=None, frameon=False, fontsize=5
+            #    )
+            #else:
+            #    sns.boxplot(y = variable,
+            #            x = group,
+            #            hue = group2, 
+            #            width = 0.6,
+            #            linewidth=0.2,
+            #            hue_order = hue_order,
+            #            ax=axs[col_idx], 
+            #            showfliers = False)
+            #    axs[col_idx].legend().remove()
+            sns.boxplot(y = variable,
+                x = group,
+                hue = group2, 
+                width = 0.6,
+                linewidth=0.2,
+                hue_order = hue_order,
+                ax=axs[col_idx], 
+                showfliers = False)
+            axs[col_idx].legend().remove()
 
             # Add grid
             # Calculate the x positions of the grid lines to be between the ticks
@@ -117,9 +126,14 @@ class VisualizeEnv():
             # Add grid lines between the x positions
             axs[col_idx].grid(axis='x', linestyle='--', alpha=1.0, zorder=1, which='minor')
 
-            axs[col_idx].tick_params(axis='both', which='major', labelsize=7)  # Adjust font size for tick labels
+            axs[col_idx].tick_params(axis='both', which='major', labelsize=5, width=0.5)  # Adjust font size for tick labels
 
         #sns.move_legend(axs[1], "upper left", bbox_to_anchor=(1, 0.8), title=None, frameon=False)
+
+        border_thickness = 0.5  # Set your desired border thickness here
+        for ax in axs.ravel():
+            for spine in ax.spines.values():
+                spine.set_linewidth(border_thickness)
 
         # Adjust layout to prevent clipping of ylabel
         plt.tight_layout()
@@ -216,7 +230,7 @@ class VisualizeEnv():
         # Set up the figure and axis with 4 columns per row
         ncols = 1
         nrows = 1
-        fig, axs = plt.subplots(nrows=nrows, ncols=ncols, figsize=(7.08 * ncols, (7.08/2) * nrows), sharey=False)
+        fig, axs = plt.subplots(nrows=nrows, ncols=ncols, figsize=((7/3), (7*1.5/6)), sharey=False)
         axs = [axs]
 
         columns_metrics = ["Overall Score"]
@@ -228,7 +242,7 @@ class VisualizeEnv():
             # Group by model type, calculate mean and std, and sort by mean value of the current metric
             visual_metrics = metrics[['Dataset','Method',metric]]
 
-            axs[col_idx].set_ylabel(metric, fontsize=7)
+            axs[col_idx].set_ylabel(metric, fontsize=5)
             variable = visual_metrics[metric].to_list()
             group = visual_metrics['Dataset'].to_list()
             group2 = visual_metrics['Method'].to_list()
@@ -241,7 +255,7 @@ class VisualizeEnv():
                         x = group,
                         hue = group2, 
                         width = 0.6,
-                        linewidth=0.4,
+                        linewidth=0.2,
                         hue_order = hue_order,
                         ax=axs[col_idx], 
                         showfliers = False,
@@ -249,14 +263,14 @@ class VisualizeEnv():
                 
                 sns.move_legend(
                     axs[col_idx], "lower center",
-                    bbox_to_anchor=(.5, 1), ncol=len(hue_order), title=None, frameon=False, fontsize=7
+                    bbox_to_anchor=(.5, 1), ncol=1, title=None, frameon=False, fontsize=5
                 )
             else:
                 sns.boxplot(y = variable,
                         x = group,
                         hue = group2, 
                         width = 0.6,
-                        linewidth=0.4,
+                        linewidth=0.2,
                         hue_order = hue_order,
                         ax=axs[col_idx], 
                         showfliers = False,
@@ -274,15 +288,19 @@ class VisualizeEnv():
             # Add grid lines between the x positions
             axs[col_idx].grid(axis='x', linestyle='--', alpha=1.0, zorder=1, which='minor')
 
-            axs[col_idx].tick_params(axis='both', which='major', labelsize=7)  # Adjust font size for tick labels
+            axs[col_idx].tick_params(axis='both', which='major', labelsize=5, width=0.5)  # Adjust font size for tick labels
 
         #sns.move_legend(axs[1], "upper left", bbox_to_anchor=(1, 0.75), title=None, frameon=False)
+
+        border_thickness = 0.5  # Set your desired border thickness here
+        for spine in axs[0].spines.values():
+            spine.set_linewidth(border_thickness)
 
         # Adjust layout to prevent clipping of ylabel
         plt.tight_layout()
 
         # Save the plot as an SVG file
         if image_path:
-            plt.savefig(f'{image_path}.svg', format='svg', dpi=300)
+            plt.savefig(f'{image_path}.svg', format='svg', dpi=300, bbox_inches='tight')
 
         plt.show()

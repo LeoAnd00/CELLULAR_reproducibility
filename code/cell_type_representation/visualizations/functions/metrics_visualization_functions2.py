@@ -105,7 +105,7 @@ class VisualizeEnv():
         # Set up the figure and axis with 4 columns per row
         ncols = 3
         nrows = -(-len(self.metrics.columns) // ncols)  # Ceiling division
-        fig, axs = plt.subplots(nrows=nrows, ncols=ncols, figsize=(7.08, (7.08/3) * nrows), sharey=False)
+        fig, axs = plt.subplots(nrows=nrows, ncols=ncols, figsize=(7, (7/4) * nrows), sharey=False)
 
         # Get unique model types in order of performance on Overall metric
         metrics_temp = metrics.groupby(['Method'])["Overall Score"].agg(['mean', 'std']).reset_index()
@@ -153,9 +153,9 @@ class VisualizeEnv():
 
 
             # Set labels and title for each subplot
-            axs[row_idx, col_idx].set_ylabel('Score', fontsize=7)
+            axs[row_idx, col_idx].set_ylabel('Score', fontsize=5)
             axs[row_idx, col_idx].set_xlabel('')
-            axs[row_idx, col_idx].set_title(metric, fontsize=7)
+            axs[row_idx, col_idx].set_title(metric, fontsize=5)
 
             # Ensure x-axis is visible for each subplot
             axs[row_idx, col_idx].tick_params(bottom=True, rotation=90)
@@ -163,7 +163,7 @@ class VisualizeEnv():
             # Add grid
             #axs[row_idx, col_idx].grid(axis='y', linestyle='--', alpha=1.0, zorder=0)
 
-            axs[row_idx, col_idx].tick_params(axis='both', which='major', labelsize=7)  # Adjust font size for tick labels
+            axs[row_idx, col_idx].tick_params(axis='both', which='major', labelsize=5)  # Adjust font size for tick labels
 
             axs[row_idx, col_idx].legend().remove()
 
@@ -263,7 +263,7 @@ class VisualizeEnv():
         # Set up the figure and axis with 4 columns per row
         ncols = 1
         nrows = 1
-        fig, axs = plt.subplots(nrows=nrows, ncols=ncols, figsize=(7.08 * ncols, (7.08/2) * nrows), sharey=False)
+        fig, axs = plt.subplots(nrows=nrows, ncols=ncols, figsize=((7/2), (7*1.5/6)), sharey=False)
         axs = [axs]
 
         columns_metrics = ["Overall Score"]
@@ -275,7 +275,7 @@ class VisualizeEnv():
             # Group by model type, calculate mean and std, and sort by mean value of the current metric
             visual_metrics = metrics[['Dataset','Method',metric]]
 
-            axs[col_idx].set_ylabel(metric, fontsize=7)
+            axs[col_idx].set_ylabel(metric, fontsize=5)
             variable = visual_metrics[metric].to_list()
             group = visual_metrics['Dataset'].to_list()
             group2 = visual_metrics['Method'].to_list()
@@ -304,7 +304,7 @@ class VisualizeEnv():
                         x = group,
                         hue = group2, 
                         width = 0.6,
-                        linewidth=0.4,
+                        linewidth=0.2,
                         hue_order = hue_order,
                         ax=axs[col_idx], 
                         showfliers = False,
@@ -316,14 +316,14 @@ class VisualizeEnv():
                 #)
                 sns.move_legend(
                     axs[col_idx], "right",
-                    bbox_to_anchor=(1.17, 0.5), ncol=1, title=None, frameon=False, fontsize=7
+                    bbox_to_anchor=(1.37, 0.5), ncol=1, title=None, frameon=False, fontsize=5
                 )
             else:
                 sns.boxplot(y = variable,
                         x = group,
                         hue = group2, 
                         width = 0.6,
-                        linewidth=0.4,
+                        linewidth=0.2,
                         hue_order = hue_order,
                         ax=axs[col_idx], 
                         showfliers = False,
@@ -337,11 +337,12 @@ class VisualizeEnv():
 
             # Set the grid positions to be between the x ticks
             axs[col_idx].set_xticks(x_grid_positions, minor=True)
+            axs[col_idx].set_xticklabels(axs[col_idx].get_xticklabels(), rotation=45, ha='right', fontsize=5)
 
             # Add grid lines between the x positions
             axs[col_idx].grid(axis='x', linestyle='--', alpha=1.0, zorder=1, which='minor')
 
-            axs[col_idx].tick_params(axis='both', which='major', labelsize=7)  # Adjust font size for tick labels
+            axs[col_idx].tick_params(axis='both', which='major', labelsize=5)  # Adjust font size for tick labels
 
 
         #sns.move_legend(axs[1], "upper left", bbox_to_anchor=(1, 0.75), title=None, frameon=False)

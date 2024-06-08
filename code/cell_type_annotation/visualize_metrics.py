@@ -66,7 +66,7 @@ class VisualizeEnv():
         # Set up the figure and axis with 4 columns per row
         ncols = 1
         nrows = 3
-        fig, axs = plt.subplots(nrows=nrows, ncols=ncols, figsize=(7.08 * ncols, (7.08/2) * nrows), sharey=False)
+        fig, axs = plt.subplots(nrows=nrows, ncols=ncols, figsize=((7/3), (7*1.5/3)), sharey=False)
 
         columns_metrics = self.metrics.columns[1:4].to_list()
 
@@ -77,7 +77,7 @@ class VisualizeEnv():
             # Group by model type, calculate mean and std, and sort by mean value of the current metric
             visual_metrics = metrics[['Dataset','Method',metric]]
 
-            axs[col_idx].set_ylabel(metric, fontsize=7)
+            axs[col_idx].set_ylabel(metric, fontsize=5)
             variable = visual_metrics[metric].to_list()
             group = visual_metrics['Dataset'].to_list()
             group2 = visual_metrics['Method'].to_list()
@@ -99,7 +99,7 @@ class VisualizeEnv():
                         x = group,
                         hue = group2, 
                         width = 0.6,
-                        linewidth=0.4,
+                        linewidth=0.2,
                         hue_order = hue_order,
                         ax=axs[col_idx], 
                         showfliers = False)
@@ -117,8 +117,9 @@ class VisualizeEnv():
             # Add grid lines between the x positions
             axs[col_idx].grid(axis='x', linestyle='--', alpha=1.0, zorder=1, which='minor')
 
-            axs[col_idx].tick_params(axis='both', which='major', labelsize=7)  # Adjust font size for tick labels
+            axs[col_idx].tick_params(axis='both', which='major', labelsize=5, width=0.5)  # Adjust font size for tick labels
 
+            axs[col_idx].legend().remove()
             """if col_idx == 0:
                 sns.boxplot(y = variable,
                         x = group,
@@ -144,7 +145,12 @@ class VisualizeEnv():
                         showfliers = False)
                 axs[col_idx].legend().remove()"""
 
-        sns.move_legend(axs[1], "upper left", bbox_to_anchor=(1, 0.8), title=None, frameon=False, fontsize=7)
+        #sns.move_legend(axs[1], "upper left", bbox_to_anchor=(1, 0.8), title=None, frameon=False, fontsize=5)
+
+        border_thickness = 0.5  # Set your desired border thickness here
+        for ax in axs.ravel():
+            for spine in ax.spines.values():
+                spine.set_linewidth(border_thickness)
 
         # Adjust layout to prevent clipping of ylabel
         plt.tight_layout()
@@ -192,13 +198,13 @@ class VisualizeEnv():
         # Apply min-max normalization to each group
         normalized_averages = grouped_averages.transform(min_max_normalize)
 
-        fig, axs = plt.subplots(nrows=2, ncols=1, figsize=(7.08, (7.08/1.5)), sharey=False)#, gridspec_kw={'width_ratios': [3, 1]}
+        fig, axs = plt.subplots(nrows=2, ncols=1, figsize=((7/4.5), (7*1.5/6)), sharey=False)#, gridspec_kw={'width_ratios': [3, 1]}
 
         for col_idx, ax in enumerate(axs):
 
             if col_idx == 0:
                 metrics = pd.DataFrame({"Accuracy": normalized_averages.reset_index()["Accuracy"],
-                                        "Balanced Accuracy": normalized_averages.reset_index()["Balanced Accuracy"],
+                                        "Balanced\nAccuracy": normalized_averages.reset_index()["Balanced Accuracy"],
                                         "F1 Score": normalized_averages.reset_index()["F1 Score"],
                                         "Method": normalized_averages.index.get_level_values("Method")})
                 metrics.reset_index(drop=True, inplace=True)
@@ -227,7 +233,7 @@ class VisualizeEnv():
                             x = group,
                             hue = group2, 
                             width = 0.6,
-                            linewidth=0.4,
+                            linewidth=0.2,
                             hue_order = hue_order,
                             ax=axs[col_idx], 
                             showfliers = False)
@@ -245,9 +251,12 @@ class VisualizeEnv():
                 # Add grid lines between the x positions
                 axs[col_idx].grid(axis='x', linestyle='--', alpha=1.0, zorder=1, which='minor')
 
-                axs[col_idx].tick_params(axis='both', which='major', labelsize=7)  # Adjust font size for tick labels
+                axs[col_idx].tick_params(axis='both', which='major', labelsize=5, width=0.5, rotation=30)  # Adjust font size for tick labels
 
-                axs[col_idx].set_ylabel('Normalized Average Score Across Datasets', fontsize=5)
+                #axs[col_idx].set_ylabel('Normalized Average Score Across Datasets', fontsize=5)
+                axs[col_idx].set_ylabel('Score', fontsize=5)
+
+                plt.yticks([0, 0.5, 1.0], fontsize=5)
 
             elif col_idx == 1:
                 # Group by "Method"
@@ -283,34 +292,42 @@ class VisualizeEnv():
                                 "CellID_group | HVGs"]
 
                 # Plot the grouped bar plot with opaque bars and borders
-                sns.barplot(x='Metric', y='Value', hue='Method', ax=axs[col_idx], data=overall_sorted, hue_order=hue_order, ci=None, dodge=True, alpha=1.0, edgecolor='black')
+                sns.barplot(x='Metric', y='Value', hue='Method', linewidth=0.4, ax=axs[col_idx], data=overall_sorted, hue_order=hue_order, ci=None, dodge=True, alpha=1.0, edgecolor='black')
 
-                axs[col_idx].set_ylabel('Average Score Across Metrics', fontsize=5)
+                #axs[col_idx].set_ylabel('Average Score Across Metrics', fontsize=5)
+                axs[col_idx].set_ylabel('Average Score', fontsize=5)
                 axs[col_idx].set_xlabel('', fontsize=1)
 
-                axs[col_idx].tick_params(axis='both', which='major', labelsize=7)  # Adjust font size for tick labels
+                axs[col_idx].tick_params(axis='both', which='major', labelsize=5, width=0.5)  # Adjust font size for tick labels
 
                 axs[col_idx].set_xticklabels([])
                 axs[col_idx].tick_params(axis='x', length=0)
 
                 axs[col_idx].legend().remove()
 
+                plt.yticks([0, 0.5, 1.0], fontsize=5)
+
         #sns.move_legend(axs[1], "upper left", bbox_to_anchor=(1, 0.8), title=None, frameon=False, fontsize=7)
         # Get handles and labels from both axes
         handles, labels = axs[1].get_legend_handles_labels()
 
         # Create a legend for the entire subplot
-        fig.legend(handles, labels, loc='upper left', bbox_to_anchor=(1, 0.7), title=None, frameon=False, fontsize=7)
+        fig.legend(handles, labels, loc='upper left', bbox_to_anchor=(1, 0.89), title=None, frameon=False, fontsize=5)
 
         # Annotate subplots with letters
-        for ax, letter in zip(axs.ravel(), ['a', 'b']):
-            ax.text(-0.1, 1.15, letter, transform=ax.transAxes, fontsize=7, fontweight='bold', va='top')
+        #for ax, letter in zip(axs.ravel(), ['a', 'b']):
+        #    ax.text(-0.1, 1.15, letter, transform=ax.transAxes, fontsize=5, fontweight='bold', va='top')
+
+        border_thickness = 0.5  # Set your desired border thickness here
+        for ax in axs.ravel():
+            for spine in ax.spines.values():
+                spine.set_linewidth(border_thickness)
 
         # Adjust layout to prevent clipping of ylabel
         plt.tight_layout()
 
         # Save the plot as an SVG file
         if image_path:
-            plt.savefig(f'{image_path}.svg', format='svg', dpi=300)
+            plt.savefig(f'{image_path}.svg', format='svg', dpi=300, bbox_inches='tight')
 
         plt.show()

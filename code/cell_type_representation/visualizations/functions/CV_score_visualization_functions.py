@@ -181,16 +181,16 @@ class VisualizeEnv():
         labels = list(CV_scores.keys())
 
         # Create a violin plot for each dataset in the dictionary
-        plt.figure(figsize=((7.08), (4)))  # Adjust the figure size as needed
+        plt.figure(figsize=((7/2), (7*1.5/6)))  # Adjust the figure size as needed
 
         # Plot the violin plots
-        sns.violinplot(data=data, color=sns.color_palette()[1])
+        sns.violinplot(data=data, color=sns.color_palette()[1], linewidth=0.35)
 
         # Add labels and title
         #plt.xlabel("Datasets", fontsize=7)
-        plt.ylabel("CV Score", fontsize=7)
+        plt.ylabel("CV Score", fontsize=5)
         plt.xticks(ticks=range(len(labels)), labels=labels, rotation=45, ha='right', fontsize=5)
-        plt.yticks(fontsize=5)
+        plt.yticks([0, 0.1, 0.2, 0.3, 0.4, 0.5], fontsize=5)
         plt.tight_layout()  # Adjust layout for better spacing
 
         # Save the plot 
