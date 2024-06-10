@@ -269,7 +269,7 @@ class novel_cell_type_detection():
         with open("results/likelihood.json", 'r') as f:
             self.confidence_dict = json.load(f)
 
-        fig, axes = plt.subplots(nrows=1, ncols=4, figsize=((7), (7*1.5/6)))
+        fig, axes = plt.subplots(nrows=1, ncols=4, figsize=((7)*0.77, (7*1.5/6)*0.75))
         
         colors = sns.color_palette('deep', 2)
 
@@ -301,7 +301,7 @@ class novel_cell_type_detection():
             labels = ['Min Likelihood of Non-Novel Cell Type'] * len(min_non_novel_confidence) + ['Min Likelihood of Novel Cell Type'] * len(min_novel_confidence)
             
             # Jitter plot
-            sns.stripplot(x=labels, y=all_confidence, jitter=True, palette=colors, size=2, alpha=0.7, ax=axes[index_1])
+            sns.stripplot(x=labels, y=all_confidence, jitter=True, palette=colors, size=1.5, alpha=0.7, ax=axes[index_1])
             axes[index_1].set_title(titles[idx], fontsize=5)
             axes[index_1].set_xlabel('')
             if index_1 == 0:
@@ -317,6 +317,13 @@ class novel_cell_type_detection():
             for spine in axes[index_1].spines.values():
                 spine.set_linewidth(0.3)  # Adjust thickness here
 
+            if index_1 == 0:
+                axes[index_1].set_yticks([0.0, 0.2, 0.4, 0.6, 0.8, 1.0])
+            else:
+                axes[index_1].set_yticks([0.0, 0.2, 0.4, 0.6, 0.8, 1.0])
+                axes[index_1].set_yticklabels([])
+                axes[index_1].tick_params(axis='y', which='major', labelsize=5, width=0.0) 
+
         # Concatenate max_confidence and min_confidence lists
         all_confidence = min_non_novel_confidence_all + min_novel_confidence_all
 
@@ -324,25 +331,27 @@ class novel_cell_type_detection():
         labels = ['Min Likelihood of Non-Novel Cell Type'] * len(min_non_novel_confidence_all) + ['Min Likelihood of Novel Cell Type'] * len(min_novel_confidence_all)
         
         # Jitter plot
-        sns.stripplot(x=labels, y=all_confidence, jitter=True, palette=colors, size=2, alpha=0.7, ax=axes[3])
+        sns.stripplot(x=labels, y=all_confidence, jitter=True, palette=colors, size=1.5, alpha=0.7, ax=axes[3])
         axes[3].set_title(titles[3], fontsize=5)
         axes[3].set_xlabel('')
         axes[3].grid(axis='y', linewidth=0.5)
-        axes[3].axhline(y=threshold, color='red', linestyle='--', linewidth=0.6)
+        axes[3].axhline(y=threshold, color='red', linestyle='--', linewidth=0.6, alpha=0.5)
 
         axes[3].tick_params(axis='x', which='major', labelsize=5, width=0.0) 
-        axes[3].tick_params(axis='y', which='major', labelsize=5, width=0.3) 
 
         axes[3].set_xticklabels([])
+        axes[3].set_yticks([0.0, 0.2, 0.4, 0.6, 0.8, 1.0])
+        axes[3].set_yticklabels([])
+        axes[3].tick_params(axis='y', which='major', labelsize=5, width=0.0) 
 
         # Adjust border thickness
         for spine in axes[3].spines.values():
             spine.set_linewidth(0.3)  # Adjust thickness here
 
         # Create a single legend for the entire figure
-        fig.legend(['Min Likelihood of Non-Novel Cell Type', 'Min Likelihood of Novel Cell Type'], loc='lower center', bbox_to_anchor=(0.5, 0.97), fontsize=5, frameon=False, ncol=2, title='')
+        fig.legend(['Min Likelihood of Non-Novel Cell Type', 'Min Likelihood of Novel Cell Type'], loc='lower center', bbox_to_anchor=(1.15, 0.5), fontsize=5, frameon=False, ncol=1, title='')
 
-        plt.tight_layout(pad=0.55)
+        plt.tight_layout(pad=0.0)
         #plt.tight_layout()
         # Save the plot as an SVG file
         if image_path:
@@ -415,7 +424,7 @@ class novel_cell_type_detection():
             results_coverage[i,3] = all_coverage
 
         # Create subplots
-        fig, axs = plt.subplots(nrows=1, ncols=4, figsize=((7), (7*1.5/6)))
+        fig, axs = plt.subplots(nrows=1, ncols=4, figsize=((7)*0.91, (7*1.5/6)*0.75))
 
         # Plot on each subplot
         colors = sns.color_palette('deep', 5)
@@ -436,12 +445,13 @@ class novel_cell_type_detection():
             axs[j].set_title(titles[counter], fontsize=5)
             if j == 0:
                 axs[j].set_ylabel('Percentage', fontsize=5)
-            #if i == 1:
-            axs[j].set_xlabel('Likelihood Threshold', fontsize=5)
+            #if j == 1:
+                #axs[j].set_xlabel('Likelihood Threshold', fontsize=5)
+                #axs[j].xaxis.set_label_coords(1.5, -0.5) 
 
             #if (i == 1) and (j == 1):
             if j == 3:
-                axs[3].axvline(x=threshold_, color='red', linestyle='--', linewidth=0.6)
+                axs[3].axvline(x=threshold_, color='red', linestyle='--', linewidth=0.6, alpha=0.5)
 
             axs[j].tick_params(axis='x', which='major', labelsize=5, width=0.3) 
             axs[j].tick_params(axis='y', which='major', labelsize=5, width=0.3) 
@@ -450,11 +460,20 @@ class novel_cell_type_detection():
             for spine in axs[j].spines.values():
                 spine.set_linewidth(0.3)  # Adjust thickness here
 
+            if j == 0:
+                axs[j].set_yticks([0.0, 0.2, 0.4, 0.6, 0.8, 1.0])
+            else:
+                axs[j].set_yticks([0.0, 0.2, 0.4, 0.6, 0.8, 1.0])
+                axs[j].set_yticklabels([])
+                axs[j].tick_params(axis='y', which='major', labelsize=5, width=0.0) 
+
+        fig.text(0.53, -0.1, 'Likelihood Threshold', ha='center', fontsize=5)
+
         # Create a single legend for the entire figure
-        fig.legend(['Precision','Coverage'], loc='lower center', bbox_to_anchor=(0.5, 0.97), fontsize=5, frameon=False, ncol=2, title='')
+        fig.legend(['Precision','Coverage'], loc='lower center', bbox_to_anchor=(1.05, 0.5), fontsize=5, frameon=False, ncol=1, title='')
 
         # Adjust layout
-        fig.tight_layout(pad=0.55)
+        fig.tight_layout(pad=0.0)
         # Save the plot as an SVG file
         if image_path:
             fig.savefig(f'{image_path}.svg', format='svg', dpi=300, bbox_inches='tight')

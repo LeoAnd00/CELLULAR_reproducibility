@@ -263,7 +263,7 @@ class VisualizeEnv():
         # Set up the figure and axis with 4 columns per row
         ncols = 1
         nrows = 1
-        fig, axs = plt.subplots(nrows=nrows, ncols=ncols, figsize=((7/2), (7*1.5/6)), sharey=False)
+        fig, axs = plt.subplots(nrows=nrows, ncols=ncols, figsize=((7/2), (7*1.5/8)), sharey=False)
         axs = [axs]
 
         columns_metrics = ["Overall Score"]
@@ -346,6 +346,10 @@ class VisualizeEnv():
 
 
         #sns.move_legend(axs[1], "upper left", bbox_to_anchor=(1, 0.75), title=None, frameon=False)
+
+        border_thickness = 0.5  # Set your desired border thickness here
+        for spine in axs[0].spines.values():
+            spine.set_linewidth(border_thickness)
 
         # Adjust layout to prevent clipping of ylabel
         plt.tight_layout()

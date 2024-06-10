@@ -169,7 +169,7 @@ class UMAP_Kidney_Viz():
         adata_CELLULAR = self.CELLULAR(save_path=save_path)
 
         # Create subplots
-        fig, axs = plt.subplots(2, 2, figsize=((7/2), (7*1.5/3)))
+        fig, axs = plt.subplots(2, 2, figsize=((7/2), (7*1.5/4)*0.9))
 
         ### Visualize PCA
         vis_adata = adata_pca
@@ -327,7 +327,7 @@ class UMAP_Kidney_Viz():
         #for ax, letter in zip(axs.ravel(), ['a', 'b', 'c', 'd']):
         #    ax.text(0, 1.05, letter, transform=ax.transAxes, fontsize=5, fontweight='bold', va='top')
 
-        border_thickness = 0.3  # Set your desired border thickness here
+        border_thickness = 0.5  # Set your desired border thickness here
         for ax in axs.ravel():
             for spine in ax.spines.values():
                 spine.set_linewidth(border_thickness)

@@ -142,15 +142,15 @@ class VisualizeEnv():
                  "data_for_evaluating_cell_type_annotation/MacParland.h5ad",
                  "data_for_evaluating_cell_type_annotation/Segerstolpe.h5ad",
                  "data_for_evaluating_cell_type_annotation/Zheng68k.h5ad"]
-        names = ["Bone marrow dataset",
-                 "PBMC dataset",
-                 "Kidney dataset",
-                 "Pancreas dataset",
-                 "Merged dataset",
-                 "Baron dataset",
-                 "MacParland dataset",
-                 "Segerstolpe dataset",
-                 "Zheng68k dataset"]
+        names = ["Bone marrow",
+                 "PBMC",
+                 "Kidney",
+                 "Pancreas",
+                 "Merged",
+                 "Baron",
+                 "MacParland",
+                 "Segerstolpe",
+                 "Zheng68k"]
 
         ### Calculate CV scores between cell type clusters of each dataset
         CV_scores = {}
@@ -181,10 +181,10 @@ class VisualizeEnv():
         labels = list(CV_scores.keys())
 
         # Create a violin plot for each dataset in the dictionary
-        plt.figure(figsize=((7/2), (7*1.5/6)))  # Adjust the figure size as needed
+        plt.figure(figsize=((7/2), (7*1.5/8)))  # Adjust the figure size as needed
 
         # Plot the violin plots
-        sns.violinplot(data=data, color=sns.color_palette()[1], linewidth=0.35)
+        sns.violinplot(data=data, color=sns.color_palette()[1], linewidth=0.25)
 
         # Add labels and title
         #plt.xlabel("Datasets", fontsize=7)
