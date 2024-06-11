@@ -210,11 +210,11 @@ class UMAP_Kidney_Viz():
         #axs[0,0].legend(handles=legend_handles, loc='center left', bbox_to_anchor=(1, 0.5), frameon=False, fontsize=6, markerscale=1.5, ncol=num_columns, columnspacing=0.5)
 
         # Remove border around the plot
-        #axs[0,0].spines['top'].set_visible(False)
-        #axs[0,0].spines['right'].set_visible(False)
-        #axs[0,0].spines['bottom'].set_visible(False)
-        #axs[0,0].spines['left'].set_visible(False)
-        #axs[0,0].axis('off')
+        axs[0,0].spines['top'].set_visible(False)
+        axs[0,0].spines['right'].set_visible(False)
+        axs[0,0].spines['bottom'].set_visible(False)
+        axs[0,0].spines['left'].set_visible(False)
+        axs[0,0].axis('off')
         axs[0,0].set_xticks([])
         axs[0,0].set_yticks([])
 
@@ -239,11 +239,11 @@ class UMAP_Kidney_Viz():
         #axs[1,0].legend(handles=legend_handles, loc='center left', bbox_to_anchor=(1, 0.5), frameon=False, fontsize=6, markerscale=1.5, ncol=num_columns, columnspacing=0.5)
 
         # Remove border around the plot
-        #axs[1,0].spines['top'].set_visible(False)
-        #axs[1,0].spines['right'].set_visible(False)
-        #axs[1,0].spines['bottom'].set_visible(False)
-        #axs[1,0].spines['left'].set_visible(False)
-        #axs[1,0].axis('off')
+        axs[1,0].spines['top'].set_visible(False)
+        axs[1,0].spines['right'].set_visible(False)
+        axs[1,0].spines['bottom'].set_visible(False)
+        axs[1,0].spines['left'].set_visible(False)
+        axs[1,0].axis('off')
         axs[1,0].set_xticks([])
         axs[1,0].set_yticks([])
 
@@ -286,11 +286,11 @@ class UMAP_Kidney_Viz():
         #axs[0,1].legend(handles=legend_handles, loc='center left', bbox_to_anchor=(1, 0.5), frameon=False, fontsize=5, markerscale=1.5, ncol=num_columns, columnspacing=0.5)
 
         # Remove border around the plot
-        #axs[0,1].spines['top'].set_visible(False)
-        #axs[0,1].spines['right'].set_visible(False)
-        #axs[0,1].spines['bottom'].set_visible(False)
-        #axs[0,1].spines['left'].set_visible(False)
-        #axs[0,1].axis('off')
+        axs[0,1].spines['top'].set_visible(False)
+        axs[0,1].spines['right'].set_visible(False)
+        axs[0,1].spines['bottom'].set_visible(False)
+        axs[0,1].spines['left'].set_visible(False)
+        axs[0,1].axis('off')
         axs[0,1].set_xticks([])
         axs[0,1].set_yticks([])
 
@@ -315,11 +315,11 @@ class UMAP_Kidney_Viz():
         #axs[1,1].legend(handles=legend_handles, loc='center left', bbox_to_anchor=(1, 0.5), frameon=False, fontsize=5, markerscale=1.5, ncol=num_columns, columnspacing=0.5)
 
         # Remove border around the plot
-        #axs[1,1].spines['top'].set_visible(False)
-        #axs[1,1].spines['right'].set_visible(False)
-        #axs[1,1].spines['bottom'].set_visible(False)
-        #axs[1,1].spines['left'].set_visible(False)
-        #axs[1,1].axis('off')
+        axs[1,1].spines['top'].set_visible(False)
+        axs[1,1].spines['right'].set_visible(False)
+        axs[1,1].spines['bottom'].set_visible(False)
+        axs[1,1].spines['left'].set_visible(False)
+        axs[1,1].axis('off')
         axs[1,1].set_xticks([])
         axs[1,1].set_yticks([])
 
