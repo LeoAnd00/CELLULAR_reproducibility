@@ -263,7 +263,7 @@ class VisualizeEnv():
         # Set up the figure and axis with 4 columns per row
         ncols = 1
         nrows = 1
-        fig, axs = plt.subplots(nrows=nrows, ncols=ncols, figsize=((7/2), (7*1.5/8)), sharey=False)
+        fig, axs = plt.subplots(nrows=nrows, ncols=ncols, figsize=((7/2)*1.1, (7*1.5/8)), sharey=False)
         axs = [axs]
 
         columns_metrics = ["Overall Score"]
