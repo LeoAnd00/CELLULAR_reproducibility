@@ -46,7 +46,7 @@ def umap_viz(adata, image_path: str=None):
     palette = plt.cm.tab20.colors  # You can choose any other color map
 
     # Create subplots
-    fig, axs = plt.subplots(2, 1, figsize=((7/2), (7*90/180)))
+    fig, axs = plt.subplots(2, 1, figsize=(7*(150/180), (7*81/180)))
 
     # Plot UMAP colored by cell_type
     color_dict = {}
@@ -68,11 +68,11 @@ def umap_viz(adata, image_path: str=None):
     #axs[0].legend(handles=legend_handles, loc='center left', bbox_to_anchor=(1, 0.5), frameon=False, fontsize=5, markerscale=1.5, ncol=num_columns, columnspacing=0.5)
 
     # Remove border around the plot
-    #axs[0].spines['top'].set_visible(False)
-    #axs[0].spines['right'].set_visible(False)
-    #axs[0].spines['bottom'].set_visible(False)
-    #axs[0].spines['left'].set_visible(False)
-    #axs[0].axis('off')
+    axs[0].spines['top'].set_visible(False)
+    axs[0].spines['right'].set_visible(False)
+    axs[0].spines['bottom'].set_visible(False)
+    axs[0].spines['left'].set_visible(False)
+    axs[0].axis('off')
     axs[0].set_xticks([])
     axs[0].set_yticks([])
 
@@ -97,11 +97,11 @@ def umap_viz(adata, image_path: str=None):
     #axs[1].legend(handles=legend_handles, loc='center left', bbox_to_anchor=(1, 0.5), frameon=False, fontsize=5, markerscale=1.5, ncol=num_columns, columnspacing=0.5)
 
     # Remove border around the plot
-    #axs[1].spines['top'].set_visible(False)
-    #axs[1].spines['right'].set_visible(False)
-    #axs[1].spines['bottom'].set_visible(False)
-    #axs[1].spines['left'].set_visible(False)
-    #axs[1].axis('off')
+    axs[1].spines['top'].set_visible(False)
+    axs[1].spines['right'].set_visible(False)
+    axs[1].spines['bottom'].set_visible(False)
+    axs[1].spines['left'].set_visible(False)
+    axs[1].axis('off')
     axs[1].set_xticks([])
     axs[1].set_yticks([])
 
@@ -109,10 +109,10 @@ def umap_viz(adata, image_path: str=None):
     #for ax, letter in zip(axs.ravel(), ['a', 'b']):
     #    ax.text(0, 1.05, letter, transform=ax.transAxes, fontsize=7, fontweight='bold', va='top')
 
-    border_thickness = 0.5  # Set your desired border thickness here
-    for ax in axs.ravel():
-        for spine in ax.spines.values():
-            spine.set_linewidth(border_thickness)
+    #border_thickness = 0.5  # Set your desired border thickness here
+    #for ax in axs.ravel():
+    #    for spine in ax.spines.values():
+    #        spine.set_linewidth(border_thickness)
 
     plt.tight_layout()
 

@@ -269,7 +269,7 @@ class novel_cell_type_detection():
         with open("results/likelihood.json", 'r') as f:
             self.confidence_dict = json.load(f)
 
-        fig, axes = plt.subplots(nrows=1, ncols=4, figsize=((7)*0.77, (7*1.5/6)*0.75))
+        fig, axes = plt.subplots(nrows=1, ncols=4, figsize=((7)*0.75, (7*1.5/6)*0.75))
         
         colors = sns.color_palette('deep', 2)
 
@@ -280,13 +280,8 @@ class novel_cell_type_detection():
         min_novel_confidence_all = []
 
         index_1 = -1
-        index_0 = 0
         for idx, dataset_name in enumerate(dataset_names):
             index_1 += 1 
-
-            #if idx == 2:
-            #    index_1 = 0
-            #    index_0 += 1
             
             data = self.confidence_dict[dataset_name]
             min_non_novel_confidence = [(x - num_cell_types[idx]) / (1 - num_cell_types[idx]) for x in data["min_non_novel_confidence"]]
@@ -308,19 +303,17 @@ class novel_cell_type_detection():
                 axes[index_1].set_ylabel('Likelihood', fontsize=5)
             axes[index_1].grid(axis='y', linewidth=0.5)
 
-            axes[index_1].tick_params(axis='x', which='major', labelsize=5, width=0.0) 
-            axes[index_1].tick_params(axis='y', which='major', labelsize=5, width=0.3) 
+            axes[index_1].tick_params(axis='x', which='major', length=5, labelsize=5, width=0.0) 
+            axes[index_1].tick_params(axis='y', which='major', length=5, labelsize=5, width=0.3) 
 
             axes[index_1].set_xticklabels([])
 
-            # Adjust border thickness
-            for spine in axes[index_1].spines.values():
-                spine.set_linewidth(0.3)  # Adjust thickness here
-
             if index_1 == 0:
                 axes[index_1].set_yticks([0.0, 0.2, 0.4, 0.6, 0.8, 1.0])
+                axes[index_1].set_ylim((0,1))
             else:
                 axes[index_1].set_yticks([0.0, 0.2, 0.4, 0.6, 0.8, 1.0])
+                axes[index_1].set_ylim((0,1))
                 axes[index_1].set_yticklabels([])
                 axes[index_1].tick_params(axis='y', which='major', labelsize=5, width=0.0) 
 
@@ -337,16 +330,18 @@ class novel_cell_type_detection():
         axes[3].grid(axis='y', linewidth=0.5)
         axes[3].axhline(y=threshold, color='red', linestyle='--', linewidth=0.6, alpha=0.5)
 
-        axes[3].tick_params(axis='x', which='major', labelsize=5, width=0.0) 
+        axes[3].tick_params(axis='x', which='major', length=5, labelsize=5, width=0.0) 
 
         axes[3].set_xticklabels([])
         axes[3].set_yticks([0.0, 0.2, 0.4, 0.6, 0.8, 1.0])
+        axes[3].set_ylim((0,1))
         axes[3].set_yticklabels([])
-        axes[3].tick_params(axis='y', which='major', labelsize=5, width=0.0) 
+        axes[3].tick_params(axis='y', which='major', length=5, labelsize=5, width=0.0) 
 
-        # Adjust border thickness
-        for spine in axes[3].spines.values():
-            spine.set_linewidth(0.3)  # Adjust thickness here
+        border_thickness = 0.5  # Set your desired border thickness here
+        for ax in axes.ravel():
+            for spine in ax.spines.values():
+                spine.set_linewidth(border_thickness)
 
         # Create a single legend for the entire figure
         fig.legend(['Min Likelihood of Non-Novel Cell Type', 'Min Likelihood of Novel Cell Type'], loc='lower center', bbox_to_anchor=(1.15, 0.5), fontsize=5, frameon=False, ncol=1, title='')
@@ -424,7 +419,7 @@ class novel_cell_type_detection():
             results_coverage[i,3] = all_coverage
 
         # Create subplots
-        fig, axs = plt.subplots(nrows=1, ncols=4, figsize=((7)*0.91, (7*1.5/6)*0.75))
+        fig, axs = plt.subplots(nrows=1, ncols=4, figsize=((7)*0.89, (7*1.5/6)*0.75))
 
         # Plot on each subplot
         colors = sns.color_palette('deep', 5)
@@ -445,29 +440,27 @@ class novel_cell_type_detection():
             axs[j].set_title(titles[counter], fontsize=5)
             if j == 0:
                 axs[j].set_ylabel('Percentage', fontsize=5)
-            #if j == 1:
-                #axs[j].set_xlabel('Likelihood Threshold', fontsize=5)
-                #axs[j].xaxis.set_label_coords(1.5, -0.5) 
-
-            #if (i == 1) and (j == 1):
             if j == 3:
                 axs[3].axvline(x=threshold_, color='red', linestyle='--', linewidth=0.6, alpha=0.5)
 
-            axs[j].tick_params(axis='x', which='major', labelsize=5, width=0.3) 
-            axs[j].tick_params(axis='y', which='major', labelsize=5, width=0.3) 
-
-            # Adjust border thickness
-            for spine in axs[j].spines.values():
-                spine.set_linewidth(0.3)  # Adjust thickness here
+            axs[j].tick_params(axis='x', length=5, which='major', labelsize=5, width=0.3) 
+            axs[j].tick_params(axis='y', length=5, which='major', labelsize=5, width=0.3) 
 
             if j == 0:
                 axs[j].set_yticks([0.0, 0.2, 0.4, 0.6, 0.8, 1.0])
+                axs[j].set_ylim((0,1.05))
             else:
                 axs[j].set_yticks([0.0, 0.2, 0.4, 0.6, 0.8, 1.0])
+                axs[j].set_ylim((0,1.05))
                 axs[j].set_yticklabels([])
-                axs[j].tick_params(axis='y', which='major', labelsize=5, width=0.0) 
+                axs[j].tick_params(axis='y', length=5, which='major', labelsize=5, width=0.0) 
 
-        fig.text(0.53, -0.1, 'Likelihood Threshold', ha='center', fontsize=5)
+        fig.text(0.525, -0.1, 'Likelihood Threshold', ha='center', fontsize=5)
+
+        border_thickness = 0.5  # Set your desired border thickness here
+        for ax in axs.ravel():
+            for spine in ax.spines.values():
+                spine.set_linewidth(border_thickness)
 
         # Create a single legend for the entire figure
         fig.legend(['Precision','Coverage'], loc='lower center', bbox_to_anchor=(1.05, 0.5), fontsize=5, frameon=False, ncol=1, title='')
