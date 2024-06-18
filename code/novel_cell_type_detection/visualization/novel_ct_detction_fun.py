@@ -293,7 +293,7 @@ class novel_cell_type_detection():
             all_confidence = min_non_novel_confidence + min_novel_confidence
 
             # Create a list of labels (0 for max_confidence, 1 for min_confidence)
-            labels = ['Min Likelihood of Non-Novel Cell Type'] * len(min_non_novel_confidence) + ['Min Likelihood of Novel Cell Type'] * len(min_novel_confidence)
+            labels = ['Min Likelihood of Non-Novel Cell Types'] * len(min_non_novel_confidence) + ['Min Likelihood of Novel Cell Types'] * len(min_novel_confidence)
             
             # Jitter plot
             sns.stripplot(x=labels, y=all_confidence, jitter=True, palette=colors, size=1.5, alpha=0.7, ax=axes[index_1])
@@ -321,7 +321,7 @@ class novel_cell_type_detection():
         all_confidence = min_non_novel_confidence_all + min_novel_confidence_all
 
         # Create a list of labels (0 for max_confidence, 1 for min_confidence)
-        labels = ['Min Likelihood of Non-Novel Cell Type'] * len(min_non_novel_confidence_all) + ['Min Likelihood of Novel Cell Type'] * len(min_novel_confidence_all)
+        labels = ['Min Likelihood of Non-Novel Cell Types'] * len(min_non_novel_confidence_all) + ['Min Likelihood of Novel Cell Types'] * len(min_novel_confidence_all)
         
         # Jitter plot
         sns.stripplot(x=labels, y=all_confidence, jitter=True, palette=colors, size=1.5, alpha=0.7, ax=axes[3])
@@ -344,7 +344,7 @@ class novel_cell_type_detection():
                 spine.set_linewidth(border_thickness)
 
         # Create a single legend for the entire figure
-        fig.legend(['Min Likelihood of Non-Novel Cell Type', 'Min Likelihood of Novel Cell Type'], loc='lower center', bbox_to_anchor=(1.15, 0.5), fontsize=5, frameon=False, ncol=1, title='')
+        fig.legend(['Min Likelihood of Non-Novel Cell Types', 'Min Likelihood of Novel Cell Types'], loc='lower center', bbox_to_anchor=(1.15, 0.5), fontsize=5, frameon=False, ncol=1, title='')
 
         plt.tight_layout(pad=0.0)
         #plt.tight_layout()
