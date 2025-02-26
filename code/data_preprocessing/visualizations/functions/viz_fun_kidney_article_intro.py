@@ -46,7 +46,8 @@ def umap_viz(adata, image_path: str=None):
     palette = plt.cm.tab20.colors  # You can choose any other color map
 
     # Create subplots
-    fig, axs = plt.subplots(2, 1, figsize=(7*(110/180), 7*(81/180)))
+    cm_to_inch = 1 / 2.54  # Conversion factor
+    fig, axs = plt.subplots(2, 1, figsize=(0.9 * 12.8 * cm_to_inch, 12.8 * cm_to_inch))
 
     # Plot UMAP colored by cell_type
     color_dict = {}
